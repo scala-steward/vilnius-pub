@@ -7,6 +7,8 @@ import slinky.web.html._
 import scala.scalajs.js
 import scala.scalajs.js.annotation.{JSImport, ScalaJSDefined}
 
+import scala.util._
+
 @JSImport("resources/App.css", JSImport.Default)
 @js.native
 object AppCSS extends js.Object
@@ -51,6 +53,13 @@ object ReactLogo extends js.Object
     )
 
   override def componentWillMount() = {
-    setState(State(js.Array(js.Dictionary("name" -> "01-05", "checkins" -> 100), js.Dictionary("name" -> "01-06", "checkins" -> 200), js.Dictionary("name" -> "01-07", "checkins" -> 50))))
+    import com.softwaremill.sttp._
+    import scala.concurrent.ExecutionContext.Implicits.global
+    implicit val backend = FetchBackend()
+    val asChartData: ResponseAs[Recharts.ChartData, Nothing] = asString.map(js.JSON.parse(_).asInstanceOf[Recharts.ChartData])
+    sttp.get(uri"http://www.mocky.io/v2/5c692d06370000c80507fcf2").response(asChartData).send().onComplete {
+      case Success(resp) => setState(State(resp.unsafeBody))
+      case Failure(ex) => println(ex.getMessage)
+    }
   }
 }

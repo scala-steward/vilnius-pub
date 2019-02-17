@@ -16,10 +16,12 @@ Compile / npmDevDependencies += "html-webpack-plugin" -> "3.2.0"
 Compile / npmDevDependencies += "copy-webpack-plugin" -> "4.6.0"
 Compile / npmDevDependencies += "webpack-merge" -> "4.2.1"
 
-libraryDependencies += "me.shadaj" %%% "slinky-web" % "0.5.2"
-libraryDependencies += "me.shadaj" %%% "slinky-hot" % "0.5.2"
-
-libraryDependencies += "org.scalatest" %%% "scalatest" % "3.0.5" % Test
+libraryDependencies ++= Seq(
+  "me.shadaj"             %%% "slinky-web" % "0.5.2",
+  "me.shadaj"             %%% "slinky-hot" % "0.5.2",
+  "com.softwaremill.sttp" %%% "core"       % "1.5.10",
+  "org.scalatest"         %%% "scalatest"  % "3.0.5" % Test
+)
 
 scalacOptions += "-P:scalajs:sjsDefinedByDefault"
 addCompilerPlugin("org.scalamacros" % "paradise" % "2.1.1" cross CrossVersion.full)
