@@ -29,8 +29,13 @@ object ReactLogo extends js.Object
       p(className := "App-intro")(
         "Intro paragraph"
       ),
-      LineChart(width = 600, height = 300, data = js.Array(js.Dictionary("uv" -> 100), js.Dictionary("uv" -> 200), js.Dictionary("uv" -> 50)))(
-        Line(`type` = "monotone", dataKey="uv", stroke="#8884d8", strokeWidth=2)
+      BarChart(width = 600, height = 300, data = js.Array(js.Dictionary("name" -> "01-05", "checkins" -> 100), js.Dictionary("name" -> "01-06", "checkins" -> 200), js.Dictionary("name" -> "01-07", "checkins" -> 50)))(
+        XAxis(dataKey="name"),
+        YAxis(),
+        Legend(),
+        Tooltip(),
+        CartesianGrid(),
+        Bar(dataKey="checkins", fill="#8884d8")
       )
     )
   }
