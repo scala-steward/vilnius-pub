@@ -14,7 +14,7 @@ object Recharts extends js.Object {
 }
 
 @react object LineChart extends ExternalComponent {
-  case class Props(width: Int, height: Int/*, data: js.Array[js.Object]*/)
+  case class Props(width: Int, height: Int, data: js.Array[js.Dictionary[Int]])
   override val component = Recharts.LineChart
 }
 

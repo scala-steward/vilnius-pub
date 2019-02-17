@@ -27,9 +27,11 @@ object ReactLogo extends js.Object
         h1(className := "App-title")("Welcome to React (with Scala.js!!!)")
       ),
       p(className := "App-intro")(
-        "To get started, edit ", code("App.scala"), " and save to reload."
+        "Intro paragraph"
       ),
-
+      LineChart(width = 600, height = 300, data = js.Array(js.Dictionary("uv" -> 100), js.Dictionary("uv" -> 200), js.Dictionary("uv" -> 50)))(
+        Line(`type` = "monotone", dataKey="uv", stroke="#8884d8", strokeWidth=2)
+      )
     )
   }
 }

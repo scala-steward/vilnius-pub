@@ -30,6 +30,6 @@ object Main {
       elem
     }
 
-    ReactDOM.render(LineChart(width = 600, height = 300), container)
+    ReactDOM.render(App(), container)
   }
 }
