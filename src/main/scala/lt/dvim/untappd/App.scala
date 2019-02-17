@@ -25,12 +25,9 @@ object ReactLogo extends js.Object
   def render() = {
     div(className := "App")(
       header(className := "App-header")(
-        img(src := ReactLogo.asInstanceOf[String], className := "App-logo", alt := "logo"),
-        h1(className := "App-title")("Welcome to React (with Scala.js!!!)")
+        h1(className := "App-title")("Making sense of what Vilnius is drinking")
       ),
-      p(className := "App-intro")(
-        "Intro paragraph"
-      ),
+      p(className := "App-intro")("Total daily beer check-ins"),
       CheckinsChart()
     )
   }
