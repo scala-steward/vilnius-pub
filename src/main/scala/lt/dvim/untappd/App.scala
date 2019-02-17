@@ -29,14 +29,28 @@ object ReactLogo extends js.Object
       p(className := "App-intro")(
         "Intro paragraph"
       ),
-      BarChart(width = 600, height = 300, data = js.Array(js.Dictionary("name" -> "01-05", "checkins" -> 100), js.Dictionary("name" -> "01-06", "checkins" -> 200), js.Dictionary("name" -> "01-07", "checkins" -> 50)))(
-        XAxis(dataKey="name"),
-        YAxis(),
-        Legend(),
-        Tooltip(),
-        CartesianGrid(),
-        Bar(dataKey="checkins", fill="#8884d8")
-      )
+      CheckinsChart()
     )
+  }
+}
+
+@react class CheckinsChart extends Component {
+  type Props = Unit
+  case class State(data: Recharts.ChartData)
+
+  def initialState = State(js.Array())
+
+  def render() =
+    BarChart(width = 1200, height = 300, data = state.data)(
+      XAxis(dataKey="name"),
+      YAxis(),
+      Legend(verticalAlign = "top"),
+      Tooltip(),
+      CartesianGrid(),
+      Bar(dataKey="checkins", fill="#8884d8")
+    )
+
+  override def componentWillMount() = {
+    setState(State(js.Array(js.Dictionary("name" -> "01-05", "checkins" -> 100), js.Dictionary("name" -> "01-06", "checkins" -> 200), js.Dictionary("name" -> "01-07", "checkins" -> 50))))
   }
 }

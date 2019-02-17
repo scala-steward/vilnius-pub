@@ -10,6 +10,8 @@ import scala.scalajs.js.annotation.JSImport
 @JSImport("recharts", JSImport.Default)
 @js.native
 object Recharts extends js.Object {
+  type ChartData = js.Array[js.Dictionary[Int | String]]
+
   val LineChart: js.Object = js.native
   val BarChart: js.Object = js.native
   val Line: js.Object = js.native
@@ -22,12 +24,12 @@ object Recharts extends js.Object {
 }
 
 @react object LineChart extends ExternalComponent {
-  case class Props(width: Int, height: Int, data: js.Array[js.Dictionary[Int]])
+  case class Props(width: Int, height: Int, data: Recharts.ChartData)
   override val component = Recharts.LineChart
 }
 
 @react object BarChart extends ExternalComponent {
-  case class Props(width: Int, height: Int, data: js.Array[js.Dictionary[Int | String]])
+  case class Props(width: Int, height: Int, data: Recharts.ChartData)
   override val component = Recharts.BarChart
 }
 
@@ -52,7 +54,7 @@ object Recharts extends js.Object {
 }
 
 @react object Legend extends ExternalComponent {
-  case class Props()
+  case class Props(verticalAlign: String)
   override val component = Recharts.Legend
 }
 
