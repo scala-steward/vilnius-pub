@@ -2,12 +2,12 @@ enablePlugins(ScalaJSBundlerPlugin)
 
 name := "vilnius-pub"
 
-scalaVersion := "2.12.8"
+scalaVersion := "2.13.1"
 
 Compile / npmDependencies += "react" -> "16.7.0"
 Compile / npmDependencies += "react-dom" -> "16.7.0"
 Compile / npmDependencies += "react-proxy" -> "1.1.8"
-Compile / npmDependencies += "recharts" -> "1.4.2"
+Compile / npmDependencies += "recharts" -> "1.8.5"
 
 Compile / npmDevDependencies += "file-loader" -> "3.0.1"
 Compile / npmDevDependencies += "style-loader" -> "0.23.1"
@@ -16,15 +16,19 @@ Compile / npmDevDependencies += "html-webpack-plugin" -> "3.2.0"
 Compile / npmDevDependencies += "copy-webpack-plugin" -> "4.6.0"
 Compile / npmDevDependencies += "webpack-merge" -> "4.2.1"
 
+val Slinky = "0.6.3"
+
 libraryDependencies ++= Seq(
-  "me.shadaj"             %%% "slinky-web" % "0.5.2",
-  "me.shadaj"             %%% "slinky-hot" % "0.5.2",
-  "com.softwaremill.sttp" %%% "core"       % "1.5.10",
-  "org.scalatest"         %%% "scalatest"  % "3.0.5" % Test
+  "me.shadaj"             %%% "slinky-web" % Slinky,
+  "me.shadaj"             %%% "slinky-hot" % Slinky,
+  "com.softwaremill.sttp" %%% "core"       % "1.7.2",
+  "org.scalatest"         %%% "scalatest"  % "3.1.0" % "test"
 )
 
-scalacOptions += "-P:scalajs:sjsDefinedByDefault"
-addCompilerPlugin("org.scalamacros" % "paradise" % "2.1.1" cross CrossVersion.full)
+scalacOptions ++= Seq(
+  "-P:scalajs:sjsDefinedByDefault",
+  "-Ymacro-annotations",
+)
 
 webpack / version := "4.29.0"
 startWebpackDevServer / version := "3.1.14"
