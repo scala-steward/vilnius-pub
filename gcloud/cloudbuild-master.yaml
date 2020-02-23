@@ -1,0 +1,25 @@
+---
+
+steps:
+  - name: 'gcr.io/$PROJECT_ID/scala-sbt'
+    args: ['clean', 'build']
+
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - build
+      - --tag=gcr.io/$PROJECT_ID/vilnius-pub
+      - --file=gcloud/Dockerfile
+
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'gcr.io/$PROJECT_ID/vilnius-pub']
+
+  - name: 'gcr.io/cloud-builders/gcloud'
+    args:
+      - beta
+      - run
+      - deploy
+      - vilnius-pub
+      - --image=gcr.io/$PROJECT_ID/vilnius-pub
+      - --region=europe-west1
+      - --platform=managed
+      - --allow-unauthenticated
