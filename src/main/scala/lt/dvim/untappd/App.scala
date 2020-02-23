@@ -1,13 +1,12 @@
 package lt.dvim.untappd
 
+import scala.scalajs.js
+import scala.scalajs.js.annotation.{JSImport, ScalaJSDefined}
+import scala.util._
+
 import slinky.core._
 import slinky.core.annotations.react
 import slinky.web.html._
-
-import scala.scalajs.js
-import scala.scalajs.js.annotation.{JSImport, ScalaJSDefined}
-
-import scala.util._
 
 @JSImport("resources/App.css", JSImport.Default)
 @js.native
@@ -22,15 +21,14 @@ object ReactLogo extends js.Object
 
   private val css = AppCSS
 
-  def render() = {
+  def render() =
     div(className := "App")(
       header(className := "App-header")(
-        h1(className := "App-title")("Making sense of what Vilnius is drinking")
+        h1(className := "App-title")("Making sense of what Vilnius is drinking"),
       ),
       p(className := "App-intro")("Total daily beer check-ins"),
-      CheckinsChart()
+      CheckinsChart(),
     )
-  }
 }
 
 @react class CheckinsChart extends Component {
@@ -41,19 +39,21 @@ object ReactLogo extends js.Object
 
   def render() =
     BarChart(width = 1200, height = 300, data = state.data)(
-      XAxis(dataKey="name"),
+      XAxis(dataKey = "name"),
       YAxis(),
       Legend(verticalAlign = "top"),
       Tooltip(),
       CartesianGrid(),
-      Bar(dataKey="checkins", fill="#8884d8")
+      Bar(dataKey = "checkins", fill = "#8884d8"),
     )
 
   override def componentWillMount() = {
-    import com.softwaremill.sttp._
     import scala.concurrent.ExecutionContext.Implicits.global
+
+    import com.softwaremill.sttp._
     implicit val backend = FetchBackend()
-    val asChartData: ResponseAs[Recharts.ChartData, Nothing] = asString.map(js.JSON.parse(_).asInstanceOf[Recharts.ChartData])
+    val asChartData: ResponseAs[Recharts.ChartData, Nothing] =
+      asString.map(js.JSON.parse(_).asInstanceOf[Recharts.ChartData])
     sttp.get(uri"https://api.vilnius.pub/daily").response(asChartData).send().onComplete {
       case Success(resp) => setState(State(resp.unsafeBody))
       case Failure(ex) => println(ex.getMessage)

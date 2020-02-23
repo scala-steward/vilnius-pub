@@ -1,11 +1,11 @@
 package lt.dvim.untappd
 
+import scala.scalajs.js
+import scala.scalajs.js.annotation.JSImport
+import scala.scalajs.js.|
+
 import slinky.core.ExternalComponent
 import slinky.core.annotations.react
-
-import scala.scalajs.js
-import scala.scalajs.js.|
-import scala.scalajs.js.annotation.JSImport
 
 @JSImport("recharts", JSImport.Default)
 @js.native
