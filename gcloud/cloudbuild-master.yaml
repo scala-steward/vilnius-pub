@@ -2,7 +2,7 @@
 
 steps:
   - name: 'openlaw/scala-builder:0.10.0-node'
-    args: ['clean', 'build']
+    args: ['sbt', 'clean', 'build']
 
   - name: 'gcr.io/cloud-builders/docker'
     args:
