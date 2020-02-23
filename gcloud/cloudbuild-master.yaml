@@ -1,7 +1,7 @@
 ---
 
 steps:
-  - name: 'gcr.io/$PROJECT_ID/scala-sbt'
+  - name: 'openlaw/scala-builder:0.10.0-node'
     args: ['clean', 'build']
 
   - name: 'gcr.io/cloud-builders/docker'
