@@ -54,7 +54,7 @@ object ReactLogo extends js.Object
     import scala.concurrent.ExecutionContext.Implicits.global
     implicit val backend = FetchBackend()
     val asChartData: ResponseAs[Recharts.ChartData, Nothing] = asString.map(js.JSON.parse(_).asInstanceOf[Recharts.ChartData])
-    sttp.get(uri"http://localhost:8000/daily").response(asChartData).send().onComplete {
+    sttp.get(uri"https://api.vilnius.pub/daily").response(asChartData).send().onComplete {
       case Success(resp) => setState(State(resp.unsafeBody))
       case Failure(ex) => println(ex.getMessage)
     }
