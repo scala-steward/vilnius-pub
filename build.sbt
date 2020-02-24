@@ -51,3 +51,8 @@ scalafmtOnCompile := true
 ThisBuild / scalafixDependencies ++= Seq(
   "com.nequissimus" %% "sort-imports" % "0.3.1",
 )
+
+enablePlugins(AutomateHeaderPlugin)
+startYear := Some(2019)
+organizationName := "Vilnius Pub"
+licenses += ("Apache-2.0", new URL("https://www.apache.org/licenses/LICENSE-2.0.txt"))
