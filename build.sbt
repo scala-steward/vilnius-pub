@@ -16,7 +16,7 @@ Compile / npmDevDependencies += "html-webpack-plugin" -> "3.2.0"
 Compile / npmDevDependencies += "copy-webpack-plugin" -> "4.6.0"
 Compile / npmDevDependencies += "webpack-merge" -> "4.2.1"
 
-val Slinky = "0.6.3"
+val Slinky = "0.6.4"
 
 libraryDependencies ++= Seq(
   "me.shadaj"             %%% "slinky-web" % Slinky,
