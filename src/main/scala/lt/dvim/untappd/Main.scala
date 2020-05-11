@@ -34,9 +34,8 @@ object Main {
 
   @JSExportTopLevel("main")
   def main(): Unit = {
-    if (LinkingInfo.developmentMode) {
+    if (LinkingInfo.developmentMode)
       hot.initialize()
-    }
 
     val container = Option(dom.document.getElementById("root")).getOrElse {
       val elem = dom.document.createElement("div")
