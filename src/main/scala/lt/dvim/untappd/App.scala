@@ -17,7 +17,7 @@
 package lt.dvim.untappd
 
 import scala.scalajs.js
-import scala.scalajs.js.annotation.{JSImport, ScalaJSDefined}
+import scala.scalajs.js.annotation.JSImport
 import scala.util._
 
 import slinky.core._
@@ -66,12 +66,13 @@ object ReactLogo extends js.Object
   override def componentWillMount() = {
     import scala.concurrent.ExecutionContext.Implicits.global
 
-    import com.softwaremill.sttp._
+    import sttp.client._
     implicit val backend = FetchBackend()
-    val asChartData: ResponseAs[Recharts.ChartData, Nothing] =
-      asString.map(js.JSON.parse(_).asInstanceOf[Recharts.ChartData])
-    sttp.get(uri"https://api.vilnius.pub/daily").response(asChartData).send().onComplete {
-      case Success(resp) => setState(State(resp.unsafeBody))
+    val asChartData: ResponseAs[Either[String, Recharts.ChartData], Nothing] =
+      asString.map(r => r.map(js.JSON.parse(_).asInstanceOf[Recharts.ChartData]))
+    basicRequest.get(uri"https://api.vilnius.pub/daily").response(asChartData).send().map(_.body).onComplete {
+      case Success(Right(data)) => setState(State(data))
+      case Success(Left(error)) => println(error)
       case Failure(ex) => println(ex.getMessage)
     }
   }
