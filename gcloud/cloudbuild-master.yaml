@@ -1,31 +1,31 @@
 ---
 
 steps:
-  - name: 'openlaw/scala-builder:0.10.0-node'
-    entrypoint: bash
-    args:
-      - -c
-      - |
-        apk add npm &&
-        sbt clean build
+- name: 'openlaw/scala-builder:0.10.0-node'
+  entrypoint: bash
+  args:
+  - -c
+  - |
+    apk add npm &&
+    sbt clean build
 
-  - name: 'gcr.io/cloud-builders/docker'
-    args:
-      - build
-      - --tag=gcr.io/$PROJECT_ID/vilnius-pub
-      - --file=gcloud/Dockerfile
-      - .
+- name: 'gcr.io/cloud-builders/docker'
+  args:
+  - build
+  - --tag=gcr.io/$PROJECT_ID/vilnius-pub
+  - --file=gcloud/Dockerfile
+  - .
 
-  - name: 'gcr.io/cloud-builders/docker'
-    args: ['push', 'gcr.io/$PROJECT_ID/vilnius-pub']
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['push', 'gcr.io/$PROJECT_ID/vilnius-pub']
 
-  - name: 'gcr.io/cloud-builders/gcloud'
-    args:
-      - beta
-      - run
-      - deploy
-      - vilnius-pub
-      - --image=gcr.io/$PROJECT_ID/vilnius-pub
-      - --region=europe-west1
-      - --platform=managed
-      - --allow-unauthenticated
+- name: 'gcr.io/cloud-builders/gcloud'
+  args:
+  - beta
+  - run
+  - deploy
+  - vilnius-pub
+  - --image=gcr.io/$PROJECT_ID/vilnius-pub
+  - --region=europe-west1
+  - --platform=managed
+  - --allow-unauthenticated
