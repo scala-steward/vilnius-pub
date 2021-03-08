@@ -22,7 +22,7 @@ libraryDependencies ++= Seq(
   "me.shadaj"                    %%% "slinky-web" % Slinky,
   "me.shadaj"                    %%% "slinky-hot" % Slinky,
   "com.softwaremill.sttp.client" %%% "core"       % "2.2.9",
-  "org.scalatest"                %%% "scalatest"  % "3.2.5" % "test",
+  "org.scalatest"                %%% "scalatest"  % "3.2.6" % "test",
 )
 
 scalacOptions ++= Seq(
