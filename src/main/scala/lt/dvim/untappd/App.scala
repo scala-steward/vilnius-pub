@@ -40,10 +40,10 @@ object ReactLogo extends js.Object
   def render() =
     div(className := "App")(
       header(className := "App-header")(
-        h1(className := "App-title")("Making sense of what Vilnius is drinking"),
+        h1(className := "App-title")("Making sense of what Vilnius is drinking")
       ),
       p(className := "App-intro")("Total daily beer check-ins"),
-      CheckinsChart(),
+      CheckinsChart()
     )
 }
 
@@ -60,7 +60,7 @@ object ReactLogo extends js.Object
       Legend(verticalAlign = "top"),
       Tooltip(),
       CartesianGrid(),
-      Bar(dataKey = "checkins", fill = "#8884d8"),
+      Bar(dataKey = "checkins", fill = "#8884d8")
     )
 
   override def componentWillMount() = {
@@ -73,7 +73,7 @@ object ReactLogo extends js.Object
     basicRequest.get(uri"https://api.vilnius.pub/daily").response(asChartData).send().map(_.body).onComplete {
       case Success(Right(data)) => setState(State(data))
       case Success(Left(error)) => println(error)
-      case Failure(ex) => println(ex.getMessage)
+      case Failure(ex)          => println(ex.getMessage)
     }
   }
 }

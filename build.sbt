@@ -22,11 +22,11 @@ libraryDependencies ++= Seq(
   "me.shadaj"                    %%% "slinky-web" % Slinky,
   "me.shadaj"                    %%% "slinky-hot" % Slinky,
   "com.softwaremill.sttp.client" %%% "core"       % "2.2.9",
-  "org.scalatest"                %%% "scalatest"  % "3.2.9" % "test",
+  "org.scalatest"                %%% "scalatest"  % "3.2.9" % "test"
 )
 
 scalacOptions ++= Seq(
-  "-Ymacro-annotations",
+  "-Ymacro-annotations"
 )
 
 webpack / version := "4.29.0"
@@ -48,7 +48,7 @@ addCommandAlias("build", "fullOptJS::webpack")
 
 scalafmtOnCompile := true
 ThisBuild / scalafixDependencies ++= Seq(
-  "com.nequissimus" %% "sort-imports" % "0.5.5",
+  "com.nequissimus" %% "sort-imports" % "0.5.5"
 )
 
 enablePlugins(AutomateHeaderPlugin)
