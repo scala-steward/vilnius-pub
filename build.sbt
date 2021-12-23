@@ -48,7 +48,7 @@ addCommandAlias("build", "fullOptJS::webpack")
 
 scalafmtOnCompile := true
 ThisBuild / scalafixDependencies ++= Seq(
-  "com.nequissimus" %% "sort-imports" % "0.6.0"
+  "com.nequissimus" %% "sort-imports" % "0.6.1"
 )
 
 enablePlugins(AutomateHeaderPlugin)
