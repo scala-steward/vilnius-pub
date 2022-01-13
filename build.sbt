@@ -21,7 +21,7 @@ val Slinky = "0.6.8"
 libraryDependencies ++= Seq(
   "me.shadaj"                    %%% "slinky-web" % Slinky,
   "me.shadaj"                    %%% "slinky-hot" % Slinky,
-  "com.softwaremill.sttp.client" %%% "core"       % "2.2.10",
+  "com.softwaremill.sttp.client" %%% "core"       % "2.3.0",
   "org.scalatest"                %%% "scalatest"  % "3.2.10" % "test"
 )
 
