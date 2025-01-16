@@ -2,7 +2,7 @@ enablePlugins(ScalaJSBundlerPlugin)
 
 name := "vilnius-pub"
 
-scalaVersion := "2.13.10"
+scalaVersion := "2.13.16"
 
 Compile / npmDependencies += "react" -> "16.7.0"
 Compile / npmDependencies += "react-dom" -> "16.7.0"
