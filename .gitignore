@@ -1,0 +1,4 @@
+*.duckdb
+checkins_csv/
+dbt.log
+.user.yml
