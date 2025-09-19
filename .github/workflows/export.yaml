@@ -11,6 +11,7 @@ jobs:
 
     steps:
     - uses: 'actions/checkout@v4'
+    - uses: extractions/setup-just@v3
 
     - uses: 'google-github-actions/auth@v3'
       with:
@@ -21,13 +22,7 @@ jobs:
       uses: 'google-github-actions/setup-gcloud@v2'
 
     - name: 'Export checkins to storage bucket'
-      run: gcloud firestore export --collection-ids=checkins gs://untappd-backup --database='(default)'
+      run: just export
 
     - name: 'Import to BigQuery'
-      run: |
-        LAST_BACKUP=$(gcloud storage ls gs://untappd-backup | tail -n 1)
-        bq --location=EU load \
-          --source_format=DATASTORE_BACKUP \
-          --replace \
-          untappd.checkin_data \
-          $LAST_BACKUP/all_namespaces/kind_checkins/all_namespaces_kind_checkins.export_metadata
+      run: just import-bq
