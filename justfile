@@ -6,7 +6,7 @@ login account:
     gcloud auth application-default set-quota-project untappd-263504
 
 export:
-    just export
+    gcloud firestore export --collection-ids=checkins gs://untappd-backup --database='(default)'
 
 import-bq:
     #!/usr/bin/env bash
