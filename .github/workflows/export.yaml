@@ -1,0 +1,22 @@
+jobs:
+  export:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: 'read'
+      id-token: 'write'
+
+    steps:
+    - uses: 'actions/checkout@v4'
+
+    - uses: 'google-github-actions/auth@v3'
+      with:
+        project_id: 'untappd-263504'
+        workload_identity_provider: 'projects/937319425064/locations/global/workloadIdentityPools/github/providers/vilnius-pub'
+
+    - name: 'Set up Cloud SDK'
+      uses: 'google-github-actions/setup-gcloud@v2'
+
+    - name: 'Export checkins to storage bucket'
+      run: gcloud firestore export --collection-ids=checkins gs://untappd-backup --database='(default)'
+
