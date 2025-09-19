@@ -24,5 +24,8 @@ jobs:
     - name: 'Export checkins to storage bucket'
       run: just export
 
+    - name: 'Sleep a bit to ensure export is ready'
+      run: sleep 60
+
     - name: 'Import to BigQuery'
       run: just import-bq
