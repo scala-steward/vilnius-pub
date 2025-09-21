@@ -7,6 +7,10 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: 'read'
+      id-token: 'write'
+
     steps:
     - uses: actions/checkout@v4
     - uses: extractions/setup-just@v3
@@ -22,6 +26,9 @@ jobs:
 
     - name: 'Install dashboard'
       run: just dashboard-install
+
+    - name: 'Build dashboard sources'
+      run: just dashboard-sources
 
     - name: 'Build dashboard'
       run: just dashboard-build
