@@ -25,6 +25,9 @@ bq-to-duckdb:
 duckdb-to-csv:
     cd ingestion; duckdb untappd_checkins.duckdb < duckdb_to_csv.sql
 
+csv-to-duckdb:
+    cd ingestion; duckdb untappd_checkins.duckdb < csv_to_duckdb.sql
+
 transform:
     cd transform; uv run dbt build
 
