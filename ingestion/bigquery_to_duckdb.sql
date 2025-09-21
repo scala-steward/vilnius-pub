@@ -3,7 +3,7 @@ LOAD bigquery;
 
 ATTACH 'project=untappd-263504' as utpd (TYPE bigquery, READ_ONLY);
 
-CREATE TABLE IF NOT EXISTS main.checkins AS
+CREATE OR REPLACE TABLE IF NOT EXISTS main.checkins AS
 SELECT
     json_extract(data::JSON, '$.checkin_id')::int as checkin_id,
     strptime(json_extract_string(data::JSON, '$.created_at'), '%a, %d %b %Y %H:%M:%S %z')::date as checkin_date,

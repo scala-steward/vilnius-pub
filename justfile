@@ -27,3 +27,18 @@ duckdb-to-csv:
 
 transform:
     cd transform; uv run dbt build
+
+duckdb-ui:
+    duckdb -ui transform/vilnius_pub.duckdb
+
+dashboard-install:
+    cd dashboard; bun install
+
+dashboard-sources:
+    cd dashboard; bun run sources
+
+dashboard-dev:
+    cd dashboard; bun run dev
+
+dashboard-build:
+    cd dashboard; bun run build

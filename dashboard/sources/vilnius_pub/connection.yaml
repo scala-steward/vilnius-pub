@@ -1,0 +1,5 @@
+# This file was automatically generated
+name: vilnius_pub
+type: duckdb
+options:
+  filename: ../../../transform/vilnius_pub.duckdb
