@@ -12,6 +12,7 @@ jobs:
     - uses: extractions/setup-just@v3
     - uses: opt-nc/setup-duckdb-action@v1.1.3
     - uses: oven-sh/setup-bun@v2
+    - uses: astral-sh/setup-uv@v6
 
     - name: 'Import to DuckDB'
       run: just csv-to-duckdb
