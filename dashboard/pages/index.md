@@ -63,10 +63,15 @@ where day_start_date < CURRENT_DATE()
     data={all_but_last_day_checkins}
     y=daily_checkin_sum
     x=day_start_date>
-    <ReferenceArea xMin='2020-02-22' xMax='2020-02-23' label="Žmogšala 2020" color=red/>
-    <ReferenceArea xMin='2024-09-20' xMax='2024-09-21' label="Putoja 2024" color=red/>
-    <ReferenceArea xMin='2024-11-29' xMax='2024-11-30' label="VAF 2024" color=red/>
-    <ReferenceArea xMin='2025-09-13' xMax='2025-09-14' label="Putoja 2025" color=red/>
+    <ReferencePoint x="2020-02-22" y=1150 label="Žmogšala 2020" labelPosition=top/>
+    <ReferencePoint x="2022-02-19" y=1500 label="Žmogšala 2022" labelPosition=left/>
+    <ReferencePoint x="2023-02-11" y=1900 label="Žmogšala 2023" labelPosition=left/>
+    <ReferencePoint x="2023-09-22" y=1800 label="Putoja 2023" labelPosition=top/>
+    <ReferencePoint x="2023-11-24" y=1700 label="VAF 2023" labelPosition=right/>
+    <ReferencePoint x="2024-02-10" y=1450 label="Žmogšala 2020" labelPosition=right/>
+    <ReferencePoint x="2024-09-20" y=1800 label="Putoja 2024" labelPosition=top/>
+    <ReferencePoint x="2024-11-29" y=1800 label="VAF 2024" labelPosition=right/>
+    <ReferencePoint x="2025-09-13" y=2100 label="Putoja 2025" labelPosition=top/>
 </LineChart>
 
 ## Top 20 beer styles
