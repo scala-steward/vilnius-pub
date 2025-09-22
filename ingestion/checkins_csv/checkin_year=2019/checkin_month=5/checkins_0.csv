@@ -1,0 +1,188 @@
+checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_abv,brewery_name,brewery_country,venue_name
+743585163,2019-05-01,0.0,"","",Radeberger Pilsner,Pilsner - German,4.8,Radeberger Gruppe,Germany,Beerhouse & Craft Kitchen
+743571884,2019-05-01,3.3,"",Vilnius,Savas Kaunas Tamsusis,Lager - Dark,5.0,Kauno Alus,Lithuania,justiniškių žiedas st.
+743621254,2019-05-01,0.0,"","",Ungurio Kojos (Eel Legs),Kellerbier / Zwickelbier,5.3,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Beerhouse & Craft Kitchen
+743604944,2019-05-01,4.0,"","",Maukas,Golden Ale,4.3,Kuro Aparatūra,Lithuania,Kempinski Bar And Restaurant
+743607905,2019-05-01,4.3,"","",Imperial Stout Limited Edition,Stout - Russian Imperial,10.7,"Fuller, Smith & Turner ",England,Beer Barrel @ BIG
+743640316,2019-05-01,3.3,"","",Coconut Milk Stout,Stout - Milk / Sweet,4.7,Sakiškių Alus,Lithuania,Beer Barrel @ BIG
+743592176,2019-05-01,0.0,"","",Tucher Helles Hefe Weizen,Hefeweizen,5.3,Tucher Bräu,Germany,Beerhouse & Craft Kitchen
+743641150,2019-05-01,4.0,"",Vilnius,Hazy Disco,IPA - New England,6.7,Browar PINTA,Poland,Local Pub
+743646841,2019-05-01,3.5,"Какая-то сладкая жжёнка, очень крепко","Moscow, Russia",Icelandic Wee Heavy,Scotch Ale / Wee Heavy,8.0,Einstök Ölgerð,Iceland,Vilnius
+743532835,2019-05-01,0.0,Prise de plaisir,"",Butautų Dvaro Tamsusis,Lager - Munich Dunkel,5.5,Aukštaitijos Bravorai,Lithuania,Etno Dvaras
+743374485,2019-05-01,0.0,"","",Grand Select,Lager - Pale,5.4,Kalnapilio-Tauro Grupe UAB ,Lithuania,Amatininkų užeiga
+743573219,2019-05-01,3.3,"","",Rinktinis,Lager - Euro,5.2,Volfas Engelman,Lithuania,SVYTURYS 1784
+743524506,2019-05-01,3.3,"","",Kvietinis,Witbier,5.0,Vilkmerges Alus,Lithuania,PANK'olis Airport
+743617516,2019-05-01,3.3,"Ну неплохо, получше чёрного золота, амбер сразу чувствуется","Moscow, Russia",Carlsberg 1883,Lager - Amber,4.6,Carlsberg Group,Denmark,Vilnius
+743593525,2019-05-01,4.0,"","",Midlife Maestro,IPA - New England,5.7,Browar Kingpin,Poland,Perkūnkiemis
+743518283,2019-05-01,2.3,"","",DLight Caffeine & Taurine,Fruit Beer,2.9,Švyturys,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+743616731,2019-05-01,2.5,"",Voorthuizen ,Lielvārdes Klasiskais Vieglais Eils,Blonde Ale - Belgian Blonde / Golden,5.0,Kalnapilio-Tauro Grupe UAB ,Lithuania,Vilnius
+743662472,2019-05-01,4.0,"","",Simkala APA,Pale Ale - American,5.3,Širvėnos bravoras,Lithuania,Etmonų Špunka
+743557748,2019-05-01,2.8,"","",Rinktinis,Lager - Euro,5.2,Volfas Engelman,Lithuania,7 Fridays
+743636818,2019-05-01,3.8,"","",1664 Blanc,Witbier,5.0,Kronenbourg Brewery,France,Kinza
+743549837,2019-05-01,2.0,"","",Kalnapilis Original,Lager - Pale,5.0,Kalnapilio-Tauro Grupe UAB ,Lithuania,Iki Grilio Zona
+743378928,2019-05-01,4.3,"",Vilnius,Irish-ish Coffee Stout,Stout - Imperial / Double,10.3,Evil Twin Brewing,United States,Naujamiestis
+743552755,2019-05-01,3.8,"","",Pilsner Urquell,Pilsner - Czech,4.4,Plzeňský Prazdroj,Czech Republic,7 Fridays
+743635940,2019-05-01,0.0,"","",SUPER 8 IPA,IPA - Belgian,6.0,Brouwerij Haacht Brasserie,Belgium,Beerhouse & Craft Kitchen
+743548202,2019-05-01,3.5,"","",Aroniju Ragana (Aronia Witch),Fruit Beer,5.1,Alus Darbnīca Labietis,Latvia,Šnekutis
+743563495,2019-05-01,0.0,"","",1664 Fruits Rouges,Fruit Beer,4.5,Kronenbourg Brewery,France,Nepriklausomybės aikštė | Independence Square (Nepriklausomybės aikštė)
+743403558,2019-05-01,0.0,"","",Czech Inn Lager,Pilsner - Czech,4.8,UAB 3B Solutions,Latvia,Beerhouse & Craft Kitchen
+743604099,2019-05-01,2.5,"One more from them, all of them are interesting and very different.","",Bėganti Kopa (Running Dune),Witbier,4.5,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Blockchain Centre Vilnius
+743400855,2019-05-01,3.0,"","",Grimbergen Dubbel,Belgian Dubbel,6.5,Brouwerij Alken-Maes,Belgium,Sugamour Bernardinuose
+743373130,2019-05-01,0.0,"","",Bohemijos Tamsusis,Lager - Munich Dunkel,4.2,Volfas Engelman,Lithuania,Amatininkų užeiga
+743412044,2019-05-01,2.8,Toks labai jau šiap sau.,Vilnius,Erfurter Hefeweizen,Hefeweizen,5.0,Privatbrauerei Eibau,Germany,Pašilaičiai
+743646322,2019-05-01,3.5,"","",Strongbow Cider,Cider - Dry,5.0,Bulmers Cider,England,Dėvėti
+743543172,2019-05-01,3.8,"",Lillehammer ,Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Grey
+743526545,2019-05-01,2.8,"","",Mahou Sin,Non-Alcoholic Beer,0.9,Grupo Mahou-San Miguel,Spain,Pilaitė
+743583044,2019-05-01,0.0,"","",Raspberry/Scottish Raspberry Alcoholic Ginger Beer,Ginger Beer,4.0,John Crabbie & Co,Scotland,Beerhouse & Craft Kitchen
+743524912,2019-05-01,4.0,"","",Goudenband,Sour - Flanders Oud Bruin,8.0,Brouwerij Liefmans,Belgium,Pilaitė
+743555867,2019-05-01,3.3,"",Vilnius,Tradicinis,Pilsner - Other,0.0,Kauno Alus,Lithuania,taikos kioskai
+743516031,2019-05-01,2.8,Энергетик!,"Minsk, Belarus",DLight Caffeine & Taurine,Fruit Beer,2.9,Švyturys,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+743401518,2019-05-01,0.0,"","",Jūros Kranto,Lager - Helles,4.8,Mažas Alaus Cechas,Lithuania,Beerhouse & Craft Kitchen
+743565728,2019-05-01,4.8,"","",Žvėryno Smuklės Alus,Lager - Amber,0.0,Zveryno Smukles,Lithuania,Žvėryno smuklė
+743561368,2019-05-01,2.5,"Ссанина, вылил 🤢","Moscow, Russia",Carlsberg Sort Guld/Black Gold,Lager - Helles,5.8,Carlsberg Group,Denmark,Vilnius
+743595312,2019-05-01,4.0,"","",Grand Select,Lager - Pale,5.4,Kalnapilio-Tauro Grupe UAB ,Lithuania,Air Inn Vilnius Hotel
+743583172,2019-05-01,0.0,"","",Cyrulis,Pilsner - Other,4.9,Panevėžio Alus,Lithuania,Beerhouse & Craft Kitchen
+743595321,2019-05-01,4.3,Geweldig biertje in hartje Vilnius,"",Baltas (White),Hefeweizen,5.0,Švyturys,Lithuania,Amatininkų užeiga
+743586800,2019-05-01,3.8,Да тут исландское пиво в обычном продуктовом есть !,"Moscow, Russia",Icelandic Arctic Pale Ale,Pale Ale - English,5.6,Einstök Ölgerð,Iceland,Užupis
+743657651,2019-05-01,4.0,"","",Kozel Černý / Dark,Lager - Dark,3.8,Pivovar Velké Popovice,Czech Republic,Dėvėti
+743619603,2019-05-01,3.8,"","",Iš Stokholmo,Pale Ale - New England,5.6,Volfas Engelman,Lithuania,Hotel Ibis
+743560034,2019-05-01,2.5,Voor mij een beetje zoet.,Voorthuizen ,Lielvārdes Ķiršu Kriek,Fruit Beer,5.0,Lāčplēsis,Latvia,Naujamiestis
+743587110,2019-05-01,3.8,Нормальный сладкий яблочный сидр. Приятно,"",Craft Sidras,Cider - Other,5.4,Vilkmerges Alus,Lithuania,Sue's Indian Raja
+743604543,2019-05-01,3.5,Sweet like a caramel but all of them have interesting taste.,"",Ungurio Kojos (Eel Legs),Kellerbier / Zwickelbier,5.3,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Blockchain Centre Vilnius
+743554576,2019-05-01,3.8,"","",Humulupu IPA,IPA - American,5.0,Panevėžio Alus,Lithuania,Šnekutis
+743583122,2019-05-01,3.3,"",Moscow,Staburags Baltais,Witbier,4.9,Lāčplēsis,Latvia,Paupio 12
+743592591,2019-05-01,4.0,Don't get drunk and have a great time. With classic taste.,"",Carlsberg Non Alcoholic,Non-Alcoholic Beer,0.5,Carlsberg Group,Denmark,Green Hall
+743580408,2019-05-01,2.8,"",Voorthuizen ,Bergschlosschen Valonijos Blanc,Witbier,4.7,Kalnapilio-Tauro Grupe UAB ,Lithuania,Bernelių Užeiga
+743557821,2019-05-01,3.0,"","",Rinktinis,Lager - Euro,5.2,Volfas Engelman,Lithuania,7 Fridays
+743600940,2019-05-01,0.0,"","",Zirndorfer Kellerbier - Naturtrüb,Kellerbier / Zwickelbier,4.9,Brauerei Zirndorf,Germany,Beerhouse & Craft Kitchen
+743373838,2019-05-01,0.0,"","",Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Amatininkų užeiga
+743625161,2019-05-01,4.5,"",Vilnius,Can U Fix Seed?,IPA - New England,5.6,Uncle Brew,Estonia,Local Pub
+743617387,2019-05-01,4.3,"","",NemieGOSE PareiGOSE,Sour - Gose,4.7,Kuro Aparatūra,Lithuania,Kempinski Bar And Restaurant
+743549036,2019-05-01,2.5,"",Voorthuizen ,Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Sugamour Bernardinuose
+743557595,2019-05-01,3.8,"","",Humulupu IPA,IPA - American,5.0,Panevėžio Alus,Lithuania,Drama Burger Smokehouse
+743402266,2019-05-01,0.0,"","",Czech Inn Dark,Lager - Dark,4.7,UAB 3B Solutions,Latvia,Beerhouse & Craft Kitchen
+743400068,2019-05-01,0.0,"","",Ginger Beard,Ginger Beer,4.2,Wychwood Brewery,England,Beerhouse & Craft Kitchen
+743374084,2019-05-01,0.0,"","",Baltas (White),Hefeweizen,5.0,Švyturys,Lithuania,Amatininkų užeiga
+743620540,2019-05-01,0.0,"","",Debesainis,Hefeweizen,4.2,Širvėnos bravoras,Lithuania,Beerhouse & Craft Kitchen
+743372807,2019-05-01,0.0,"","",Rinktinis,Lager - Euro,5.2,Volfas Engelman,Lithuania,Amatininkų užeiga
+743560439,2019-05-01,2.5,"","",Grünberger Premium Lager,Lager - Euro,5.0,Volfas Engelman,Lithuania,Iki Grilio Zona
+743620964,2019-05-01,3.5,"",Moscow,IPA,IPA - American,6.5,Alinė Leičiai,Lithuania,Aline Leičiai
+743582644,2019-05-01,0.0,"","",Grynas,Lager - Pale,5.0,Širvėnos bravoras,Lithuania,Beerhouse & Craft Kitchen
+743538673,2019-05-01,3.5,"Пустоватенько, но неплохо.","",KIPšAs,IPA - American,5.5,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+743583957,2019-05-01,0.0,"","",Gintarinis (Amber),Pilsner - Other,4.6,Švyturys,Lithuania,Nepriklausomybės aikštė | Independence Square (Nepriklausomybės aikštė)
+743573794,2019-05-01,3.5,Great beer,"",Leffe Brune / Bruin,Brown Ale - Belgian,6.5,Abbaye de Leffe,Belgium,Alaus studija
+743542419,2019-05-01,3.0,"","",Rinktinis,Lager - Euro,5.2,Volfas Engelman,Lithuania,Iki Grilio Zona
+743616378,2019-05-01,3.8,"Light, summer-ish, cheap. :)","",Alyno Blonde Ale,Blonde Ale,4.5,UAB Alynas,Lithuania,Alynas
+743532429,2019-05-01,2.5,"",Voorthuizen ,Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Katedros aikštė | Cathedral Square (Katedros aikštė)
+743587732,2019-05-01,3.3,Грушевый брют,"Moscow, Russia",Tinginio Pantis - Kriaušių,Cider - Perry,4.5,Tinginio Pantis,Lithuania,Užupis
+743529086,2019-05-01,2.5,Li touwerss,"",Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,SVYTURYS 1784
+743587233,2019-05-01,3.5,"Вкусный яблочный сидр, локал","Moscow, Russia",Craft Sidras,Cider - Other,5.4,Vilkmerges Alus,Lithuania,Užupis
+743574857,2019-05-01,3.0,"",Voorthuizen ,Midus,Mead - Other,6.0,Lietuviškas Midus,Lithuania,Bernelių Užeiga
+743621256,2019-05-01,3.8,"",Lillehammer ,Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Etno Dvaras
+743574130,2019-05-01,3.5,"","",Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Amatininkų užeiga
+743625371,2019-05-01,0.0,"","",Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Hooters
+743400629,2019-05-01,0.0,"","",Juodas IPA,IPA - Black / Cascadian Dark Ale,5.6,Panevėžio Alus,Lithuania,Beerhouse & Craft Kitchen
+743901863,2019-05-02,4.5,"Beer library complete. Bible in hand, praise beer, may the hops be with you.","",Leon,Pale Ale - Belgian,6.5,Omnipollo,Sweden,Alaus Biblioteka
+743888219,2019-05-02,3.8,"",Moscow,Must Kuld,Porter - Other,7.8,Põhjala,Estonia,Craft & Draft
+743874336,2019-05-02,3.8,"","",Bloody Mary Gose,Sour - Gose,3.5,Sakiškių Alus,Lithuania,PROHIBICIJA
+743713336,2019-05-02,2.0,"","",Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Čili Pica
+743846013,2019-05-02,0.0,"","",Tongerlo NOX,Belgian Dubbel,6.5,Brouwerij Haacht Brasserie,Belgium,Leleko
+743860818,2019-05-02,2.0,"Pirmą gurkšnį buvo skanu gerti, bet retas atvejis, kad sunku pabaigti tokią talpą.",Vilnius,Rosé,Lambic - Fruit,5.0,Kauno Alus,Lithuania,Justiniškės
+743864556,2019-05-02,4.0,"","",Baltas Pudelis,Witbier,4.2,Black Light Brewing ,Lithuania,Nisha craft Capital
+743874483,2019-05-02,3.8,"","",Bergschlosschen Valonijos Blanc,Witbier,4.7,Kalnapilio-Tauro Grupe UAB ,Lithuania,Vilnius
+743906118,2019-05-02,2.5,"","",Kurko Keptinis,Dark Ale,5.2,Širvėnos bravoras,Lithuania,Lokys
+743926751,2019-05-02,3.5,"","",< br >exit(),English Bitter,5.2,Širvėnos bravoras,Lithuania,Savičiaus Špunka
+743864284,2019-05-02,4.0,"","",Marshmallow IPA,IPA - New England,5.5,Sakiškių Alus,Lithuania,Nisha craft Capital
+743950028,2019-05-02,4.3,"",Vilnius,George!,Stout - American Imperial / Double,12.0,Mikkeller,Denmark,Nisha craft Capital
+743890565,2019-05-02,3.8,"","",Normalus,Pale Ale - American,4.6,Normalus Project,Lithuania,PROHIBICIJA
+743955772,2019-05-02,0.0,"","",Can U Fix Seed?,IPA - New England,5.6,Uncle Brew,Estonia,Dėvėti
+743885186,2019-05-02,3.3,"","Vilnius, Lithuania",Can U Fix Seed?,IPA - New England,5.6,Uncle Brew,Estonia,Local Pub
+743884482,2019-05-02,3.3,"","",Easy Pale Ale DDH Citra,Pale Ale - New England,3.6,AleBrowar,Poland,Šilo/V.Grybo kiemas
+743877464,2019-05-02,2.8,Dykumoj sueitu. Beveik vanduo. Bet ne bjauri.,Vilnius,Amber City Gira,Kvass,0.0,Vilniaus Alus,Lithuania,Tele2 @VCUP
+743943437,2019-05-02,4.0,🇱🇹🍺👍,"",3 IN 1 IPA,IPA - American,6.6,"Bravoras ""Apynys""",Lithuania,Nisha craft Capital
+743917860,2019-05-02,3.3,"","Vilnius, Lithuania",A Ja Pale Ale,Pale Ale - American,5.0,Browar PINTA,Poland,Local Pub
+743888015,2019-05-02,4.0,"","",Wheat,Witbier,4.5,Leičių Bravoras,Lithuania,Leičių Bravoras
+743941730,2019-05-02,4.5,Meegenomen uit Tallinn. Klapstuk van de bonte avond! 🙂 Morgen weer naar huis ...,Voorthuizen ,Ravnodenstvie,Stout - Russian Imperial,11.0,Lehe Pruulikoda,Estonia,Vilnius
+743872138,2019-05-02,2.5,"",Voorthuizen ,Delikatus,Lager - Helles,5.2,Volfas Engelman,Lithuania,Vilnius
+743836207,2019-05-02,4.0,"","",Daujotų,Traditional Ale,5.8,Davra Alaus Darykla,Lithuania,Veranda
+743858519,2019-05-02,0.0,"","",Sour Pilsner,Pilsner - Other,4.7,Sakiškių Alus,Lithuania,Local Pub
+743901495,2019-05-02,2.8,"",Voorthuizen ,Amber City Kvietinis,Hefeweizen,5.0,Vilniaus Alus,Lithuania,Naujamiestis
+743878089,2019-05-02,3.0,"",Voorthuizen ,Amber City Tamsusis,Schwarzbier,5.6,Vilniaus Alus,Lithuania,Vilnius
+743875528,2019-05-02,3.8,"","",Portermass Mead BA,Porter - Baltic,11.5,Browar PINTA,Poland,Local Pub
+743852838,2019-05-02,4.0,"","",Stedsegrøn,IPA - Session / India Session Ale,3.5,Mikkeller,Denmark,Alaus Biblioteka
+743680384,2019-05-02,3.8,"","",Gutstoutas,Stout - Oatmeal,5.2,Širvėnos bravoras,Lithuania,Etmonų Špunka
+743886993,2019-05-02,0.0,"",Voorthuizen ,Amber City Šviesusis,Lager - Pale,5.2,Vilniaus Alus,Lithuania,Naujamiestis
+743950243,2019-05-02,3.8,"",Vilnius,Wahtula ,Stout - Imperial / Double,9.5,Õllenaut,Estonia,Nisha craft Capital
+743885974,2019-05-02,3.5,"","",Grand Select,Lager - Pale,5.4,Kalnapilio-Tauro Grupe UAB ,Lithuania,Grill London
+743832480,2019-05-02,3.8,"","",Keturi Vėjai (Four Winds),Kölsch,4.9,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Stasys Apartaments
+743888743,2019-05-02,4.0,"","",ShakeOut A: Vanilla,IPA - Milkshake,7.0,Sori Brewing,Estonia,PROHIBICIJA
+743844711,2019-05-02,0.0,"","",Baltas (White),Hefeweizen,5.0,Švyturys,Lithuania,Nepriklausomybės aikštė | Independence Square (Nepriklausomybės aikštė)
+743944117,2019-05-02,4.0,"",Vilnius,Wahtula ,Stout - Imperial / Double,9.5,Õllenaut,Estonia,Nisha craft Capital
+743897137,2019-05-02,3.5,"","",Chimay Red / Rouge / Rood (Première),Belgian Dubbel,7.0,Bières de Chimay,Belgium,Beerhouse & Craft Kitchen
+743882116,2019-05-02,3.3,"",Moscow,KIPšAs,IPA - American,5.5,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+743888539,2019-05-02,4.0,"","",IPA,IPA - Imperial / Double,8.0,Leičių Bravoras,Lithuania,Leičių Bravoras
+743931927,2019-05-02,4.3,"",Vilnius,George!,Stout - American Imperial / Double,12.0,Mikkeller,Denmark,Nisha craft Capital
+743843915,2019-05-02,3.5,"","",Humulupu IPA,IPA - American,5.0,Panevėžio Alus,Lithuania,Restobaras Kablys
+743882130,2019-05-02,4.0,"","",Amok,IPA - American,6.1,Trzech Kumpli,Poland,Šilo/V.Grybo kiemas
+743888758,2019-05-02,0.0,Library loading - 97%,"",Anchor Steam Beer,California Common,4.8,Anchor Brewing Company,United States,Alaus Biblioteka
+743945640,2019-05-02,4.3,Жулебино в Литве!,"",Marshmallow IPA,IPA - New England,5.5,Sakiškių Alus,Lithuania,Nisha craft Capital
+743947765,2019-05-02,4.0,"","Vilnius, Lithuania",Portermass Mead BA,Porter - Baltic,11.5,Browar PINTA,Poland,Local Pub
+743845487,2019-05-02,3.0,"","",Bėganti Kopa (Running Dune),Witbier,4.5,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Grey
+743878823,2019-05-02,0.0,Library loading - 94%,"",Tripadelic,Belgian Tripel,8.6,Trzech Kumpli,Poland,Alaus Biblioteka
+743874991,2019-05-02,4.0,Lekkah,"",Kvietinis,Witbier,5.0,Vilkmerges Alus,Lithuania,Grill London
+743962577,2019-05-02,0.0,"","",Mango Milkshake APA,Pale Ale - American,5.2,"Bravoras ""Apynys""",Lithuania,Dėvėti
+743845660,2019-05-02,0.0,"","",Šviesusis,Pale Ale - International,5.6,Vilkmerges Alus,Lithuania,Leleko
+743861245,2019-05-02,3.0,"","",Kvietinis,Hefeweizen Light / Leicht,5.0,Vilniaus Alus,Lithuania,Šnekutis
+743856742,2019-05-02,4.0,"","",Green Monster IPA,IPA - American,6.3,"Bravoras ""Apynys""",Lithuania,Nisha craft Capital
+743872985,2019-05-02,3.3,"",Vilnius ,Raspberry Milkshake Ale,IPA - Milkshake,3.5,Genys Brewing Co.,Lithuania,Alaus Biblioteka
+743878890,2019-05-02,3.0,"","Vilnius, Lithuania",Pavasaris,Fruit Beer,4.5,Vilkmerges Alus,Lithuania,Local Pub
+743834999,2019-05-02,3.8,"Хорошее, холодненькое, чехов немного напоминает","Moscow, Russia",Warsteiner Herb / Double Hopped,Pilsner - German,4.8,Warsteiner,Germany,Vilnius
+743881333,2019-05-02,3.0,"",Moscow,IPUTĖ (Little IPA),IPA - American,5.1,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+743889664,2019-05-02,4.0,"","",Melon Sauvignon,IPA - Brut,7.5,"Bravoras ""Apynys""",Lithuania,PROHIBICIJA
+743928285,2019-05-02,4.0,"","",Humulupu IPA,IPA - American,5.0,Panevėžio Alus,Lithuania,Savičiaus Špunka
+743894829,2019-05-02,3.3,First time on tap! Great and refreshing. Has all the characters wich are ment to be,"",Go Nealkoholinis Baltas,Non-Alcoholic Beer,0.5,Švyturys,Lithuania,Distilerija
+743888527,2019-05-02,4.3,"","",NEIPA,IPA - New England,5.5,Sakiškių Alus,Lithuania,PROHIBICIJA
+743836277,2019-05-02,3.3,"","",Tinginio Pantis - Obuolių,Cider - Other,4.5,Tinginio Pantis,Lithuania,Veranda
+743962334,2019-05-02,4.5,"#балт19","",Marshmallow IPA,IPA - New England,5.5,Sakiškių Alus,Lithuania,Nisha craft Capital
+743874570,2019-05-02,3.5,"","",Senovinis,Altbier,5.5,Vilkmerges Alus,Lithuania,KAS KAS
+743874041,2019-05-02,4.0,"","",Bergschlosschen Valonijos Blanc,Witbier,4.7,Kalnapilio-Tauro Grupe UAB ,Lithuania,KAS KAS
+743934224,2019-05-02,3.5,"",Vilnius,You're In the Jungle Baby!,Stout - Imperial / Double,12.0,Evil Twin Brewing,United States,Nisha craft Capital
+743893204,2019-05-02,5.0,"","",Black Hole,Stout - Imperial / Double,13.1,Mikkeller,Denmark,Local Pub
+743915819,2019-05-02,3.0,"","",Kalifornikacija,Pale Ale - American,5.2,Genys Brewing Co.,Lithuania,Monstro Pizza•Bar
+743961250,2019-05-02,4.3,🍻,"",Marshmallow IPA,IPA - New England,5.5,Sakiškių Alus,Lithuania,Nisha craft Capital
+743863449,2019-05-02,3.3,"","",Kanapių,Spiced / Herbed Beer,5.0,Aukštaitijos Bravorai,Lithuania,Šnekutis
+743870491,2019-05-02,4.0,"","",A Ja Pale Ale,Pale Ale - American,5.0,Browar PINTA,Poland,Local Pub
+743890193,2019-05-02,4.0,"","",Röskva Gluten Free Gin & Tonic IPA,IPA - American,6.5,Munkebo Brewery™,Denmark,PROHIBICIJA
+743840688,2019-05-02,4.0,"",Voorthuizen ,Bėganti Kopa (Running Dune),Witbier,4.5,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Užupio kavinė
+743873049,2019-05-02,3.5,"","",Kalifornikacija,Pale Ale - American,5.2,Genys Brewing Co.,Lithuania,Vėjai
+743891981,2019-05-02,4.5,"","",Black Malts & Body Salts,IPA - Imperial / Double Black,9.9,To Øl,Denmark,PROHIBICIJA
+743921929,2019-05-02,3.0,"","",Golden Ale,Golden Ale,5.0,Švyturys,Lithuania,Downtown Forest
+743887504,2019-05-02,4.0,"","",Leiciu Porter,Porter - American,5.2,Leičių Bravoras,Lithuania,Leičių Bravoras
+743955855,2019-05-02,0.0,"","",NemieGOSE PareiGOSE,Sour - Gose,4.7,Kuro Aparatūra,Lithuania,Dėvėti
+743908378,2019-05-02,3.3,"",Moscow,Simkala APA,Pale Ale - American,5.3,Širvėnos bravoras,Lithuania,Lokys
+743846459,2019-05-02,2.8,"","",Pievų Rūko,Lager - Pale,5.0,Mažas Alaus Cechas,Lithuania,Jammi Grill
+743868568,2019-05-02,3.0,"","",Sour Red Ale,Sour - Ale,5.8,Vilkmerges Alus,Lithuania,Local Pub
+743823228,2019-05-02,5.0,Sweet and sour. I am in love.,"",Mango Milkshake APA,Pale Ale - American,5.2,"Bravoras ""Apynys""",Lithuania,Bar Bukowski
+743927578,2019-05-02,3.5,"","",< br >exit(),English Bitter,5.2,Širvėnos bravoras,Lithuania,Savičiaus Špunka
+743893011,2019-05-02,3.8,"","",Old Tom Original,Old Ale,8.5,Robinsons Brewery,England,Alaus Biblioteka
+743951830,2019-05-02,3.0,"","",Keturi Vėjai (Four Winds),Kölsch,4.9,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Downtown Forest
+743917174,2019-05-02,3.0,"",Voorthuizen ,Lielvārdes Tumšais,Dark Ale,5.6,Lāčplēsis,Latvia,Vilnius
+743950892,2019-05-02,3.8,"",Vilnius,You're In the Jungle Baby!,Stout - Imperial / Double,12.0,Evil Twin Brewing,United States,Nisha craft Capital
+743876039,2019-05-02,4.3,"","",Stedsegrøn,IPA - Session / India Session Ale,3.5,Mikkeller,Denmark,Alaus Biblioteka
+743888275,2019-05-02,4.0,"","",Hemp,Lager - Amber,5.0,Leičių Bravoras,Lithuania,Leičių Bravoras
+743722623,2019-05-02,3.5,Neblogas gerimėlis. Bet nieko kažko tokio. Visai ok.,Vilnius,Iš Sietlo,IPA - White,5.2,Volfas Engelman,Lithuania,Pašilaičiai
+743678494,2019-05-02,4.0,"","",Pekla,Stout - Milk / Sweet,4.2,Petskell's Brewery,Lithuania,Pilenai
+743716235,2019-05-02,1.5,"","",Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Čili Pica
+743856367,2019-05-02,4.0,"","",3 IN 1 IPA,IPA - American,6.6,"Bravoras ""Apynys""",Lithuania,Nisha craft Capital
+743836876,2019-05-02,3.0,"","",Estrella Damm Inedit,Witbier,4.8,Grupo Damm,Spain,Alaus Biblioteka
+743873989,2019-05-02,3.5,"","",Senovinis,Altbier,5.5,Vilkmerges Alus,Lithuania,KAS KAS
+743836414,2019-05-02,3.8,"Лаймовый лимонад, кислый в меру","Moscow, Russia",Otra Vez Gose with Lime and Agave,Sour - Gose,4.9,Sierra Nevada Brewing Co.,United States,Vilnius
+743874649,2019-05-02,4.0,"","",NemieGOSE PareiGOSE,Sour - Gose,4.7,Kuro Aparatūra,Lithuania,PROHIBICIJA
+743840302,2019-05-02,4.5,"","",Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Air Inn Vilnius Hotel
+743958925,2019-05-02,3.8,"Olga, Max, Alexey & Andrey @ #балт19","",Raining Hops,IPA - Imperial / Double,9.0,In Peccatum Craft Beer,Spain,Nisha craft Capital
+743888793,2019-05-02,0.0,"","",Cyrulis,Pilsner - Other,4.9,Panevėžio Alus,Lithuania,Lokys
+743872879,2019-05-02,3.0,"","",Cyrulis,Pilsner - Other,4.9,Panevėžio Alus,Lithuania,Vėjai
+743908138,2019-05-02,3.0,"",Moscow,Humulupu IPA,IPA - American,5.0,Panevėžio Alus,Lithuania,Lokys
+744020386,2019-05-03,3.3,Pagaliau geriamas. O tai visi Grimbergenai keliaudavo tiesai į kriauklę.,Vilnius,Grimbergen Zomer Wit / Blanche d'Eté,Witbier,6.0,Brouwerij Alken-Maes,Belgium,Pašilaičiai
+743997920,2019-05-03,2.0,"","",Baltas (White),Hefeweizen,5.0,Švyturys,Lithuania,Čili Pica
+743975411,2019-05-03,0.0,"","",Humulupu IPA,IPA - American,5.0,Panevėžio Alus,Lithuania,Dėvėti

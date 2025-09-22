@@ -64,6 +64,8 @@ where day_start_date < CURRENT_DATE()
     y=daily_checkin_sum
     x=day_start_date>
     <ReferenceArea xMin='2020-02-22' xMax='2020-02-23' label="Žmogšala 2020" color=red/>
+    <ReferenceArea xMin='2024-09-20' xMax='2024-09-21' label="Putoja 2024" color=red/>
+    <ReferenceArea xMin='2024-11-29' xMax='2024-11-30' label="VAF 2024" color=red/>
     <ReferenceArea xMin='2025-09-13' xMax='2025-09-14' label="Putoja 2025" color=red/>
 </LineChart>
 

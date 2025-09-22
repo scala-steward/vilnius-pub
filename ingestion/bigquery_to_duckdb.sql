@@ -19,4 +19,5 @@ SELECT
     json_extract_string(data::JSON, '$.brewery.country_name') as brewery_country,
     json_extract_string(data::JSON, '$.venue.venue_name') as venue_name
 FROM utpd.untappd.checkin_data
-WHERE checkin_date >= '2019-01-01';
+WHERE checkin_date >= '2019-01-01'
+ORDER BY checkin_date ASC;
