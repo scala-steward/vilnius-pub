@@ -59,10 +59,26 @@ from vilnius_pub.daily_checkins
 where day_start_date < CURRENT_DATE()
 ```
 
-<LineChart
+<DateRange
+    name=date_filter
     data={all_but_last_day_checkins}
+    dates=day_start_date
+    title='Date Range'
+/>
+
+```sql filtered_checkins
+select
+    *
+from ${all_but_last_day_checkins}
+where day_start_date between '${inputs.date_filter.start}' and '${inputs.date_filter.end}'
+```
+
+<LineChart
+    data={filtered_checkins}
     y=daily_checkin_sum
     x=day_start_date>
+    <ReferenceArea xMin='2020-03-16' xMax='2020-06-17' label="Lockdown #1" color=warning/>
+    <ReferenceArea xMin='2020-11-04' xMax='2021-07-01' label="Lockdown #2" color=warning/>
     <ReferencePoint x="2020-02-22" y=1150 label="Žmogšala 2020" labelPosition=top/>
     <ReferencePoint x="2022-02-19" y=1500 label="Žmogšala 2022" labelPosition=left/>
     <ReferencePoint x="2023-02-11" y=1900 label="Žmogšala 2023" labelPosition=left/>
