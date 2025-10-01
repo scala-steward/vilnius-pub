@@ -1,0 +1,18 @@
+checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_abv,brewery_name,brewery_country,venue_name
+1517553905,2025-10-01,1.8,"","",Spaten München / Münchner Hell / Premium Lager,Lager - Helles,5.2,Spaten-Franziskaner-Löwenbräu-Gruppe,Germany,Gringo Pub
+1517555603,2025-10-01,3.5,"",Vilnius,Yuzu.Kas?,Lager - Japanese Rice,4.7,Dundulis,Lithuania,Špunka
+1517559004,2025-10-01,2.5,Dit spel duurt zo lang,"",Hop House 13 Lager,Lager - Pale,4.1,Guinness,Ireland,Gringo Pub
+1517577480,2025-10-01,4.0,"",Ewijk,Somersby Watermelon,Cider - Other Fruit,4.5,Carlsberg Group,Denmark,Downtown Forest
+1517608661,2025-10-01,4.5,"",World wide walkabout,Origin IPA,IPA - New England / Hazy,5.8,Basker Brewing Co.,Lithuania,Šnekutis
+1517608699,2025-10-01,3.8,"",World wide walkabout,Humulupu IPA,IPA - Session,5.0,Dundulis,Lithuania,Šnekutis
+1517609008,2025-10-01,3.3,"","GBG, Sweden",Gubernija Baltas / Wheat Hefeweizen,Wheat Beer - Hefeweizen,4.8,Gubernija Brewery,Lithuania,Benedikto turgus
+1517610282,2025-10-01,3.3,"","GBG, Sweden",Vilkmerges Premium Nefiltruotas,Lager - Pale,5.2,Vilkmerges Alus,Lithuania,Lvovo Gastro Pub
+1517610796,2025-10-01,3.3,Smakar mer som en fruktöl än stout,"GBG, Sweden",Juodųjų Serbentų Stout,Stout - Other,5.5,Vilkmerges Alus,Lithuania,Lvovo Gastro Pub
+1517617473,2025-10-01,3.8,"Yum, has the taste of an open bag of malt. Lovely dry finish.",Londinium,Bistrampolio Dvaro Šviesusis / Bistrampolio Dvaro Light / Muižas Gaišais Alus,Lager - Pale,5.0,Aukštaitijos Bravorai,Lithuania,Būsi Trečias
+1517619354,2025-10-01,3.3,Kolsyrig,"GBG, Sweden",Give A Damn,Lager - American,4.6,BRØL,Denmark,Boulangerie Thierry kepykla
+1517619448,2025-10-01,3.3,"","",Stella Artois,Lager - Pale,5.0,Stella Artois,Belgium,Brussels Mussels Centrum
+1517622979,2025-10-01,3.8,"","GBG, Sweden",Raspberry Wheat Lager,Fruit Beer,5.8,OY Brewing,Faroe Islands,Old Town Trio
+1517623655,2025-10-01,3.8,"",World wide walkabout,Juodas,Lager - Dark,6.7,Būsi Trečias,Lithuania,Būsi Trečias
+1517625576,2025-10-01,3.0,"","",Argo Blue (არგო ლაგერი),Lager - Pale,4.8,Argo Brewing Company,Georgia,Chačapuri Bistro
+1517626152,2025-10-01,3.5,"",Londinium,Šviesus,Lager - Pale,5.0,Būsi Trečias,Lithuania,Būsi Trečias
+1517627090,2025-10-01,3.5,"",World wide walkabout,Šviesus,Lager - Pale,5.0,Būsi Trečias,Lithuania,Būsi Trečias
