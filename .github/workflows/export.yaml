@@ -1,4 +1,4 @@
-name: Export data from Datastore
+name: Export data from Datastore to BigQuery
 
 on:
   workflow_dispatch:
@@ -8,7 +8,6 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: 'read'
       id-token: 'write'
 
     steps:
@@ -20,14 +19,10 @@ jobs:
         project_id: 'untappd-263504'
         workload_identity_provider: 'projects/937319425064/locations/global/workloadIdentityPools/github/providers/vilnius-pub'
 
-    - name: 'Set up Cloud SDK'
-      uses: 'google-github-actions/setup-gcloud@v2'
+    - uses: 'google-github-actions/setup-gcloud@v3'
 
     - name: 'Export checkins to storage bucket'
       run: just export
-
-    - name: 'Sleep a bit to ensure export is ready'
-      run: sleep 60
 
     - name: 'Import to BigQuery'
       run: just import-bq

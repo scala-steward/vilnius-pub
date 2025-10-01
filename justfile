@@ -20,13 +20,13 @@ import-bq:
         ${LAST_BACKUP}all_namespaces/kind_checkins/all_namespaces_kind_checkins.export_metadata
 
 bq-to-duckdb:
-    cd ingestion; duckdb untappd_checkins.duckdb < bigquery_to_duckdb.sql
+    duckdb untappd_checkins.duckdb < ingestion/bigquery_to_duckdb.sql
 
 duckdb-to-csv:
-    cd ingestion; duckdb untappd_checkins.duckdb < duckdb_to_csv.sql
+    duckdb untappd_checkins.duckdb < ingestion/duckdb_to_csv.sql
 
 csv-to-duckdb:
-    cd ingestion; duckdb untappd_checkins.duckdb < csv_to_duckdb.sql
+    duckdb untappd_checkins.duckdb < ingestion/csv_to_duckdb.sql
 
 transform:
     cd transform; uv run dbt build

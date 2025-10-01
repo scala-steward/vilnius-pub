@@ -5,6 +5,6 @@ vilnius_pub:
       path: ./vilnius_pub.duckdb
       threads: 5
       attach:
-        - path: "../ingestion/untappd_checkins.duckdb"
+        - path: "../untappd_checkins.duckdb"
           alias: untappd
   target: dev

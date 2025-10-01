@@ -1,3 +1,5 @@
+SET TimeZone = 'Europe/Vilnius';
+
 INSTALL bigquery FROM community;
 LOAD bigquery;
 

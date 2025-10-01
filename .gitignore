@@ -2,3 +2,4 @@
 dbt.log
 .user.yml
 .evidence
+gha-creds-*.json
