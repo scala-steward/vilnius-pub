@@ -90,12 +90,12 @@ where day_start_date between '${inputs.date_filter.start}' and '${inputs.date_fi
     <ReferencePoint x="2025-09-13" y=2100 label="Putoja 2025" labelPosition=top/>
 </LineChart>
 
-## Top 20 beer styles
+## Top beer styles
 
 ```sql beer_styles
 select beer_style as name, cnt as value
 from vilnius_pub.beer_styles
-limit 20
+limit 10
 ```
 
 <ECharts config={
@@ -113,12 +113,12 @@ limit 20
     }
 }/>
 
-## Top 20 breweries
+## Top breweries
 
 ```sql breweries
 select brewery_name as name, cnt as value
 from vilnius_pub.breweries
-limit 20
+limit 10
 ```
 
 <ECharts config={
@@ -136,12 +136,12 @@ limit 20
     }
 }/>
 
-## Top 20 venues
+## Top venues
 
 ```sql venues
 select venue_name as name, cnt as value
 from vilnius_pub.venues
-limit 20
+limit 10
 ```
 
 <ECharts config={
