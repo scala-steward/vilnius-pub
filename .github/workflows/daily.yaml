@@ -1,0 +1,16 @@
+name: Daily Update
+
+on:
+  workflow_dispatch:
+
+jobs:
+  export:
+    uses: ./.github/workflows/export.yaml
+
+  import:
+    needs: [export]
+    uses: ./.github/workflows/import.yaml
+
+  deploy:
+    needs: [import]
+    uses: ./.github/workflows/deploy.yaml
