@@ -2,6 +2,8 @@ name: Daily Update
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 4 * * *"  # At 04:00 every day
 
 jobs:
   export:
@@ -10,6 +12,7 @@ jobs:
   import:
     needs: [export]
     uses: ./.github/workflows/import.yaml
+    secrets: inherit
 
   deploy:
     needs: [import]

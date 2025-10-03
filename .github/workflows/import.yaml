@@ -5,7 +5,7 @@ on:
   workflow_call:
 
 jobs:
-  export:
+  import:
     runs-on: ubuntu-latest
 
     permissions:
