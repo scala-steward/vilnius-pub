@@ -16,3 +16,74 @@ checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_a
 1517625576,2025-10-01,3.0,"","",Argo Blue (არგო ლაგერი),Lager - Pale,4.8,Argo Brewing Company,Georgia,Chačapuri Bistro
 1517626152,2025-10-01,3.5,"",Londinium,Šviesus,Lager - Pale,5.0,Būsi Trečias,Lithuania,Būsi Trečias
 1517627090,2025-10-01,3.5,"",World wide walkabout,Šviesus,Lager - Pale,5.0,Būsi Trečias,Lithuania,Būsi Trečias
+1517628362,2025-10-01,3.8,"","GBG, Sweden",Hazelnut Brown Ale,Brown Ale - English,6.0,Sakiškės Brewery / Sakiškių Alus,Lithuania,Old Town Trio
+1517628769,2025-10-01,3.5,"","",Two Liberties / Dvi Laisvės,IPA - American,6.0,Genys Brewing Co.,Lithuania,Shakespeare Boutique Hotel
+1517630730,2025-10-01,3.8,"",Londinium,Humulupu IPA,IPA - Session,5.0,Dundulis,Lithuania,Būsi Trečias
+1517632614,2025-10-01,4.5,"",Vilnius,Bell Tree (2025),IPA - Triple New England / Hazy,10.5,Third Moon Brewing Company,Canada,Nisha Craft Capital
+1517634170,2025-10-01,4.8,Proper.,"Vilnius, Lithuania",Pilsner Urquell Nefiltrovaný / Unfiltered,Pilsner - Czech / Bohemian,4.4,Plzeňský Prazdroj,Czech Republic,Alaus Biblioteka
+1517635214,2025-10-01,4.5,"","",Plum X Blueberry X Red Currant Smoothie Sour Ale,Sour - Smoothie / Pastry,4.5,Ārpus Brewing Co.,Latvia,Plum Bum Bar
+1517636846,2025-10-01,3.3,"","GBG, Sweden",Alaus Kelias,Lager - Other,5.5,Rinkuškiai,Lithuania,Šnekutis
+1517637201,2025-10-01,4.0,"","",Natural Lager,Lager - Other,5.0,Neblögas,Lithuania,Dėvėti
+1517638992,2025-10-01,5.0,"","",Guava X Strawberry X Peach X Orange X Vanilla Smoothie Sour Ale,Sour - Smoothie / Pastry,4.5,Ārpus Brewing Co.,Latvia,Vanille Lounge restoranas Vilniuje
+1517639954,2025-10-01,3.8,"","",Cactus Lychee,IPA - Milkshake,5.0,Bear & Boar,Lithuania,lūžių parkas
+1517641059,2025-10-01,2.8,Golden ale,"",Engelman's,Lager - Other,5.0,Volfas Engelman,Lithuania,Radisson Blu Hotel Lietuva
+1517643162,2025-10-01,3.0,"","",Dreher Gold,Lager - Pale,5.0,Dreher Sörgyárak,Hungary,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1517643240,2025-10-01,3.5,"","GBG, Sweden",OBUOLIOKAS,Wild Ale - Other,6.0,Dundulis,Lithuania,Šnekutis
+1517643303,2025-10-01,2.8,"","",Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1517643333,2025-10-01,3.0,"","",Dreher Gold,Lager - Pale,5.0,Dreher Sörgyárak,Hungary,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1517644644,2025-10-01,2.8,"","",Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1517646275,2025-10-01,2.5,"",Vilnius,Green,Sour - Fruited,5.5,Волинський бровар,Ukraine,Green spot
+1517646537,2025-10-01,3.0,"","",APA,Pale Ale - American,5.2,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1517647615,2025-10-01,0.0,"",Vilnius,Orange Is the New Yellow,IPA - Imperial / Double New England / Hazy,8.4,Tree House Brewing Company,United States,Youston Apartments
+1517648409,2025-10-01,3.3,"","",Šviesus,Lager - Pale,5.0,Būsi Trečias,Lithuania,Būsi Trečias
+1517650111,2025-10-01,3.0,"",Londinium,Varniukų Tamsus,Dark Ale,5.6,Davra Alaus Darykla,Lithuania,Augustin
+1517651713,2025-10-01,3.5,"","",IPA,IPA - American,6.2,Lagunitas Brewing Company,United States,Pachamama Dinner Club
+1517656419,2025-10-01,4.0,"","GBG, Sweden",Éclats De Fève,Stout - Imperial / Double,12.0,Fauve,France,Def Enjoy
+1517656816,2025-10-01,4.0,"","GBG, Sweden",Freckles,Sour - Fruited,4.0,Hop Hooligans,Romania,Def Enjoy
+1517658448,2025-10-01,4.5,"",Norway ,Paulaner Oktoberfest Bier,Festbier,6.0,Paulaner Brauerei,Germany,Alynas
+1517658894,2025-10-01,0.0,"",Vilnius,Lusory Attitude,IPA - American,7.0,Electric Brewing Co.,United States,Youston Apartments
+1517660082,2025-10-01,4.3,"","GBG, Sweden",Physis,Sour - Smoothie / Pastry,5.0,Norm Brewing,Belgium,Def Enjoy
+1517661301,2025-10-01,2.8,Malty roasted herbal,"",Imperial Porteris,Porter - Baltic,6.0,Volfas Engelman,Lithuania,Skybar
+1517663806,2025-10-01,3.3,Kur tas mango? Vienas bybys težino. Toks nugaravęs pusbirzgalis. Bet bus gerai. Gerti galima. Mėgautis ne. Kvapei išvis nieko nerasta. Bet geriam. O ką daryt?,Vilnius. Lithuania.,"Žiūrėk, Kad Mangai Neįtrauktų",IPA - Fruited,5.5,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Satyrikon'o Būdelė
+1517664434,2025-10-01,0.0,"","",Loop,IPA - New England / Hazy,6.5,SOMA Beer,Spain,Def Enjoy
+1517664746,2025-10-01,0.0,"","",Freckles,Sour - Fruited,4.0,Hop Hooligans,Romania,Def Enjoy
+1517665013,2025-10-01,0.0,"","",Éclats De Fève,Stout - Imperial / Double,12.0,Fauve,France,Def Enjoy
+1517666201,2025-10-01,3.8,"","",Juodas,Lager - Dark,6.7,Būsi Trečias,Lithuania,Būsi Trečias
+1517669519,2025-10-01,4.5,"",Vilnius,Hot Honey Apple Mango,Sour - Fruited,6.2,Vault City Brewing,Scotland,Alaus Biblioteka
+1517671298,2025-10-01,3.5,"Homeopatinis toks. Bet šitas birzgalas man labiau patinka. Visiškas vidutiniokas. Jaučiasi viskas kas deklaruota, tik labai limituotais kiekiais. Sueis.",Vilnius. Lithuania.,"Per Giliai Brendi, Amigo",IPA - Other,5.5,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Satyrikon'o Būdelė
+1517671824,2025-10-01,3.5,"","",Freckles,Sour - Fruited,4.0,Hop Hooligans,Romania,Def Enjoy
+1517673713,2025-10-01,0.0,"","",Night Lights,IPA - Black / Cascadian Dark Ale,6.5,Hop Hooligans,Romania,Def Enjoy
+1517675179,2025-10-01,0.0,"",Vilnius,Tempo,IPA - American,6.2,Browar Cztery Ściany / Four Walls Brewery,Poland,Youston Apartments
+1517676324,2025-10-01,3.3,"",Vilnius,Spaten München / Münchner Hell / Premium Lager,Lager - Helles,5.2,Spaten-Franziskaner-Löwenbräu-Gruppe,Germany,Gringo Pub
+1517677677,2025-10-01,0.8,"","",Iron Plater,Belgian Quadrupel,13.0,Vasaknų dvaro alus,Lithuania,StrongPoint LT office
+1517677837,2025-10-01,4.3,"","",Plum X Blueberry X Red Currant Smoothie Sour Ale,Sour - Smoothie / Pastry,4.5,Ārpus Brewing Co.,Latvia,Meilės Lizdelis
+1517677998,2025-10-01,4.5,"","",Guava X Strawberry X Peach X Orange X Vanilla Smoothie Sour Ale,Sour - Smoothie / Pastry,4.5,Ārpus Brewing Co.,Latvia,Meilės Kelias
+1517679266,2025-10-01,2.8,"","GBG, Sweden",Mėnulio Tako,Wheat Beer - Hefeweizen,5.2,Mažas Alaus Cechas,Lithuania,Radisson Blu Hotel Lietuva
+1517681534,2025-10-01,2.0,"",Vilnius,King Harald Grey Coat,Lager - Pale,4.7,Vikings Beer,Sweden,Aquarius Brewery
+1517685707,2025-10-01,4.0,"","",Šviesus,Lager - Pale,5.0,Būsi Trečias,Lithuania,Būsi Trečias
+1517686156,2025-10-01,3.8,"","",Blanc Select,Wheat Beer - Other,4.7,Kalnapilis Brewery,Lithuania,Breakfast room @ Marriott
+1517687013,2025-10-01,3.8,"","",Juodas,Lager - Dark,6.7,Būsi Trečias,Lithuania,Būsi Trečias
+1517687594,2025-10-01,4.0,"","",APA,Pale Ale - American,5.0,Būsi Trečias,Lithuania,Būsi Trečias
+1517687733,2025-10-01,4.0,"","",Kvietinis,Wheat Beer - Witbier / Blanche,4.7,Būsi Trečias,Lithuania,Būsi Trečias
+1517691226,2025-10-01,4.0,"","",Humulupu IPA,IPA - Session,5.0,Dundulis,Lithuania,Būsi Trečias
+1517692551,2025-10-01,4.3,"",Vilnius ,Gutstoutas,Stout - Oatmeal,5.2,Širvėnos bravoras,Lithuania,Špunka
+1517693334,2025-10-01,0.0,"",Vilnius,DDH Citra X Mosaic X Rakau Cold IPA,IPA - Cold,6.5,Ārpus Brewing Co.,Latvia,Youston Apartments
+1517769825,2025-10-02,3.3,Lagom söt med lite torrhet,"GBG, Sweden",Craft Sidras,Cider - Traditional / Apfelwein,5.4,Vilkmerges Alus,Lithuania,Prie Angelo
+1517771873,2025-10-02,3.5,"","GBG, Sweden",Baltas,Wheat Beer - Hefeweizen,5.2,Vilkmerges Alus,Lithuania,Fish & Ale
+1517773651,2025-10-02,3.3,Письмо позвало в дорогу. ☝️,"Minsk, Belarus",Špunka Pils,Pilsner - Czech / Bohemian,4.8,Dundulis,Lithuania,Šnekutis
+1517777783,2025-10-02,3.5,"","",Alyno Jubiliejinis,Lager - Other,0.0,UAB Alynas,Lithuania,Alynas
+1517777930,2025-10-02,3.5,"","",Alyno Šviesusis,Lager - Pale,5.0,UAB Alynas,Lithuania,Alynas
+1517778005,2025-10-02,3.8,"","",Alyno Blanche,Wheat Beer - Witbier / Blanche,4.5,UAB Alynas,Lithuania,Alynas
+1517778322,2025-10-02,3.8,"","",Tamsusis Elis,Dark Ale,5.0,UAB Alynas,Lithuania,Alynas
+1517778982,2025-10-02,3.5,"","",Baltas (White),Wheat Beer - Hefeweizen,5.0,Švyturys,Lithuania,Narbutas Business Lounge
+1517779040,2025-10-02,3.5,"","",Alyno Nefiltruotas,Kellerbier / Zwickelbier,5.0,UAB Alynas,Lithuania,Alynas
+1517779182,2025-10-02,3.8,"","",Alyno Craft NEIPA,IPA - New England / Hazy,5.0,UAB Alynas,Lithuania,Alynas
+1517779609,2025-10-02,3.8,"","",Craft IPA,IPA - Fruited,5.5,UAB Alynas,Lithuania,Alynas
+1517779725,2025-10-02,3.8,"",Vilnius,Brooklyn Lager,Lager - Vienna,5.2,Brooklyn Brewery,United States,Don Simon Picos namai
+1517779830,2025-10-02,3.5,"","",Varniuku Tamsusis,Dark Ale,5.2,UAB Alynas,Lithuania,Alynas
+1517780940,2025-10-02,3.5,"","",Humulupu IPA,IPA - Session,5.0,Dundulis,Lithuania,Don Simon Picos namai
+1517782216,2025-10-02,0.5,"Første øl i Vilinius
+
+Meget smagløs","",Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,PANK'olis Airport
+1517782634,2025-10-02,3.8,"Vieną alaus, prašau","",Ekstra Draught,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Hotel City Gate Vilnius
+1517783444,2025-10-02,3.3,"","",Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Etno dvaras
