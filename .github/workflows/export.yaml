@@ -2,6 +2,7 @@ name: Export data from Datastore to BigQuery
 
 on:
   workflow_dispatch:
+  workflow_call:
 
 jobs:
   export:
