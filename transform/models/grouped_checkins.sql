@@ -4,6 +4,7 @@ SELECT
     beer_name,
     beer_style,
     brewery_name,
+    brewery_country,
     case when venue_name = 'Nisha craft Capital'
          then 'Nisha Craft Capital'
          else venue_name

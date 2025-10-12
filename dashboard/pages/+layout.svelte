@@ -5,6 +5,6 @@
 	export let data;
 </script>
 
-<EvidenceDefaultLayout {data} hideSidebar={true} logo='logo.png' githubRepo='https://github.com/2m/vilnius-pub' neverShowQueries={true}>
+<EvidenceDefaultLayout {data} hideSidebar={true} hideTOC={true} logo='/logo.png' githubRepo='https://github.com/2m/vilnius-pub' neverShowQueries={true}>
 	<slot slot="content" />
 </EvidenceDefaultLayout>
