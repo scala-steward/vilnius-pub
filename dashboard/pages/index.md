@@ -2,6 +2,14 @@
 title: What people are drinking in Vilnius?
 ---
 
+Welcome to the Vilnius Pub! We are looking at daily check-ins from [Untappd][] users in Vilnius and trying to understand what people are drinking.
+
+On this page you can find a general overview of all data. For more specific insights, check out one of the subpages:
+* [new beers and venues](/new) - tracks beers and venues that have been seen for the first time in Vilnius
+* [trends over time](/trends) - how the beer scene in Vilnius changes over time
+
+[Untappd]: https://untappd.com
+
 ```sql last_week_checkins
 select SUM(daily_checkin_sum) as checkin_count
 from vilnius_pub.daily_checkins
@@ -90,11 +98,14 @@ where day_start_date between '${inputs.date_filter.start}' and '${inputs.date_fi
     <ReferencePoint x="2025-09-13" y=2100 label="Putoja 2025" labelPosition=top/>
 </LineChart>
 
-## Top beer styles
+### Top beer styles
 
 ```sql beer_styles
-select beer_style as name, cnt as value
+select beer_style as name, sum(cnt) as value
 from vilnius_pub.beer_styles
+where checkin_date between '${inputs.date_filter.start}' and '${inputs.date_filter.end}'
+group by all
+order by value desc
 limit 10
 ```
 
@@ -113,11 +124,14 @@ limit 10
     }
 }/>
 
-## Top breweries
+### Top breweries
 
 ```sql breweries
-select brewery_name as name, cnt as value
+select brewery_name as name, sum(cnt) as value
 from vilnius_pub.breweries
+where checkin_date between '${inputs.date_filter.start}' and '${inputs.date_filter.end}'
+group by all
+order by value desc
 limit 10
 ```
 
@@ -136,11 +150,14 @@ limit 10
     }
 }/>
 
-## Top venues
+### Top venues
 
 ```sql venues
-select venue_name as name, cnt as value
+select venue_name as name, sum(cnt) as value
 from vilnius_pub.venues
+where checkin_date between '${inputs.date_filter.start}' and '${inputs.date_filter.end}'
+group by all
+order by value desc
 limit 10
 ```
 
