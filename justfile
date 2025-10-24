@@ -45,3 +45,6 @@ dashboard-dev:
 
 dashboard-build:
     cd dashboard; bun run build
+
+dashboard-serve:
+    cd dashboard; bun run preview
