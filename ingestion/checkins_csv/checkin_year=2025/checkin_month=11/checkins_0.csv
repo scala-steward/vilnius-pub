@@ -203,3 +203,51 @@ checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_a
 1525899329,2025-11-02,3.5,"",Shanghai,Nida,Wheat Beer - Hefeweizen,4.5,:Belike brewing,Lithuania,Local Pub
 1525903499,2025-11-02,3.8,"",Minsk,Atpūtys,Bitter - Session / Ordinary,4.9,Tikras Alus,Lithuania,Alaus kolonėlė
 1525913460,2025-11-02,3.8,"",Vilnius,Karpių Dvaro alus,Porter - Baltic,5.8,UAB Joalda,Lithuania,Verslo Centras 135 Terrace
+1525978741,2025-11-03,2.0,"","",Vilkmergės Premium Lager,Lager - Helles,5.0,Vilkmerges Alus,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1525978778,2025-11-03,2.5,"","Veldhoven, Nederland",Vilkmergės Premium Lager,Lager - Helles,5.0,Vilkmerges Alus,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1525978784,2025-11-03,3.0,"","",Vilkmergės Premium Lager,Lager - Helles,5.0,Vilkmerges Alus,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1525979030,2025-11-03,3.3,"","",Balta Pinta,Wheat Beer - Hefeweizen,5.0,Volfas Engelman,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1525979088,2025-11-03,3.0,"","",Balta Pinta,Wheat Beer - Hefeweizen,5.0,Volfas Engelman,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1525980111,2025-11-03,3.5,"","",Baltas,Wheat Beer - Hefeweizen,5.2,Vilkmerges Alus,Lithuania,Grill London
+1525982844,2025-11-03,3.5,"","Bergen, Norway",Daujotų Kvietinis,Wheat Beer - Hefeweizen,5.1,Davra Alaus Darykla,Lithuania,Šnekutis
+1525983549,2025-11-03,3.8,"","",Grimbergen Dubbel,Belgian Dubbel,6.5,Brouwerij Alken-Maes,Belgium,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1525984458,2025-11-03,2.0,"","",Baltijos,Märzen,5.8,Švyturys,Lithuania,Charlie Pizza
+1525984575,2025-11-03,2.3,"","",Baltijos,Märzen,5.8,Švyturys,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1525985603,2025-11-03,3.5,Inoffensive and easy.,"",Gutstoutas,Stout - Oatmeal,5.0,Širvėnos bravoras DUNDULIS,Lithuania,Lokys
+1525989398,2025-11-03,3.8,"","",Kopparberg Pear,Cider - Perry / Poiré,4.5,Kopparbergs Bryggeri,Sweden,Šeškines fontanas
+1525990209,2025-11-03,5.0,"","",Spontaan Gaard - Prium 2024,Lambic - Other,6.8,Lubrow Brett & Barrel,Poland,Alaus kolonėlė
+1525994475,2025-11-03,2.8,"","",Henry Westons Medium Dry Vintage Cider,Cider - Dry,8.2,Westons Cider,England,Grazi Vietele
+1525996832,2025-11-03,3.5,"","",Festbier Laggwe,Festbier,5.7,Sakiškės Brewery / Sakiškių Alus,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1525996966,2025-11-03,3.8,"","Bergen, Norway",English Porter,Porter - English,5.4,Bear & Boar,Lithuania,Alaus Biblioteka
+1525997910,2025-11-03,3.8,"","",Hazelnut Brown Ale,Brown Ale - English,6.0,Sakiškės Brewery / Sakiškių Alus,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1525999575,2025-11-03,3.8,"","",Smoked Rye Honey Ale,Honey Beer,5.7,Sakiškės Brewery / Sakiškių Alus,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1526000297,2025-11-03,4.0,"","",Cactus Lychee,IPA - Milkshake,5.0,Bear & Boar,Lithuania,Pas mokytoja Dalia
+1526000572,2025-11-03,4.0,"",Shanghai,Green Monster IPA,IPA - American,6.0,Green Monster Brewery,Lithuania,Alaus kolonėlė
+1526000657,2025-11-03,3.8,"","",Coconut Milk Stout,Stout - Milk / Sweet,4.7,Sakiškės Brewery / Sakiškių Alus,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1526001295,2025-11-03,3.3,"","Bergen, Norway",Gubernija Duonos Gira / Dark Rye Bread Kvass,Kvass,0.5,Gubernija Brewery,Lithuania,Alaus Biblioteka
+1526005303,2025-11-03,4.0,"Light, funky and citrus flavours. Low carbonation.","",Dundulis Saison,Farmhouse Ale - Saison,6.2,Dundulis,Lithuania,Smagus Raugas beershop
+1526007524,2025-11-03,3.8,"",Shanghai,Varniukų Tamsus,Dark Ale,5.6,Davra Alaus Darykla,Lithuania,Haze Pub
+1526008675,2025-11-03,4.0,"","",It Was the Yeast All Along,IPA - Triple New England / Hazy,10.0,White Dog Brewery,Netherlands,Nisha Craft Capital
+1526009042,2025-11-03,2.3,prisiminiau kad nemegstu,"",Guinness Draught,Stout - Irish Dry,4.2,Guinness,Ireland,Estrada
+1526010459,2025-11-03,3.0,"Easy IPA. Not too hoppy, refreshing and smooth.","",Humulupu IPA,IPA - Session,5.0,Dundulis,Lithuania,Etmonų Špunka
+1526010724,2025-11-03,3.5,"","",Baltic Porter,Porter - Baltic,8.5,Nepo Brewing,Poland,Nisha Craft Capital
+1526011283,2025-11-03,3.5,"","Bergen, Norway",Senolių Senovinis,Farmhouse Ale - Other,6.0,Su Puta,Lithuania,Alaus Biblioteka
+1526013898,2025-11-03,5.0,"","","Barrel Series #10: Wild Pretty Pineapple & Pistachio Rioja Wine Barrel Aged",Wild Ale - Other,5.2,Magic Road,Poland,Nisha Craft Capital
+1526014132,2025-11-03,4.3,"","",Repo Man,Stout - Imperial / Double,11.0,Mad Scientist,Hungary,Nisha Craft Capital
+1526015491,2025-11-03,3.5,"",Shanghai,Senolių Senovinis,Farmhouse Ale - Other,6.0,Su Puta,Lithuania,Alaus Biblioteka
+1526016738,2025-11-03,3.8,"",Shanghai,Uus Maailm,IPA - Session,4.7,Põhjala,Estonia,Alaus Biblioteka
+1526020141,2025-11-03,3.5,"","Bergen, Norway",Botaninės Istorijos - Apynys,Bitter - Session / Ordinary,5.5,Genys Brewing Co.,Lithuania,Alaus Biblioteka
+1526021679,2025-11-03,3.8,"",Shanghai,Pineapple Breeze,IPA - Milkshake,5.0,Bear & Boar,Lithuania,Alaus Biblioteka
+1526021963,2025-11-03,3.8,"",Shanghai,English Porter,Porter - English,5.4,Bear & Boar,Lithuania,Alaus Biblioteka
+1526022040,2025-11-03,4.0,Cracking West Coast IPA.,"",Break Point,IPA - American,6.5,PINTA,Poland,Local Pub
+1526023645,2025-11-03,3.8,"",Shanghai,Alaus Biblioteka | 400 (Bourbon Barrel Aged 2024),Stout - Imperial / Double Milk,11.5,Alaus Biblioteka ,Lithuania,Alaus Biblioteka
+1526025522,2025-11-03,3.8,"Дзень стаўта, значыць дзень стаўта. Дома быў знойдзены толькі гэты. Кава, ваніль, шакалад – карацей, усё, што на бэйджы намалявана","",Coffeelicious Special,Stout - Milk / Sweet,6.3,Piwne Podziemie / Beer Underground,Poland,Philly Steak & Cake
+1526028950,2025-11-03,3.8,"",Shanghai,Jovarų Šnekutis,Farmhouse Ale - Other,6.0,A. Udrienes I.Į. Jovarų Alus,Lithuania,Šnekutis
+1526029256,2025-11-03,3.8,"","Bergen, Norway",Alaus Biblioteka | 400 (Bourbon Barrel Aged 2024),Stout - Imperial / Double Milk,11.5,Alaus Biblioteka ,Lithuania,Alaus Biblioteka
+1526031883,2025-11-03,4.5,"",Vilnius,RADIANT,IPA - Imperial / Double New England / Hazy,8.2,Hopalaa,Latvia,Rasos cemetery (Rasų kapinės)
+1526035856,2025-11-03,4.5,"Super smooth, rich and chocolate. Rare find in Vilnius.","",Baltic Porter Day 2023,Porter - Imperial / Double Baltic,10.0,Põhjala,Estonia,Alaus Biblioteka
+1526036111,2025-11-03,4.3,"",Vilnius,HOPKIEF TRIADA / TDH IPA,IPA - New England / Hazy,6.9,Hopalaa,Latvia,Rasos cemetery (Rasų kapinės)
+1526036186,2025-11-03,3.8,"",Shanghai,Imperial Granola Stout,Stout - Imperial / Double,10.2,Sakiškės Brewery / Sakiškių Alus,Lithuania,Smagus Raugas beershop
+1526036257,2025-11-03,4.8,"",Vilnius,Ārpus x Nerdbrewing Coconut x Vanilla x Maple Imperial Stout,Stout - Imperial / Double,12.0,Ārpus Brewing Co.,Latvia,Rasos cemetery (Rasų kapinės)
+1526038647,2025-11-03,3.0,"","",Infochemicals,IPA - Imperial / Double New England / Hazy,7.9,Blackout Brewing,Romania,Alaus Biblioteka
+1526041971,2025-11-03,2.8,"","",1664,Lager - Pale,5.5,Kronenbourg Brewery,France,Sothys Paris
