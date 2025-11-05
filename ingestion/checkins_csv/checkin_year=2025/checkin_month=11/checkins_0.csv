@@ -244,10 +244,63 @@ checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_a
 1526025522,2025-11-03,3.8,"Дзень стаўта, значыць дзень стаўта. Дома быў знойдзены толькі гэты. Кава, ваніль, шакалад – карацей, усё, што на бэйджы намалявана","",Coffeelicious Special,Stout - Milk / Sweet,6.3,Piwne Podziemie / Beer Underground,Poland,Philly Steak & Cake
 1526028950,2025-11-03,3.8,"",Shanghai,Jovarų Šnekutis,Farmhouse Ale - Other,6.0,A. Udrienes I.Į. Jovarų Alus,Lithuania,Šnekutis
 1526029256,2025-11-03,3.8,"","Bergen, Norway",Alaus Biblioteka | 400 (Bourbon Barrel Aged 2024),Stout - Imperial / Double Milk,11.5,Alaus Biblioteka ,Lithuania,Alaus Biblioteka
-1526031883,2025-11-03,4.5,"",Vilnius,RADIANT,IPA - Imperial / Double New England / Hazy,8.2,Hopalaa,Latvia,Rasos cemetery (Rasų kapinės)
+1526031883,2025-11-03,4.5,"",Vilnius,RADIANT,IPA - Imperial / Double New England / Hazy,8.2,Hopalaa,Latvia,Rasų kapinės | Rasos cemetery (Rasų kapinės)
 1526035856,2025-11-03,4.5,"Super smooth, rich and chocolate. Rare find in Vilnius.","",Baltic Porter Day 2023,Porter - Imperial / Double Baltic,10.0,Põhjala,Estonia,Alaus Biblioteka
-1526036111,2025-11-03,4.3,"",Vilnius,HOPKIEF TRIADA / TDH IPA,IPA - New England / Hazy,6.9,Hopalaa,Latvia,Rasos cemetery (Rasų kapinės)
+1526036111,2025-11-03,4.3,"",Vilnius,HOPKIEF TRIADA / TDH IPA,IPA - New England / Hazy,6.9,Hopalaa,Latvia,Rasų kapinės | Rasos cemetery (Rasų kapinės)
 1526036186,2025-11-03,3.8,"",Shanghai,Imperial Granola Stout,Stout - Imperial / Double,10.2,Sakiškės Brewery / Sakiškių Alus,Lithuania,Smagus Raugas beershop
-1526036257,2025-11-03,4.8,"",Vilnius,Ārpus x Nerdbrewing Coconut x Vanilla x Maple Imperial Stout,Stout - Imperial / Double,12.0,Ārpus Brewing Co.,Latvia,Rasos cemetery (Rasų kapinės)
+1526036257,2025-11-03,4.8,"",Vilnius,Ārpus x Nerdbrewing Coconut x Vanilla x Maple Imperial Stout,Stout - Imperial / Double,12.0,Ārpus Brewing Co.,Latvia,Rasų kapinės | Rasos cemetery (Rasų kapinės)
 1526038647,2025-11-03,3.0,"","",Infochemicals,IPA - Imperial / Double New England / Hazy,7.9,Blackout Brewing,Romania,Alaus Biblioteka
 1526041971,2025-11-03,2.8,"","",1664,Lager - Pale,5.5,Kronenbourg Brewery,France,Sothys Paris
+1526087780,2025-11-04,5.0,"","",Lady In Grey (Batch 10),Farmhouse Ale - Grisette,4.8,Sante Adairius Rustic Ales,United States,Alaus kolonėlė
+1526092107,2025-11-04,4.5,Tiesiai nuo konvejerio 🤝,"Vilnius, Lithuania",Smoked Helles,Rauchbier,4.8,Sakiškės Brewery / Sakiškių Alus,Lithuania,Dūmų Fabrikas
+1526094107,2025-11-04,4.0,Classy example of a traditional PB,"Vilnius, Lithuania",Baltic Porter,Porter - Baltic,9.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Dūmų Fabrikas
+1526096324,2025-11-04,4.0,"","Bergen, Norway",Gutstoutas,Stout - Oatmeal,5.0,Širvėnos bravoras DUNDULIS,Lithuania,Šnekutis
+1526100152,2025-11-04,3.3,"","Bergen, Norway",Špunka Pils,Pilsner - Czech / Bohemian,4.8,Dundulis,Lithuania,Šnekutis
+1526102579,2025-11-04,3.8,"","",Lemon Haze,Kölsch,5.0,Blackout Brewing,Romania,Alaus Biblioteka
+1526104581,2025-11-04,2.5,"","",Vampipiras,Spiced / Herbed Beer,4.9,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1526104651,2025-11-04,3.0,"","",Medaus Mėnuo (Honeymoon),Lager - Pale,4.9,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1526104710,2025-11-04,5.0,"","Vilnius, Lithuania",HARD Kombucha Mango Passion,Hard Kombucha / Jun,5.0,Genys Brewing Co.,Lithuania,Dėvėti
+1526104753,2025-11-04,3.5,"","",KIPšAs,IPA - American,5.5,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1526104859,2025-11-04,2.5,"","",Tamsi Praeitis (Dark Past),Lager - Dark,4.9,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1526104931,2025-11-04,2.3,"","",Šviesi Ateitis (Bright Future),Lager - Pale,4.8,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1526107400,2025-11-04,3.5,"",Vilnius,§11,Lager - Helles,5.0,Dundulis,Lithuania,Baras Šuo
+1526107549,2025-11-04,3.0,"","",Amber City Lager,Lager - Pale,5.0,Vilniaus Alus,Lithuania,Aerottoria
+1526108735,2025-11-04,4.0,"","",Razor Thin Margins,IPA - Imperial / Double New England / Hazy,7.4,White Dog Brewery,Netherlands,Nisha Craft Capital
+1526111470,2025-11-04,3.8,"","Bergen, Norway",Kurkas Keptinis,Farmhouse Ale - Other,5.3,Dundulis,Lithuania,Beer House
+1526112427,2025-11-04,2.8,"","",Kita Pusė,IPA - White / Wheat,5.5,Dundulis,Lithuania,Špunka
+1526114588,2025-11-04,3.0,"","",Asahi Super Dry,Lager - Japanese Rice,5.0,Asahi Breweries,Japan,Sakai Ramen Bar
+1526115688,2025-11-04,4.5,"","",Ārpus x Frontaal TDH Enigma x Vic Secret DIPA,IPA - Imperial / Double New England / Hazy,8.0,Ārpus Brewing Co.,Latvia,Nisha Craft Capital
+1526116087,2025-11-04,4.0,"","",Razor Thin Margins,IPA - Imperial / Double New England / Hazy,7.4,White Dog Brewery,Netherlands,Nisha Craft Capital
+1526116352,2025-11-04,3.5,"","",Balamundi,Pale Ale - Other,5.0,O/O Brewing ,Sweden,Nisha Craft Capital
+1526116374,2025-11-04,3.5,"",Vilnius,Bon Sapor Chocolate Stout,Stout - Other,5.5,Ibiero Brewing JSC,Vietnam,Aquarius Brewery
+1526116589,2025-11-04,3.8,"","",London Black,Porter - English,4.4,Anspach & Hobday,England,Nisha Craft Capital
+1526118840,2025-11-04,3.8,"","Bergen, Norway",Keptinis,Traditional Ale,5.0,Sakiškės Brewery / Sakiškių Alus,Lithuania,Beer House
+1526120858,2025-11-04,4.0,"","",Origin IPA,IPA - New England / Hazy,5.8,Basker Brewing Co.,Lithuania,Sakai Ramen Bar
+1526120938,2025-11-04,3.5,"","",Ārpus X Ten Men Raspberry X Red Currant X Black Currant X Blueberry X Vanilla Smoothie Sour,Sour - Smoothie / Pastry,4.5,Ārpus Brewing Co.,Latvia,Nisha Craft Capital
+1526121049,2025-11-04,2.8,"","",Carlsberg,Pilsner - Other,5.0,Carlsberg Group,Denmark,Action! by Apollo
+1526122824,2025-11-04,3.5,"Vasarinukas. Lengvas ananasas. Kas gerai, kad saldumas minimalus. Bijojau sirupo. Nešildo. Bet troba šilta. Tai nereikia.",Vilnius. Lithuania.,Czas Letni,Pale Ale - Fruited,4.5,Browar Za Miastem,Poland,Satyrikon'o Būdelė
+1526124415,2025-11-04,4.5,Wow……,"Bergen, Norway",Kovarnių,Smoked Beer,6.2,Dundulis,Lithuania,Beer House
+1526124853,2025-11-04,4.3,Cracking NEIPA with a beautiful balance of hops and malt.,"",7 Year Anniversary QDH IPA,IPA - New England / Hazy,6.8,Ārpus Brewing Co.,Latvia,Nisha Craft Capital
+1526128752,2025-11-04,4.0,"","",Sure Shot,IPA - New England / Hazy,6.5,Third Moon Brewing Company,Canada,Nisha Craft Capital
+1526128957,2025-11-04,4.0,"","",Dubbelnelson,IPA - Imperial / Double New England / Hazy,8.5,Stigbergets Bryggeri,Sweden,Nisha Craft Capital
+1526132117,2025-11-04,3.5,"","Bergen, Norway",Uus Maailm,IPA - Session,4.7,Põhjala,Estonia,Alaus Biblioteka
+1526135066,2025-11-04,4.0,"","",Lemon Haze,Kölsch,5.0,Blackout Brewing,Romania,Alaus Biblioteka
+1526135699,2025-11-04,4.3,"Super smooth and toasty. Rich, thick and chocolate. Delicious.","",Pearotechnic - Amaretto Infused,Stout - Imperial / Double,11.2,Mannenpap,Netherlands,Nisha Craft Capital
+1526136017,2025-11-04,3.8,"",Vilnius,BIX Beveik Nirvana,Pilsner - Other,5.0,Genys Brewing Co.,Lithuania,ramybės
+1526136812,2025-11-04,3.3,"","",To Pačio,Cider - Dry,5.5,Sidručiai MB,Lithuania,Nisha Craft Capital
+1526138251,2025-11-04,3.8,"","",Kastanje Brown Ale,Brown Ale - English,5.6,Herslev Bryghus,Denmark,ibis Vilnius Centre
+1526140792,2025-11-04,3.8,"","",Humulupu IPA,IPA - Session,5.0,Dundulis,Lithuania,Šnekutis
+1526140817,2025-11-04,3.5,"","Bergen, Norway",Citra IPA,IPA - American,5.4,Bear & Boar,Lithuania,Alaus Biblioteka
+1526142211,2025-11-04,4.0,"","",Écho,IPA - New England / Hazy,7.0,Noctem Artisans Brasseurs,Canada,Nisha Craft Capital
+1526142625,2025-11-04,4.5,Ну не дарэмна,"",PORGS IN A BLANKET,IPA - Imperial / Double New England / Hazy,8.7,Deep Fried Beers,United States,Nisha Craft Capital
+1526146660,2025-11-04,4.5,Tiramisu in a glass. Bonkers.,"",Angry Rooster,Stout - Imperial / Double Pastry,11.0,Seven Island Brewery,Greece,Nisha Craft Capital
+1526147263,2025-11-04,4.0,"","",Økologisk Double IPA,IPA - Imperial / Double,8.3,Herslev Bryghus,Denmark,ibis Vilnius Centre
+1526148549,2025-11-04,4.3,"","",King Church,IPA - Imperial / Double New England / Hazy,8.0,Omnipollo,Sweden,Nisha Craft Capital
+1526151066,2025-11-04,4.0,"","Bergen, Norway",Baltic Porter Day 2024,Porter - Imperial / Double Baltic,10.0,Põhjala,Estonia,Alaus Biblioteka
+1526155771,2025-11-04,3.8,Баяністы баян аказаўся раней не пітым. Ну вяленькая пшанічка,"",Bawarka,Wheat Beer - Hefeweizen,5.7,PINTA,Poland,Local Pub
+1526156101,2025-11-04,3.8,"Польскія іпашкі ну зусім не натхняюць больш, хаця б у олд-скул зрабілі, было б больш прыкольна","",Break Point,IPA - American,6.5,PINTA,Poland,Local Pub
+1526156335,2025-11-04,3.8,"","Bergen, Norway",Spaten München / Münchner Hell / Premium Lager,Lager - Helles,5.2,Spaten-Franziskaner-Löwenbräu-Gruppe,Germany,Alaus Biblioteka
+1526161439,2025-11-04,4.0,Skanus kokteilis. Ne alus. Ir pavalgai ir atsigeri.,Vilnius. Lithuania.,Smoothie Bowl - Green Morning,Sour - Smoothie / Pastry,5.1,Nepo Brewing,Poland,Satyrikon'o Būdelė
+1526164111,2025-11-04,4.0,Geras wc. Retas mūsų kraštuose. Kartumo - saldumo balansas idealus. Gal tik žoliškumo kiek jaučiasi. Man tai ne trūkumas.,Vilnius. Lithuania.,Sunny Ride,IPA - American,6.5,Browar Stu Mostów,Poland,Satyrikon'o Būdelė
+1526164345,2025-11-04,3.8,"","",Špunka Pils,Pilsner - Czech / Bohemian,4.8,Dundulis,Lithuania,Artagonist Art Hotel
+1526169200,2025-11-05,4.5,Paskutinis. Gėrio atsargos pasibaigė. Labai liūdna ir neramu.,Vilnius. Lithuania.,Pan IPAni,IPA - White / Wheat,6.0,Trzech Kumpli,Poland,Satyrikon'o Būdelė
