@@ -3,3 +3,5 @@ dbt.log
 .user.yml
 .evidence
 gha-creds-*.json
+.venv
+node_modules
