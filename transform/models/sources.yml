@@ -1,8 +1,8 @@
 version: 2
 
 sources:
-  - name: main
-    database: untappd
-    tables:
-      - name: checkins
-        description: Untapped Checkin data
+- name: main
+  database: untappd
+  tables:
+  - name: checkins
+    description: Untapped Checkin data
