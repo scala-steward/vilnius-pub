@@ -35,7 +35,7 @@ jobs:
     - name: 'Build dashboard'
       run: just dashboard-build
 
-    - uses: actions/upload-pages-artifact@v3
+    - uses: actions/upload-pages-artifact@v4
       with:
         path: 'dashboard/build'
     - uses: actions/deploy-pages@v4
