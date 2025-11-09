@@ -28,4 +28,4 @@ jobs:
     - name: 'From DuckDB to CSV'
       run: just duckdb-to-csv
 
-    - uses: stefanzweifel/git-auto-commit-action@v6
+    - uses: stefanzweifel/git-auto-commit-action@v7
