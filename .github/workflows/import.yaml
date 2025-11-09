@@ -14,7 +14,7 @@ jobs:
     steps:
     - uses: 'actions/checkout@v5'
     - uses: extractions/setup-just@v3
-    - uses: opt-nc/setup-duckdb-action@v1.1.3
+    - uses: opt-nc/setup-duckdb-action@v1.1.4
 
     # DuckDB BigQuery extension does not support WIF. Therefore we need to
     # use service account key here.
