@@ -1006,3 +1006,264 @@ checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_a
 1528168240,2025-11-14,5.0,"«Ммм, как вкусно!»",Vilnius,Tabalis: Saigon Charlie,Sour - Tomato / Vegetable Gose,5.7,Lake Terror,Lithuania,Verslo Centras 135 Terrace
 1528171701,2025-11-14,4.8,"",Vilnius,Westmalle Trappist Tripel,Belgian Tripel,9.5,Brouwerij der Trappisten van Westmalle,Belgium,Verslo Centras 135 Terrace
 1528175982,2025-11-14,3.0,"","",Organic Tattoo Lager,Lager - Pale,4.0,Genys Brewing Co.,Lithuania,Baras Kernagis
+1528243093,2025-11-14,3.0,"","",APA,Pale Ale - American,5.0,Būsi Trečias,Lithuania,Lietuvos Policijos Mokykla
+1528243122,2025-11-14,3.3,"","",Juodas,Lager - Dark,6.7,Būsi Trečias,Lithuania,Teniso centras
+1528244840,2025-11-14,3.3,"1e keer dat ik Квас zuip. Prima spul, heel erg aan de zoete kant maar daar wen je wel aan.","",Tauras Gira Nefiltruota,Kvass,1.2,Kalnapilis Brewery,Lithuania,Baking Mad Hidden Lab
+1528252191,2025-11-14,3.0,"","",Craft Sidras,Cider - Traditional / Apfelwein,5.4,Vilkmerges Alus,Lithuania,Kišenėlė
+1528253150,2025-11-14,2.8,"","",Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Kišenėlė
+1528255051,2025-11-14,4.0,Lekker jong,"",Dark Lager (Černý ležák),Lager - Tmavé (Czech Dark),5.0,Bernard Family Brewery,Czech Republic,Baras ir vinilas
+1528259683,2025-11-14,4.0,"","",Argus El Bravos,Spiced / Herbed Beer,6.0,Lidl Polska,Poland,Kišenėlė
+1528259763,2025-11-14,3.5,"",London & Riga,Lvivske 1715 (Львівське 1715),Lager - Pale,4.5,Carlsberg Ukraine,Ukraine,Fish & Ale
+1528260578,2025-11-14,3.0,"","",Kanapinis Šviesusis / Kanapinis Light,Lager - Pale,5.1,Aukštaitijos Bravorai,Lithuania,Baras Kernagis
+1528260917,2025-11-14,3.0,"","",Baltas (White),Wheat Beer - Hefeweizen,5.0,Švyturys,Lithuania,Kišenėlė
+1528261035,2025-11-14,2.0,"",Oslo,Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Artis Centrum Hotel
+1528262385,2025-11-14,3.0,"","",Citra IPA,IPA - American,5.4,Bear & Boar,Lithuania,Local Pub
+1528262575,2025-11-14,3.3,Pretty good wheat beer,London & Riga,Münchner Weisse,Wheat Beer - Hefeweizen,5.1,Staatliches Hofbräuhaus München,Germany,Fish & Ale
+1528262656,2025-11-14,3.8,"","",Citra IPA,IPA - American,5.4,Bear & Boar,Lithuania,Local Pub
+1528263151,2025-11-14,3.5,"","",Opening Hours,Stout - Irish Dry,4.5,PINTA,Poland,Local Pub
+1528263556,2025-11-14,3.5,"","",Opening Hours,Stout - Irish Dry,4.5,PINTA,Poland,Local Pub
+1528264499,2025-11-14,3.3,"","",Nutty,Brown Ale - Imperial / Double,8.0,Funky Fluid,Poland,Local Pub
+1528265145,2025-11-14,3.0,"","",Daujotų,Farmhouse Ale - Other,5.8,Davra Alaus Darykla,Lithuania,Baras Kernagis
+1528265373,2025-11-14,2.8,"","",La Deutsche Vita,Pilsner - Italian,4.9,Straßenbräu,Germany,Cukatos
+1528265645,2025-11-14,3.0,"","",Wave Maker,IPA - American,6.5,PINTA,Poland,Local Pub
+1528265650,2025-11-14,2.3,"","",Franken,Kellerbier / Zwickelbier,4.7,:Belike brewing,Lithuania,Cukatos
+1528266372,2025-11-14,3.5,"","",Opening Hours,Stout - Irish Dry,4.5,PINTA,Poland,Keisti ženklai
+1528268857,2025-11-14,2.3,"","",Kwas Jota,Sour - Fruited,4.0,PINTA,Poland,Local Pub
+1528269234,2025-11-14,3.5,"","",Kwas Jota,Sour - Fruited,4.0,PINTA,Poland,Local Pub
+1528269384,2025-11-14,3.3,"",London & Riga,Normalipa,IPA - American,5.8,Basker Brewing Co.,Lithuania,Ryžių jūra
+1528277835,2025-11-14,3.5,"","",Dark Forest / Tamsus Miškas,Porter - Baltic,6.0,Genys Brewing Co.,Lithuania,Šnekutis
+1528278731,2025-11-14,3.3,"","",Gutstoutas,Stout - Oatmeal,5.0,Širvėnos bravoras DUNDULIS,Lithuania,Šnekutis
+1528279091,2025-11-14,2.8,"","",Gutstoutas,Stout - Oatmeal,5.0,Širvėnos bravoras DUNDULIS,Lithuania,Šnekutis
+1528279479,2025-11-14,3.5,"","",Sirvenos Nefiltruotas,Other,6.0,Biržų Alus ,Lithuania,Alaus kolonėlė
+1528280210,2025-11-14,1.5,"","",Dark Forest / Tamsus Miškas,Porter - Baltic,6.0,Genys Brewing Co.,Lithuania,Šnekutis
+1528281479,2025-11-14,4.5,"Вкусный жёлтый савэр это прям не частость, а даже порой и редкость.","",Early Earth (PULP),Sour - Smoothie / Pastry,5.0,Elmeleven,Sweden,Def Enjoy
+1528281861,2025-11-14,3.8,"","",Save the King,Bitter - Extra Special / Strong (ESB),5.0,PINTA,Poland,Local Pub
+1528281892,2025-11-14,4.3,"","",Bukolika Guayaba,Sour - Smoothie / Pastry,6.0,Sáez & Son,Spain,Def Enjoy
+1528283209,2025-11-14,3.0,"","",BIX Beveik Nirvana,Pilsner - Other,5.0,Genys Brewing Co.,Lithuania,Drops
+1528287445,2025-11-14,3.5,"","",Wave Maker,IPA - American,6.5,PINTA,Poland,Local Pub
+1528289094,2025-11-14,4.3,"","",Bukolika Guayaba,Sour - Smoothie / Pastry,6.0,Sáez & Son,Spain,Def Enjoy
+1528289920,2025-11-14,4.0,"",Lithuania,Murgil,IPA - New England / Hazy,5.8,GROSS,Spain,Def Enjoy
+1528290107,2025-11-14,4.3,"","",Early Earth (PULP),Sour - Smoothie / Pastry,5.0,Elmeleven,Sweden,Def Enjoy
+1528290354,2025-11-14,4.0,"","",Murgil,IPA - New England / Hazy,5.8,GROSS,Spain,Def Enjoy
+1528290942,2025-11-14,4.0,"","","WILL IT FLOAT #7",Sour - Smoothie / Pastry,6.0,White Dog Brewery,Netherlands,Nisha Craft Capital
+1528291375,2025-11-14,3.8,"",Vilnius,Osmose,IPA - New England / Hazy,6.0,Norm Brewing,Belgium,Def Enjoy
+1528293013,2025-11-14,3.8,"Ultra smokey, i like it. Girlfriend says it smells of soviet-era toilet bleach...",London & Riga,Kovarnių,Smoked Beer,6.2,Dundulis,Lithuania,Beer House
+1528293851,2025-11-14,2.5,"","",Sakura,Fruit Beer,5.0,Bear & Boar,Lithuania,Alaus kolonėlė
+1528294204,2025-11-14,3.5,"","",Cherry Sour Biere De Champagne,Bière de Champagne / Bière Brut,6.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1528294521,2025-11-14,3.8,"","",Minterstellar,Sour - Fruited,6.0,Anderson's Brewery,Estonia,Alaus Biblioteka
+1528294782,2025-11-14,4.0,"","",beyond the ordinary,IPA - Imperial / Double New England / Hazy,8.2,everywhere,United States,Nisha Craft Capital
+1528296473,2025-11-14,4.3,"","",Sweet Needle,IPA - Imperial / Double New England / Hazy,8.0,Factory Brewing,Finland,Def Enjoy
+1528298245,2025-11-14,4.0,"",Vilnius,Murgil,IPA - New England / Hazy,5.8,GROSS,Spain,Def Enjoy
+1528299190,2025-11-14,3.5,"","",Cold Delivery,IPA - Cold,6.5,PINTA,Poland,Local Pub
+1528299273,2025-11-14,4.0,"","",Murgil,IPA - New England / Hazy,5.8,GROSS,Spain,Def Enjoy
+1528299567,2025-11-14,3.5,"","",Save the King,Bitter - Extra Special / Strong (ESB),5.0,PINTA,Poland,Local Pub
+1528299996,2025-11-14,3.8,"","",Nelson Sauvignon / Sauvin Brut,Bière de Champagne / Bière Brut,10.5,Mikkeller,Denmark,Def Enjoy
+1528300576,2025-11-14,3.5,"","",Kita Pusė,IPA - White / Wheat,5.5,Dundulis,Lithuania,Špunka
+1528301052,2025-11-14,4.0,"","",Nelson Sauvin Brut Champagne Barrels!,Bière de Champagne / Bière Brut,9.0,Mikkeller,Denmark,Def Enjoy
+1528301146,2025-11-14,2.5,"","",DeJAVU,Wheat Beer - Witbier / Blanche,5.0,Dundulis,Lithuania,Špunka
+1528301218,2025-11-14,3.8,"","",Nelson Sauvin Brut Champagne Barrels!,Bière de Champagne / Bière Brut,9.0,Mikkeller,Denmark,Def Enjoy
+1528301603,2025-11-14,4.0,"",Lithuania,Nelson Sauvin Brut Champagne Barrels!,Bière de Champagne / Bière Brut,9.0,Mikkeller,Denmark,Def Enjoy
+1528301725,2025-11-14,3.8,"","",Nelson Sauvin Brut Champagne Barrels!,Bière de Champagne / Bière Brut,9.0,Mikkeller,Denmark,Def Enjoy
+1528301853,2025-11-14,4.0,"Вытрымка каля 5-6 гадоў. Кіслаты няма, дзікасць ёсць, далікатна","",Nelson Sauvin Brut Champagne Barrels!,Bière de Champagne / Bière Brut,9.0,Mikkeller,Denmark,Def Enjoy
+1528303108,2025-11-14,4.0,"","",Nelson Sauvin Brut Champagne Barrels!,Bière de Champagne / Bière Brut,9.0,Mikkeller,Denmark,Def Enjoy
+1528303761,2025-11-14,4.0,"","",Bukolika Guayaba,Sour - Smoothie / Pastry,6.0,Sáez & Son,Spain,Def Enjoy
+1528303791,2025-11-14,0.0,"","",SUPER 8 IPA,IPA - Belgian,6.0,Brouwerij Haacht Brasserie,Belgium,Beer House
+1528304151,2025-11-14,4.0,"","",Horn of Plenty,IPA - Imperial / Double New England / Hazy,8.0,Hop Hooligans,Romania,Def Enjoy
+1528307425,2025-11-14,4.0,"","","Avilys: Amarillo, Citra, El Dorado, Magnum",IPA - New England / Hazy,7.0,Lake Terror,Lithuania,Def Enjoy
+1528307508,2025-11-14,4.0,"","","Avilys: Amarillo, Citra, El Dorado, Magnum",IPA - New England / Hazy,7.0,Lake Terror,Lithuania,Def Enjoy
+1528307566,2025-11-14,3.5,"","",IPA,IPA - American,5.3,Klausučių Bravoras (UAB Armėniukas),Lithuania,Devinkė
+1528308534,2025-11-14,3.8,На фоне півавара.,"","Avilys: Amarillo, Citra, El Dorado, Magnum",IPA - New England / Hazy,7.0,Lake Terror,Lithuania,Def Enjoy
+1528308661,2025-11-14,4.3,"","",Horn of Plenty,IPA - Imperial / Double New England / Hazy,8.0,Hop Hooligans,Romania,Def Enjoy
+1528310157,2025-11-14,3.8,"",Lithuania,"Avilys: Amarillo, Citra, El Dorado, Magnum",IPA - New England / Hazy,7.0,Lake Terror,Lithuania,Def Enjoy
+1528310920,2025-11-14,3.0,"","",Keturi Vėjai (Four Winds),Kölsch,4.9,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Augustin
+1528311418,2025-11-14,4.5,"","","Vaisietis: Mango, Banana, Passion Fruit, Lime",Sour - Smoothie / Pastry,6.0,Lake Terror,Lithuania,Def Enjoy
+1528311526,2025-11-14,3.5,"","",Kwas Jota,Sour - Fruited,4.0,PINTA,Poland,Local Pub
+1528311620,2025-11-14,4.0,"","",IPA4,IPA - American,6.4,DouGall's,Spain,Alaus kolonėlė
+1528311679,2025-11-14,4.3,"","","Vaisietis: Mango, Banana, Passion Fruit, Lime",Sour - Smoothie / Pastry,6.0,Lake Terror,Lithuania,Def Enjoy
+1528311984,2025-11-14,3.8,"","",Ambrosia,Dark Ale,5.0,Dundulis,Lithuania,Savičiaus Špunka
+1528312144,2025-11-14,4.3,Неверагодны топ. Бананы ў водары пруць,"","Vaisietis: Mango, Banana, Passion Fruit, Lime",Sour - Smoothie / Pastry,6.0,Lake Terror,Lithuania,Def Enjoy
+1528312415,2025-11-14,3.5,"","",Ambrosia,Dark Ale,5.0,Dundulis,Lithuania,Savičiaus Špunka
+1528312436,2025-11-14,4.5,"",Lithuania,"Vaisietis: Mango, Banana, Passion Fruit, Lime",Sour - Smoothie / Pastry,6.0,Lake Terror,Lithuania,Def Enjoy
+1528312443,2025-11-14,3.3,"","",Gedimino,Pilsner - Other,4.7,Rinkuškiai,Lithuania,Twinsbet Arena (Siemens Arena)
+1528312930,2025-11-14,3.5,"","","Avilys: Amarillo, Citra, El Dorado, Magnum",IPA - New England / Hazy,7.0,Lake Terror,Lithuania,Def Enjoy
+1528313004,2025-11-14,4.0,"Įdomu. Nelsonas su Mozaika praktiškai paslepia dūmą. Bet skonis tai vis dar grynas rūkytas kvietys. Man patinka. Aišku vėl. 2.8 laipsnio nešildo. Vasarą neradau, tai dabar tenka kaštavoti.",Vilnius. Lithuania.,Fizzy,Grodziskie / Grätzer,2.8,Funky Fluid,Poland,Satyrikon'o Būdelė
+1528313101,2025-11-14,4.0,"","",beyond the ordinary,IPA - Imperial / Double New England / Hazy,8.2,everywhere,United States,Nisha Craft Capital
+1528313175,2025-11-14,4.0,"","","Vaisietis: Mango, Banana, Passion Fruit, Lime",Sour - Smoothie / Pastry,6.0,Lake Terror,Lithuania,Def Enjoy
+1528314599,2025-11-14,4.5,"","",In Space Nobody Can Hear You Scream (PULP • w. Sudden Death),Sour - Smoothie / Pastry,5.0,Elmeleven,Sweden,Def Enjoy
+1528316575,2025-11-14,1.5,Жидкий картон,"",Star Lager,Lager - Pale,5.1,Nigerian Breweries PLC,Nigeria,Def Enjoy
+1528316850,2025-11-14,2.3,"","",Star Lager,Lager - Pale,5.1,Nigerian Breweries PLC,Nigeria,Def Enjoy
+1528317537,2025-11-14,2.5,"",Lithuania,Star Lager,Lager - Pale,5.1,Nigerian Breweries PLC,Nigeria,Def Enjoy
+1528317591,2025-11-14,1.5,"","","WILL IT FLOAT #13",Sour - Smoothie / Pastry,6.0,White Dog Brewery,Netherlands,Nisha Craft Capital
+1528317645,2025-11-14,2.5,🇳🇬 знайшоў у Вільні нігерыйскае,"",Star Lager,Lager - Pale,5.1,Nigerian Breweries PLC,Nigeria,Def Enjoy
+1528318360,2025-11-14,3.0,"","",Spyglys,IPA - Session,5.3,Pilialaukis,Lithuania,Panorama Hotel Vilnius
+1528318655,2025-11-14,2.3,"","",Star Lager,Lager - Pale,5.1,Nigerian Breweries PLC,Nigeria,Def Enjoy
+1528318834,2025-11-14,4.3,"","Vilnius, Lithuania",Anarkist New England IPA,IPA - New England / Hazy,5.4,Theodor Schiøtz Brewing Company,Denmark,Pilaitės biblioteka
+1528320095,2025-11-14,4.0,"","",Horn of Plenty,IPA - Imperial / Double New England / Hazy,8.0,Hop Hooligans,Romania,Def Enjoy
+1528322374,2025-11-14,3.5,"","",Pineapple Breeze,IPA - Milkshake,5.0,Bear & Boar,Lithuania,Alaus Biblioteka
+1528322471,2025-11-14,4.3,"","",Tabalis: Saigon Charlie,Sour - Tomato / Vegetable Gose,5.7,Lake Terror,Lithuania,Def Enjoy
+1528322754,2025-11-14,4.0,"","","WILL IT FLOAT #13",Sour - Smoothie / Pastry,6.0,White Dog Brewery,Netherlands,Nisha Craft Capital
+1528322808,2025-11-14,4.5,Острота ОК,"",Tabalis: Saigon Charlie,Sour - Tomato / Vegetable Gose,5.7,Lake Terror,Lithuania,Def Enjoy
+1528322939,2025-11-14,4.5,"","",Tabalis: Saigon Charlie,Sour - Tomato / Vegetable Gose,5.7,Lake Terror,Lithuania,Def Enjoy
+1528323048,2025-11-14,4.0,"",Vilnius,Murgil,IPA - New England / Hazy,5.8,GROSS,Spain,Def Enjoy
+1528323265,2025-11-14,4.0,"","",Sweet Needle,IPA - Imperial / Double New England / Hazy,8.0,Factory Brewing,Finland,Def Enjoy
+1528323914,2025-11-14,3.0,"","",Senolių Senovinis,Farmhouse Ale - Other,6.0,Su Puta,Lithuania,Alaus Biblioteka
+1528324031,2025-11-14,4.0,"","",Mental,IPA - Imperial / Double New England / Hazy,8.0,SOMA Beer,Spain,Def Enjoy
+1528324084,2025-11-14,4.3,Спецыі абсалютна топавыя),"",Tabalis: Saigon Charlie,Sour - Tomato / Vegetable Gose,5.7,Lake Terror,Lithuania,Def Enjoy
+1528324248,2025-11-14,3.8,"","",Pilsner Urquell,Pilsner - Czech / Bohemian,4.4,Plzeňský Prazdroj,Czech Republic,sodas 2123
+1528324409,2025-11-14,4.3,"","",Bukolika Guayaba,Sour - Smoothie / Pastry,6.0,Sáez & Son,Spain,Def Enjoy
+1528324775,2025-11-14,3.5,"",Vilnius,Grosstoberfest,Festbier,5.8,GROSS,Spain,Def Enjoy
+1528325918,2025-11-14,4.0,"","",Buntastic,Stout - Imperial / Double,13.0,Prairie Artisan Ales,United States,Nisha Craft Capital
+1528326587,2025-11-14,4.5,"","",Tabalis: Toscana Rippeccelli,Sour - Tomato / Vegetable Gose,5.7,Lake Terror,Lithuania,Def Enjoy
+1528327048,2025-11-14,4.0,"","",Tabalis: Toscana Rippeccelli,Sour - Tomato / Vegetable Gose,5.7,Lake Terror,Lithuania,Def Enjoy
+1528327391,2025-11-14,4.3,"","",Tabalis: Toscana Rippeccelli,Sour - Tomato / Vegetable Gose,5.7,Lake Terror,Lithuania,Def Enjoy
+1528327966,2025-11-14,4.3,Тут вастрыня прам зносіць з ног,"",Tabalis: Toscana Rippeccelli,Sour - Tomato / Vegetable Gose,5.7,Lake Terror,Lithuania,Def Enjoy
+1528328374,2025-11-14,4.5,"","",Tabalis: Saigon Charlie,Sour - Tomato / Vegetable Gose,5.7,Lake Terror,Lithuania,Def Enjoy
+1528328958,2025-11-14,4.5,"",Lithuania,Tabalis: Saigon Charlie,Sour - Tomato / Vegetable Gose,5.7,Lake Terror,Lithuania,Def Enjoy
+1528328995,2025-11-14,4.5,"","",Tabalis: Toscana Rippeccelli,Sour - Tomato / Vegetable Gose,5.7,Lake Terror,Lithuania,Def Enjoy
+1528329176,2025-11-14,4.3,"",Lithuania,Tabalis: Toscana Rippeccelli,Sour - Tomato / Vegetable Gose,5.7,Lake Terror,Lithuania,Def Enjoy
+1528329196,2025-11-14,4.3,"","",Gelato: Summer Salad,Sour - Smoothie / Pastry,5.5,Funky Fluid,Poland,Alaus kolonėlė
+1528330672,2025-11-14,4.3,"","",Buntastic (2022),Stout - Imperial / Double Pastry,12.2,Prairie Artisan Ales,United States,Nisha Craft Capital
+1528330741,2025-11-14,4.0,"Nice lightweight stout, very coconutty",London & Riga,Coconut Milk Stout,Stout - Milk / Sweet,4.7,Sakiškės Brewery / Sakiškių Alus,Lithuania,Algirdas City Hotels
+1528331030,2025-11-14,4.5,"","",Cherry Sour Biere De Champagne,Bière de Champagne / Bière Brut,6.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Nisha Craft Capital
+1528331152,2025-11-14,4.3,"","",Tabalis: Toscana Rippeccelli,Sour - Tomato / Vegetable Gose,5.7,Lake Terror,Lithuania,Def Enjoy
+1528331366,2025-11-14,4.3,"","",Blackbird,Sour - Smoothie / Pastry,5.0,Ophiussa,Portugal,Def Enjoy
+1528331423,2025-11-14,3.8,"","",Nightdream Stout,Stout - Milk / Sweet,5.0,Basker Brewing Co.,Lithuania,laiptine
+1528332227,2025-11-14,4.0,"","",HORAL's Oude Geuze Mega Blend (2019),Lambic - Gueuze,7.0,Brouwerij Boon,Belgium,Def Enjoy
+1528332236,2025-11-14,4.3,"","",HORAL's Oude Geuze Mega Blend (2019),Lambic - Gueuze,7.0,Brouwerij Boon,Belgium,Def Enjoy
+1528332900,2025-11-14,4.3,"","",HORAL's Oude Geuze Mega Blend (2019),Lambic - Gueuze,7.0,Brouwerij Boon,Belgium,Def Enjoy
+1528333188,2025-11-14,4.3,"","",HORAL's Oude Geuze Mega Blend (2019),Lambic - Gueuze,7.0,Brouwerij Boon,Belgium,Def Enjoy
+1528333228,2025-11-14,4.3,"","",HORAL's Oude Geuze Mega Blend (2019),Lambic - Gueuze,7.0,Brouwerij Boon,Belgium,Def Enjoy
+1528333376,2025-11-14,4.5,Кіслотнасць умераная. Вытрымка 6 гадоў. Зашыбіся,"",HORAL's Oude Geuze Mega Blend (2019),Lambic - Gueuze,7.0,Brouwerij Boon,Belgium,Def Enjoy
+1528334169,2025-11-14,3.5,"","",Schöfferhofer Hefeweizen,Wheat Beer - Hefeweizen,5.0,Radeberger Gruppe,Germany,Panorama Hotel Vilnius
+1528334267,2025-11-14,4.3,"",Vilnius,HORAL's Oude Geuze Mega Blend (2019),Lambic - Gueuze,7.0,Brouwerij Boon,Belgium,Def Enjoy
+1528335032,2025-11-14,3.8,"","",Mental,IPA - Imperial / Double New England / Hazy,8.0,SOMA Beer,Spain,Def Enjoy
+1528337321,2025-11-14,4.0,"",Minsk,Grosstoberfest,Festbier,5.8,GROSS,Spain,Def Enjoy
+1528338384,2025-11-14,4.0,"","",Mental,IPA - Imperial / Double New England / Hazy,8.0,SOMA Beer,Spain,Def Enjoy
+1528340901,2025-11-14,3.3,"","",Mönchshof Weihnachtsbier,Lager - Winter,5.6,Kulmbacher Brauerei,Germany,Def Enjoy
+1528341041,2025-11-14,3.0,"","",Mönchshof Weihnachtsbier,Lager - Winter,5.6,Kulmbacher Brauerei,Germany,Def Enjoy
+1528341208,2025-11-14,3.0,"","",Mönchshof Weihnachtsbier,Lager - Winter,5.6,Kulmbacher Brauerei,Germany,Def Enjoy
+1528341774,2025-11-14,3.5,"","",Humulupu IPA,IPA - Session,5.0,Dundulis,Lithuania,Bromas
+1528341809,2025-11-14,4.0,"",Vilnius,Effortless Motion,IPA - Triple New England / Hazy,10.0,Factory Brewing,Finland,Def Enjoy
+1528342108,2025-11-14,3.0,"Не зразумеў, што тут каляднага","",Mönchshof Weihnachtsbier,Lager - Winter,5.6,Kulmbacher Brauerei,Germany,Def Enjoy
+1528342254,2025-11-14,3.8,"","",Blitz,IPA - New England / Hazy,6.0,SOMA Beer,Spain,Def Enjoy
+1528342800,2025-11-14,3.5,"",Vilnius,Mönchshof Weihnachtsbier,Lager - Winter,5.6,Kulmbacher Brauerei,Germany,Def Enjoy
+1528343947,2025-11-14,3.5,"","",Jaipur,IPA - American,5.9,Thornbridge Brewery,England,sodas 2123
+1528344153,2025-11-14,3.8,"Licquorice, salty, unusual porter",London & Riga,Svart Salt,Porter - Other,5.8,OY Brewing,Faroe Islands,Algirdas City Hotels
+1528344181,2025-11-14,3.0,"",Lithuania,Mönchshof Weihnachtsbier,Lager - Winter,5.6,Kulmbacher Brauerei,Germany,Def Enjoy
+1528344239,2025-11-14,4.3,"","",Mental,IPA - Imperial / Double New England / Hazy,8.0,SOMA Beer,Spain,Def Enjoy
+1528344555,2025-11-14,0.0,"","",Blackbird,Sour - Smoothie / Pastry,5.0,Ophiussa,Portugal,Def Enjoy
+1528346478,2025-11-14,3.5,"","",Geros Progos,Bock - Doppelbock,8.0,Kauno Alus,Lithuania,Def Enjoy
+1528346683,2025-11-14,5.0,"","",Never Again Tomato Gose,Sour - Tomato / Vegetable Gose,6.0,Ārpus Brewing Co.,Latvia,Nisha Craft Capital
+1528346754,2025-11-14,3.8,"","",Geros Progos,Bock - Doppelbock,8.0,Kauno Alus,Lithuania,Def Enjoy
+1528347364,2025-11-14,3.5,"","",Geros Progos,Bock - Doppelbock,8.0,Kauno Alus,Lithuania,Def Enjoy
+1528347497,2025-11-14,3.5,Ебааать,"",Geros Progos,Bock - Doppelbock,8.0,Kauno Alus,Lithuania,Def Enjoy
+1528348332,2025-11-14,4.3,"","",Holé Molé - Bourbon Oaked,Stout - Imperial / Double,14.0,Bacchus Brewing Co.,Australia,Nisha Craft Capital
+1528348393,2025-11-14,4.5,"",Vilnius,Geros Progos,Bock - Doppelbock,8.0,Kauno Alus,Lithuania,Def Enjoy
+1528348527,2025-11-14,3.8,Ну гэта рэальна някепска. Раней толькі глядзеў на бутэльку і аблізваўся,"",Geros Progos,Bock - Doppelbock,8.0,Kauno Alus,Lithuania,Def Enjoy
+1528351002,2025-11-14,3.8,Интертейментас,"",Geros Progos,Bock - Doppelbock,8.0,Kauno Alus,Lithuania,Def Enjoy
+1528351626,2025-11-14,3.8,"",Vilnius,Geros Progos,Bock - Doppelbock,8.0,Kauno Alus,Lithuania,Def Enjoy
+1528352363,2025-11-14,3.5,"",Vilnius,Geros Progos,Bock - Doppelbock,8.0,Kauno Alus,Lithuania,Def Enjoy
+1528354728,2025-11-14,3.8,"","",Osmose,IPA - New England / Hazy,6.0,Norm Brewing,Belgium,Def Enjoy
+1528357703,2025-11-14,4.5,"","",Black Currantine BA,Wild Ale - American,7.0,Tanker Brewery,Estonia,Def Enjoy
+1528357787,2025-11-14,3.8,"","",Black Currantine BA,Wild Ale - American,7.0,Tanker Brewery,Estonia,Def Enjoy
+1528358111,2025-11-14,4.5,"","",Kosmosas (2018),Porter - Baltic,7.5,Green Monster Brewery,Lithuania,Nisha Craft Capital
+1528358407,2025-11-14,4.0,"",Vilnius,Black Currantine BA,Wild Ale - American,7.0,Tanker Brewery,Estonia,Def Enjoy
+1528358793,2025-11-14,4.3,"Калаба з Бакуніным. Смачна, ягады чутны, хоць і ў ламбік","",Black Currantine BA,Wild Ale - American,7.0,Tanker Brewery,Estonia,Def Enjoy
+1528359233,2025-11-14,4.3,"","",Black Currantine BA,Wild Ale - American,7.0,Tanker Brewery,Estonia,Def Enjoy
+1528359261,2025-11-14,4.5,"Невероятно, но факт!",Vilnius,Black Currantine BA,Wild Ale - American,7.0,Tanker Brewery,Estonia,Def Enjoy
+1528359390,2025-11-14,3.8,🍅🤝🫐,"",Black Currantine BA,Wild Ale - American,7.0,Tanker Brewery,Estonia,Def Enjoy
+1528359625,2025-11-14,4.3,Смуродзiна топчык,Minsk,The Forest Song,Sour - Fruited,5.0,Hop Hooligans,Romania,Def Enjoy
+1528360482,2025-11-14,4.0,Смуродзiна,"",The Forest Song,Sour - Fruited,5.0,Hop Hooligans,Romania,Def Enjoy
+1528361194,2025-11-14,4.0,"",Vilnius,The Forest Song,Sour - Fruited,5.0,Hop Hooligans,Romania,Def Enjoy
+1528361221,2025-11-14,4.3,"",Lithuania,Black Currantine BA,Wild Ale - American,7.0,Tanker Brewery,Estonia,Def Enjoy
+1528361633,2025-11-14,3.8,"","",Insouciant Red Wine Barrel Aged Mixed Fermentation Sour Ale,Sour - Fruited,7.5,Tanker Brewery,Estonia,Def Enjoy
+1528361711,2025-11-14,4.8,"","",Insouciant Red Wine Barrel Aged Mixed Fermentation Sour Ale,Sour - Fruited,7.5,Tanker Brewery,Estonia,Def Enjoy
+1528361831,2025-11-14,4.0,"",Vilnius,Insouciant Red Wine Barrel Aged Mixed Fermentation Sour Ale,Sour - Fruited,7.5,Tanker Brewery,Estonia,Def Enjoy
+1528361845,2025-11-14,4.0,"","",Insouciant Red Wine Barrel Aged Mixed Fermentation Sour Ale,Sour - Fruited,7.5,Tanker Brewery,Estonia,Def Enjoy
+1528362041,2025-11-14,3.3,"","",Geros Progos,Bock - Doppelbock,8.0,Kauno Alus,Lithuania,Def Enjoy
+1528362546,2025-11-14,4.3,"","",Black Currantine BA,Wild Ale - American,7.0,Tanker Brewery,Estonia,Def Enjoy
+1528362703,2025-11-14,4.3,"",Lithuania,Insouciant Red Wine Barrel Aged Mixed Fermentation Sour Ale,Sour - Fruited,7.5,Tanker Brewery,Estonia,Def Enjoy
+1528362880,2025-11-14,4.0,"","",Insouciant Red Wine Barrel Aged Mixed Fermentation Sour Ale,Sour - Fruited,7.5,Tanker Brewery,Estonia,Def Enjoy
+1528363053,2025-11-14,4.3,"Дрэва, фландрыец","",Insouciant Red Wine Barrel Aged Mixed Fermentation Sour Ale,Sour - Fruited,7.5,Tanker Brewery,Estonia,Def Enjoy
+1528363247,2025-11-14,4.3,"","",Insouciant Red Wine Barrel Aged Mixed Fermentation Sour Ale,Sour - Fruited,7.5,Tanker Brewery,Estonia,Def Enjoy
+1528363623,2025-11-14,4.3,"",Vilnius,Insouciant Red Wine Barrel Aged Mixed Fermentation Sour Ale,Sour - Fruited,7.5,Tanker Brewery,Estonia,Def Enjoy
+1528365032,2025-11-14,3.3,"","",LIDSKAE Classic (ЛІДСКАЕ Класічнае),Lager - Pale,5.2,Lidskae Piva (Лідскае Піва),Belarus,Def Enjoy
+1528365836,2025-11-14,2.3,эээм…,Vilnius,LIDSKAE Classic (ЛІДСКАЕ Класічнае),Lager - Pale,5.2,Lidskae Piva (Лідскае Піва),Belarus,Def Enjoy
+1528365845,2025-11-14,4.0,"","",LIDSKAE Classic (ЛІДСКАЕ Класічнае),Lager - Pale,5.2,Lidskae Piva (Лідскае Піва),Belarus,Def Enjoy
+1528366194,2025-11-14,3.0,"","",LIDSKAE Classic (ЛІДСКАЕ Класічнае),Lager - Pale,5.2,Lidskae Piva (Лідскае Піва),Belarus,Def Enjoy
+1528366559,2025-11-14,2.0,"","",LIDSKAE Classic (ЛІДСКАЕ Класічнае),Lager - Pale,5.2,Lidskae Piva (Лідскае Піва),Belarus,Def Enjoy
+1528366575,2025-11-14,3.3,"Прывет з радзімы, але з еўракрышачкай)","",LIDSKAE Classic (ЛІДСКАЕ Класічнае),Lager - Pale,5.2,Lidskae Piva (Лідскае Піва),Belarus,Def Enjoy
+1528366588,2025-11-14,2.5,"",Vilnius,LIDSKAE Classic (ЛІДСКАЕ Класічнае),Lager - Pale,5.2,Lidskae Piva (Лідскае Піва),Belarus,Def Enjoy
+1528367927,2025-11-14,3.5,"","",Humulupu IPA,IPA - Session,5.0,Dundulis,Lithuania,Šiuolaikinio meno centras | Contemporary Art Center
+1528368668,2025-11-14,4.0,+1 за каралеўскi гроўлер; +2 за лужу пiва,Minsk,Geros Progos,Bock - Doppelbock,8.0,Kauno Alus,Lithuania,Def Enjoy
+1528368959,2025-11-14,4.3,"",Vilnius,Doom Island,IPA - New England / Hazy,6.5,Seven Island Brewery,Greece,Nisha Craft Capital
+1528369213,2025-11-14,3.0,"",Lithuania,LIDSKAE Classic (ЛІДСКАЕ Класічнае),Lager - Pale,5.2,Lidskae Piva (Лідскае Піва),Belarus,Def Enjoy
+1528374646,2025-11-14,3.5,"",Vilnius,Guinness Foreign Extra Stout (Nigeria),Stout - Foreign / Export,7.5,Guinness Nigeria,Nigeria,Def Enjoy
+1528375020,2025-11-14,3.5,"","",Guinness Foreign Extra Stout (Nigeria),Stout - Foreign / Export,7.5,Guinness Nigeria,Nigeria,Def Enjoy
+1528375034,2025-11-14,3.8,"","",Guinness Foreign Extra Stout (Nigeria),Stout - Foreign / Export,7.5,Guinness Nigeria,Nigeria,Def Enjoy
+1528375437,2025-11-14,3.5,"",Vilnius,Guinness Foreign Extra Stout (Nigeria),Stout - Foreign / Export,7.5,Guinness Nigeria,Nigeria,Def Enjoy
+1528376872,2025-11-14,4.5,"",Vilnius,Boa - Jamaican Rum B.A,Stout - Imperial / Double Coffee,12.6,Les Intenables - Craft Beer,France,Def Enjoy
+1528377154,2025-11-14,3.8,"",Lithuania,Guinness Foreign Extra Stout (Nigeria),Stout - Foreign / Export,7.5,Guinness Nigeria,Nigeria,Def Enjoy
+1528377277,2025-11-14,2.0,"","",Spaten München / Münchner Hell / Premium Lager,Lager - Helles,5.2,Spaten-Franziskaner-Löwenbräu-Gruppe,Germany,adata
+1528378882,2025-11-14,3.8,"",Lobith (NL),Tamsi Praeitis (Dark Past),Lager - Dark,4.9,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1528380128,2025-11-14,4.0,"","",Daydreamer 2025,IPA - Imperial / Double New England / Hazy,8.0,Factory Brewing,Finland,Def Enjoy
+1528380293,2025-11-14,3.0,"","",Aecht Schlenkerla A La Grodziskie,Grodziskie / Grätzer,2.9,"Schlenkerla (""Heller-Bräu"" Trum)",Germany,adata
+1528380450,2025-11-14,0.0,"",Minsk,Subsurface (PULP • w. Arpus),Sour - Smoothie / Pastry,5.0,Elmeleven,Sweden,Def Enjoy
+1528380639,2025-11-14,4.3,"","",Apple Pie Lullaby,Stout - Imperial / Double Pastry,14.0,Hop Hooligans,Romania,Def Enjoy
+1528382219,2025-11-14,5.0,"","",Pi Kvadratu,Stout - Imperial / Double Oatmeal,9.8,Dundulis,Lithuania,Špunka
+1528382476,2025-11-14,3.8,"","",Kita Pusė,IPA - White / Wheat,5.5,Dundulis,Lithuania,Savičiaus Špunka
+1528382774,2025-11-14,4.3,База,"",DDH Citra + Mosaic,IPA - Imperial / Double New England / Hazy,8.5,Other Half Brewing Co.,United States,Def Enjoy
+1528383372,2025-11-14,3.3,"","",Horn of Plenty,IPA - Imperial / Double New England / Hazy,8.0,Hop Hooligans,Romania,Def Enjoy
+1528383523,2025-11-14,2.5,pikkujoulut,"",Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Come to Vilnius | Apartment
+1528384648,2025-11-14,4.3,Ну ў Азэ халф заўжды ахуенна,"",DDH Citra + Mosaic,IPA - Imperial / Double New England / Hazy,8.5,Other Half Brewing Co.,United States,Def Enjoy
+1528384661,2025-11-14,5.0,"",Vilnius,DDH Citra + Mosaic,IPA - Imperial / Double New England / Hazy,8.5,Other Half Brewing Co.,United States,Def Enjoy
+1528384662,2025-11-14,4.3,"",Lithuania,DDH Citra + Mosaic,IPA - Imperial / Double New England / Hazy,8.5,Other Half Brewing Co.,United States,Def Enjoy
+1528385472,2025-11-14,3.0,"","",LIDSKAE Classic (ЛІДСКАЕ Класічнае),Lager - Pale,5.2,Lidskae Piva (Лідскае Піва),Belarus,Def Enjoy
+1528385936,2025-11-14,3.5,"","",Guinness Foreign Extra Stout (Nigeria),Stout - Foreign / Export,7.5,Guinness Nigeria,Nigeria,Def Enjoy
+1528386279,2025-11-14,4.0,"",Vilnius,Bukolika Guayaba,Sour - Smoothie / Pastry,6.0,Sáez & Son,Spain,Def Enjoy
+1528386383,2025-11-14,4.3,"","",DDH Citra + Mosaic,IPA - Imperial / Double New England / Hazy,8.5,Other Half Brewing Co.,United States,Def Enjoy
+1528389270,2025-11-14,3.8,"","",Šviesus,Lager - Pale,5.0,Būsi Trečias,Lithuania,Būsi Trečias
+1528389475,2025-11-14,3.3,"","",Šviesus,Lager - Pale,5.0,Būsi Trečias,Lithuania,Būsi Trečias
+1528390140,2025-11-14,3.8,"","",Juodas,Lager - Dark,6.7,Būsi Trečias,Lithuania,Būsi Trečias
+1528390177,2025-11-14,3.5,"","",Juodas,Lager - Dark,6.7,Būsi Trečias,Lithuania,Būsi Trečias
+1528391645,2025-11-14,3.8,"","",Crisp Air,IPA - Cold,5.2,Grimm Artisanal Ales,United States,Def Enjoy
+1528392165,2025-11-14,4.0,"","",Crisp Air,IPA - Cold,5.2,Grimm Artisanal Ales,United States,Def Enjoy
+1528392537,2025-11-14,4.0,Паслухаў лекцыю чым колд адрозніваецца ад іпл),"",Crisp Air,IPA - Cold,5.2,Grimm Artisanal Ales,United States,Def Enjoy
+1528392733,2025-11-14,4.0,"",Lithuania,Crisp Air,IPA - Cold,5.2,Grimm Artisanal Ales,United States,Def Enjoy
+1528392895,2025-11-14,4.3,"",Vilnius,Crisp Air,IPA - Cold,5.2,Grimm Artisanal Ales,United States,Def Enjoy
+1528396272,2025-11-14,4.5,клубникаааа,Vilnius,Subsurface (PULP • w. Arpus),Sour - Smoothie / Pastry,5.0,Elmeleven,Sweden,Def Enjoy
+1528401119,2025-11-14,4.0,"",Lobith (NL),Incognito Oaked Barley Wine,Barleywine - Other,13.0,Õllenaut,Estonia,Nisha Craft Capital
+1528404577,2025-11-14,5.0,"","",Publijus Palemonas,Porter - Baltic,7.2,Širvėnos bravoras DUNDULIS,Lithuania,Špunka
+1528405328,2025-11-14,4.3,"","",Effortless Motion,IPA - Triple New England / Hazy,10.0,Factory Brewing,Finland,Def Enjoy
+1528405818,2025-11-14,3.8,"","",Crisp Air,IPA - Cold,5.2,Grimm Artisanal Ales,United States,Def Enjoy
+1528405956,2025-11-14,4.0,"","",Effortless Motion,IPA - Triple New England / Hazy,10.0,Factory Brewing,Finland,Def Enjoy
+1528406503,2025-11-14,4.3,"","",Eureka,Sour - Smoothie / Pastry,5.0,Ophiussa,Portugal,Def Enjoy
+1528423099,2025-11-14,3.8,"","",Tinginio Pantis - Kriaušių,Cider - Perry / Poiré,4.5,Gubernija Brewery,Lithuania,Peronas
+1528423291,2025-11-14,3.3,"","",Humulupu IPA,IPA - Session,5.0,Dundulis,Lithuania,Garinis Angelas
+1528423390,2025-11-14,4.3,"","",Blackbird,Sour - Smoothie / Pastry,5.0,Ophiussa,Portugal,Def Enjoy
+1528423519,2025-11-14,1.8,"","",Tinginio Pantis - Kriaušių,Cider - Perry / Poiré,4.5,Gubernija Brewery,Lithuania,Peronas
+1528424135,2025-11-14,3.5,"","",Anarkist New England IPA,IPA - New England / Hazy,5.4,Theodor Schiøtz Brewing Company,Denmark,Backstage Cafe
+1528425987,2025-11-14,4.0,"","",Blackbird,Sour - Smoothie / Pastry,5.0,Ophiussa,Portugal,Def Enjoy
+1528427499,2025-11-14,3.0,"","",Kalnapilis Original,Lager - Pale,5.0,Kalnapilis Brewery,Lithuania,Katpėdėlė
+1528427932,2025-11-14,4.3,"",Lithuania,Blackbird,Sour - Smoothie / Pastry,5.0,Ophiussa,Portugal,Def Enjoy
+1528431983,2025-11-14,4.5,"",Lobith (NL),Slippery Slope,Stout - Imperial / Double Oatmeal,12.0,Moersleutel Craft Brewery,Netherlands,Nisha Craft Capital
+1528433120,2025-11-14,3.0,"","",Kalnapilis Original,Lager - Pale,5.0,Kalnapilis Brewery,Lithuania,Katpėdėlė
+1528439837,2025-11-14,4.0,"",Vilnius,Before Party: Australian IPA,IPA - Other,6.0,Funky Fluid,Poland,Naujamiestis
+1528443418,2025-11-14,4.3,"","","Lady Cupcake #8 (Coconut, Coffee & Cinnamon)",Stout - Imperial / Double Pastry,11.5,Factory Brewing,Finland,Def Enjoy
+1528446005,2025-11-14,4.0,"","",Gregorius,Belgian Quadrupel,10.5,Stift Engelszell,Austria,Brussels Mussels Centrum
+1528446237,2025-11-14,4.0,"","",Bukolika Guayaba,Sour - Smoothie / Pastry,6.0,Sáez & Son,Spain,Def Enjoy
+1528447901,2025-11-14,3.8,"Kaip ir viskas ok. Bet tad dolbanas stilius visvien nevykęs. Nei šis nei tas. Noris kūno, gauni lavoną. Na tai irgi kūnas, bet šaltas, nemielas.",Vilnius. Lithuania.,Two of Us,IPA - Cold,6.5,Browar Artezan,Poland,Satyrikon'o Būdelė
+1528451740,2025-11-15,1.0,"","",Gutstoutas,Stout - Oatmeal,5.0,Širvėnos bravoras DUNDULIS,Lithuania,BIX Baras
+1528451906,2025-11-15,4.0,"",Vilnius,Bloom,IPA - New England / Hazy,6.0,Hop Hooligans,Romania,Naujamiestis
+1528452410,2025-11-15,2.8,"","",Asahi Super Dry,Lager - Japanese Rice,5.0,Asahi Breweries,Japan,sodas 2123
+1528458384,2025-11-15,2.0,kokisbissee. suut makiaks,"",Double Horn,Lager - Dark,4.0,Alsteka,Lithuania,Garinis Angelas
+1528459359,2025-11-15,2.5,"",Vilnius,Timișoreana,Lager - Pale,5.0,Ursus Breweries SA,Romania,Aquarius Brewery
+1528462369,2025-11-15,4.0,"","",Pineapple Breeze,IPA - Milkshake,5.0,Bear & Boar,Lithuania,Beer House
+1528463638,2025-11-15,4.3,"","","Lady Cupcake #8 (Coconut, Coffee & Cinnamon)",Stout - Imperial / Double Pastry,11.5,Factory Brewing,Finland,Def Enjoy
+1528466610,2025-11-15,3.5,"",Vilnius,Irish Red Nitro,Red Ale - Irish,4.3,O'Hara's Brewery ,Ireland,Aquarius Brewery
+1528482891,2025-11-15,3.3,"",Vilnius,Solar,IPA - New England / Hazy,6.8,Norm Brewing,Belgium,Def Enjoy
+1528511500,2025-11-15,3.8,"","",Slava Ukraini!,IPA - Imperial / Double New England / Hazy,8.0,Ophiussa,Portugal,Def Enjoy
+1528515165,2025-11-15,0.0,"","",Daydreamer 2025,IPA - Imperial / Double New England / Hazy,8.0,Factory Brewing,Finland,Def Enjoy
+1528540974,2025-11-15,3.8,"","",Californication / Kalifornikacija,Pale Ale - American,4.5,Genys Brewing Co.,Lithuania,Haze Pub
+1528541401,2025-11-15,3.5,"","",Californication / Kalifornikacija,Pale Ale - American,4.5,Genys Brewing Co.,Lithuania,Haze Pub
+1528556763,2025-11-15,4.0,"Абсалютна някепская неіпка, дарма хэйцяць 🇪🇸","",Murgil,IPA - New England / Hazy,5.8,GROSS,Spain,Def Enjoy
