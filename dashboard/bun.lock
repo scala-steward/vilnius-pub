@@ -14,7 +14,7 @@
         "@evidence-dev/mssql": "^1.1.3",
         "@evidence-dev/mysql": "^1.1.4",
         "@evidence-dev/postgres": "^1.0.8",
-        "@evidence-dev/snowflake": "^1.2.2",
+        "@evidence-dev/snowflake": "^1.2.3",
         "@evidence-dev/source-javascript": "^0.0.3",
         "@evidence-dev/sqlite": "^2.0.7",
         "@evidence-dev/trino": "^1.0.9",
@@ -335,7 +335,7 @@
 
     "@evidence-dev/sdk": ["@evidence-dev/sdk@3.0.9", "", { "dependencies": { "@brianmd/citty": "^0.0.1", "@clack/prompts": "^0.7.0", "@evidence-dev/icons": "^1.0.2", "@evidence-dev/telemetry": "^2.1.3", "@evidence-dev/universal-sql": "2.2.10", "@steeze-ui/simple-icons": "^1.7.1", "@steeze-ui/tabler-icons": "^2.1.1", "@types/estree": "^1.0.5", "@types/express": "^4.17.21", "@types/jsdom": "^21.1.6", "@types/lodash.chunk": "^4.2.7", "@types/lodash.merge": "^4.6.9", "@types/node": "^20.11.0", "@typescript-eslint/typescript-estree": "^6.18.1", "@uwdata/mosaic-sql": "^0.10.0", "@vitest/coverage-v8": "3.0.5", "chalk": "^5.3.0", "chokidar": "^3.5.3", "deep-object-diff": "^1.1.9", "eslint": "^8.56.0", "eslint-config-prettier": "^9.1.0", "eslint-plugin-svelte": "^2.35.1", "estree-walker": "^3.0.3", "express": "^4.18.2", "highlight.js": "^11.9.0", "jsdom": "^23.2.0", "lodash.chunk": "^4.2.0", "lodash.merge": "^4.6.2", "mdsvex": "^0.11.0", "nanoid": "3.3.8", "ora": "^8.0.1", "perfect-debounce": "^1.0.0", "pkg-types": "^1.0.3", "prettier": "^3.1.1", "prettier-plugin-svelte": "^3.1.2", "recast": "^0.23.4", "svelte-sequential-preprocessor": "^2.0.1", "sveltekit-autoimport": "^1.7.1", "vite": "5.4.14", "vitest": "^2.1.9", "yaml": "^2.3.4", "zod": "^3.23.7" }, "peerDependencies": { "@evidence-dev/universal-sql": "2.2.10", "nanoid": "3.3.8", "perfect-debounce": "^1.0.0", "svelte": "^4.2.19" }, "bin": { "evidence-sdk": "src/cli.js" } }, "sha512-dxGPX4qhecRV4HShbl3qLTye5V7obbyQG9S7m81pR+UN/zyRxMmqmbmWKU5DD61SdcteUsk5LdZ2ccNeykLZ0w=="],
 
-    "@evidence-dev/snowflake": ["@evidence-dev/snowflake@1.2.2", "", { "dependencies": { "@evidence-dev/db-commons": "1.0.6", "asn1.js": "^5.0.0", "fs-extra": "^11.2.0", "node-fetch": "^3.3.1", "open": "^9.1.0", "snowflake-sdk": "1.9.0" } }, "sha512-LE8/6hvmdaQXniOaJ+InDu60olC3iTtKOTal3ybDHQ5njziQsXyb4mHDc606rf1Rbu11R9zgkxOyCkoP9wvh4Q=="],
+    "@evidence-dev/snowflake": ["@evidence-dev/snowflake@1.2.3", "", { "dependencies": { "@evidence-dev/db-commons": "1.1.0", "asn1.js": "^5.0.0", "fs-extra": "^11.2.0", "node-fetch": "^3.3.1", "open": "^9.1.0", "snowflake-sdk": "1.9.0" } }, "sha512-6+T3evYf4pWVY0ySVygWnBmSTLmLqA6WeQW1G8Y8sLz5sFvBSgvgZklJFb3kJfKR2lird7PFkHQptrpG7sjZwg=="],
 
     "@evidence-dev/source-javascript": ["@evidence-dev/source-javascript@0.0.3", "", { "dependencies": { "@evidence-dev/db-commons": "^1.0.5" } }, "sha512-8q20aiK4DEz4p2hKQIZU87MfipPM8jMEhaN7y8CFilTUruqS+1tqFFnn+V0YFg0GcF0JoCzGZ0LX+g3+SzpXuA=="],
 
@@ -2348,6 +2348,8 @@
     "@evidence-dev/preprocess/unist-util-visit": ["unist-util-visit@2.0.3", "", { "dependencies": { "@types/unist": "^2.0.0", "unist-util-is": "^4.0.0", "unist-util-visit-parents": "^3.0.0" } }, "sha512-iJ4/RczbJMkD0712mGktuGpm/U4By4FfDonL7N/9tATGIF4imikjOuagyMY53tnZq3NP6BcmlrHhEKAfGWjh7Q=="],
 
     "@evidence-dev/sdk/@uwdata/mosaic-sql": ["@uwdata/mosaic-sql@0.10.0", "", {}, "sha512-tPsgrHO8zTwLFMBR+BiG4fskK9RSbH+nXS9ju8433NDq3qicAq4Z46CnYpCs0vWIR7AUAxMvncqP6YPbiQhOug=="],
+
+    "@evidence-dev/snowflake/@evidence-dev/db-commons": ["@evidence-dev/db-commons@1.1.0", "", { "dependencies": { "fs-extra": "11.2.0" } }, "sha512-ZKuRWblgApC6X0BHXt4StZgYC2nQ4uoz2yRAoVAi+ua96WUxmpoawOIELlH0TYtZYcDvuu4C3yxuX/MPAHTX0w=="],
 
     "@evidence-dev/universal-sql/apache-arrow": ["apache-arrow@17.0.0", "", { "dependencies": { "@swc/helpers": "^0.5.11", "@types/command-line-args": "^5.2.3", "@types/command-line-usage": "^5.0.4", "@types/node": "^20.13.0", "command-line-args": "^5.2.1", "command-line-usage": "^7.0.1", "flatbuffers": "^24.3.25", "json-bignum": "^0.0.3", "tslib": "^2.6.2" }, "bin": { "arrow2csv": "bin/arrow2csv.cjs" } }, "sha512-X0p7auzdnGuhYMVKYINdQssS4EcKec9TCXyez/qtJt32DrIMGbzqiaMiQ0X6fQlQpw8Fl0Qygcv4dfRAr5Gu9Q=="],
 
