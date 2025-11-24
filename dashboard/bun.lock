@@ -4,7 +4,7 @@
     "": {
       "name": "my-evidence-project",
       "dependencies": {
-        "@evidence-dev/bigquery": "^2.0.10",
+        "@evidence-dev/bigquery": "^2.0.11",
         "@evidence-dev/core-components": "^5.4.0",
         "@evidence-dev/csv": "^1.0.14",
         "@evidence-dev/databricks": "^1.0.8",
@@ -307,7 +307,7 @@
 
     "@eslint/js": ["@eslint/js@8.57.1", "", {}, "sha512-d9zaMRSTIKDLhctzH12MtXvJKSSUhaHcjV+2Z+GK+EEY7XKpP5yR4x+N3TAcHTcu963nIr+TMcCb4DBCYX1z6Q=="],
 
-    "@evidence-dev/bigquery": ["@evidence-dev/bigquery@2.0.10", "", { "dependencies": { "@evidence-dev/db-commons": "1.0.6", "@google-cloud/bigquery": "6.2.0", "fs-extra": "11.2.0", "google-auth-library": "^9.6.3" } }, "sha512-BE/HdKm4TYm9nsJTgR+nEsqPmBjb+5CtqH/zdmVfNYRfm2UoMVfBuIP3l/e9810X6DdAYHIvV+M33sb6+aWm8g=="],
+    "@evidence-dev/bigquery": ["@evidence-dev/bigquery@2.0.11", "", { "dependencies": { "@evidence-dev/db-commons": "1.1.0", "@google-cloud/bigquery": "6.2.0", "fs-extra": "11.2.0", "google-auth-library": "^9.6.3" } }, "sha512-R6hnenm+stJkCzORm9YyIkPoWcSKthqRFCUNxw3bDmmZmi0/N9tDEFbJt7N5EkMpl0nSyE7UUZJT94Ul4cYiUQ=="],
 
     "@evidence-dev/component-utilities": ["@evidence-dev/component-utilities@4.0.11", "", { "dependencies": { "@evidence-dev/sdk": "4.0.0", "@steeze-ui/simple-icons": "^1.7.1", "@steeze-ui/svelte-icon": "1.5.0", "@steeze-ui/tabler-icons": "2.1.1", "@tidyjs/tidy": "2.5.2", "@uwdata/mosaic-sql": "^0.3.2", "debounce": "^1.2.1", "downloadjs": "1.4.7", "echarts": "5.6.0", "ssf": "^0.11.2", "svelte": "4.2.19" } }, "sha512-esiAbrTjzuQpC8wIFT/RQOKaaPgfR90Yys0g1sSspROkehcgTpyJ4kCefx8Pxs8FmbepwtRM3C6oZyf322vWpw=="],
 
@@ -317,7 +317,7 @@
 
     "@evidence-dev/databricks": ["@evidence-dev/databricks@1.0.8", "", { "dependencies": { "@databricks/sql": "1.7.1", "@evidence-dev/db-commons": "1.0.6" } }, "sha512-lF4L/VPqMrNpIrxsQr0TXHcKypR1hlOTuLPqxAbNC00FXKldFtTn8paZQZjfojNytXt4+Ma2KzyapVSGa3cNxA=="],
 
-    "@evidence-dev/db-commons": ["@evidence-dev/db-commons@1.0.6", "", { "dependencies": { "fs-extra": "11.2.0" } }, "sha512-H1lpfbY4UNkONJaHRqIP5t/zBSbPnO5e5JUIc8iPorDUp+ZqXbJNh00iexYAYDQVF/Ms/aM2PvhbooUmwLtVaQ=="],
+    "@evidence-dev/db-commons": ["@evidence-dev/db-commons@1.1.0", "", { "dependencies": { "fs-extra": "11.2.0" } }, "sha512-ZKuRWblgApC6X0BHXt4StZgYC2nQ4uoz2yRAoVAi+ua96WUxmpoawOIELlH0TYtZYcDvuu4C3yxuX/MPAHTX0w=="],
 
     "@evidence-dev/duckdb": ["@evidence-dev/duckdb@1.0.13", "", { "dependencies": { "@evidence-dev/db-commons": "1.0.6", "duckdb-async": "1.1.3" } }, "sha512-+VCtvrsFimQkpLArnZ0KmAlNqtSbx8tD1DVzVssAGxXiWlZVBh/AUbGtADju56ua6tNPkrYzZKqgOsI6/P6BtQ=="],
 
@@ -2363,9 +2363,15 @@
 
     "@eslint/eslintrc/minimatch": ["minimatch@3.1.2", "", { "dependencies": { "brace-expansion": "^1.1.7" } }, "sha512-J7p63hRiAjw1NDEww1W7i37+ByIrOWO5XQQAzZ3VOcL0PNybwpfmV/N05zFAzwQ9USyEcX6t3UO+K5aqBQOIHw=="],
 
-    "@evidence-dev/mssql/@evidence-dev/db-commons": ["@evidence-dev/db-commons@1.1.0", "", { "dependencies": { "fs-extra": "11.2.0" } }, "sha512-ZKuRWblgApC6X0BHXt4StZgYC2nQ4uoz2yRAoVAi+ua96WUxmpoawOIELlH0TYtZYcDvuu4C3yxuX/MPAHTX0w=="],
+    "@evidence-dev/csv/@evidence-dev/db-commons": ["@evidence-dev/db-commons@1.0.6", "", { "dependencies": { "fs-extra": "11.2.0" } }, "sha512-H1lpfbY4UNkONJaHRqIP5t/zBSbPnO5e5JUIc8iPorDUp+ZqXbJNh00iexYAYDQVF/Ms/aM2PvhbooUmwLtVaQ=="],
 
-    "@evidence-dev/postgres/@evidence-dev/db-commons": ["@evidence-dev/db-commons@1.1.0", "", { "dependencies": { "fs-extra": "11.2.0" } }, "sha512-ZKuRWblgApC6X0BHXt4StZgYC2nQ4uoz2yRAoVAi+ua96WUxmpoawOIELlH0TYtZYcDvuu4C3yxuX/MPAHTX0w=="],
+    "@evidence-dev/databricks/@evidence-dev/db-commons": ["@evidence-dev/db-commons@1.0.6", "", { "dependencies": { "fs-extra": "11.2.0" } }, "sha512-H1lpfbY4UNkONJaHRqIP5t/zBSbPnO5e5JUIc8iPorDUp+ZqXbJNh00iexYAYDQVF/Ms/aM2PvhbooUmwLtVaQ=="],
+
+    "@evidence-dev/duckdb/@evidence-dev/db-commons": ["@evidence-dev/db-commons@1.0.6", "", { "dependencies": { "fs-extra": "11.2.0" } }, "sha512-H1lpfbY4UNkONJaHRqIP5t/zBSbPnO5e5JUIc8iPorDUp+ZqXbJNh00iexYAYDQVF/Ms/aM2PvhbooUmwLtVaQ=="],
+
+    "@evidence-dev/motherduck/@evidence-dev/db-commons": ["@evidence-dev/db-commons@1.0.6", "", { "dependencies": { "fs-extra": "11.2.0" } }, "sha512-H1lpfbY4UNkONJaHRqIP5t/zBSbPnO5e5JUIc8iPorDUp+ZqXbJNh00iexYAYDQVF/Ms/aM2PvhbooUmwLtVaQ=="],
+
+    "@evidence-dev/mysql/@evidence-dev/db-commons": ["@evidence-dev/db-commons@1.0.6", "", { "dependencies": { "fs-extra": "11.2.0" } }, "sha512-H1lpfbY4UNkONJaHRqIP5t/zBSbPnO5e5JUIc8iPorDUp+ZqXbJNh00iexYAYDQVF/Ms/aM2PvhbooUmwLtVaQ=="],
 
     "@evidence-dev/preprocess/chalk": ["chalk@4.1.0", "", { "dependencies": { "ansi-styles": "^4.1.0", "supports-color": "^7.1.0" } }, "sha512-qwx12AxXe2Q5xQ43Ac//I6v5aXTipYrSESdOgzrN+9XjgEpyjpKuvSGaN4qE93f7TQTlerQQ8S+EQ0EyDoVL1A=="],
 
@@ -2375,9 +2381,13 @@
 
     "@evidence-dev/sdk/@uwdata/mosaic-sql": ["@uwdata/mosaic-sql@0.10.0", "", {}, "sha512-tPsgrHO8zTwLFMBR+BiG4fskK9RSbH+nXS9ju8433NDq3qicAq4Z46CnYpCs0vWIR7AUAxMvncqP6YPbiQhOug=="],
 
-    "@evidence-dev/snowflake/@evidence-dev/db-commons": ["@evidence-dev/db-commons@1.1.0", "", { "dependencies": { "fs-extra": "11.2.0" } }, "sha512-ZKuRWblgApC6X0BHXt4StZgYC2nQ4uoz2yRAoVAi+ua96WUxmpoawOIELlH0TYtZYcDvuu4C3yxuX/MPAHTX0w=="],
+    "@evidence-dev/source-javascript/@evidence-dev/db-commons": ["@evidence-dev/db-commons@1.0.6", "", { "dependencies": { "fs-extra": "11.2.0" } }, "sha512-H1lpfbY4UNkONJaHRqIP5t/zBSbPnO5e5JUIc8iPorDUp+ZqXbJNh00iexYAYDQVF/Ms/aM2PvhbooUmwLtVaQ=="],
+
+    "@evidence-dev/sqlite/@evidence-dev/db-commons": ["@evidence-dev/db-commons@1.0.6", "", { "dependencies": { "fs-extra": "11.2.0" } }, "sha512-H1lpfbY4UNkONJaHRqIP5t/zBSbPnO5e5JUIc8iPorDUp+ZqXbJNh00iexYAYDQVF/Ms/aM2PvhbooUmwLtVaQ=="],
 
     "@evidence-dev/tailwind/tailwindcss": ["tailwindcss@3.4.18", "", { "dependencies": { "@alloc/quick-lru": "^5.2.0", "arg": "^5.0.2", "chokidar": "^3.6.0", "didyoumean": "^1.2.2", "dlv": "^1.1.3", "fast-glob": "^3.3.2", "glob-parent": "^6.0.2", "is-glob": "^4.0.3", "jiti": "^1.21.7", "lilconfig": "^3.1.3", "micromatch": "^4.0.8", "normalize-path": "^3.0.0", "object-hash": "^3.0.0", "picocolors": "^1.1.1", "postcss": "^8.4.47", "postcss-import": "^15.1.0", "postcss-js": "^4.0.1", "postcss-load-config": "^4.0.2 || ^5.0 || ^6.0", "postcss-nested": "^6.2.0", "postcss-selector-parser": "^6.1.2", "resolve": "^1.22.8", "sucrase": "^3.35.0" }, "bin": { "tailwind": "lib/cli.js", "tailwindcss": "lib/cli.js" } }, "sha512-6A2rnmW5xZMdw11LYjhcI5846rt9pbLSabY5XPxo+XWdxwZaFEn47Go4NzFiHu9sNNmr/kXivP1vStfvMaK1GQ=="],
+
+    "@evidence-dev/trino/@evidence-dev/db-commons": ["@evidence-dev/db-commons@1.0.6", "", { "dependencies": { "fs-extra": "11.2.0" } }, "sha512-H1lpfbY4UNkONJaHRqIP5t/zBSbPnO5e5JUIc8iPorDUp+ZqXbJNh00iexYAYDQVF/Ms/aM2PvhbooUmwLtVaQ=="],
 
     "@evidence-dev/universal-sql/apache-arrow": ["apache-arrow@17.0.0", "", { "dependencies": { "@swc/helpers": "^0.5.11", "@types/command-line-args": "^5.2.3", "@types/command-line-usage": "^5.0.4", "@types/node": "^20.13.0", "command-line-args": "^5.2.1", "command-line-usage": "^7.0.1", "flatbuffers": "^24.3.25", "json-bignum": "^0.0.3", "tslib": "^2.6.2" }, "bin": { "arrow2csv": "bin/arrow2csv.cjs" } }, "sha512-X0p7auzdnGuhYMVKYINdQssS4EcKec9TCXyez/qtJt32DrIMGbzqiaMiQ0X6fQlQpw8Fl0Qygcv4dfRAr5Gu9Q=="],
 
