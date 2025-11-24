@@ -14,7 +14,7 @@ jobs:
       pages: 'write'
 
     steps:
-    - uses: actions/checkout@v5
+    - uses: actions/checkout@v6
     - uses: extractions/setup-just@v3
     - uses: opt-nc/setup-duckdb-action@v1.1.4
     - uses: oven-sh/setup-bun@v2
