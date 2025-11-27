@@ -2250,3 +2250,70 @@ checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_a
 1530930962,2025-11-25,4.0,Алкашка,Minsk,Stuck In Paranoid Mash (2025),IPA - Imperial / Double New England / Hazy,8.4,White Dog Brewery,Netherlands,Nisha Craft Capital
 1530933955,2025-11-25,3.3,"","",BIX Beveik Nirvana,Pilsner - Other,5.0,Genys Brewing Co.,Lithuania,Hilton Garden Inn
 1530934113,2025-11-25,3.0,"","",Spring Night Adventure / Nuotykis Pavasario Naktį,Pale Ale - Other,4.5,Genys Brewing Co.,Lithuania,Hilton Garden Inn
+1531016025,2025-11-26,3.0,"","",Penki Mazgai,IPA - New England / Hazy,5.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Mo Bistro
+1531017425,2025-11-26,4.3,"",Lithuania,Lucy Blue (Batch 3),Farmhouse Ale - Saison,6.1,Sante Adairius Rustic Ales,United States,Alaus kolonėlė
+1531018742,2025-11-26,3.5,"",Bedzin,English Porter,Porter - English,5.4,Bear & Boar,Lithuania,Gero alaus parduotuvė
+1531018768,2025-11-26,3.3,"",Bedzin,Penki Mazgai,IPA - New England / Hazy,5.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Gero alaus parduotuvė
+1531019938,2025-11-26,3.8,"",Bedzin,Smoked Helles,Rauchbier,4.8,Sakiškės Brewery / Sakiškių Alus,Lithuania,Gero alaus parduotuvė
+1531019986,2025-11-26,3.0,"",Bedzin,Blackcurrant Brut Ale,Bière de Champagne / Bière Brut,7.0,Sakiškės Brewery / Sakiškių Alus,Lithuania,Gero alaus parduotuvė
+1531020982,2025-11-26,4.0,"",Bedzin,Apricot X Rhubarb Berliner Weisse,Sour - Fruited Berliner Weisse,6.0,Ārpus Brewing Co.,Latvia,Gero alaus parduotuvė
+1531021006,2025-11-26,4.5,"",Bedzin,Red & Black Currant Berliner Weisse,Sour - Fruited Berliner Weisse,6.0,Ārpus Brewing Co.,Latvia,Gero alaus parduotuvė
+1531025450,2025-11-26,3.3,"",Copenhagen,Juodas,Lager - Dark,6.7,Būsi Trečias,Lithuania,Būsi Trečias
+1531028654,2025-11-26,3.3,"",Copenhagen,Labas Vakaras,Porter - English,5.0,Dundulis,Lithuania,Špunka
+1531028860,2025-11-26,3.3,"",Bedzin,Senolių Senovinis,Farmhouse Ale - Other,6.0,Su Puta,Lithuania,Alaus Biblioteka
+1531028906,2025-11-26,2.8,"",Bedzin,Alaus Biblioteka | 400 (Bourbon Barrel Aged 2024),Stout - Imperial / Double Milk,11.5,Alaus Biblioteka ,Lithuania,Alaus Biblioteka
+1531028907,2025-11-26,3.5,Punchy lager!,"",Rinktinis,Lager - Pale,5.2,Volfas Engelman,Lithuania,Hilton Garden Inn
+1531031520,2025-11-26,3.0,"","",Pinčius,Schwarzbier,4.9,Pilialaukis,Lithuania,Alaus Namai
+1531033526,2025-11-26,4.3,"","",Strawberry Sundae,Sour - Fruited,5.0,Vault City Brewing,Scotland,Alaus Biblioteka
+1531033800,2025-11-26,3.8,"","",Citra IPA,IPA - American,5.4,Bear & Boar,Lithuania,Alaus Biblioteka
+1531035221,2025-11-26,3.5,"","",Pineapple Breeze,IPA - Milkshake,5.0,Bear & Boar,Lithuania,Alaus Biblioteka
+1531036167,2025-11-26,3.8,"","",Tush Push,IPA - New England / Hazy,6.2,Pulfer Brewery,Croatia,Alaus Biblioteka
+1531037609,2025-11-26,5.0,Cookies and peaches in you Christmas glass,"",Peach Cookie,Pale Ale - Milkshake,5.7,Bear & Boar,Lithuania,Local Pub
+1531038438,2025-11-26,3.8,"Баянчык, але за такія грошы толькі што замовіў амаль усё. Дзяк Alex B.","",Sundialer,Pale Ale - New England / Hazy,5.0,Verdant Brewing Co,England,Def Enjoy
+1531040421,2025-11-26,4.0,"","",Alaus Biblioteka | 400 (Bourbon Barrel Aged 2024),Stout - Imperial / Double Milk,11.5,Alaus Biblioteka ,Lithuania,Alaus Biblioteka
+1531041011,2025-11-26,3.8,"","",Piratas,IPA - New Zealand,6.2,Pilialaukis,Lithuania,Alaus Namai
+1531041410,2025-11-26,4.3,"","",Strawberry Sundae,Sour - Fruited,5.0,Vault City Brewing,Scotland,Alaus Biblioteka
+1531041951,2025-11-26,3.8,"Touch of lemon, lovely stuff","",Baltas (White),Wheat Beer - Hefeweizen,5.0,Švyturys,Lithuania,Republic No.4
+1531041997,2025-11-26,3.8,"","",IPA,IPA - American,6.2,Lagunitas Brewing Company,United States,Pachamama Dinner Club
+1531048163,2025-11-26,3.3,"","",Kauno Šviesusis,Lager - Pale,5.0,Kauno Alus,Lithuania,Fabijoniškės
+1531048475,2025-11-26,4.0,"","",Sun City,Sour - Fruited Berliner Weisse,5.0,Põhjala,Estonia,Alaus Biblioteka
+1531049310,2025-11-26,3.8,"","",Alaus Biblioteka | Imperial Stout,Stout - Imperial / Double,13.3,Alaus Biblioteka ,Lithuania,Alaus Biblioteka
+1531049854,2025-11-26,4.5,"","",SUPER 8 Blanche,Wheat Beer - Witbier / Blanche,5.1,Brouwerij Haacht Brasserie,Belgium,It’s Corndog
+1531050514,2025-11-26,3.5,"","",Anarkist New England IPA,IPA - New England / Hazy,5.4,Theodor Schiøtz Brewing Company,Denmark,Plius Plius Plius
+1531051492,2025-11-26,4.3,"","",Tauras Gira Nefiltruota,Kvass,1.2,Kalnapilis Brewery,Lithuania,Hotel Corner
+1531052674,2025-11-26,3.0,"",Copenhagen,IPUTĖ (Little IPA),IPA - American,5.1,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1531054632,2025-11-26,3.8,Прымальна,Bia?ystok,Sakai Sakai,Kölsch,4.7,Kuro Aparatūra,Lithuania,La Bohème
+1531055281,2025-11-26,3.8,"","",Senolių Senovinis,Farmhouse Ale - Other,6.0,Su Puta,Lithuania,Alaus Biblioteka
+1531055297,2025-11-26,3.0,"",Copenhagen,Witukas (witbier),Wheat Beer - Witbier / Blanche,5.0,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1531056856,2025-11-26,3.8,"","",Kisel,Sour - Traditional Gose,4.0,Sofia Electric Brewing ,Bulgaria,Alaus Biblioteka
+1531058169,2025-11-26,2.8,"",Copenhagen,Šviesi Ateitis (Bright Future),Lager - Pale,4.8,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1531060022,2025-11-26,3.8,"","",Saison,Farmhouse Ale - Saison,5.7,Rodebak ,Norway,Alaus Biblioteka
+1531060719,2025-11-26,4.0,"","",Strawberry Sundae,Sour - Fruited,5.0,Vault City Brewing,Scotland,Alaus Biblioteka
+1531060982,2025-11-26,3.5,"","",Galvė,Pale Ale - Other,5.0,Pilialaukis,Lithuania,Alaus Namai
+1531061105,2025-11-26,2.8,"",Copenhagen,Tamsi Praeitis (Dark Past),Lager - Dark,4.9,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1531061655,2025-11-26,3.5,"","",English Porter,Porter - English,5.4,Bear & Boar,Lithuania,Alaus Biblioteka
+1531063331,2025-11-26,3.3,"","",Slow Brewed,Pilsner - Czech / Bohemian,5.0,Amstel Bier,Netherlands,Hotel Corner
+1531063958,2025-11-26,3.8,"","",English Porter,Porter - English,5.4,Bear & Boar,Lithuania,Alaus Biblioteka
+1531065182,2025-11-26,4.3,Smelled like my favourite things. Great funk. Great company.,Lithuania (most of the time),Philadelphia Sour Black Currant & Raspberry,Sour - Fruited,4.3,Pivovar Obora,Czech Republic,Nisha Craft Capital
+1531065343,2025-11-26,3.3,Solid.,Lithuania (most of the time),Milkołak,Stout - Milk / Sweet,5.2,ReCraft,Poland,Nisha Craft Capital
+1531066097,2025-11-26,3.8,"","",Kisel,Sour - Traditional Gose,4.0,Sofia Electric Brewing ,Bulgaria,Alaus Biblioteka
+1531066488,2025-11-26,4.3,"","",Hot Honey Apple Mango,Sour - Fruited,6.2,Vault City Brewing,Scotland,Alaus Biblioteka
+1531067792,2025-11-26,4.0,Tasty tasty tasty. Drawing.,Lithuania (most of the time),Stuck In Paranoid Mash (2025),IPA - Imperial / Double New England / Hazy,8.4,White Dog Brewery,Netherlands,Nisha Craft Capital
+1531070450,2025-11-26,4.3,"Licorice? Chocolate milk? 
+Just soooko good.",Lithuania (most of the time),Van Der Mölder,Stout - Imperial / Double,10.0,Õllenaut,Estonia,Nisha Craft Capital
+1531070993,2025-11-26,3.8,"","",Tropical IPA,IPA - New England / Hazy,7.2,O'Hara's Brewery ,Ireland,Fish & Ale
+1531071088,2025-11-26,3.0,"","",Ichnusa Non Filtrata,Kellerbier / Zwickelbier,5.0,Ichnusa,Italy,Life is Good Good
+1531071279,2025-11-26,2.8,"",Copenhagen,Franken,Kellerbier / Zwickelbier,4.7,:Belike brewing,Lithuania,Local Pub
+1531073604,2025-11-26,2.8,"",Copenhagen,Nida,Wheat Beer - Hefeweizen,4.5,:Belike brewing,Lithuania,Local Pub
+1531073893,2025-11-26,3.5,"","","People, Money, Space, Time",IPA - Session,3.4,Verdant Brewing Co,England,Def Enjoy
+1531074147,2025-11-26,4.3,"","",Ledene (Candy),Sour - Fruited Gose,7.0,Labietis. Pagan Brews,Latvia,Alaus Biblioteka
+1531074591,2025-11-26,4.0,"","",Cult,IPA - New England / Hazy,6.5,SOMA Beer,Spain,Def Enjoy
+1531076381,2025-11-26,2.8,"",Copenhagen,La Deutsche Vita,Pilsner - Italian,4.9,Straßenbräu,Germany,Local Pub
+1531077889,2025-11-26,3.3,"Did not expect that from a pale beer. Very Smokey, also sausage taste. Not bad, not great - 3,6",Copenhagen,Vaporwave,IPA - Rye,7.0,Funky Fluid,Poland,Local Pub
+1531081090,2025-11-26,4.0,"","",Gaismas Ragana (Witch Of Light),Mead - Braggot,8.0,Labietis. Pagan Brews,Latvia,Alaus Biblioteka
+1531081289,2025-11-26,3.3,"",Copenhagen,Nutty,Brown Ale - Imperial / Double,8.0,Funky Fluid,Poland,Local Pub
+1531085239,2025-11-26,3.5,"","",Ledene (Candy),Sour - Fruited Gose,7.0,Labietis. Pagan Brews,Latvia,Alaus Biblioteka
+1531085530,2025-11-26,4.3,"","",Dieva Suns (Dog of God),IPA - New England / Hazy,6.0,Labietis. Pagan Brews,Latvia,Alaus Biblioteka
+1531086253,2025-11-26,3.8,"",Copenhagen,Alaus Biblioteka | 400 (Bourbon Barrel Aged 2024),Stout - Imperial / Double Milk,11.5,Alaus Biblioteka ,Lithuania,Alaus Biblioteka
+1531086445,2025-11-26,4.5,"","",Esmeralda,Non-Alcoholic - Mead,0.0,Labietis. Pagan Brews,Latvia,Alaus Biblioteka
+1531088707,2025-11-26,3.8,"","",Mango Ale,Fruit Beer,4.0,Švyturys,Lithuania,IKI Žvėryno Žiedas
