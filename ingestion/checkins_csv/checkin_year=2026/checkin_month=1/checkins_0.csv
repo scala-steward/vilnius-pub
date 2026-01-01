@@ -1,0 +1,96 @@
+checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_abv,brewery_name,brewery_country,venue_name
+1540642013,2026-01-01,3.0,"",Vilnius,Johan Freitag Gin & Tonic,RTD - Gin & Tonic,5.0,Cēsu Alus,Latvia,Penktadienis
+1540642922,2026-01-01,3.5,"",Vilnius,Vintage 2025 Tropical Fruit Ale,Fruit Beer,8.5,Švyturys,Lithuania,Daržovių ir vaisių kioskelis
+1540646412,2026-01-01,3.5,Den første ølen i 2026 ble en bringebær gose fra Litauen. Frisk smak av bringebær. Lett saltpreg i ettersmaken.,"Oslo, Norway",Gose With Raspberries,Sour - Fruited Gose,3.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Best Western Hotel Vilnius
+1540653993,2026-01-01,2.8,"","",Scotty West Lager,Lager - Pale,5.0,Cēsu Alus,Latvia,Naujieji Rytai
+1540663102,2026-01-01,3.5,"","",IPUTĖ (Little IPA),IPA - American,5.1,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1540665164,2026-01-01,3.5,"","",STAUTas Chocolate Dry Stout,Stout - Other,6.0,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1540672527,2026-01-01,3.8,"",Minsk,Panic At Tedesco,Pilsner - Italian,5.0,Hop Hooligans,Romania,Def Enjoy
+1540683684,2026-01-01,3.3,"",Vilnius,Black Jack Cola Country Cocktail,Flavored Malt Beverage,5.0,Jack Daniel’s Beverage Co.,United States,Aquarius Brewery
+1540685102,2026-01-01,4.8,"",Vilnius,Oscillation,IPA - Imperial / Double New England / Hazy,8.4,Finback Brewery,United States,Naujamiestis
+1540685584,2026-01-01,4.5,"","",In Space Nobody Can Hear You Scream (PULP • w. Sudden Death),Sour - Smoothie / Pastry,5.0,Elmeleven,Sweden,Def Enjoy
+1540685831,2026-01-01,3.0,"","",IPUTĖ (Little IPA),IPA - American,5.1,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1540686709,2026-01-01,3.5,"","",STAUTas Chocolate Dry Stout,Stout - Other,6.0,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1540688523,2026-01-01,3.8,"","",Dekada Rye West Coast IPA,IPA - Rye,6.0,Maryensztadt,Poland,Def Enjoy
+1540688694,2026-01-01,4.8,"","",Sour 12 Passion Fruit + Guava,Sour - Fruited,5.1,Rodinný pivovar Zichovec,Czech Republic,"ARX, Lietuvos ir Čekijos UAB"
+1540688831,2026-01-01,3.8,"Толькі таму, што люблю жыта","",Dekada Rye West Coast IPA,IPA - Rye,6.0,Maryensztadt,Poland,Def Enjoy
+1540689707,2026-01-01,3.5,Yyyyy. Vo. Kaip pizdos pasiilgau,Vilnius. Lithuania.,American Dream Extra Dry-Hopped,Lager - IPL (India Pale Lager),4.7,Mikkeller,Denmark,Satyrikon'o Būdelė
+1540690217,2026-01-01,3.8,"",Minsk,Dekada Rye West Coast IPA,IPA - Rye,6.0,Maryensztadt,Poland,Def Enjoy
+1540691125,2026-01-01,3.8,"","",Dekada Rye West Coast IPA,IPA - Rye,6.0,Maryensztadt,Poland,Def Enjoy
+1540691992,2026-01-01,3.5,"","",Seasonal Ale (Ginger Pale Lager),Hard Ginger Beer,4.9,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1540696259,2026-01-01,3.8,"","",Gold Series: Gold Rush,IPA - Imperial / Double New England / Hazy,6.5,Nepo Brewing,Poland,Def Enjoy
+1540697320,2026-01-01,3.8,"",Minsk,Gold Series: Gold Rush,IPA - Imperial / Double New England / Hazy,6.5,Nepo Brewing,Poland,Def Enjoy
+1540699960,2026-01-01,3.8,"Каб не прысмак Віслы, то было б някепска","",Gold Series: Gold Rush,IPA - Imperial / Double New England / Hazy,6.5,Nepo Brewing,Poland,Def Enjoy
+1540700484,2026-01-01,3.5,"","",Gold Series: Gold Rush,IPA - Imperial / Double New England / Hazy,6.5,Nepo Brewing,Poland,Def Enjoy
+1540702809,2026-01-01,4.0,"",Lithuania,Dekada Rye West Coast IPA,IPA - Rye,6.0,Maryensztadt,Poland,Def Enjoy
+1540703617,2026-01-01,4.0,"",Lithuania,Gold Series: Gold Rush,IPA - Imperial / Double New England / Hazy,6.5,Nepo Brewing,Poland,Def Enjoy
+1540705227,2026-01-01,5.0,What an awesome beer to end the year and start a new one! A sweet stout with some raisins. Very good.,Riga,SPUNDE,Stout - Imperial / Double,12.8,Viedi,Latvia,Varpinė | Bell Tower (Varpinė)
+1540707937,2026-01-01,3.8,Прикольно,Minsk,Pulse,IPA - Other,6.5,Funky Fluid,Poland,Def Enjoy
+1540709361,2026-01-01,3.8,Max B. Квейк – гэта не саўэр.,"",Pulse,IPA - Other,6.5,Funky Fluid,Poland,Def Enjoy
+1540711843,2026-01-01,4.0,"",Vilnius,Bouncy Ride,IPA - Imperial / Double New England / Hazy,8.0,Norm Brewing,Belgium,Def Enjoy
+1540712277,2026-01-01,3.5,"","",Pulse,IPA - Other,6.5,Funky Fluid,Poland,Def Enjoy
+1540713496,2026-01-01,4.0,"",Minsk,EVERMAINE,IPA - New England / Hazy,7.7,Cervejaria EverBrew,Brazil,Def Enjoy
+1540714289,2026-01-01,4.0,"",Lithuania,Pulse,IPA - Other,6.5,Funky Fluid,Poland,Def Enjoy
+1540714499,2026-01-01,5.0,"",Vilnius,Silentium - Cognac & Bourbon BA (Silver Series),Porter - Imperial / Double,13.0,Pühaste Brewery,Estonia,Naujamiestis
+1540715268,2026-01-01,4.3,"",Lithuania,EVERMAINE,IPA - New England / Hazy,7.7,Cervejaria EverBrew,Brazil,Def Enjoy
+1540715800,2026-01-01,4.3,Вось і бразільскі бэйдж пад'ехаў 🇧🇷,"",EVERMAINE,IPA - New England / Hazy,7.7,Cervejaria EverBrew,Brazil,Def Enjoy
+1540717169,2026-01-01,4.0,"","",EVERMAINE,IPA - New England / Hazy,7.7,Cervejaria EverBrew,Brazil,Def Enjoy
+1540717339,2026-01-01,3.8,"","",Pulse,IPA - Other,6.5,Funky Fluid,Poland,Def Enjoy
+1540717910,2026-01-01,3.8,"","",EVERMAINE,IPA - New England / Hazy,7.7,Cervejaria EverBrew,Brazil,Def Enjoy
+1540719392,2026-01-01,4.5,"","",Premonition,Sour - Smoothie / Pastry,5.0,Ophiussa,Portugal,Def Enjoy
+1540724567,2026-01-01,4.0,"","",Double Diving - Strata,IPA - Imperial / Double New England / Hazy,8.4,Locals Only Brewing Co.,Brazil,Def Enjoy
+1540725112,2026-01-01,4.3,"",Minsk,Double Diving - Strata,IPA - Imperial / Double New England / Hazy,8.4,Locals Only Brewing Co.,Brazil,Def Enjoy
+1540728415,2026-01-01,4.5,"",Lithuania,Double Diving - Strata,IPA - Imperial / Double New England / Hazy,8.4,Locals Only Brewing Co.,Brazil,Def Enjoy
+1540729075,2026-01-01,4.3,Ну вось яшчэ адзін бразілец,"",Double Diving - Strata,IPA - Imperial / Double New England / Hazy,8.4,Locals Only Brewing Co.,Brazil,Def Enjoy
+1540729241,2026-01-01,4.0,"","",Double Diving - Strata,IPA - Imperial / Double New England / Hazy,8.4,Locals Only Brewing Co.,Brazil,Def Enjoy
+1540730891,2026-01-01,3.5,"","",sTAUtas,Stout - Milk / Sweet,4.3,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1540731577,2026-01-01,3.5,"",Minsk,Cilpa,Pale Ale - American,5.3,Malduguns,Latvia,Def Enjoy
+1540732405,2026-01-01,3.8,"","",Cilpa,Pale Ale - American,5.3,Malduguns,Latvia,Def Enjoy
+1540733965,2026-01-01,3.0,"Баян, але там было чамусь без адзнакі, бо хуйня напэўна","",Cilpa,Pale Ale - American,5.3,Malduguns,Latvia,Def Enjoy
+1540734080,2026-01-01,3.5,Лепшае тут – гэта сіські,"",Cilpa,Pale Ale - American,5.3,Malduguns,Latvia,Def Enjoy
+1540734956,2026-01-01,3.5,"",Lithuania,Cilpa,Pale Ale - American,5.3,Malduguns,Latvia,Def Enjoy
+1540739478,2026-01-01,3.8,"","",Porteris,Porter - Baltic,6.9,Švyturys,Lithuania,Ac Hotel By Marriott Vilnius
+1540741338,2026-01-01,3.8,"","",Gabaliņš,Stout - Pastry,5.6,Malduguns,Latvia,Def Enjoy
+1540742602,2026-01-01,3.5,"",Minsk,Gabaliņš,Stout - Pastry,5.6,Malduguns,Latvia,Def Enjoy
+1540742999,2026-01-01,3.5,Хімозны арэшак,"",Gabaliņš,Stout - Pastry,5.6,Malduguns,Latvia,Def Enjoy
+1540743207,2026-01-01,3.8,"",Lithuania,Gabaliņš,Stout - Pastry,5.6,Malduguns,Latvia,Def Enjoy
+1540745190,2026-01-01,4.8,"",Vilnius,Pecado,Stout - Imperial / Double Pastry,8.0,Ophiussa,Portugal,Def Enjoy
+1540748927,2026-01-01,3.3,"","",Gabaliņš,Stout - Pastry,5.6,Malduguns,Latvia,Def Enjoy
+1540753859,2026-01-01,3.8,"",Minsk,Game Over: Pip-Boy,IPA - Rye,6.4,Funky Fluid,Poland,Def Enjoy
+1540754811,2026-01-01,4.0,"Хм, яшчэ адно жыта","",Game Over: Pip-Boy,IPA - Rye,6.4,Funky Fluid,Poland,Def Enjoy
+1540759428,2026-01-01,2.5,Чэкіны пахнуць,"",Новорічне,Lager - Winter,7.0,Микулинецький Бровар (Mykulynetskyi Brovar),Ukraine,Def Enjoy
+1540760313,2026-01-01,1.0,"",Vilnius,Новорічне,Lager - Winter,7.0,Микулинецький Бровар (Mykulynetskyi Brovar),Ukraine,Def Enjoy
+1540760377,2026-01-01,2.3,"",Minsk,Новорічне,Lager - Winter,7.0,Микулинецький Бровар (Mykulynetskyi Brovar),Ukraine,Def Enjoy
+1540761174,2026-01-01,3.8,"","",TDH Superdelic X Nectaron X Nelson Sauvin New Zealand IPA,IPA - New Zealand,7.0,Ārpus Brewing Co.,Latvia,Def Enjoy
+1540761320,2026-01-01,4.3,Оххх,"",Pecado,Stout - Imperial / Double Pastry,8.0,Ophiussa,Portugal,Def Enjoy
+1540761755,2026-01-01,0.3,"",Lithuania,Новорічне,Lager - Winter,7.0,Микулинецький Бровар (Mykulynetskyi Brovar),Ukraine,Def Enjoy
+1540762306,2026-01-01,1.0,"","",Новорічне,Lager - Winter,7.0,Микулинецький Бровар (Mykulynetskyi Brovar),Ukraine,Def Enjoy
+1540763507,2026-01-01,3.5,"","",Game Over: Pip-Boy,IPA - Rye,6.4,Funky Fluid,Poland,Def Enjoy
+1540764238,2026-01-01,0.8,Ох бля,"",Новорічне,Lager - Winter,7.0,Микулинецький Бровар (Mykulynetskyi Brovar),Ukraine,Def Enjoy
+1540765224,2026-01-01,3.0,"",Minsk,Lvivske Rizdvyane (Львівське Різдвяне),Lager - Winter,4.2,Carlsberg Ukraine,Ukraine,Def Enjoy
+1540765590,2026-01-01,3.0,Не так і кепска,"",Lvivske Rizdvyane (Львівське Різдвяне),Lager - Winter,4.2,Carlsberg Ukraine,Ukraine,Def Enjoy
+1540765931,2026-01-01,2.0,"",Lithuania,Lvivske Rizdvyane (Львівське Різдвяне),Lager - Winter,4.2,Carlsberg Ukraine,Ukraine,Def Enjoy
+1540766378,2026-01-01,1.5,"","",Lvivske Rizdvyane (Львівське Різдвяне),Lager - Winter,4.2,Carlsberg Ukraine,Ukraine,Def Enjoy
+1540767145,2026-01-01,4.5,Вельмі смачна,"",Melissa & Sambucus,Sour - Smoothie / Pastry,6.0,Hop Hooligans,Romania,Def Enjoy
+1540770620,2026-01-01,2.8,"",Vilnius,Lvivske Rizdvyane (Львівське Різдвяне),Lager - Winter,4.2,Carlsberg Ukraine,Ukraine,Def Enjoy
+1540771833,2026-01-01,2.0,"","",Lvivske Rizdvyane (Львівське Різдвяне),Lager - Winter,4.2,Carlsberg Ukraine,Ukraine,Def Enjoy
+1540774170,2026-01-01,5.0,Разьеб,Minsk,Passage Temporaire Érable,Stout - Imperial / Double,11.9,Messorem ,Canada,Def Enjoy
+1540774529,2026-01-01,4.5,"","",Passage Temporaire Érable,Stout - Imperial / Double,11.9,Messorem ,Canada,Def Enjoy
+1540774661,2026-01-01,4.8,"Салодка, але ў тэму. Топчык","",Passage Temporaire Érable,Stout - Imperial / Double,11.9,Messorem ,Canada,Def Enjoy
+1540775357,2026-01-01,4.3,Вельмі салодка праўда,"",Passage Temporaire Érable,Stout - Imperial / Double,11.9,Messorem ,Canada,Def Enjoy
+1540775405,2026-01-01,4.5,"",Vilnius,Passage Temporaire Érable,Stout - Imperial / Double,11.9,Messorem ,Canada,Def Enjoy
+1540775469,2026-01-01,4.5,"",Lithuania,Passage Temporaire Érable,Stout - Imperial / Double,11.9,Messorem ,Canada,Def Enjoy
+1540777232,2026-01-01,5.0,"","",Passage Temporaire Érable,Stout - Imperial / Double,11.9,Messorem ,Canada,Def Enjoy
+1540777322,2026-01-01,4.5,"Ўсё яшчэ без Дзімы 😅
+
+ЗЫ: і што лепш, НГ не ў дэфе ці НГ з блізкімі па духу людзьмі, вось у чым пытанне? 😅","",Melissa & Sambucus,Sour - Smoothie / Pastry,6.0,Hop Hooligans,Romania,Def Enjoy
+1540779565,2026-01-01,3.0,"",Minsk,Львівське Різдвяне Пряний цитрус,Lager - Winter,4.0,Carlsberg Ukraine,Ukraine,Def Enjoy
+1540779623,2026-01-01,3.3,"","",Львівське Різдвяне Пряний цитрус,Lager - Winter,4.0,Carlsberg Ukraine,Ukraine,Def Enjoy
+1540791184,2026-01-01,4.0,Класічная дыпа. Найс,"",Game Over: Slug,IPA - Imperial / Double,8.0,Funky Fluid,Poland,Def Enjoy
+1540792098,2026-01-01,3.5,"","",Sānslīde,IPA - American,6.5,Malduguns,Latvia,Def Enjoy
+1540794769,2026-01-01,1.3,"","",Львівське Різдвяне Пряний цитрус,Lager - Winter,4.0,Carlsberg Ukraine,Ukraine,Def Enjoy
+1540796015,2026-01-01,3.8,"","",Game Over: Slug,IPA - Imperial / Double,8.0,Funky Fluid,Poland,Def Enjoy
+1540797875,2026-01-01,3.3,Боян,"",Sānslīde,IPA - American,6.5,Malduguns,Latvia,Def Enjoy
+1540802154,2026-01-01,4.0,Люблю блэк іпы,"",Game Over: Pandemonium,IPA - Black / Cascadian Dark Ale,6.6,Funky Fluid,Poland,Def Enjoy
+1540806160,2026-01-01,3.8,"","",Game Over: Pandemonium,IPA - Black / Cascadian Dark Ale,6.6,Funky Fluid,Poland,Def Enjoy
+1540807876,2026-01-01,4.0,"","",Escapism,IPA - Imperial / Double New England / Hazy,8.0,Factory Brewing,Finland,Def Enjoy
