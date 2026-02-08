@@ -471,3 +471,690 @@ checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_a
 1547939883,2026-02-07,3.8,"","",Californication / Kalifornikacija,Pale Ale - American,4.5,Genys Brewing Co.,Lithuania,Haze Pub
 1547941277,2026-02-07,3.5,Saluhallsfest pt2,Turku,Vilniaus Nefiltruotas Šviesusis,Kellerbier / Zwickelbier,5.2,Vilniaus Alus,Lithuania,Youngs' Club
 1547980314,2026-02-07,3.8,"","",Gubernija Ekstra / Extra Lager,Lager - Helles,5.2,Gubernija Brewery,Lithuania,Local Pub
+1547984276,2026-02-07,4.0,"",Vilnius,Angry Rooster,Stout - Imperial / Double Pastry,11.0,Seven Island Brewery,Greece,Nisha Craft Capital
+1547984487,2026-02-07,3.5,"",Vilnius,Humulupu IPA,IPA - Session,5.0,Dundulis,Lithuania,Blue Lotus
+1547984725,2026-02-07,4.0,"",Vilnius,"LSBB25 Collab Series #2 (Little Summer Beer Bash)",IPA - American,7.0,Verdant Brewing Co,England,Aquarius Brewery
+1547990858,2026-02-07,4.5,"Вкусно 🤤, наконец-то нашел Гуся который мне зашел. Карамелька , конфеты, все дела",Riga,Bourbon County Brand Barleywine (2017) 14.4%,Barleywine - English,14.4,Goose Island Beer Co.,United States,St. Palace Hotel
+1547995594,2026-02-07,3.8,"",Riga,Weihenstephaner Hefeweissbier Dunkel,Wheat Beer - Dunkelweizen,5.3,Bayerische Staatsbrauerei Weihenstephan,Germany,Operos ir Baleto teatro skveras
+1547996521,2026-02-07,4.3,"Мужское пиво 🤣💪🏻🏳️‍🌈, шутки шутками. А вкусно",Riga,Sun King,Sour - Smoothie / Pastry,5.0,Factory Brewing,Finland,St. Palace Hotel
+1547996628,2026-02-07,3.8,"Не все так однозначно 🫢
+Сок",Estland,Sun King,Sour - Smoothie / Pastry,5.0,Factory Brewing,Finland,St. Palace Hotel
+1547997145,2026-02-07,3.8,"Тела не хватает. А так неплохо.
+Ореховая паста. Растворимое кофе.
+Питко. Алко греет конечно, но не то чтоб выпирает",Estland,Maple X Coffee X Chocolate X Peanut Butter Imperial Stout,Stout - Imperial / Double Pastry,11.0,Ārpus Brewing Co.,Latvia,St. Palace Hotel
+1547997377,2026-02-07,4.0,"",Riga,Maple X Coffee X Chocolate X Peanut Butter Imperial Stout,Stout - Imperial / Double Pastry,11.0,Ārpus Brewing Co.,Latvia,St. Palace Hotel
+1547998239,2026-02-07,1.3,"",Kaunas,Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1547998912,2026-02-07,3.0,"","",Baltijos,Märzen,5.8,Švyturys,Lithuania,Charlie Pizza
+1547998987,2026-02-07,1.8,"",Kaunas,Baltijos,Märzen,5.8,Švyturys,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1547999323,2026-02-07,3.8,"","",Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Litexpo Restaurant
+1547999479,2026-02-07,3.5,"",Kaunas,VD-10!,Pale Ale - XPA (Extra Pale),5.0,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1547999517,2026-02-07,4.5,"","",Slow Crush IPA,IPA - Session,5.0,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1547999604,2026-02-07,4.0,"","",Slow Crush IPA,IPA - Session,5.0,Basker Brewing Co.,Lithuania,Zmogsala 2024
+1547999673,2026-02-07,5.0,"","Vilnius, Lithuania",Slow Crush IPA,IPA - Session,5.0,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1547999707,2026-02-07,3.8,"","",Mangowar,Sour - Fruited,5.9,Anderson's Brewery,Estonia,LITEXPO - Resta
+1547999782,2026-02-07,3.5,"","",Simply the West,Lager - IPL (India Pale Lager),5.3,Anderson's Brewery,Estonia,Litexpo Restaurant
+1547999891,2026-02-07,3.8,"",Kaunas,Choco Comet,Stout - Imperial / Double,10.0,Green Head,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548000022,2026-02-07,3.8,"","",Yellow Sabromarine,IPA - New England / Hazy,6.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548000040,2026-02-07,4.0,"",Kaunas,Slow Crush IPA,IPA - Session,5.0,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548000081,2026-02-07,4.0,"",Kaunas,Choco Comet,Stout - Imperial / Double,10.0,Green Head,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548000129,2026-02-07,4.0,"","",VD-10!,Pale Ale - XPA (Extra Pale),5.0,Basker Brewing Co.,Lithuania,Litexpo Restaurant
+1548000183,2026-02-07,4.0,"","",Normalipa,IPA - American,5.8,Basker Brewing Co.,Lithuania,Litexpo Restaurant
+1548000313,2026-02-07,4.0,"","",ABRAKADABRA [ Drumstasis IPA ],IPA - New England / Hazy,5.4,Dundulis,Lithuania,Lazdynu Akmenys
+1548000357,2026-02-07,4.0,"","","""Melnais"" sidrs",Cider - Other,5.0,Mūrbūdu Sidra Darītava,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548000392,2026-02-07,3.3,"","",Slojikų Myžalinis,Lager - Pale,4.7,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548000415,2026-02-07,4.0,"","",ABRAKADABRA [ Drumstasis IPA ],IPA - New England / Hazy,5.4,Dundulis,Lithuania,Litexpo Restaurant
+1548000615,2026-02-07,5.0,"","",Ropa Moonshine BA 2023,Red Ale - Other,6.5,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548000658,2026-02-07,3.8,"","",Kaziuko ūsai (Stout),Stout - English,4.8,UAB Joalda,Lithuania,Litexpo Restaurant
+1548000679,2026-02-07,4.3,"","",Lõunatomat,Sour - Tomato / Vegetable Gose,4.5,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548000699,2026-02-07,4.0,"","",I Like Tiramisu Problems,Stout - Imperial / Double Pastry,10.0,Tuletorn Brewing,Estonia,Vero Cafe Litexpo
+1548000706,2026-02-07,2.0,"","",Monster Toybox,IPA - Other,7.4,Strange Toys,Ukraine,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548000717,2026-02-07,3.5,"",Kaunas,ABRAKADABRA [ Drumstasis IPA ],IPA - New England / Hazy,5.4,Dundulis,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548000752,2026-02-07,4.0,"",Kaunas,India Pale Ale,IPA - American,5.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1548000760,2026-02-07,3.5,"",Kaunas,Žalia Bitė,Mead - Braggot,6.2,Širvėnos bravoras DUNDULIS,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548000792,2026-02-07,2.3,"","",Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548000837,2026-02-07,3.8,"",Kaunas,Baltic Porter,Porter - Baltic,9.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1548000851,2026-02-07,2.8,An IPA that IPA'd to much,"",Monster Toybox,IPA - Other,7.4,Strange Toys,Ukraine,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548000873,2026-02-07,4.0,"","",Ārpus X Lervig Banana X Peanut Butter Imperial Stout,Stout - Imperial / Double Pastry,12.0,Ārpus Brewing Co.,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548000890,2026-02-07,4.0,"","",Publijus Palemonas BA1,Porter - Baltic,7.2,Širvėnos bravoras DUNDULIS,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548000911,2026-02-07,3.8,"","",Forbidden Fruit,IPA - Imperial / Double,8.0,Nurme,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548001023,2026-02-07,2.0,"Strong initial punch, but later just fizzled out","",Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548001134,2026-02-07,4.0,"","",Baltic Porter,Porter - Baltic,9.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1548001189,2026-02-07,4.5,"",Kaunas,I Like Tiramisu Problems,Stout - Imperial / Double Pastry,10.0,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548001204,2026-02-07,4.0,"","",India Pale Ale,IPA - American,5.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1548001212,2026-02-07,1.5,Pavadinimas nemelavo.,"",Slojikų Myžalinis,Lager - Pale,4.7,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548001225,2026-02-07,2.5,"","",Slojikų Myžalinis,Lager - Pale,4.7,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548001410,2026-02-07,3.8,"","",Monster Toybox,IPA - Other,7.4,Strange Toys,Ukraine,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548001457,2026-02-07,3.3,"","",Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548001488,2026-02-07,4.0,"","",Applehoff (2025+),Sour - Fruited,5.9,Anderson's Brewery,Estonia,Litexpo Restaurant
+1548001618,2026-02-07,4.3,"","Vilnius, Lithuania",Žalia Bitė,Mead - Braggot,6.2,Širvėnos bravoras DUNDULIS,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548001651,2026-02-07,3.5,"","",BLASTA,IPA - New England / Hazy,6.5,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548001712,2026-02-07,3.5,"",Riga,Weihenstephaner Original,Lager - Helles,5.1,Bayerische Staatsbrauerei Weihenstephan,Germany,Vilniaus m. 24-asis Notaru Biuras
+1548001823,2026-02-07,3.5,Просто пивище.,Estland,Weihenstephaner Original,Lager - Helles,5.1,Bayerische Staatsbrauerei Weihenstephan,Germany,Phoenix Massage
+1548001937,2026-02-07,4.5,"","",Koit Tume Laphroaig Ba,Porter - Imperial / Double Baltic,12.5,Anderson's Brewery,Estonia,Litexpo Restaurant
+1548002040,2026-02-07,3.8,"",Kaunas,BLASTA,IPA - New England / Hazy,6.5,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548002110,2026-02-07,3.3,"","",Tasmanijos Vilko IPA,IPA - Other,5.7,UAB Joalda,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548002184,2026-02-07,3.8,"","",Craft IPA,IPA - Fruited,5.5,UAB Alynas,Lithuania,vilnius city camping
+1548002236,2026-02-07,4.0,"","",Hop Series Hazy IPA,IPA - Other,5.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548002237,2026-02-07,3.5,"","",Cherry Sour Biere De Champagne,Bière de Champagne / Bière Brut,6.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548002292,2026-02-07,4.0,"",Kaunas,ABRAKADABRA [ Drumstasis IPA ],IPA - New England / Hazy,5.4,Dundulis,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548002361,2026-02-07,3.0,"","",Žalia Bitė,Mead - Braggot,6.2,Širvėnos bravoras DUNDULIS,Lithuania,Litexpo Restaurant
+1548002498,2026-02-07,4.5,"","",VD-10!,Pale Ale - XPA (Extra Pale),5.0,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548002557,2026-02-07,4.3,"","",Koit Tume Laphroaig Ba,Porter - Imperial / Double Baltic,12.5,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548002605,2026-02-07,3.8,"",Budapest ,Sixth Month / Šeštas Mėnuo,Pale Ale - Milkshake,3.5,Genys Brewing Co.,Lithuania,Saint Michael Old Town Cellar And Studio
+1548002677,2026-02-07,3.8,"","",ABRAKADABRA [ Drumstasis IPA ],IPA - New England / Hazy,5.4,Dundulis,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548002684,2026-02-07,4.0,"","",ALLEN,IPA - Imperial / Double New England / Hazy,8.0,Verdant Brewing Co,England,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548002741,2026-02-07,4.0,"","",BLASTA,IPA - New England / Hazy,6.5,Tuletorn Brewing,Estonia,Knygų mugės Muzikos Salė
+1548002754,2026-02-07,4.3,Mano mylimas stilius. Ir bravoras irgi :),Vilnius. Lithuania.,Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548002851,2026-02-07,4.0,"","",I'M GREEN,Sour - Smoothie / Pastry,6.0,Green Head,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548002926,2026-02-07,3.8,"","",Level Head,IPA - Session,4.0,Greene King,England,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548002975,2026-02-07,3.5,"",Kaunas,"BRIX Blueberry, Raspberry And Mango",Sour - Smoothie / Pastry,5.5,ODU Brewery,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548002999,2026-02-07,4.0,"","",LOLLIPOP / GUAVA & PINEAPPLE,Sour - Fruited Berliner Weisse,8.0,Hopalaa,Latvia,Zmogsala 2024
+1548003024,2026-02-07,4.0,"",Kaunas,Publijus Palemonas BA1,Porter - Baltic,7.2,Širvėnos bravoras DUNDULIS,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548003041,2026-02-07,4.0,"","",Publijus Palemonas BA1,Porter - Baltic,7.2,Širvėnos bravoras DUNDULIS,Lithuania,Litexpo Restaurant
+1548003092,2026-02-07,4.3,"","",Publijus Palemonas BA2,Porter - Baltic,8.0,Širvėnos bravoras DUNDULIS,Lithuania,Lietuvos Spauda kioskas
+1548003102,2026-02-07,3.8,"","",Applehoff (2025+),Sour - Fruited,5.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548003122,2026-02-07,4.0,"",Kaunas,Publijus Palemonas BA2,Porter - Baltic,8.0,Širvėnos bravoras DUNDULIS,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548003143,2026-02-07,2.8,"","",Publijus Palemonas BA2,Porter - Baltic,8.0,Širvėnos bravoras DUNDULIS,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548003235,2026-02-07,3.5,"","",Yellow Sabromarine,IPA - New England / Hazy,6.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548003288,2026-02-07,3.0,"","",Publijus Palemonas BA1,Porter - Baltic,7.2,Širvėnos bravoras DUNDULIS,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548003300,2026-02-07,4.0,"",Vilnius,VD-10!,Pale Ale - XPA (Extra Pale),5.0,Basker Brewing Co.,Lithuania,Парковка У Litexpo
+1548003303,2026-02-07,4.0,"","",Hop Series Hazy IPA,IPA - Other,5.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548003326,2026-02-07,3.0,"",Kaunas,Lithuanian Pilsner,Pilsner - Other,4.7,Sakiškės Brewery / Sakiškių Alus,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1548003333,2026-02-07,5.0,"","",Vyšniokas,Wild Ale - Other,6.0,Dundulis,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548003404,2026-02-07,4.0,"","",Rabarbaras,Sour - Fruited,4.8,Dundulis,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548003407,2026-02-07,3.3,"","","TDH NEIPA: STRATA, MOUTERE, NELSON SAUVIN",IPA - New England / Hazy,6.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548003427,2026-02-07,3.8,"","",Mangowar,Sour - Fruited,5.9,Anderson's Brewery,Estonia,Žmogšala 8 (2021)
+1548003468,2026-02-07,4.3,Another insane wild sour from dundulis,"",Rabarbaras,Sour - Fruited,4.8,Dundulis,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548003560,2026-02-07,4.5,"","",Aiseto,Lager - Helles,4.7,Labai Noriu,Lithuania,Zmogsala 2024
+1548003572,2026-02-07,3.8,"",Riga,Daydream Witbier,Wheat Beer - Witbier / Blanche,5.0,Basker Brewing Co.,Lithuania,Zmogsala 2024
+1548003620,2026-02-07,3.8,"","",Pearsome,Sour - Fruited Gose,8.0,Nurme,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548003779,2026-02-07,2.5,It kinda reminds me of how my grandpa would pour lemonade into his beer,"",Pearsome,Sour - Fruited Gose,8.0,Nurme,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548003844,2026-02-07,3.0,"",Kaunas,Mezcal Infused Imperial Blonde Ale,Blonde / Golden Ale - Other,10.2,Sakiškės Brewery / Sakiškių Alus,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1548003864,2026-02-07,3.5,A great IPA,"",Forbidden Fruit,IPA - Imperial / Double,8.0,Nurme,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548003924,2026-02-07,4.8,"","",Fruity MEAD - Blackcurrant,Mead - Melomel,11.0,ODU Brewery,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548003964,2026-02-07,3.5,"",Estland,Daydream Witbier,Wheat Beer - Witbier / Blanche,5.0,Basker Brewing Co.,Lithuania,Litexpo Restaurant
+1548003998,2026-02-07,0.8,Pertusinas,"",Fruity MEAD - Blackcurrant,Mead - Melomel,11.0,ODU Brewery,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548004033,2026-02-07,3.0,"","",Eglyno,Pale Ale - Other,5.6,Labai Noriu,Lithuania,Litexpo Restaurant
+1548004069,2026-02-07,4.0,"","",Lithuanian Pilsner,Pilsner - Other,4.7,Sakiškės Brewery / Sakiškių Alus,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1548004112,2026-02-07,3.0,"","",Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548004148,2026-02-07,4.0,"","",Eglyno,Pale Ale - Other,5.6,Labai Noriu,Lithuania,Zmogsala 2024
+1548004157,2026-02-07,4.3,"",Kaunas,Monster Toybox,IPA - Other,7.4,Strange Toys,Ukraine,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548004254,2026-02-07,3.8,"","",High Proof Cosmic Bitterness,IPA - American,6.8,Green Head,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548004452,2026-02-07,3.3,"","",Alyno Šviesusis,Lager - Pale,5.0,UAB Alynas,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548004476,2026-02-07,4.0,"","",Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Lazdynu apžvalgos aikštelė
+1548004494,2026-02-07,2.5,"","",Kaziuko ūsai (Stout),Stout - English,4.8,UAB Joalda,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548004511,2026-02-07,3.8,"",Kaunas,Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548004546,2026-02-07,4.0,"","",Publijus Palemonas BA1,Porter - Baltic,7.2,Širvėnos bravoras DUNDULIS,Lithuania,Litexpo Restaurant
+1548004548,2026-02-07,3.8,"","",Monster Toybox,IPA - Other,7.4,Strange Toys,Ukraine,Šaltinio Vaistinė
+1548004595,2026-02-07,3.8,"","",ABRAKADABRA [ Drumstasis IPA ],IPA - New England / Hazy,5.4,Dundulis,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548004604,2026-02-07,3.0,"","",Alyno Jubiliejinis,Lager - Other,0.0,UAB Alynas,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548004650,2026-02-07,3.5,A good introductery stout,"",Kaziuko Ūsai,Stout - Coffee,4.8,UAB Joalda,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548004941,2026-02-07,4.0,"","",The Third Door,Sour - Fruited,8.0,Nurme,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548005076,2026-02-07,3.8,A very light introduction to stout but very smooth,"",Nightdream Stout,Stout - Milk / Sweet,5.0,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548005271,2026-02-07,2.5,"","",Nightdream Stout,Stout - Milk / Sweet,5.0,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548005280,2026-02-07,2.3,A bitter lager,"",Aiseto,Lager - Helles,4.7,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548005319,2026-02-07,4.0,"","",Pearsome,Sour - Fruited Gose,8.0,Nurme,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548005343,2026-02-07,4.0,"","",ABRAKADABRA [ Drumstasis IPA ],IPA - New England / Hazy,5.4,Dundulis,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548005344,2026-02-07,2.0,"","",Aiseto,Lager - Helles,4.7,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548005379,2026-02-07,3.8,"","",THIRD DIMENSION / TDH TIPA,IPA - Triple New England / Hazy,10.0,Hopalaa,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548005389,2026-02-07,3.5,A sour kicks in!,"",Obelu Kago,Fruit Beer,5.4,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548005451,2026-02-07,3.8,"","",I Like Tiramisu Problems,Stout - Imperial / Double Pastry,10.0,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548005507,2026-02-07,3.8,"",Kaunas,Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548005513,2026-02-07,4.5,"","",Fruity MEAD - Blackcurrant,Mead - Melomel,11.0,ODU Brewery,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548005606,2026-02-07,4.0,"",Vilnius,Juodapurvio,Stout - English,6.3,Labai Noriu,Lithuania,Purvynė amber workshop
+1548005635,2026-02-07,3.5,"",Riga,Pievos,Farmhouse Ale - Saison,6.0,Dundulis,Lithuania,Zmogsala 2024
+1548005763,2026-02-07,3.3,Трудно пьятся. Травы много.,Estland,Pievos,Farmhouse Ale - Saison,6.0,Dundulis,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548005834,2026-02-07,4.0,"","","TDH NEIPA: STRATA, MOUTERE, NELSON SAUVIN",IPA - New England / Hazy,6.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548005951,2026-02-07,3.0,"","",Eglyno,Pale Ale - Other,5.6,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548005964,2026-02-07,4.0,Норм горечь. Сочно. Ароматно,Estland,Monster Toybox,IPA - Other,7.4,Strange Toys,Ukraine,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548005977,2026-02-07,0.0,"","",Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548006019,2026-02-07,4.5,"","","TDH NEIPA: STRATA, MOUTERE, NELSON SAUVIN",IPA - New England / Hazy,6.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548006048,2026-02-07,4.0,"","",EKSPORT,Porter - Imperial / Double Baltic,11.0,Browar Cztery Ściany / Four Walls Brewery,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548006075,2026-02-07,2.5,"","",Iļģuciema Medalus Ķiršu,Honey Beer,5.5,Iļģuciema - Ilgezeem,Latvia,2G (greitasis autobusas)
+1548006120,2026-02-07,3.5,"","",Ārpus X Lervig Banana X Peanut Butter Imperial Stout,Stout - Imperial / Double Pastry,12.0,Ārpus Brewing Co.,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548006163,2026-02-07,3.8,"","",Lõunatomat,Sour - Tomato / Vegetable Gose,4.5,Tuletorn Brewing,Estonia,Litexpo Restaurant
+1548006170,2026-02-07,3.5,"","",Slow Crush IPA,IPA - Session,5.0,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548006267,2026-02-07,4.0,"","",Applehoff (2025+),Sour - Fruited,5.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548006293,2026-02-07,2.5,Too sweet,"",Story Weisse / Cherry & Lime ,Sour - Berliner Weisse,4.2,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548006310,2026-02-07,3.0,Needs a bit more of a kick for a sour,"",Story Weisse / Cherry & Lime ,Sour - Berliner Weisse,4.2,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548006481,2026-02-07,3.3,"","",ABRAKADABRA [ Drumstasis IPA ],IPA - New England / Hazy,5.4,Dundulis,Lithuania,Litexpo Restaurant
+1548006547,2026-02-07,3.0,"","",Žalia Bitė,Mead - Braggot,6.2,Širvėnos bravoras DUNDULIS,Lithuania,Litexpo Restaurant
+1548006563,2026-02-07,4.3,"",Estland,Kaerakatš Barbados Rum BA,Porter - Imperial / Double Baltic,15.0,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548006640,2026-02-07,3.0,"","",Tamsusis Elis,Dark Ale,5.0,UAB Alynas,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548006767,2026-02-07,4.3,"","Vilnius, Lithuania",Pearsome,Sour - Fruited Gose,8.0,Nurme,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548006783,2026-02-07,3.5,Простовато,Estland,"LSBB25 Collab Series #3 (Little Summer Beer Bash)",Pale Ale - New Zealand,5.2,Verdant Brewing Co,England,Robotiada 2018
+1548006836,2026-02-07,4.5,"","",Pearsome,Sour - Fruited Gose,8.0,Nurme,Latvia,Zmogsala 2024
+1548006922,2026-02-07,4.0,"",Kaunas,Juodapurvio,Stout - English,6.3,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548006949,2026-02-07,4.0,"","",Metropolis,IPA - New England / Hazy,6.5,Verdant Brewing Co,England,Litexpo Restaurant
+1548007109,2026-02-07,3.8,"","",I Will Need Your Signature,Pale Ale - New England / Hazy,5.5,Verdant Brewing Co,England,Litexpo Restaurant
+1548007155,2026-02-07,4.3,"","",Pearsome,Sour - Fruited Gose,8.0,Nurme,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548007228,2026-02-07,3.5,"","",Slojikų Myžalinis,Lager - Pale,4.7,Sakiškės Brewery / Sakiškių Alus,Lithuania,Kake Make Parkas
+1548007381,2026-02-07,3.8,"","",Juodapurvio,Stout - English,6.3,Labai Noriu,Lithuania,Ignitis On Įkrovimo Stotis
+1548007428,2026-02-07,4.3,"","",Koit Tume Laphroaig Ba,Porter - Imperial / Double Baltic,12.5,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548007429,2026-02-07,3.8,"","",Slow Crush IPA,IPA - Session,5.0,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548007667,2026-02-07,4.5,"","",Forbidden Fruit,IPA - Imperial / Double,8.0,Nurme,Latvia,Zmogsala 2024
+1548007792,2026-02-07,4.3,"","Oslo, Norway",Pearsome,Sour - Fruited Gose,8.0,Nurme,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548007808,2026-02-07,4.0,"","","""Melnais"" sidrs",Cider - Other,5.0,Mūrbūdu Sidra Darītava,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548007844,2026-02-07,4.3,"","Vilnius, Lithuania",Forbidden Fruit,IPA - Imperial / Double,8.0,Nurme,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548007849,2026-02-07,3.8,"","",Vanity Metrics,Pale Ale - New England / Hazy,4.9,Verdant Brewing Co,England,Litexpo Restaurant
+1548007891,2026-02-07,3.5,"",Kaunas,Daydream Witbier,Wheat Beer - Witbier / Blanche,5.0,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548007961,2026-02-07,3.5,"","",Mangowar,Sour - Fruited,5.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548007971,2026-02-07,3.8,"","","People, Money, Space, Time",IPA - Session New England / Hazy,3.4,Verdant Brewing Co,England,Litexpo Restaurant
+1548008050,2026-02-07,4.3,"",oslo,Pearsome,Sour - Fruited Gose,8.0,Nurme,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548008057,2026-02-07,3.5,"","",Level Head,IPA - Session,4.0,Greene King,England,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548008301,2026-02-07,3.0,"","Oslo, Norway",Slow Crush IPA,IPA - Session,5.0,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548008338,2026-02-07,3.8,"","",I'M GREEN,Sour - Smoothie / Pastry,6.0,Green Head,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548008406,2026-02-07,4.8,"","",Forbidden Fruit,IPA - Imperial / Double,8.0,Nurme,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548008482,2026-02-07,4.0,"","",I Like Tiramisu Problems,Stout - Imperial / Double Pastry,10.0,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548008554,2026-02-07,3.8,"","","LSBB25 Collab Series #3 (Little Summer Beer Bash)",Pale Ale - New Zealand,5.2,Verdant Brewing Co,England,Litexpo Restaurant
+1548008587,2026-02-07,4.0,"","",EKSPORT,Porter - Imperial / Double Baltic,11.0,Browar Cztery Ściany / Four Walls Brewery,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548008685,2026-02-07,4.3,"",oslo,Mangowar,Sour - Fruited,5.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548008688,2026-02-07,4.0,"","Oslo, Norway",Aiseto,Lager - Helles,4.7,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548008920,2026-02-07,3.3,"","",Juodapurvio,Stout - English,6.3,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548009043,2026-02-07,4.0,"","",Applehoff (2025+),Sour - Fruited,5.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548009137,2026-02-07,3.8,"","",Tall Dwarf,IPA - Black / Cascadian Dark Ale,5.5,Piwne Podziemie / Beer Underground,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548009168,2026-02-07,4.0,"","",High Proof Cosmic Bitterness,IPA - American,6.8,Green Head,Poland,Litexpo Restaurant
+1548009304,2026-02-07,3.5,"","",California Banger,IPA - American,6.4,Piwne Podziemie / Beer Underground,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548009355,2026-02-07,3.8,"","",Mangowar,Sour - Fruited,5.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548009385,2026-02-07,4.3,"","",Choco Comet,Stout - Imperial / Double,10.0,Green Head,Poland,Litexpo Restaurant
+1548009631,2026-02-07,0.5,Waaaaaay to sweet,"",Alyno Zero,Non-Alcoholic - Other,0.0,UAB Alynas,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548009696,2026-02-07,3.8,"","Oslo, Norway",Mangowar,Sour - Fruited,5.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548009718,2026-02-07,0.5,Metalic,"",Alyno Zero,Non-Alcoholic - Other,0.0,UAB Alynas,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548009822,2026-02-07,4.3,"",oslo,VD-10!,Pale Ale - XPA (Extra Pale),5.0,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548009857,2026-02-07,4.0,"","",Alyno Zero,Non-Alcoholic - Other,0.0,UAB Alynas,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548010016,2026-02-07,4.0,"","Oslo, Norway",ABRAKADABRA [ Drumstasis IPA ],IPA - New England / Hazy,5.4,Dundulis,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548010192,2026-02-07,3.8,"","",Yellow Sabromarine,IPA - New England / Hazy,6.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548010351,2026-02-07,5.0,"Amazing, never had anything so good.","",Varniuku Farmhouse Ale,Farmhouse Ale - Other,5.6,Davra Alaus Darykla,Lithuania,Republic No.4
+1548010354,2026-02-07,3.5,"",Estland,Mull O` Kopli,Scotch Ale / Wee Heavy,10.0,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548010441,2026-02-07,4.5,"",Vilnius,Nightdream Stout,Stout - Milk / Sweet,5.0,Basker Brewing Co.,Lithuania,Žmogšala 11 (2024)
+1548010549,2026-02-07,1.8,"","",Tamsius,Non-Alcoholic - Other,0.5,Širvėnos bravoras DUNDULIS,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548010578,2026-02-07,3.3,"","",Kaziuko ūsai (Stout),Stout - English,4.8,UAB Joalda,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548010595,2026-02-07,3.8,"",Vilnius,VD-10!,Pale Ale - XPA (Extra Pale),5.0,Basker Brewing Co.,Lithuania,Žmogšala 11 (2024)
+1548010703,2026-02-07,3.0,"","",Apyniuotas Sidras,Cider - Herbed / Spiced,7.2,Sodo sidrinė,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548010729,2026-02-07,3.5,For a non alcoholic beer it is very very solid.,"",Tamsius,Non-Alcoholic - Other,0.5,Širvėnos bravoras DUNDULIS,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548010741,2026-02-07,4.0,"","Oslo, Norway",VD-10!,Pale Ale - XPA (Extra Pale),5.0,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548010790,2026-02-07,4.0,Эта удалась. Сочно. Вкусно,Estland,Tuleveski,IPA - Triple,10.5,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548010825,2026-02-07,4.3,"","",Zaļš (Pētnieku Sērija Nr.01),Cider - Dry,4.6,Mūrbūdu Sidra Darītava,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548011032,2026-02-07,4.3,"","",Mull O` Kopli,Scotch Ale / Wee Heavy,10.0,Tuletorn Brewing,Estonia,Litexpo Restaurant
+1548011226,2026-02-07,4.0,"","",Pehme Kiisu,IPA - Imperial / Double New England / Hazy,8.2,Tuletorn Brewing,Estonia,Litexpo Restaurant
+1548011316,2026-02-07,4.0,"",Vilnius,Monster Toybox,IPA - Other,7.4,Strange Toys,Ukraine,Sleepy Monster's Cave
+1548011482,2026-02-07,3.3,"",Vilnius,Level Head,IPA - Session,4.0,Greene King,England,Žmogšala 11 (2024)
+1548011494,2026-02-07,4.0,"","Vilnius, Lithuania",Zaļš (Pētnieku Sērija Nr.01),Cider - Dry,4.6,Mūrbūdu Sidra Darītava,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548011545,2026-02-07,2.5,Apsimyžau... Atsiprašau...,"",Slojikų Myžalinis,Lager - Pale,4.7,Sakiškės Brewery / Sakiškių Alus,Lithuania,Litexpo Restaurant
+1548011651,2026-02-07,3.8,"",Estland,MIĘKKO,IPA - Imperial / Double New England / Hazy,7.8,Browar Cztery Ściany / Four Walls Brewery,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548011685,2026-02-07,5.0,"","","""Melnais"" sidrs",Cider - Other,5.0,Mūrbūdu Sidra Darītava,Latvia,Zmogsala 2024
+1548011743,2026-02-07,4.0,"","Oslo, Norway",Moko Maukas Akmeninis,Historical Beer - Steinbier,5.5,Dundulis,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548011754,2026-02-07,3.5,"","",Kaziuko ūsai (Stout),Stout - English,4.8,UAB Joalda,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548011832,2026-02-07,3.8,"",oslo,Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548011912,2026-02-07,3.3,"","","""Melnais"" sidrs",Cider - Other,5.0,Mūrbūdu Sidra Darītava,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548011921,2026-02-07,4.3,"",oslo,Moko Maukas Akmeninis,Historical Beer - Steinbier,5.5,Dundulis,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548011946,2026-02-07,4.0,"","",Alco Free Pale Ale,Non-Alcoholic - Pale Ale,0.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548011966,2026-02-07,4.0,"","",Mangowar,Sour - Fruited,5.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548011973,2026-02-07,3.0,Трава какаято невнятная,Estland,SZPILKA,IPA - Imperial / Double,8.8,Browar Cztery Ściany / Four Walls Brewery,Poland,Lazdynu Akmenys
+1548012018,2026-02-07,0.3,"","",Alco Free Pale Ale,Non-Alcoholic - Pale Ale,0.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548012022,2026-02-07,2.3,"","Oslo, Norway",Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548012026,2026-02-07,3.0,"","",Karpių Dvaro Porteris,Porter - Other,5.8,UAB Joalda,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548012160,2026-02-07,3.3,Refreshing,"",Alco Free Pale Ale,Non-Alcoholic - Pale Ale,0.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548012322,2026-02-07,3.8,"","",Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548012381,2026-02-07,3.8,"","",Obelu Kago,Fruit Beer,5.4,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548012505,2026-02-07,4.0,"","",Rabarbaras,Sour - Fruited,4.8,Dundulis,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548012536,2026-02-07,3.8,"","",Eglyno,Pale Ale - Other,5.6,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548012673,2026-02-07,4.0,"","",Égoïste,Sour - Fruited,4.5,Tuletorn Brewing,Estonia,Litexpo Restaurant
+1548012898,2026-02-07,4.3,"","",Glö,Sour - Smoothie / Pastry,5.4,Tuletorn Brewing,Estonia,Litexpo Restaurant
+1548013108,2026-02-07,3.5,"",Estland,§11,Lager - Helles,5.0,Dundulis,Lithuania,vilnius city camping
+1548013176,2026-02-07,3.3,"",Kaunas,Obelu Kago,Fruit Beer,5.4,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548013455,2026-02-07,3.8,"",Kaunas,Cherry Sour Biere De Champagne,Bière de Champagne / Bière Brut,6.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548013760,2026-02-07,3.8,"",Kaunas,Obelu Kago,Fruit Beer,5.4,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548013885,2026-02-07,5.0,"",Vilnius,EKSPORT,Porter - Imperial / Double Baltic,11.0,Browar Cztery Ściany / Four Walls Brewery,Poland,Žmogšala 11 (2024)
+1548013897,2026-02-07,3.8,Для Блонда прям хорошо,Estland,Mezcal Infused Imperial Blonde Ale,Blonde / Golden Ale - Other,10.2,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548013933,2026-02-07,3.5,"","",Hazelnut Brown Ale,Brown Ale - English,6.0,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lazdynu skardis
+1548013972,2026-02-07,3.3,"","",Simply the West,Lager - IPL (India Pale Lager),5.3,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548014064,2026-02-07,3.8,"","",Obelu Kago,Fruit Beer,5.4,Labai Noriu,Lithuania,Robotiada 2018
+1548014120,2026-02-07,3.8,"","",Cherry Sour Biere De Champagne,Bière de Champagne / Bière Brut,6.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Artvilnius
+1548014315,2026-02-07,4.3,"","",THIRD DIMENSION / TDH TIPA,IPA - Triple New England / Hazy,10.0,Hopalaa,Latvia,Litexpo Restaurant
+1548014383,2026-02-07,0.5,"","",Low-Alcohol DDH Citra X Mosaic IPA,IPA - Other,0.6,Ārpus Brewing Co.,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548014568,2026-02-07,3.5,"",Vilnius,Applehoff (2025+),Sour - Fruited,5.9,Anderson's Brewery,Estonia,Žmogšala 11 (2024)
+1548014597,2026-02-07,3.8,"","Vilnius, Lithuania",Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548014655,2026-02-07,3.0,"",Vilnius,Simply the West,Lager - IPL (India Pale Lager),5.3,Anderson's Brewery,Estonia,Žmogšala 11 (2024)
+1548014750,2026-02-07,3.0,"",oslo,Monster Toybox,IPA - Other,7.4,Strange Toys,Ukraine,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548014899,2026-02-07,3.3,"","Oslo, Norway",Cherry Sour Biere De Champagne,Bière de Champagne / Bière Brut,6.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548015106,2026-02-07,3.0,"","",Zero,Non-Alcoholic - Energy Drink,0.0,Red Bull,Austria,Red Bull Office
+1548015133,2026-02-07,1.5,"Ну, нет.",Estland,Obelu Kago,Fruit Beer,5.4,Labai Noriu,Lithuania,vilnius city camping
+1548015460,2026-02-07,4.8,"","",Fruity MEAD - Blackcurrant,Mead - Melomel,11.0,ODU Brewery,Latvia,Litexpo Restaurant
+1548015508,2026-02-07,4.0,"","",Tipi,IPA - New England / Hazy,6.3,Browar Cztery Ściany / Four Walls Brewery,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548015738,2026-02-07,4.0,"","",SZKIEŁKO,IPA - New England / Hazy,5.8,Browar Cztery Ściany / Four Walls Brewery,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548015755,2026-02-07,4.0,"","",Clown Fish TDH IPA,IPA - Imperial / Double New England / Hazy,8.4,ODU Brewery,Latvia,Litexpo Restaurant
+1548015854,2026-02-07,0.0,"","",Rinktinis,Lager - Pale,5.2,Volfas Engelman,Lithuania,7 Fridays
+1548015914,2026-02-07,3.8,"","",VD-10!,Pale Ale - XPA (Extra Pale),5.0,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548016002,2026-02-07,4.0,"","",Slow Crush IPA,IPA - Session,5.0,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548016141,2026-02-07,3.5,"",Riga,Gardener's Craft Cider Apple Quince,Cider - Other Fruit,5.5,Sabiles Sidrs,Latvia,Zmogsala 2024
+1548016192,2026-02-07,3.8,"","",SOURBIT / ORANGE & BASIL,Sour - Fruited Gose,4.3,Hopalaa,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548016212,2026-02-07,0.3,"","",Thrive Peak,Non-Alcoholic - IPA,0.3,Thrive,Belgium,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548016357,2026-02-07,3.0,"","Oslo, Norway",Obelu Kago,Fruit Beer,5.4,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548016586,2026-02-07,4.0,"","",Destiny's Wild Rhubarb,Wild Ale - Other,6.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548016641,2026-02-07,3.8,"","Vilnius, Lithuania",Monster Toybox,IPA - Other,7.4,Strange Toys,Ukraine,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548016674,2026-02-07,2.5,"",Vilnius,Žalia Bitė,Mead - Braggot,6.2,Širvėnos bravoras DUNDULIS,Lithuania,Žmogšala 11 (2024)
+1548016706,2026-02-07,4.0,"","",Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Zmogsala 2024
+1548016729,2026-02-07,3.5,"Хороший, но не за 14е бутылка.
+Яниханса с Эстонии поинтереснее",Estland,Gardener's Craft Cider Apple Quince,Cider - Other Fruit,5.5,Sabiles Sidrs,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548016741,2026-02-07,4.0,"","",Destiny's Wild Seabuckthorn,Wild Ale - Other,6.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548016798,2026-02-07,0.8,During winter my grandma used to boil potatoes with the peel on above a furnace. They would have this very specific smell. And I swear this beer smells the same,"",Thrive Peak,Non-Alcoholic - IPA,0.3,Thrive,Belgium,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548017247,2026-02-07,4.0,"","",EKSPORT,Porter - Imperial / Double Baltic,11.0,Browar Cztery Ściany / Four Walls Brewery,Poland,Litexpo Restaurant
+1548017505,2026-02-07,3.0,"Слишком сухо, слишком трава",Estland,High Hops,Cider - Herbed / Spiced,5.8,Mr. Plūme,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548017561,2026-02-07,4.5,"","","BRIX - Mango, Passion Fruit And Lychees",Sour - Smoothie / Pastry,5.5,ODU Brewery,Latvia,Litexpo Restaurant
+1548017562,2026-02-07,2.8,"","",Oatkeeper,Stout - Oatmeal,5.9,Piwne Podziemie / Beer Underground,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548017564,2026-02-07,4.0,"","",Monster Toybox,IPA - Other,7.4,Strange Toys,Ukraine,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548017820,2026-02-07,5.0,"","",Monster Toybox,IPA - Other,7.4,Strange Toys,Ukraine,Zmogsala 2024
+1548018198,2026-02-07,3.0,"",oslo,Obelu Kago,Fruit Beer,5.4,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548018199,2026-02-07,4.0,"","Oslo, Norway",Eglyno,Pale Ale - Other,5.6,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548018249,2026-02-07,3.5,"","Vilnius, Lithuania",Slojikų Myžalinis,Lager - Pale,4.7,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548018657,2026-02-07,4.0,"",Kaunas,Rabarbaras,Sour - Fruited,4.8,Dundulis,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548018752,2026-02-07,3.8,"","",Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548018999,2026-02-07,3.5,"","",Slojikų Myžalinis,Lager - Pale,4.7,Sakiškės Brewery / Sakiškių Alus,Lithuania,Zmogsala 2024
+1548019113,2026-02-07,3.3,"","",Tuleveski,IPA - Triple,10.5,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548019133,2026-02-07,4.5,"",Vilnius,Yarlington Mill Cider,Cider - Traditional / Apfelwein,6.5,Gwatkin Cider Co Ltd,England,Žmogšala 11 (2024)
+1548019191,2026-02-07,4.3,"",Vilnius,VD-10!,Pale Ale - XPA (Extra Pale),5.0,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548019218,2026-02-07,3.0,"","",Žalia Bitė,Mead - Braggot,6.2,Širvėnos bravoras DUNDULIS,Lithuania,Iki Cento Azuolas
+1548019236,2026-02-07,3.8,"","Oslo, Norway",Yellow Sabromarine,IPA - New England / Hazy,6.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548019392,2026-02-07,3.8,"","",Rabarbaras,Sour - Fruited,4.8,Dundulis,Lithuania,VingioZoo
+1548019406,2026-02-07,4.0,"",oslo,Destiny's Wild Rhubarb,Wild Ale - Other,6.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548019447,2026-02-07,4.3,"",Vilnius,Nightdream Stout,Stout - Milk / Sweet,5.0,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548019500,2026-02-07,4.0,"","Oslo, Norway",Destiny's Wild Rhubarb,Wild Ale - Other,6.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548019513,2026-02-07,3.0,"",oslo,Yellow Sabromarine,IPA - New England / Hazy,6.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548019719,2026-02-07,4.0,"",Vilnius,Yellow Sabromarine,IPA - New England / Hazy,6.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548019773,2026-02-07,3.5,"","",Dvaro Mergelių tamsusis su medumi,Spiced / Herbed Beer,5.6,UAB Joalda,Lithuania,Litexpo Restaurant
+1548020081,2026-02-07,2.8,"","",PROSTO,Kölsch,4.7,Browar Cztery Ściany / Four Walls Brewery,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548020118,2026-02-07,4.0,"","",Publijus Palemonas BA2,Porter - Baltic,8.0,Širvėnos bravoras DUNDULIS,Lithuania,Litexpo Restaurant
+1548020166,2026-02-07,3.5,"","",Mangowar,Sour - Fruited,5.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548020207,2026-02-07,3.0,"","",Aiseto,Lager - Helles,4.7,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548020397,2026-02-07,3.0,I'm not sure about it,"",Mangowar,Sour - Fruited,5.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548020611,2026-02-07,2.8,I like my APA less sweet,"",Mango Milkshake APA,Pale Ale - Milkshake,5.2,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548020637,2026-02-07,3.8,"",Minsk,Eglyno,Pale Ale - Other,5.6,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548020751,2026-02-07,4.3,"","",I Will Need Your Signature,Pale Ale - New England / Hazy,5.5,Verdant Brewing Co,England,Litexpo Restaurant
+1548020764,2026-02-07,3.8,"","",TANGO TWIST,IPA - New England / Hazy,6.7,Hopalaa,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548021077,2026-02-07,4.0,"",Vilnius,Mangowar,Sour - Fruited,5.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548021203,2026-02-07,3.3,"","",Oatkeeper,Stout - Oatmeal,5.9,Piwne Podziemie / Beer Underground,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548021215,2026-02-07,3.5,"","",Monster Toybox,IPA - Other,7.4,Strange Toys,Ukraine,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548021216,2026-02-07,0.0,"",Vilnius,Koit Tume Laphroaig Ba,Porter - Imperial / Double Baltic,12.5,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548021267,2026-02-07,4.3,"","",I'M GREEN,Sour - Smoothie / Pastry,6.0,Green Head,Poland,Litexpo Restaurant
+1548021333,2026-02-07,4.0,"",Estland,Destiny's Wild Rhubarb,Wild Ale - Other,6.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548021463,2026-02-07,4.0,"",Minsk,VD-10!,Pale Ale - XPA (Extra Pale),5.0,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548021553,2026-02-07,4.0,"","",Monster Toybox,IPA - Other,7.4,Strange Toys,Ukraine,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548021867,2026-02-07,3.5,"","",Nightdream Stout,Stout - Milk / Sweet,5.0,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548021925,2026-02-07,2.3,"","",Tin Tin Tin,Pale Ale - English,4.5,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548021975,2026-02-07,3.0,"",Vilnius,Herbaria,Historical Beer - Gruit / Ancient Herbed Ale,4.6,Dundulis,Lithuania,Žmogšala 11 (2024)
+1548022097,2026-02-07,4.3,"",Estland,Destiny's Wild Seabuckthorn,Wild Ale - Other,6.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548022106,2026-02-07,4.0,"","",Mangowar,Sour - Fruited,5.9,Anderson's Brewery,Estonia,Zmogsala 2024
+1548022178,2026-02-07,3.8,"","Vilnius, Lithuania",Mangowar,Sour - Fruited,5.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548022247,2026-02-07,4.0,"","",Hannibal (2025+),Stout - Imperial / Double,10.5,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548022283,2026-02-07,4.0,"",Estland,Destiny's Wild Rhubarb,Wild Ale - Other,6.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548022418,2026-02-07,3.8,"","",Blackcurrant Brut Ale,Bière de Champagne / Bière Brut,7.0,Sakiškės Brewery / Sakiškių Alus,Lithuania,garden bees
+1548022550,2026-02-07,4.0,"",Kaunas,Nightdream Stout,Stout - Milk / Sweet,5.0,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548023082,2026-02-07,3.8,"","",Glö,Sour - Smoothie / Pastry,5.4,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548023117,2026-02-07,3.5,"",Kaunas,Eglyno,Pale Ale - Other,5.6,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548023327,2026-02-07,3.5,"","",Eglyno,Pale Ale - Other,5.6,Labai Noriu,Lithuania,Lazdynu Akmenys
+1548023471,2026-02-07,3.3,"","Oslo, Norway",Hazelnut Brown Ale,Brown Ale - English,6.0,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548023483,2026-02-07,4.3,"","",THIRD DIMENSION / TDH TIPA,IPA - Triple New England / Hazy,10.0,Hopalaa,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548023619,2026-02-07,4.0,"","",Ozzy Hopburn,IPA - Triple New England / Hazy,10.0,Anderson's Brewery,Estonia,Kake Make Parkas
+1548023643,2026-02-07,2.0,"",oslo,Hazelnut Brown Ale,Brown Ale - English,6.0,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548023851,2026-02-07,3.0,"","",Eglyno,Pale Ale - Other,5.6,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548024024,2026-02-07,3.8,"Дыня, земляника.
+Прикольно",Estland,Pearsome,Sour - Fruited Gose,8.0,Nurme,Latvia,vilnius city camping
+1548024254,2026-02-07,3.5,"",Kaunas,Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548024595,2026-02-07,3.3,"","",Mezcal Infused Imperial Blonde Ale,Blonde / Golden Ale - Other,10.2,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548024785,2026-02-07,4.5,"",Vilnius,THIRD DIMENSION / TDH TIPA,IPA - Triple New England / Hazy,10.0,Hopalaa,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548024820,2026-02-07,3.0,"","",Slojikų Myžalinis,Lager - Pale,4.7,Sakiškės Brewery / Sakiškių Alus,Lithuania,Litexpo Restaurant
+1548025154,2026-02-07,3.0,"","",ROLY - POLY,Bock - Hell / Maibock / Lentebock,7.0,Hopalaa,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548025187,2026-02-07,3.8,"",Kaunas,Pyder,Cider - Perry / Poiré,5.0,Gwatkin Cider Co Ltd,England,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548025495,2026-02-07,3.3,"","",Hazelnut Brown Ale,Brown Ale - English,6.0,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548025564,2026-02-07,3.8,"",Kaunas,Yarlington Mill Cider,Cider - Traditional / Apfelwein,6.5,Gwatkin Cider Co Ltd,England,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548025615,2026-02-07,4.0,"","",Baltic Porter,Porter - Baltic,9.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548025715,2026-02-07,3.8,"",Kaunas,Kaziuko Ūsai,Stout - Coffee,4.8,UAB Joalda,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548025738,2026-02-07,3.5,"","",Yarlington Mill Cider,Cider - Traditional / Apfelwein,6.5,Gwatkin Cider Co Ltd,England,VU Botanikos sodo Vingio skyrius
+1548025746,2026-02-07,4.0,"",Minsk,Simply the West,Lager - IPL (India Pale Lager),5.3,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548025984,2026-02-07,3.8,"","",Pyder,Cider - Perry / Poiré,5.0,Gwatkin Cider Co Ltd,England,GrillFood
+1548026337,2026-02-07,3.8,Срок через месяц . Устал.,Estland,Metropolis,IPA - New England / Hazy,6.5,Verdant Brewing Co,England,Robotiada 2018
+1548026583,2026-02-07,4.0,"","",Normalipa,IPA - American,5.8,Basker Brewing Co.,Lithuania,Kake Make Parkas
+1548026646,2026-02-07,4.0,"","",TANGO TWIST,IPA - New England / Hazy,6.7,Hopalaa,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548026803,2026-02-07,3.5,"",Kaunas,Žalia Bitė,Mead - Braggot,6.2,Širvėnos bravoras DUNDULIS,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548026998,2026-02-07,4.0,"","",Maple X Coffee X Chocolate X Peanut Butter Imperial Stout,Stout - Imperial / Double Pastry,11.0,Ārpus Brewing Co.,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548027123,2026-02-07,3.8,"",Kaunas,Monster Toybox,IPA - Other,7.4,Strange Toys,Ukraine,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548027316,2026-02-07,3.8,"","",High Proof Cosmic Bitterness,IPA - American,6.8,Green Head,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548027360,2026-02-07,4.3,"",Vilnius,Ozzy Hopburn,IPA - Triple New England / Hazy,10.0,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548027411,2026-02-07,4.5,Пошла жара!,Vilnius,MIĘKKO,IPA - Imperial / Double New England / Hazy,7.8,Browar Cztery Ściany / Four Walls Brewery,Poland,Žmogšala 11 (2024)
+1548027543,2026-02-07,1.8,It's a no from me,"",Hannibal Red Wine BA,Stout - Imperial / Double,9.5,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548027794,2026-02-07,4.0,"","Vilnius, Lithuania","""Melnais"" sidrs",Cider - Other,5.0,Mūrbūdu Sidra Darītava,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548027863,2026-02-07,3.3,Plesant,"",Level Head,IPA - Session,4.0,Greene King,England,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548027913,2026-02-07,2.3,"","",Level Head,IPA - Session,4.0,Greene King,England,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548027957,2026-02-07,5.0,"","",PĪPMANIS: LEMON HAZE,Cider - Herbed / Spiced,5.2,Mūrbūdu Sidra Darītava,Latvia,Zmogsala 2024
+1548028062,2026-02-07,4.0,"",Vilnius,ABRAKADABRA [ Drumstasis IPA ],IPA - New England / Hazy,5.4,Dundulis,Lithuania,Fokus Pokus Tattoo Artshop
+1548028073,2026-02-07,4.5,"",Vilnius,Hannibal Bourbon BA,Stout - Imperial / Double,10.5,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548028207,2026-02-07,4.3,"","",Origin IPA,IPA - New England / Hazy,5.8,Basker Brewing Co.,Lithuania,Kake Make Parkas
+1548028244,2026-02-07,2.5,"",Minsk,Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Žmogšala IX
+1548028262,2026-02-07,4.0,"","",Applehoff (2025+),Sour - Fruited,5.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548028339,2026-02-07,4.3,"",Vilnius,Baltic Porter,Porter - Baltic,9.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Baltic Brew
+1548028436,2026-02-07,3.5,"","Oslo, Norway",Alyno Jubiliejinis,Lager - Other,0.0,UAB Alynas,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548028548,2026-02-07,3.0,"Lovely, could be more sour","",Cherry Sour Biere De Champagne,Bière de Champagne / Bière Brut,6.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548028551,2026-02-07,3.8,"",Vilnius,Eglyno,Pale Ale - Other,5.6,Labai Noriu,Lithuania,Eglines sodu 10-oji
+1548028619,2026-02-07,4.5,Super good,"",Pineapple X Red Currant X Peach X Red Grapes X Almond Smoothie Sour Ale,Sour - Smoothie / Pastry,4.5,Ārpus Brewing Co.,Latvia,Litexpo Restaurant
+1548028620,2026-02-07,3.8,"",oslo,Alyno Jubiliejinis,Lager - Other,0.0,UAB Alynas,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548028677,2026-02-07,3.5,"",Vilnius,Uogų Uguns,Sour - Fruited Gose,3.2,Nurme,Latvia,Žmogšala 11 (2024)
+1548028715,2026-02-07,4.5,"",Minsk,"TDH NEIPA: STRATA, MOUTERE, NELSON SAUVIN",IPA - New England / Hazy,6.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548028798,2026-02-07,3.5,"",Vilnius,Obelu Kago,Fruit Beer,5.4,Labai Noriu,Lithuania,Obelu sodas
+1548028814,2026-02-07,3.8,"",Kaunas,Eglyno,Pale Ale - Other,5.6,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548029389,2026-02-07,3.0,"",Vilnius,TANGO TWIST,IPA - New England / Hazy,6.7,Hopalaa,Latvia,Žmogšala 11 (2024)
+1548029577,2026-02-07,4.0,"","",High Proof Cosmic Bitterness,IPA - American,6.8,Green Head,Poland,Ignitis On Įkrovimo Stotis
+1548029578,2026-02-07,3.0,"","",Slojikų Myžalinis,Lager - Pale,4.7,Sakiškės Brewery / Sakiškių Alus,Lithuania,Litexpo Restaurant
+1548029671,2026-02-07,4.0,"",Kaunas,Marauders of the Sea,IPA - New England / Hazy,6.5,Verdant Brewing Co,England,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548029983,2026-02-07,3.0,"","",Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Litexpo Restaurant
+1548030264,2026-02-07,3.8,"",Kaunas,High Proof Cosmic Bitterness,IPA - American,6.8,Green Head,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548030341,2026-02-07,4.0,"","",Marauders of the Sea,IPA - New England / Hazy,6.5,Verdant Brewing Co,England,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548030489,2026-02-07,3.8,"",Kaunas,§11,Lager - Helles,5.0,Dundulis,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548030593,2026-02-07,3.5,"","",§11,Lager - Helles,5.0,Dundulis,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548030596,2026-02-07,3.8,"","",Vanity Metrics,Pale Ale - New England / Hazy,4.9,Verdant Brewing Co,England,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548030643,2026-02-07,3.3,"","",I'M GREEN,Sour - Smoothie / Pastry,6.0,Green Head,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548030737,2026-02-07,3.8,"",Kaunas,Juodapurvio,Stout - English,6.3,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548030745,2026-02-07,4.0,"",Vilnius,Žalia Bitė,Mead - Braggot,6.2,Širvėnos bravoras DUNDULIS,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548030850,2026-02-07,3.5,"",Vilnius,Alyno Craft IPA,IPA - American,5.5,Bear & Boar,Lithuania,Žmogšala 11 (2024)
+1548030957,2026-02-07,2.8,Very hampfy.....,"",Knapis,Non-Alcoholic - Other,0.5,Širvėnos bravoras DUNDULIS,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548030980,2026-02-07,3.5,"","Vilnius, Lithuania",Aiseto,Lager - Helles,4.7,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548031272,2026-02-07,3.0,"","",Slojikų Myžalinis,Lager - Pale,4.7,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548031650,2026-02-07,3.5,"",Minsk,Juodapurvio,Stout - English,6.3,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548031702,2026-02-07,3.0,"","",Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548031799,2026-02-07,3.3,"","",Alyno Craft IPA,IPA - American,5.5,Bear & Boar,Lithuania,Litexpo Restaurant
+1548031822,2026-02-07,3.0,"Would like a bit more sourness, but good one. Cheers! 🍻","",Cherry Sour Biere De Champagne,Bière de Champagne / Bière Brut,6.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Zmogsala 2024
+1548032091,2026-02-07,3.0,"","",MIĘKKO,IPA - Imperial / Double New England / Hazy,7.8,Browar Cztery Ściany / Four Walls Brewery,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548032628,2026-02-07,4.3,"","",Pineapple X Red Currant X Peach X Red Grapes X Almond Smoothie Sour Ale,Sour - Smoothie / Pastry,4.5,Ārpus Brewing Co.,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548032688,2026-02-07,3.5,"","","TDH NEIPA: STRATA, MOUTERE, NELSON SAUVIN",IPA - New England / Hazy,6.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548032738,2026-02-07,3.5,"","",Herbaria,Historical Beer - Gruit / Ancient Herbed Ale,4.6,Dundulis,Lithuania,Litexpo Restaurant
+1548032754,2026-02-07,4.3,"",Minsk,EKSPORT,Porter - Imperial / Double Baltic,11.0,Browar Cztery Ściany / Four Walls Brewery,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548032979,2026-02-07,3.3,"",Kaunas,Mezcal Infused Imperial Blonde Ale,Blonde / Golden Ale - Other,10.2,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548033259,2026-02-07,4.0,"","",Mango X Banana X Passionfruit X Vanilla Smoothie Sour Ale,Sour - Smoothie / Pastry,4.5,Ārpus Brewing Co.,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548033308,2026-02-07,4.0,"",Vilnius,Choco Comet,Stout - Imperial / Double,10.0,Green Head,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548033496,2026-02-07,4.3,"","",Apyniuotas Sidras,Cider - Herbed / Spiced,7.2,Sodo sidrinė,Lithuania,Zmogsala 2024
+1548033554,2026-02-07,4.0,"","",Pehme Kiisu,IPA - Imperial / Double New England / Hazy,8.2,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548033588,2026-02-07,4.3,"","",Maple X Coffee X Chocolate X Peanut Butter Imperial Stout,Stout - Imperial / Double Pastry,11.0,Ārpus Brewing Co.,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548033778,2026-02-07,3.8,"",Vilnius,Chmielokrata Hydra,IPA - New England / Hazy,6.0,Piwne Podziemie / Beer Underground,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548033884,2026-02-07,3.0,"",Budapest,sTAUtas,Stout - Milk / Sweet,4.3,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1548034083,2026-02-07,4.5,"","",Tomat a la Kairi,Sour - Tomato / Vegetable Gose,4.8,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548034185,2026-02-07,3.5,"",Kaunas,Hopped Naturel,Cider - Hopped,5.5,Jaanihanso,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548034370,2026-02-07,4.0,"","",Glö,Sour - Smoothie / Pastry,5.4,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548034418,2026-02-07,3.0,"","",Juodapurvio,Stout - English,6.3,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548034480,2026-02-07,3.8,"","",TDH Waimea X Motueka X Motuere DIPA,IPA - Imperial / Double New England / Hazy,8.0,Ārpus Brewing Co.,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548034634,2026-02-07,2.8,"","",Medaus Mėnuo (Honeymoon),Lager - Pale,4.9,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1548034793,2026-02-07,3.8,"","",The Third Door,Sour - Fruited,8.0,Nurme,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548034797,2026-02-07,3.0,"","",Eglyno,Pale Ale - Other,5.6,Labai Noriu,Lithuania,Litexpo Restaurant
+1548035073,2026-02-07,4.0,"","",8 Year Anniversary Barrel Aged Imperial Stout X Barleywine Blend,Strong Ale - Other,12.0,Ārpus Brewing Co.,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548035298,2026-02-07,3.8,"",Kaunas,Zesty Bastard,IPA - Fruited,6.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548035302,2026-02-07,4.0,"",Minsk,Monster Toybox,IPA - Other,7.4,Strange Toys,Ukraine,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548035442,2026-02-07,3.0,"","",I Will Need Your Signature,Pale Ale - New England / Hazy,5.5,Verdant Brewing Co,England,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548035689,2026-02-07,2.0,"","",Horn Disel Strong,Lager - Strong,7.4,Volfas Engelman,Lithuania,Žmogšala 11 (2024)
+1548035916,2026-02-07,1.8,"",Budapest ,Karštas Alus Su Medumi,Honey Beer,0.0,Pakruojo Dvaras,Lithuania,Craft & Draft
+1548036592,2026-02-07,3.0,"","",Unwind,Non-Alcoholic - IPA,0.3,Thrive,Belgium,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548036771,2026-02-07,2.5,"",Budapest,Medaus Mėnuo (Honeymoon),Lager - Pale,4.9,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1548036886,2026-02-07,3.0,"","",Daujotų Senojo Recepto APA,Pale Ale - American,5.6,Davra Alaus Darykla,Lithuania,Craft & Draft
+1548036960,2026-02-07,3.8,"","",Forbidden Fruit,IPA - Imperial / Double,8.0,Nurme,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548036970,2026-02-07,3.8,"",Vilnius,Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548037074,2026-02-07,4.5,"",Vilnius,Koit Tume Laphroaig Ba,Porter - Imperial / Double Baltic,12.5,Anderson's Brewery,Estonia,Žmogšala 11 (2024)
+1548037248,2026-02-07,4.3,"","",Normalipa,IPA - American,5.8,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548037394,2026-02-07,1.8,"",Budapest ,Medaus Mėnuo (Honeymoon),Lager - Pale,4.9,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1548037479,2026-02-07,3.8,"","",ABRAKADABRA [ Drumstasis IPA ],IPA - New England / Hazy,5.4,Dundulis,Lithuania,Justės ir Bruknės urvelis
+1548037715,2026-02-07,4.3,"",Vilnius,ROPA Moonshine BA 2024,Wild Ale - Other,6.5,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548037914,2026-02-07,4.0,"","",Hannibal,Stout - Imperial / Double,9.5,Anderson's Brewery,Estonia,Kake Make Parkas
+1548038278,2026-02-07,4.3,"","",8 Year Anniversary Barrel Aged Imperial Stout X Barleywine Blend,Strong Ale - Other,12.0,Ārpus Brewing Co.,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548038740,2026-02-07,3.8,"","",ABRAKADABRA [ Drumstasis IPA ],IPA - New England / Hazy,5.4,Dundulis,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548038903,2026-02-07,4.0,"","",Clown Fish TDH IPA,IPA - Imperial / Double New England / Hazy,8.4,ODU Brewery,Latvia,Robotiada 2018
+1548038972,2026-02-07,2.8,"","",Clown Fish TDH IPA,IPA - Imperial / Double New England / Hazy,8.4,ODU Brewery,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548039001,2026-02-07,4.0,"",Kaunas,Clown Fish TDH IPA,IPA - Imperial / Double New England / Hazy,8.4,ODU Brewery,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548039071,2026-02-07,4.5,"","",Fruity MEAD - Blackcurrant,Mead - Melomel,11.0,ODU Brewery,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548039280,2026-02-07,3.5,"","",Soundproof,Pale Ale - American,5.0,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548040225,2026-02-07,4.0,"","",Mull O` Kopli,Scotch Ale / Wee Heavy,10.0,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548040611,2026-02-07,4.3,"","","TDH NEIPA: STRATA, MOUTERE, NELSON SAUVIN",IPA - New England / Hazy,6.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548040732,2026-02-07,4.5,"",Kaunas,Talvepäike,Sour - Smoothie / Pastry,5.5,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548040799,2026-02-07,2.8,"","",VD-10!,Pale Ale - XPA (Extra Pale),5.0,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548040938,2026-02-07,3.8,"",Kaunas,Forbidden Fruit,IPA - Imperial / Double,8.0,Nurme,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548040963,2026-02-07,3.0,"",Vilnius,Mezcal Infused Imperial Blonde Ale,Blonde / Golden Ale - Other,10.2,Sakiškės Brewery / Sakiškių Alus,Lithuania,Žmogšala 11 (2024)
+1548040977,2026-02-07,4.0,"","",Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Kake Make Parkas
+1548041057,2026-02-07,4.3,"",Vilnius,Monster Toybox,IPA - Other,7.4,Strange Toys,Ukraine,Žmogšala 11 (2024)
+1548041186,2026-02-07,4.3,"","",Talvepäike,Sour - Smoothie / Pastry,5.5,Tuletorn Brewing,Estonia,Litexpo Restaurant
+1548041761,2026-02-07,4.3,"","",Talvepäike,Sour - Smoothie / Pastry,5.5,Tuletorn Brewing,Estonia,Litexpo Restaurant
+1548042479,2026-02-07,3.8,"",Kaunas,Ārpus X Lervig Banana X Peanut Butter Imperial Stout,Stout - Imperial / Double Pastry,12.0,Ārpus Brewing Co.,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548043354,2026-02-07,2.8,"","",Craft IPA,IPA - Fruited,5.5,UAB Alynas,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548043592,2026-02-07,4.3,"","",Fruity MEAD - Apricot,Mead - Melomel,9.2,ODU Brewery,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548043961,2026-02-07,4.0,"","","TDH NEIPA: STRATA, MOUTERE, NELSON SAUVIN",IPA - New England / Hazy,6.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548044233,2026-02-07,4.3,"","",Maple X Coffee X Chocolate X Peanut Butter Imperial Stout,Stout - Imperial / Double Pastry,11.0,Ārpus Brewing Co.,Latvia,Kake Make Parkas
+1548044297,2026-02-07,4.5,"",Kaunas,Fruity MEAD - Blackcurrant,Mead - Melomel,11.0,ODU Brewery,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548044360,2026-02-07,2.5,"","",Mull O` Kopli,Scotch Ale / Wee Heavy,10.0,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548044473,2026-02-07,3.3,"","",Cucumberbatch,Sour - Tomato / Vegetable Gose,4.3,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548044665,2026-02-07,4.5,"","",Cucumberbatch,Sour - Tomato / Vegetable Gose,4.3,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548045146,2026-02-07,2.5,"","",Watermelon,Sour - Fruited Berliner Weisse,4.0,Funky Fluid,Poland,Local Pub
+1548045215,2026-02-07,3.5,"",Kaunas,"It's Britney, Peach",IPA - Fruited,6.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548045241,2026-02-07,3.5,"","",Pūoj,Stout - Pastry,10.0,Nurme,Latvia,garden bees
+1548045430,2026-02-07,3.5,"",Vilnius,Zesty Bastard,IPA - Fruited,6.9,Anderson's Brewery,Estonia,Žmogšala 11 (2024)
+1548045467,2026-02-07,4.3,"",Kaunas,"CLOUD #40 / MILKSHAKE IPA",IPA - Milkshake,7.0,Hopalaa,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548045537,2026-02-07,4.0,"",Vilnius,Rheum Naturel,Cider - Other Fruit,5.5,Jaanihanso,Estonia,Žmogšala 11 (2024)
+1548045656,2026-02-07,3.8,"",Kaunas,Pūoj,Stout - Pastry,10.0,Nurme,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548045948,2026-02-07,4.3,"","",Zaļš (Pētnieku Sērija Nr.01),Cider - Dry,4.6,Mūrbūdu Sidra Darītava,Latvia,Litexpo Restaurant
+1548046124,2026-02-07,4.3,"","","CLOUD #40 / MILKSHAKE IPA",IPA - Milkshake,7.0,Hopalaa,Latvia,garden bees
+1548046541,2026-02-07,4.5,"","",Glö,Sour - Smoothie / Pastry,5.4,Tuletorn Brewing,Estonia,Litexpo Restaurant
+1548047265,2026-02-07,3.5,"","",Leader Weissbier,Wheat Beer - Witbier / Blanche,5.0,Švyturys,Lithuania,Žmogšala 11 (2024)
+1548047398,2026-02-07,3.8,"",Kaunas,Level Head,IPA - Session,4.0,Greene King,England,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548047566,2026-02-07,4.5,"",Vilnius,Kaerakatš Barbados Rum BA,Porter - Imperial / Double Baltic,15.0,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548048364,2026-02-07,4.8,"","",Glö,Sour - Smoothie / Pastry,5.4,Tuletorn Brewing,Estonia,Kake Make Parkas
+1548048612,2026-02-07,3.8,"","",Cucumberbatch,Sour - Tomato / Vegetable Gose,4.3,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548048981,2026-02-07,4.0,"","",UNO Cherry,Sour - Smoothie / Pastry,5.0,ODU Brewery,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548049449,2026-02-07,3.8,"","","CLOUD #40 / MILKSHAKE IPA",IPA - Milkshake,7.0,Hopalaa,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548050135,2026-02-07,3.0,"","",Zesty Bastard,IPA - Fruited,6.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548050728,2026-02-07,4.0,"",Vilnius,UNO Cherry,Sour - Smoothie / Pastry,5.0,ODU Brewery,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548050810,2026-02-07,3.0,"",Kaunas,Obelu Kago,Fruit Beer,5.4,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548050960,2026-02-07,4.3,"",Vilnius,Fruity MEAD - Cherry,Mead - Melomel,6.1,ODU Brewery,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548051365,2026-02-07,3.8,"","","BRIX - Mango, Passion Fruit And Lychees",Sour - Smoothie / Pastry,5.5,ODU Brewery,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548052037,2026-02-07,3.8,"","",Forbidden Fruit,IPA - Imperial / Double,8.0,Nurme,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548052279,2026-02-07,3.3,"",Vilnius,Normalipa,IPA - American,5.8,Basker Brewing Co.,Lithuania,Žmogšala 11 (2024)
+1548052934,2026-02-07,3.3,"","",Monster Toybox,IPA - Other,7.4,Strange Toys,Ukraine,Litexpo Restaurant
+1548053435,2026-02-07,3.8,"","",Soundproof,Pale Ale - American,5.0,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548053606,2026-02-07,3.5,"","",SZKIEŁKO,IPA - New England / Hazy,5.8,Browar Cztery Ściany / Four Walls Brewery,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548053624,2026-02-07,3.8,"",Kaunas,Colada Del Ray,Sour - Fruited,5.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548053799,2026-02-07,3.0,I väntan på burgarin,Turku,Drumstas Nefiltruotas,Lager - Pale,5.2,Rinkuškiai,Lithuania,Tesla
+1548053962,2026-02-07,3.5,"","",Žalia Bitė,Mead - Braggot,6.2,Širvėnos bravoras DUNDULIS,Lithuania,Justės ir Bruknės urvelis
+1548054143,2026-02-07,2.5,"","",Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548054206,2026-02-07,2.8,Első kortyra mintha egy testes alkoholmentes sör lenne.,Budapest,Bernelių Užeigos Gyvas Alus,Pale Ale - American,5.0,Bernelių Užeiga,Lithuania,Bernelių Užeiga
+1548054620,2026-02-07,3.5,"","",Festbier (2025),Festbier,5.5,Verdant Brewing Co,England,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548055152,2026-02-07,3.8,"","",Metropolis,IPA - New England / Hazy,6.5,Verdant Brewing Co,England,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548055173,2026-02-07,4.5,"","",PĪPMANIS: LEMON HAZE,Cider - Herbed / Spiced,5.2,Mūrbūdu Sidra Darītava,Latvia,Žmogšala 11 (2024)
+1548055459,2026-02-07,3.5,"",Kaunas,Baltic Porter,Porter - Baltic,9.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548055633,2026-02-07,4.3,"",Kaunas,Destiny's Wild Seabuckthorn,Wild Ale - Other,6.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548055727,2026-02-07,3.3,"","",Alyno Jubiliejinis,Lager - Other,0.0,UAB Alynas,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548056004,2026-02-07,4.0,"","",Destiny's Wild Seabuckthorn,Wild Ale - Other,6.9,Anderson's Brewery,Estonia,vilnius city camping
+1548057338,2026-02-07,3.5,"","",Pehme Kiisu,IPA - Imperial / Double New England / Hazy,8.2,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548057372,2026-02-07,4.0,"",Kaunas,Ozzy Hopburn,IPA - Triple New England / Hazy,10.0,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548057718,2026-02-07,4.0,"",Kaunas,Pehme Kiisu,IPA - Imperial / Double New England / Hazy,8.2,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548057720,2026-02-07,3.8,"","",Ozzy Hopburn,IPA - Triple New England / Hazy,10.0,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548057934,2026-02-07,3.5,"","",Level Head,IPA - Session,4.0,Greene King,England,Litexpo Restaurant
+1548058033,2026-02-07,3.8,"","",Ozzy Hopburn,IPA - Triple New England / Hazy,10.0,Anderson's Brewery,Estonia,Robotiada 2018
+1548058125,2026-02-07,4.0,"",Vilnius,"CLOUD #40 / MILKSHAKE IPA",IPA - Milkshake,7.0,Hopalaa,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548058404,2026-02-07,4.3,"",Vilnius,BRIX - Mango And Passion Fruit,Sour - Smoothie / Pastry,5.5,ODU Brewery,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548059027,2026-02-07,2.0,"",Budapest ,Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Bernelių Užeiga
+1548059045,2026-02-07,4.0,"","",Rheum Naturel,Cider - Other Fruit,5.5,Jaanihanso,Estonia,vilnius city camping
+1548059239,2026-02-07,4.0,"",Kaunas,Rheum Naturel,Cider - Other Fruit,5.5,Jaanihanso,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548060689,2026-02-07,3.8,"","",Metamorph,Pilsner - Other,5.7,Nurme,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548061169,2026-02-07,3.5,"","",Clown Fish TDH IPA,IPA - Imperial / Double New England / Hazy,8.4,ODU Brewery,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548062175,2026-02-07,4.0,"","",Choco Comet,Stout - Imperial / Double,10.0,Green Head,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548062443,2026-02-07,4.0,"","",Lõunatomat,Sour - Tomato / Vegetable Gose,4.5,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548062882,2026-02-07,4.0,"","",Chmielokrata Hydra,IPA - New England / Hazy,6.0,Piwne Podziemie / Beer Underground,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548065671,2026-02-07,5.0,Топ!,Vilnius,"CLOUD #40 / MILKSHAKE IPA",IPA - Milkshake,7.0,Hopalaa,Latvia,Žmogšala 11 (2024)
+1548067425,2026-02-07,4.5,"",Vilnius,Normalipa,IPA - American,5.8,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548067677,2026-02-07,3.8,"","",Kontur,Schwarzbier,4.9,Browar Cztery Ściany / Four Walls Brewery,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548068545,2026-02-07,0.0,"",Vilnius,Bavarian Sun,Lager - Helles,5.0,PINTA,Poland,Local Pub
+1548068621,2026-02-07,3.3,Chuck Norris would approve.,"",Tradicinis,Bock - Hell / Maibock / Lentebock,6.0,Švyturys,Lithuania,Hotel Zemaites Vilnius
+1548069360,2026-02-07,4.3,"",Vilnius,VD-10!,Pale Ale - XPA (Extra Pale),5.0,Basker Brewing Co.,Lithuania,Žmogšala 11 (2024)
+1548069462,2026-02-07,4.0,"","",TDH Waimea X Motueka X Motuere DIPA,IPA - Imperial / Double New England / Hazy,8.0,Ārpus Brewing Co.,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548069653,2026-02-07,3.0,Норм лимонадик,Estland,Midus,Mead - Other,6.0,Lietuviškas Midus,Lithuania,Molinis Ąsotis
+1548069799,2026-02-07,3.3,"","",Eglyno,Pale Ale - Other,5.6,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548070676,2026-02-07,4.3,"","",Unicorn’s Dark Secret,Stout - Imperial / Double,9.5,ODU Brewery,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548070894,2026-02-07,3.8,"","",Origin IPA,IPA - New England / Hazy,5.8,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548072559,2026-02-07,3.8,"","",VD-10!,Pale Ale - XPA (Extra Pale),5.0,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548072858,2026-02-07,4.5,"",Vilnius,Pearsome,Sour - Fruited Gose,8.0,Nurme,Latvia,Žmogšala 11 (2024)
+1548073301,2026-02-07,3.3,"","",Bernelių Užeigos Gyvas Alus,Pale Ale - American,5.0,Bernelių Užeiga,Lithuania,Bernelių Užeiga
+1548073323,2026-02-07,3.0,"",Kaunas,Cucumberbatch,Sour - Tomato / Vegetable Gose,4.3,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548073419,2026-02-07,2.8,"","",Pearsome,Sour - Fruited Gose,8.0,Nurme,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548073437,2026-02-07,3.0,"",Vilnius,Slojikų Myžalinis,Lager - Pale,4.7,Sakiškės Brewery / Sakiškių Alus,Lithuania,Zmogsala 2024
+1548073789,2026-02-07,3.3,"","",Slojikų Myžalinis,Lager - Pale,4.7,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548075749,2026-02-07,3.8,"",Kaunas,EKSPORT,Porter - Imperial / Double Baltic,11.0,Browar Cztery Ściany / Four Walls Brewery,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548075872,2026-02-07,4.0,"",Vilnius,Pearsome,Sour - Fruited Gose,8.0,Nurme,Latvia,Žmogšala 11 (2024)
+1548077691,2026-02-07,3.5,"","",Vilkmergės Premium Lager,Lager - Helles,5.0,Vilkmerges Alus,Lithuania,California Tapas & Wine
+1548079043,2026-02-07,3.5,"","",California Banger,IPA - American,6.4,Piwne Podziemie / Beer Underground,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548079126,2026-02-07,2.8,"","",Talvepäike,Sour - Smoothie / Pastry,5.5,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548080673,2026-02-07,4.0,"","",EKSPORT,Porter - Imperial / Double Baltic,11.0,Browar Cztery Ściany / Four Walls Brewery,Poland,Litexpo Restaurant
+1548081635,2026-02-07,3.5,"","",Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548084587,2026-02-07,3.3,"",Vilnius,F-hoone ROOSA,Cider - Other Fruit,5.6,Peenjoogivabrik Nudist,Estonia,Žmogšala 11 (2024)
+1548085589,2026-02-07,3.5,"","",French Revelation,Cider - Keeved / Cidre Bouché,4.8,Hogan's Cider,England,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548085714,2026-02-07,3.8,"",Kaunas,Struna,IPA - American,6.1,Browar Cztery Ściany / Four Walls Brewery,Poland,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548086955,2026-02-07,4.3,"","",I Like Tiramisu Problems,Stout - Imperial / Double Pastry,10.0,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548087608,2026-02-07,0.0,"","",Organic Tattoo Lager,Lager - Pale,4.0,Genys Brewing Co.,Lithuania,Gringo Pub
+1548088062,2026-02-07,3.8,"","",Ichiban 0.0,Non-Alcoholic - Lager,0.0,Kirin Brewery Company,Japan,Kamikadzė
+1548089069,2026-02-07,3.0,"",Kaunas,Cherry Sour Biere De Champagne,Bière de Champagne / Bière Brut,6.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548091195,2026-02-07,4.0,"",Vilnius,Kuiv Siider Viinamarjaga,Cider - Dry,5.5,Tori Jõesuu Siidri- Ja Veinitalu,Estonia,Žmogšala 11 (2024)
+1548091493,2026-02-07,4.8,"","",Pearsome,Sour - Fruited Gose,8.0,Nurme,Latvia,Žmogšala 11 (2024)
+1548091581,2026-02-07,0.0,"",Vilnius,Tomato Factory,IPA - Imperial / Double New England / Hazy,8.5,Other Half Brewing Co.,United States,Youston Apartments
+1548092416,2026-02-07,4.0,"",Kaunas,"Hop Series: Hazy IPA With Citra, Sabro Lupomax, Motueka",IPA - New England / Hazy,5.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548092476,2026-02-07,3.8,"",Kaunas,Maple X Coffee X Chocolate X Peanut Butter Imperial Stout,Stout - Imperial / Double Pastry,11.0,Ārpus Brewing Co.,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548092542,2026-02-07,4.0,"","",Deepness.,Porter - Baltic,9.0,Moon Lark Brewery,Poland,Local Pub
+1548092832,2026-02-07,4.5,"","",I Like Tiramisu Problems,Stout - Imperial / Double Pastry,10.0,Tuletorn Brewing,Estonia,Litexpo Restaurant
+1548094252,2026-02-07,3.3,"",Kaunas,Slojikų Myžalinis,Lager - Pale,4.7,Sakiškės Brewery / Sakiškių Alus,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548095292,2026-02-07,3.3,"",Estland,Forever Brewing Green,Sour - Fruited,5.5,Волинський бровар,Ukraine,LOFTAS
+1548095645,2026-02-07,3.5,"",Vilnius,Nightdream Stout,Stout - Milk / Sweet,5.0,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548097065,2026-02-07,4.5,"","",Apyniuotas Sidras,Cider - Herbed / Spiced,7.2,Sodo sidrinė,Lithuania,Žmogšala 11 (2024)
+1548098212,2026-02-07,2.3,"Tastes like a poor mans hoegaarden.
+Sad, i hoped for better. Too watery.","",Leader Weissbier,Wheat Beer - Witbier / Blanche,5.0,Švyturys,Lithuania,Hotel Zemaites Vilnius
+1548098723,2026-02-07,3.5,"",Kaunas,THIRD DIMENSION / TDH TIPA,IPA - Triple New England / Hazy,10.0,Hopalaa,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548099100,2026-02-07,3.5,"","",Baltas (White),Wheat Beer - Hefeweizen,5.0,Švyturys,Lithuania,Etno Dvaras
+1548099767,2026-02-07,4.0,"","",Echoes,Sour - Smoothie / Pastry,5.0,Ophiussa,Portugal,Def Enjoy
+1548099838,2026-02-07,4.0,"","",Echoes,Sour - Smoothie / Pastry,5.0,Ophiussa,Portugal,Def Enjoy
+1548099967,2026-02-07,3.5,"",Vilnius,Aiseto,Lager - Helles,4.7,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548099981,2026-02-07,4.0,"",Kaunas,Vanity Metrics,Pale Ale - New England / Hazy,4.9,Verdant Brewing Co,England,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548100629,2026-02-07,3.8,"",Vilnius,Tin Tin Tin,Pale Ale - English,4.5,Tuletorn Brewing,Estonia,Žmogšala 11 (2024)
+1548101931,2026-02-07,4.0,"","",Nightdream Stout,Stout - Milk / Sweet,5.0,Basker Brewing Co.,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548102777,2026-02-07,3.5,"",Vilnius,Apyniuotas Sidras,Cider - Herbed / Spiced,7.2,Sodo sidrinė,Lithuania,Sidro Istorijos: Pepinas
+1548103201,2026-02-07,3.8,"","",Fruity MEAD - Cherry,Mead - Melomel,6.1,ODU Brewery,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548103509,2026-02-07,4.0,"",Kaunas,Fruity MEAD - Cherry,Mead - Melomel,6.1,ODU Brewery,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548104190,2026-02-07,3.0,"",Vilnius,Žalia Bitė,Mead - Braggot,6.2,Širvėnos bravoras DUNDULIS,Lithuania,Bite My Truck
+1548105083,2026-02-07,3.8,"",Vilnius,Roasted Barley Cola,Non-Alcoholic - Malt Soda,0.0,Sakiškės Brewery / Sakiškių Alus,Lithuania,Coca Cola Hbh
+1548105271,2026-02-07,4.0,"",Vilnius,Smoked Plum Wee Heavy,Scotch Ale / Wee Heavy,10.2,Sakiškės Brewery / Sakiškių Alus,Lithuania,Žmogšala 11 (2024)
+1548105467,2026-02-07,4.5,"",Vilnius,Charent'euse (2024 - Bottle),Lambic - Gueuze,8.4,Boerenerf,Belgium,Def Enjoy
+1548106881,2026-02-07,3.3,"",Vilnius,ABRAKADABRA [ Drumstasis IPA ],IPA - New England / Hazy,5.4,Dundulis,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548107554,2026-02-07,3.8,"","",JUODASAI,Stout - Foreign / Export,7.5,Dundulis,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548108033,2026-02-07,4.3,"","",Citra IPA,IPA - American,5.4,Bear & Boar,Lithuania,Local Pub
+1548109015,2026-02-07,4.0,Несвежее.,"",Ārpus X Celestial Beerworks QDH Peacharine X Citra X Rakau X Strata TIPA,IPA - Triple New England / Hazy,10.0,Ārpus Brewing Co.,Latvia,laiptine
+1548109018,2026-02-07,1.0,Awful!,Budapest ,Madonas Alus Lāgeris,Lager - Pale,5.2,Madonas Alus SIA,Latvia,Dirigentai
+1548109035,2026-02-07,3.8,"",Vilnius,Kiwi Gremlin,Pilsner - New Zealand,5.0,Green Monster Brewery,Lithuania,Camelia Vaistinė
+1548113100,2026-02-07,3.5,"",Kaunas,"It's Britney, Peach",IPA - Fruited,6.9,Anderson's Brewery,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548113126,2026-02-07,4.5,"","",Ārpus X Lervig Banana X Peanut Butter Imperial Stout,Stout - Imperial / Double Pastry,12.0,Ārpus Brewing Co.,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548113534,2026-02-07,5.0,Ohoho!,Vilnius,Ārpus X Lervig Banana X Peanut Butter Imperial Stout,Stout - Imperial / Double Pastry,12.0,Ārpus Brewing Co.,Latvia,Black Banana
+1548113585,2026-02-07,3.8,"",Vilnius,SZKIEŁKO,IPA - New England / Hazy,5.8,Browar Cztery Ściany / Four Walls Brewery,Poland,Žmogšala 11 (2024)
+1548113674,2026-02-07,2.5,"",Riga,Forever Brewing Le Borsch,Sour - Tomato / Vegetable Gose,4.5,Волинський бровар,Ukraine,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1548114743,2026-02-07,3.8,"",Vilnius,Cucumberbatch,Sour - Tomato / Vegetable Gose,4.3,Anderson's Brewery,Estonia,Agurkai
+1548118201,2026-02-07,2.5,"","",Bocmano Ūsai (Bosun’s Moustache),IPA - American,6.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Dirigentai
+1548120058,2026-02-07,3.5,"",Vilnius,California Banger,IPA - American,6.4,Piwne Podziemie / Beer Underground,Poland,Žmogšala 11 (2024)
+1548122126,2026-02-07,0.0,"",Vilnius,Metropolis,IPA - New England / Hazy,6.5,Verdant Brewing Co,England,Metro Subs
+1548122206,2026-02-07,0.0,"",Vilnius,Mystical Magical,IPA - Imperial / Double New England / Hazy,8.0,Sparkle ✨,France,Youston Apartments
+1548124333,2026-02-07,3.0,"","",Slojikų Myžalinis,Lager - Pale,4.7,Sakiškės Brewery / Sakiškių Alus,Lithuania,Slojikai
+1548125575,2026-02-07,5.0,"","",Zaļš (Pētnieku Sērija Nr.01),Cider - Dry,4.6,Mūrbūdu Sidra Darītava,Latvia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548127183,2026-02-07,3.8,"","",Baltais Aborigēns (White Aborigine),IPA - White / Wheat,5.0,Labietis. Pagan Brews,Latvia,Alaus kolonėlė
+1548127461,2026-02-07,3.8,"",Vilnius,Goudenband (2021),Sour - Flanders Oud Bruin,8.0,Brouwerij Liefmans,Belgium,Zabigalka
+1548128349,2026-02-07,3.0,"",oslo,Grand Select,Lager - Pale,5.4,Kalnapilis Brewery,Lithuania,Leleko
+1548129534,2026-02-07,3.3,"",Vilnius,Sūri Karamelė,Lager - American Amber / Red,5.0,Vilkmerges Alus,Lithuania,Šventaragio Slėnis
+1548132598,2026-02-07,0.0,"",Minsk,ABRAKADABRA [ Drumstasis IPA ],IPA - New England / Hazy,5.4,Dundulis,Lithuania,Savičiaus Špunka
+1548133345,2026-02-07,4.3,"","",Citra IPA,IPA - American,5.4,Bear & Boar,Lithuania,Local Pub
+1548134279,2026-02-07,4.0,"","",ALLEN,IPA - Imperial / Double New England / Hazy,8.0,Verdant Brewing Co,England,Artvilnius
+1548134977,2026-02-07,4.0,"",Kaunas,Mull O` Kopli,Scotch Ale / Wee Heavy,10.0,Tuletorn Brewing,Estonia,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548135808,2026-02-07,4.5,"","",Origin IPA,IPA - New England / Hazy,5.8,Basker Brewing Co.,Lithuania,Lazdynu skardis
+1548135853,2026-02-07,3.8,"","",High Proof Cosmic Bitterness,IPA - American,6.8,Green Head,Poland,Žmogšala 11 (2024)
+1548135897,2026-02-07,3.5,"","",Juodapurvio,Stout - English,6.3,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548136179,2026-02-07,3.5,"","",Eglyno,Pale Ale - Other,5.6,Labai Noriu,Lithuania,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1548137037,2026-02-07,3.0,"",Budapest,Bocmano Ūsai (Bosun’s Moustache),IPA - American,6.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Dirigentai
+1548138381,2026-02-07,4.0,"",Vilnius,Normalipa,IPA - American,5.8,Basker Brewing Co.,Lithuania,Žmogšala 11 (2024)
+1548145685,2026-02-07,4.0,"",Vilnius,Charent'euse (2024 - Bottle),Lambic - Gueuze,8.4,Boerenerf,Belgium,Def Enjoy
+1548146522,2026-02-07,4.3,"","",Charent'euse (2024 - Bottle),Lambic - Gueuze,8.4,Boerenerf,Belgium,Def Enjoy
+1548146952,2026-02-07,4.0,"","",Opopoppa,IPA - New England / Hazy,6.2,Sáez & Son,Spain,Def Enjoy
+1548147028,2026-02-07,4.0,"",Vilnius,Solar Way,IPA - Imperial / Double,8.0,Les Intenables - Craft Beer,France,Def Enjoy
+1548147068,2026-02-07,4.0,"","",Charent'euse (2024 - Bottle),Lambic - Gueuze,8.4,Boerenerf,Belgium,Def Enjoy
+1548149076,2026-02-07,3.5,"","Oslo, Norway",Tamsusis,Lager - Dark,5.8,Vilkmerges Alus,Lithuania,Leleko
+1548151171,2026-02-07,3.8,"",Vilnius,TANGO TWIST,IPA - New England / Hazy,6.7,Hopalaa,Latvia,Žmogšala 11 (2024)
+1548151863,2026-02-07,3.3,"",Budapest,White Lie / Baltas Melas,Wheat Beer - Witbier / Blanche,4.2,Genys Brewing Co.,Lithuania,Baras Kernagis
+1548152446,2026-02-07,3.5,"","",Avietė Melagė,Fruit Beer,4.2,Dundulis,Lithuania,Baras Kernagis
+1548152667,2026-02-07,4.5,"",Vilnius,Marauders of the Sea,IPA - New England / Hazy,6.5,Verdant Brewing Co,England,Žmogšala 11 (2024)
+1548153755,2026-02-07,3.3,"","",Steenbrugge Dubbel Bruin,Belgian Dubbel,6.5,Brouwerij Palm,Belgium,Baras Kernagis
+1548158099,2026-02-07,4.0,"",Vilnius,STRATASPHERE,IPA - Imperial / Double,8.0,Brouwerij LOST,Netherlands,Youston Apartments
+1548162561,2026-02-07,3.8,"","",California Banger,IPA - American,6.4,Piwne Podziemie / Beer Underground,Poland,Žmogšala 11 (2024)
+1548166603,2026-02-07,4.0,"",Vilnius,Opopoppa,IPA - New England / Hazy,6.2,Sáez & Son,Spain,Def Enjoy
+1548167085,2026-02-07,3.8,Gyümölcsös de a jobb fajtából,"",Porn Star,Fruit Beer,4.5,Genys Brewing Co.,Lithuania,Baras Kernagis
+1548167190,2026-02-07,4.0,"",Vilnius,Saturation Simcoe,IPA - New England / Hazy,6.5,GROSS,Spain,Def Enjoy
+1548167961,2026-02-07,3.5,"",Budapest ,Dubults IPA,IPA - American,7.2,Dundulis,Lithuania,Baras Kernagis
+1548170873,2026-02-07,4.0,"",Vilnius,Solar Way,IPA - Imperial / Double,8.0,Les Intenables - Craft Beer,France,Def Enjoy
+1548174705,2026-02-07,4.5,"","",Deepness.,Porter - Baltic,9.0,Moon Lark Brewery,Poland,Local Pub
+1548177468,2026-02-07,4.3,"","",Santaños Grapefruit Taste,Wheat Beer - Hefeweizen,4.5,A. Le Coq,Estonia,Žmogšala 11 (2024)
+1548178293,2026-02-07,3.3,"",Budapest,Nuogas Ruonis (Naked Seal),Blonde / Golden Ale - Other,5.8,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Baras Kernagis
+1548178472,2026-02-07,3.5,"","",Surf Face,IPA - American,6.5,PINTA,Poland,Local Pub
+1548178491,2026-02-07,4.0,"","",Penki Mazgai,IPA - New England / Hazy,5.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Baras Kernagis
+1548179175,2026-02-07,4.3,"",Lithuania,Opopoppa,IPA - New England / Hazy,6.2,Sáez & Son,Spain,Def Enjoy
+1548179742,2026-02-07,3.5,"","",Nuogas Ruonis (Naked Seal),Blonde / Golden Ale - Other,5.8,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Baras Kernagis
+1548179869,2026-02-07,4.0,Pellet lé,Budapest,Penki Mazgai,IPA - New England / Hazy,5.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Baras Kernagis
+1548183618,2026-02-07,4.0,"",Vilnius,Penki Mazgai,IPA - New England / Hazy,5.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Youston Apartments
+1548184962,2026-02-07,1.5,"",Vilnius,Beaufort Light,Lager - American Light,3.8,Boissons du Cameroun,Cameroon,Def Enjoy
+1548185545,2026-02-07,1.0,"","",Beaufort Light,Lager - American Light,3.8,Boissons du Cameroun,Cameroon,Def Enjoy
+1548187778,2026-02-07,3.0,"","",Beaufort Light,Lager - American Light,3.8,Boissons du Cameroun,Cameroon,Def Enjoy
+1548188120,2026-02-07,4.0,"",Vilnius,SLOW DOWN Session Hazy IPA Talus + Galaxy,IPA - Session New England / Hazy,5.3,NOZIB Special Brews,Czech Republic,Def Enjoy
+1548190986,2026-02-07,4.3,"","",Kita Pusė,IPA - White / Wheat,5.5,Dundulis,Lithuania,Etmonų Špunka
+1548194161,2026-02-07,3.5,"","",Beaufort Light,Lager - American Light,3.8,Boissons du Cameroun,Cameroon,Def Enjoy
+1548195578,2026-02-07,4.0,"","",Opopoppa,IPA - New England / Hazy,6.2,Sáez & Son,Spain,Def Enjoy
+1548207329,2026-02-07,4.0,"","",Atblāzma (Glow),Sour - Fruited Berliner Weisse,3.5,Labietis. Pagan Brews,Latvia,Alaus kolonėlė
+1548221535,2026-02-07,4.0,"","",Royal Execution: the Remake,Bitter - Extra Special / Strong (ESB),6.5,Hop Hooligans,Romania,Def Enjoy
+1548222039,2026-02-07,3.8,"","",Royal Execution: the Remake,Bitter - Extra Special / Strong (ESB),6.5,Hop Hooligans,Romania,Def Enjoy
+1548222303,2026-02-07,4.3,"",Vilnius,Royal Execution: the Remake,Bitter - Extra Special / Strong (ESB),6.5,Hop Hooligans,Romania,Def Enjoy
+1548223552,2026-02-07,3.8,"",Vilnius,Penki Mazgai,IPA - New England / Hazy,5.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Youston Apartments
+1548224851,2026-02-07,3.5,"Мертво😁
+BBD 12.2020
+Уже почти как ламбик",Vilnius,OPUS1 Beerlovers Edition,IPA - Imperial / Double,8.7,Privatbrauerei Zwettl,Austria,Def Enjoy
+1548225217,2026-02-07,0.3,"Пизда нахуй.
+Ещё и bbd 2020.","",OPUS1 Beerlovers Edition,IPA - Imperial / Double,8.7,Privatbrauerei Zwettl,Austria,Def Enjoy
+1548226814,2026-02-07,4.0,"",Vilnius,NEEDLE - West Coast IPA,IPA - American,6.3,Pivovar Vik,Czech Republic,Def Enjoy
+1548227248,2026-02-07,3.8,Vo. Kurwa. Kur aš?,Vilnius. Lithuania.,Level Head,IPA - Session,4.0,Greene King,England,Lithuanian Art Museum
+1548228878,2026-02-07,1.5,"","Oslo, Norway",IPA,IPA - Other,6.0,Volfas Engelman,Lithuania,Comfort Hotel LT
+1548229250,2026-02-07,1.8,"",oslo,IPA,IPA - Other,6.0,Volfas Engelman,Lithuania,Comfort Hotel LT
+1548233264,2026-02-07,2.8,"","Oslo, Norway",Bavaria Gluten Free,Gluten-Free,5.0,Royal Swinkels,Netherlands,Comfort Hotel LT
+1548234980,2026-02-07,5.0,"","",As Above So Below,Stout - Imperial / Double Coffee,10.0,Mortalis Brewing Company,United States,Nisha Craft Capital
+1548237795,2026-02-07,4.0,"","",Don't Tell Gus!,IPA - Imperial / Double New England / Hazy,8.0,Verdant Brewing Co,England,Nisha Craft Capital
+1548238395,2026-02-07,2.5,"","Oslo, Norway",Mangolicious,IPA - Fruited,4.7,Tanker Brewery,Estonia,Comfort Hotel LT
+1548238828,2026-02-07,2.8,"",oslo,Mangolicious,IPA - Fruited,4.7,Tanker Brewery,Estonia,Comfort Hotel LT
+1548239493,2026-02-07,4.0,"","",Tamsusis,Lager - Dark,5.6,Vilniaus Alus,Lithuania,Jimmy Jumps Hostel
+1548242613,2026-02-07,4.5,"Ёлка, разъеб","",NEEDLE - West Coast IPA,IPA - American,6.3,Pivovar Vik,Czech Republic,Def Enjoy
+1548243436,2026-02-07,3.8,"","",Applehoff Cherry Brandy BA,Sour - Fruited,10.0,Anderson's Brewery,Estonia,Nisha Craft Capital
+1548244657,2026-02-07,2.5,"","Oslo, Norway",Corn Lager,Lager - Other,4.3,Sakiškės Brewery / Sakiškių Alus,Lithuania,Comfort Hotel LT
+1548252318,2026-02-07,4.5,"",Vilnius,Triple Artisan,IPA - Triple New England / Hazy,10.5,Fidens Brewing Co.,United States,Def Enjoy
+1548252374,2026-02-07,4.8,"","",Triple Artisan,IPA - Triple New England / Hazy,10.5,Fidens Brewing Co.,United States,Def Enjoy
+1548252660,2026-02-07,4.0,"","",Royal Execution: the Remake,Bitter - Extra Special / Strong (ESB),6.5,Hop Hooligans,Romania,Def Enjoy
+1548253296,2026-02-07,4.0,"",Vilnius,Crazy Lines Series: Flag of Poland,IPA - New England / Hazy,6.2,Nepo Brewing,Poland,Naujamiestis
+1548253367,2026-02-07,4.5,"","",Triple Artisan,IPA - Triple New England / Hazy,10.5,Fidens Brewing Co.,United States,Def Enjoy
+1548254342,2026-02-07,4.3,"",Vilnius,"Juicy Trap #18",IPA - Imperial / Double New England / Hazy,8.0,Piwne Podziemie / Beer Underground,Poland,Naujamiestis
+1548255571,2026-02-07,4.3,"",Vilnius,Plum Depths Baltic Porter,Porter - Baltic,9.0,Browar Stu Mostów,Poland,Naujamiestis
+1548262677,2026-02-07,3.3,"",Budapest ,Italian Style Sour Ale,Sour - Berliner Weisse,4.5,Genys Brewing Co.,Lithuania,Hill of Three Crosses Lookout (Trijų kryžių kalnas)
+1548263443,2026-02-07,1.5,"","",Raudona Vyšnia,Fruit Beer,5.2,UAB Joalda,Lithuania,Alaus kolonėlė
+1548264272,2026-02-07,1.8,"","",Raudona Vyšnia,Fruit Beer,5.2,UAB Joalda,Lithuania,Alaus kolonėlė
+1548268509,2026-02-07,2.8,"",Budapest,Mango Passionfruit Sour,Sour - Fruited Gose,5.0,Bear & Boar,Lithuania,Hill of Three Crosses Lookout (Trijų kryžių kalnas)
+1548268944,2026-02-07,4.5,"","",TDH Double Alien Church (Simcoe / Motueka),IPA - Imperial / Double,9.0,Tired Hands Brewing Company,United States,Nisha Craft Capital
+1548269675,2026-02-07,3.3,"",Budapest ,Italian Style Sour Ale,Sour - Berliner Weisse,4.5,Genys Brewing Co.,Lithuania,Hill of Three Crosses Lookout (Trijų kryžių kalnas)
+1548270837,2026-02-07,4.0,"","",NEEDLE - West Coast IPA,IPA - American,6.3,Pivovar Vik,Czech Republic,Def Enjoy
+1548271218,2026-02-07,3.8,"","",Imperial Porteris,Porter - Baltic,6.0,Volfas Engelman,Lithuania,Hill of Three Crosses Lookout (Trijų kryžių kalnas)
+1548276441,2026-02-08,4.5,"","",Cabal,IPA - New England / Hazy,7.0,All My Friends Beer Co.,Canada,Nisha Craft Capital
+1548280407,2026-02-07,4.0,"",Lithuania,NEEDLE - West Coast IPA,IPA - American,6.3,Pivovar Vik,Czech Republic,Def Enjoy
+1548298106,2026-02-08,2.8,"","",Brooklyn Pilsner,Pilsner - Other,4.6,Brooklyn Brewery,United States,Baltijos Marmuras
+1548300553,2026-02-08,2.5,"",Budapest ,Kanapinis Šviesusis / Kanapinis Light,Lager - Pale,5.1,Aukštaitijos Bravorai,Lithuania,Sereikiškių parkas
+1548305114,2026-02-08,4.0,"","",Cresting Wave,Farmhouse Ale - Saison,5.7,Jackie O’s Brewery,United States,Nisha Craft Capital
+1548321310,2026-02-08,4.3,"",Budapest ,Smoked Plum Wee Heavy,Scotch Ale / Wee Heavy,10.2,Sakiškės Brewery / Sakiškių Alus,Lithuania,Smagus Raugas beershop
+1548323659,2026-02-08,4.0,"",Budapest ,Sour Beetroot Ale,Sour - Tomato / Vegetable Gose,3.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Smagus Raugas beershop
+1548325050,2026-02-08,4.3,"",Vilnius,Portermass Double Vanilla,Porter - Imperial / Double Baltic,11.0,PINTA,Poland,Naujamiestis
+1548347168,2026-02-08,2.3,Cod zombies ahh location,Turku,Heineken,Lager - Pale,5.0,Heineken,Netherlands,Elastica
+1548354164,2026-02-08,3.3,"",Budapest ,Pickle Sour Ale,Sour - Tomato / Vegetable Gose,4.3,Sakiškės Brewery / Sakiškių Alus,Lithuania,Saint Michael Old Town Cellar And Studio
+1548371844,2026-02-08,3.5,"",Budapest ,Soriukas,Pilsner - Other,4.6,Dundulis,Lithuania,Saint Michael Old Town Cellar And Studio
+1548380869,2026-02-08,4.0,"","",Talvepäike,Sour - Smoothie / Pastry,5.5,Tuletorn Brewing,Estonia,Kake Make Parkas
