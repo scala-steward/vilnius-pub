@@ -8,7 +8,7 @@
         "@evidence-dev/bigquery": "^2.0.12",
         "@evidence-dev/core-components": "^5.4.0",
         "@evidence-dev/csv": "^1.0.14",
-        "@evidence-dev/databricks": "^1.0.9",
+        "@evidence-dev/databricks": "^1.0.10",
         "@evidence-dev/duckdb": "^2.0.0",
         "@evidence-dev/evidence": "^40.1.6",
         "@evidence-dev/motherduck": "^1.0.6",
@@ -337,7 +337,7 @@
 
     "@evidence-dev/csv": ["@evidence-dev/csv@1.0.15", "", { "dependencies": { "@evidence-dev/db-commons": "1.1.0", "@evidence-dev/duckdb": "2.0.0" } }, "sha512-Kh937oqfZeX5UaqSe7ZK85sWGNBbdtbPSNniQVW9we4K/HLounwKNcBflgOJ3ZK2BGr7Nxmt1qIlr3tE958fow=="],
 
-    "@evidence-dev/databricks": ["@evidence-dev/databricks@1.0.9", "", { "dependencies": { "@databricks/sql": "1.7.1", "@evidence-dev/db-commons": "1.1.0" } }, "sha512-acCzWabdzHQEV55ElU/1lDUssEK8yGU4Yenwbp9bEqyARrEZoplu7UCWfYali4/fUo9LV8jTp5glb2/fSMAkPw=="],
+    "@evidence-dev/databricks": ["@evidence-dev/databricks@1.0.10", "", { "dependencies": { "@databricks/sql": "1.7.1", "@evidence-dev/db-commons": "1.1.1" } }, "sha512-ZOue5qmXTT3GXWTkb+WoGIVtG6PdKZenIZtrmOEAjesKn0vD43Gx/Hkdt9FLj1R5/p8UrCwZE4nYxszMgSF/ew=="],
 
     "@evidence-dev/db-commons": ["@evidence-dev/db-commons@1.1.1", "", { "dependencies": { "fs-extra": "11.2.0" } }, "sha512-WYucSLyGbHEME6bJKVctrWa9kYniOntVj+wZtHpPffDKPNRfcW6KeXZeqvL4CH0XTC9ZSggd8lCNHfUP/JPAoQ=="],
 
@@ -2372,8 +2372,6 @@
     "@eslint/eslintrc/minimatch": ["minimatch@3.1.2", "", { "dependencies": { "brace-expansion": "^1.1.7" } }, "sha512-J7p63hRiAjw1NDEww1W7i37+ByIrOWO5XQQAzZ3VOcL0PNybwpfmV/N05zFAzwQ9USyEcX6t3UO+K5aqBQOIHw=="],
 
     "@evidence-dev/csv/@evidence-dev/db-commons": ["@evidence-dev/db-commons@1.1.0", "", { "dependencies": { "fs-extra": "11.2.0" } }, "sha512-ZKuRWblgApC6X0BHXt4StZgYC2nQ4uoz2yRAoVAi+ua96WUxmpoawOIELlH0TYtZYcDvuu4C3yxuX/MPAHTX0w=="],
-
-    "@evidence-dev/databricks/@evidence-dev/db-commons": ["@evidence-dev/db-commons@1.1.0", "", { "dependencies": { "fs-extra": "11.2.0" } }, "sha512-ZKuRWblgApC6X0BHXt4StZgYC2nQ4uoz2yRAoVAi+ua96WUxmpoawOIELlH0TYtZYcDvuu4C3yxuX/MPAHTX0w=="],
 
     "@evidence-dev/duckdb/@evidence-dev/db-commons": ["@evidence-dev/db-commons@1.1.0", "", { "dependencies": { "fs-extra": "11.2.0" } }, "sha512-ZKuRWblgApC6X0BHXt4StZgYC2nQ4uoz2yRAoVAi+ua96WUxmpoawOIELlH0TYtZYcDvuu4C3yxuX/MPAHTX0w=="],
 
