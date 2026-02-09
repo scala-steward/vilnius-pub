@@ -18,7 +18,7 @@
         "@evidence-dev/snowflake": "^1.2.4",
         "@evidence-dev/source-javascript": "^0.0.3",
         "@evidence-dev/sqlite": "^2.0.8",
-        "@evidence-dev/trino": "^1.0.10",
+        "@evidence-dev/trino": "^1.0.11",
       },
     },
   },
@@ -369,7 +369,7 @@
 
     "@evidence-dev/telemetry": ["@evidence-dev/telemetry@2.1.3", "", { "dependencies": { "@lukeed/uuid": "2.0.0", "@segment/analytics-node": "^2.1.2", "blueimp-md5": "^2.19.0", "fs-extra": "11.2.0" } }, "sha512-bVYSI+ZJqsVLK9cu2xNICyErXD3GPiI/SKHRcbZG0meP7C2J/wf2QkSGOUJUUMfQbWiHGxmzjcfyRJzzFoVGBQ=="],
 
-    "@evidence-dev/trino": ["@evidence-dev/trino@1.0.10", "", { "dependencies": { "@evidence-dev/db-commons": "1.1.0", "presto-client": "^1.1.0" } }, "sha512-8e6D/bm5y9+aJ9NCBwlmk26ETlnr4BccG7hKCjm30szdJ/MIbSNASQBVPXZkLhnMJ/xqSRPqmhIE+yS2P0lxwA=="],
+    "@evidence-dev/trino": ["@evidence-dev/trino@1.0.11", "", { "dependencies": { "@evidence-dev/db-commons": "1.1.1", "presto-client": "^1.1.0" } }, "sha512-jdXfQ9jrpR3BOERmuf5+X5jLy5W71CL8H/kLzxeEhyRP/0bTeLi6lzMK6zUyhAJGs0aq4RUmn+9++1dBdk4qLg=="],
 
     "@evidence-dev/universal-sql": ["@evidence-dev/universal-sql@3.0.0", "", { "dependencies": { "@duckdb/duckdb-wasm": "^1.30.0", "apache-arrow": "17.0.0", "chalk": "^5.2.0", "cli-progress": "^3.12.0", "lodash.chunk": "^4.2.0", "parquet-wasm": "0.5.0", "web-worker": "^1.2.0" } }, "sha512-rPXP+zP7zeVCbQh6rbuknoWcEj6aFQQIHTjC3WvozhLwYCRi7eBsBErp3uc8HGr2demYy9ieA1FfrROwe10xjQ=="],
 
@@ -2396,8 +2396,6 @@
     "@evidence-dev/source-javascript/@evidence-dev/db-commons": ["@evidence-dev/db-commons@1.1.0", "", { "dependencies": { "fs-extra": "11.2.0" } }, "sha512-ZKuRWblgApC6X0BHXt4StZgYC2nQ4uoz2yRAoVAi+ua96WUxmpoawOIELlH0TYtZYcDvuu4C3yxuX/MPAHTX0w=="],
 
     "@evidence-dev/sqlite/@evidence-dev/db-commons": ["@evidence-dev/db-commons@1.1.0", "", { "dependencies": { "fs-extra": "11.2.0" } }, "sha512-ZKuRWblgApC6X0BHXt4StZgYC2nQ4uoz2yRAoVAi+ua96WUxmpoawOIELlH0TYtZYcDvuu4C3yxuX/MPAHTX0w=="],
-
-    "@evidence-dev/trino/@evidence-dev/db-commons": ["@evidence-dev/db-commons@1.1.0", "", { "dependencies": { "fs-extra": "11.2.0" } }, "sha512-ZKuRWblgApC6X0BHXt4StZgYC2nQ4uoz2yRAoVAi+ua96WUxmpoawOIELlH0TYtZYcDvuu4C3yxuX/MPAHTX0w=="],
 
     "@evidence-dev/universal-sql/apache-arrow": ["apache-arrow@17.0.0", "", { "dependencies": { "@swc/helpers": "^0.5.11", "@types/command-line-args": "^5.2.3", "@types/command-line-usage": "^5.0.4", "@types/node": "^20.13.0", "command-line-args": "^5.2.1", "command-line-usage": "^7.0.1", "flatbuffers": "^24.3.25", "json-bignum": "^0.0.3", "tslib": "^2.6.2" }, "bin": { "arrow2csv": "bin/arrow2csv.cjs" } }, "sha512-X0p7auzdnGuhYMVKYINdQssS4EcKec9TCXyez/qtJt32DrIMGbzqiaMiQ0X6fQlQpw8Fl0Qygcv4dfRAr5Gu9Q=="],
 
