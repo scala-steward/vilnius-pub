@@ -7,7 +7,7 @@
       "dependencies": {
         "@evidence-dev/bigquery": "^2.0.12",
         "@evidence-dev/core-components": "^5.4.2",
-        "@evidence-dev/csv": "^1.0.14",
+        "@evidence-dev/csv": "^1.0.16",
         "@evidence-dev/databricks": "^1.0.10",
         "@evidence-dev/duckdb": "^2.0.1",
         "@evidence-dev/evidence": "^40.1.8",
@@ -335,7 +335,7 @@
 
     "@evidence-dev/core-components": ["@evidence-dev/core-components@5.4.2", "", { "dependencies": { "@astronautlabs/jsonpath": "^1.1.2", "@codemirror/autocomplete": "^6.16.0", "@codemirror/commands": "^6.5.0", "@codemirror/lang-sql": "^6.6.4", "@codemirror/language": "^6.10.1", "@codemirror/lint": "^6.8.0", "@codemirror/search": "^6.5.6", "@codemirror/view": "^6.26.3", "@docsearch/css": "^3.6.0", "@docsearch/js": "^3.6.0", "@evidence-dev/component-utilities": "4.0.13", "@evidence-dev/icons": "1.0.2", "@evidence-dev/tailwind": "3.1.4", "@internationalized/date": "^3.5.4", "@steeze-ui/radix-icons": "^1.1.2", "@steeze-ui/simple-icons": "^1.7.1", "@steeze-ui/svelte-icon": "1.5.0", "@steeze-ui/tabler-icons": "2.1.1", "@storybook/test": "^8.3.4", "@types/leaflet": "^1.9.12", "bits-ui": "^0.21.9", "chroma-js": "^2.4.2", "clsx": "^2.1.1", "cmdk-sv": "^0.0.12", "codemirror": "^6.0.1", "date-fns": "^3.6.0", "echarts": "5.6.0", "echarts-stat": "1.2.0", "export-to-csv": "0.2.1", "leaflet": "^1.9.4", "lodash": "^4.17.21", "nanoid": "3.3.8", "perfect-debounce": "^1.0.0", "prismjs": "1.29.0", "ssf": "0.11.2", "tailwind-merge": "^2.3.0", "tailwind-variants": "^0.1.20", "thememirror": "^2.0.1", "tua-body-scroll-lock": "^1.5.0", "yaml": "^2.4.2", "zod": "^3.23.8" }, "peerDependencies": { "svelte": "^4.2.19" } }, "sha512-06TDrv8JlFsBE3Vb7aUXy+TX5K2IZpPuJxY8Jm/fYxocy0TjCryPTVGzjSCM20tIgWWkUNH+Gz+AISd5KtXHMA=="],
 
-    "@evidence-dev/csv": ["@evidence-dev/csv@1.0.15", "", { "dependencies": { "@evidence-dev/db-commons": "1.1.0", "@evidence-dev/duckdb": "2.0.0" } }, "sha512-Kh937oqfZeX5UaqSe7ZK85sWGNBbdtbPSNniQVW9we4K/HLounwKNcBflgOJ3ZK2BGr7Nxmt1qIlr3tE958fow=="],
+    "@evidence-dev/csv": ["@evidence-dev/csv@1.0.16", "", { "dependencies": { "@evidence-dev/db-commons": "1.1.1", "@evidence-dev/duckdb": "2.0.1" } }, "sha512-93VcVa6GGtnG7SIAAihnJXSWTO/ymhaV9jOCohZw8/NOnW2pTT8PObYHhPXtnA7vQeKZXh1V7rNMHb6x7Fhz3g=="],
 
     "@evidence-dev/databricks": ["@evidence-dev/databricks@1.0.10", "", { "dependencies": { "@databricks/sql": "1.7.1", "@evidence-dev/db-commons": "1.1.1" } }, "sha512-ZOue5qmXTT3GXWTkb+WoGIVtG6PdKZenIZtrmOEAjesKn0vD43Gx/Hkdt9FLj1R5/p8UrCwZE4nYxszMgSF/ew=="],
 
@@ -2371,7 +2371,7 @@
 
     "@eslint/eslintrc/minimatch": ["minimatch@3.1.2", "", { "dependencies": { "brace-expansion": "^1.1.7" } }, "sha512-J7p63hRiAjw1NDEww1W7i37+ByIrOWO5XQQAzZ3VOcL0PNybwpfmV/N05zFAzwQ9USyEcX6t3UO+K5aqBQOIHw=="],
 
-    "@evidence-dev/csv/@evidence-dev/db-commons": ["@evidence-dev/db-commons@1.1.0", "", { "dependencies": { "fs-extra": "11.2.0" } }, "sha512-ZKuRWblgApC6X0BHXt4StZgYC2nQ4uoz2yRAoVAi+ua96WUxmpoawOIELlH0TYtZYcDvuu4C3yxuX/MPAHTX0w=="],
+    "@evidence-dev/csv/@evidence-dev/duckdb": ["@evidence-dev/duckdb@2.0.1", "", { "dependencies": { "@duckdb/node-api": "^1.4.2-r.1", "@evidence-dev/db-commons": "1.1.1" } }, "sha512-o3BJD50Q+zT4IPaokMc6P7BnhpnW8/3DuUyulDJ+RM5yPCQrp+pNF1pYSGAo5AmvgHTQUagyHoTyjbHkdwPqVg=="],
 
     "@evidence-dev/csv/@evidence-dev/duckdb": ["@evidence-dev/duckdb@2.0.0", "", { "dependencies": { "@duckdb/node-api": "^1.4.2-r.1", "@evidence-dev/db-commons": "1.1.0" } }, "sha512-+zfTNtN812/Nlxp2QolBO7J79Ot7X5aolsvWMCj3W2Rm/5jOOJwn+S/CWPa5dPz0l5m4DZRrKyvi8XnZR/RZ2w=="],
 
