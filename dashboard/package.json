@@ -27,7 +27,7 @@
     "@evidence-dev/postgres": "^1.0.9",
     "@evidence-dev/snowflake": "^1.2.4",
     "@evidence-dev/source-javascript": "^0.0.3",
-    "@evidence-dev/sqlite": "^2.0.8",
+    "@evidence-dev/sqlite": "^2.0.9",
     "@evidence-dev/trino": "^1.0.11"
   },
   "overrides": {
