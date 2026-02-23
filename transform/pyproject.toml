@@ -3,4 +3,4 @@ name = "vilnius_pub"
 version = "0.1.0"
 description = ""
 requires-python = "==3.12.*"
-dependencies = ["dbt-duckdb==1.10.0"]
+dependencies = ["dbt-duckdb==1.10.1"]
