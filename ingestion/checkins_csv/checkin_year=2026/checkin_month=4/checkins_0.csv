@@ -827,3 +827,45 @@ checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_a
 1561034587,2026-04-06,3.8,"","",Kriek,Fruit Beer,4.0,Volfas Engelman,Lithuania,Best Western Hotel Vilnius
 1561034803,2026-04-06,4.5,Gerai,Minsk,ABRAKADABRA [ Drumstasis IPA ],IPA - New England / Hazy,5.4,Dundulis,Lithuania,Būsi Trečias
 1561038724,2026-04-06,4.3,"","",Blanc,Wheat Beer - Witbier / Blanche,5.0,Volfas Engelman,Lithuania,Best Western Hotel Vilnius
+1561102537,2026-04-07,3.0,"","",Grimbergen Double Ambrée,Belgian Dubbel,6.5,Brasseries Kronenbourg,France,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1561102714,2026-04-07,3.5,Like a wheat beer,"",Kanapinis Šviesusis / Kanapinis Light,Kellerbier / Zwickelbier,5.1,Aukštaitijos Bravorai,Lithuania,Baltas Tiltas Food Hall
+1561102802,2026-04-07,4.3,Yummy but just one - sweet,"",Mango Milkshake,Pale Ale - Milkshake,5.6,Volfas Engelman,Lithuania,Baltas Tiltas Food Hall
+1561103212,2026-04-07,3.5,Fruchtige Hopfengranate,"Dortmund, Germany ",India Pale Ale,IPA - American,5.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Sakiškės Brewery Kiosk
+1561105129,2026-04-07,3.3,"Für ein Rauchbier nicht schlecht, habe da eher schlechte Erinnerungen an den Bierstil.","Dortmund, Germany ",Smoked Helles,Rauchbier,4.8,Sakiškės Brewery / Sakiškių Alus,Lithuania,Sakiškės Brewery Kiosk
+1561105568,2026-04-07,3.3,"","",Keturi Vėjai (Four Winds),Kölsch,4.9,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1561109653,2026-04-07,4.5,"","",Pļava (Meadow),Spiced / Herbed Beer,6.3,Labietis. Pagan Brews,Latvia,Alaus kolonėlė
+1561120032,2026-04-07,4.5,"","",Cherry,Sour - Fruited Berliner Weisse,4.0,Funky Fluid,Poland,Vyšnaitė
+1561120983,2026-04-07,3.3,"","Vilnius, Lithuania",Vienas Red Dune,Märzen,5.8,Volfas Engelman,Lithuania,Pilaitės biblioteka
+1561125238,2026-04-07,3.8,"","Vilnius, Lithuania",Mimosa Sour,Sour - Fruited,4.0,Genys Brewing Co.,Lithuania,Pilaitės biblioteka
+1561130655,2026-04-07,4.5,"","",Oude Gueuze Lambic,Lambic - Gueuze,7.0,Brouwerij Mort Subite,Belgium,Brussels Mussels Centrum
+1561130680,2026-04-07,0.0,"",Vilnius,Rainbows Sold Separately,IPA - Triple New England / Hazy,10.0,White Dog Brewery,Netherlands,Youston Apartments
+1561130928,2026-04-07,3.3,"",Vilnius,India Pale Ale,IPA - American,5.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1561131219,2026-04-07,4.8,"","",Oude Gueuze Lambic,Lambic - Gueuze,7.0,Brouwerij Mort Subite,Belgium,Brussels Mussels Centrum
+1561132777,2026-04-07,3.8,"","",Hoppy Lager,Lager - Other,5.4,Bear & Boar,Lithuania,Alaus kolonėlė
+1561134786,2026-04-07,3.3,"","",Tripel Karmeliet,Belgian Tripel,8.4,Brouwerij Bosteels,Belgium,Brussels Mussels Centrum
+1561135033,2026-04-07,4.0,"","",Kwak Rouge,Fruit Beer,8.0,Brouwerij Bosteels,Belgium,Brussels Mussels Centrum
+1561137400,2026-04-07,0.8,"","",Ludzie Trzymajcie Kapelusze,Stout - Imperial / Double Milk,9.9,Browar Brokreacja,Poland,Local Pub
+1561137418,2026-04-07,3.3,"","",Ludzie Trzymajcie Kapelusze,Stout - Imperial / Double Milk,9.9,Browar Brokreacja,Poland,Local Pub
+1561137992,2026-04-07,0.0,"","",ABRAKADABRA [ Drumstasis IPA ],IPA - New England / Hazy,5.4,Dundulis,Lithuania,Jimmy Jumps Bar
+1561139385,2026-04-07,4.5,"","",Kasteel Rubus Framboise,Fruit Beer,7.0,Kasteel Brouwerij Vanhonsebrouck,Belgium,Airplane Vilnius - Brussels
+1561140872,2026-04-07,3.5,"","",La Belle De Roquetas,Farmhouse Ale - Saison,5.7,Wylie Brewery,Spain,Nisha Craft Capital
+1561141398,2026-04-07,0.0,"",Vilnius,Let Me Clear My Throat,IPA - New England / Hazy,6.6,FrauGruber Brewing,Germany,Youston Apartments
+1561141605,2026-04-07,3.3,"","",Sea Goes Radical,Sour - Traditional Gose,4.0,Nurme,Latvia,Local Pub
+1561142040,2026-04-07,3.5,"","",Haunted,Lager - Pale,4.3,Funky Fluid,Poland,Local Pub
+1561145370,2026-04-07,4.5,"","",Kasteel Rubus Framboise,Fruit Beer,7.0,Kasteel Brouwerij Vanhonsebrouck,Belgium,Brussels Mussels Centrum
+1561145558,2026-04-07,3.0,"","","Free Gelato: Passion Fruit, Mango & Peach",Non-Alcoholic - Sour,0.5,Funky Fluid,Poland,Local Pub
+1561146598,2026-04-07,4.0,"","","Free Gelato: White Guava, Mango & Lime",Non-Alcoholic - Sour,0.5,Funky Fluid,Poland,Local Pub
+1561146757,2026-04-07,4.0,"","",Symbolic Four,IPA - Imperial / Double New England / Hazy,7.2,Browar Stu Mostów,Poland,Local Pub
+1561147023,2026-04-07,4.3,"","",Symbolic Four,IPA - Imperial / Double New England / Hazy,7.2,Browar Stu Mostów,Poland,Local Pub
+1561154840,2026-04-07,3.5,"Turi įtartiną poskonį (medžio), bet skanus","",Hop House 13 Lager,Lager - Pale,4.1,Guinness,Ireland,Sparta Bar
+1561156206,2026-04-07,3.3,"","",Vilkmergės Premium Lager,Lager - Helles,5.0,Vilkmerges Alus,Lithuania,Lvovo Gastro Pub
+1561156277,2026-04-07,3.3,"","",Always Porter,Porter - English,5.0,Stigbergets Bryggeri,Sweden,Nisha Craft Capital
+1561156288,2026-04-07,3.8,"",Vilnius,Penki Mazgai,IPA - New England / Hazy,5.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Youston Apartments
+1561156563,2026-04-07,3.0,"","",Baltas,Wheat Beer - Hefeweizen,5.2,Vilkmerges Alus,Lithuania,Lvovo Gastro Pub
+1561165699,2026-04-07,3.0,"",Kaunas,ATR IPA,IPA - Farmhouse,5.7,Dundulis,Lithuania,Etmonų Špunka
+1561167187,2026-04-07,3.8,"","",Guidobald Export Hell,Lager - Dortmunder / Export,5.3,Privatbrauerei M.C. Wieninger,Germany,Pas Vokieti
+1561168688,2026-04-07,3.8,"",Vilnius,Penki Mazgai,IPA - New England / Hazy,5.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Youston Apartments
+1561170257,2026-04-07,4.0,"","",Non-alcoholic Hopped Naturel,Non-Alcoholic - Cider / Perry,0.4,Jaanihanso,Estonia,Local Pub
+1561170441,2026-04-07,0.0,"","",Nonalco Bezalko MATCHA IPA,Non-Alcoholic - IPA,0.5,Nepo Brewing,Poland,Local Pub
+1561232236,2026-04-08,3.5,"","",Guidobald Export Hell,Lager - Dortmunder / Export,5.3,Privatbrauerei M.C. Wieninger,Germany,Širšių Lounge
+1561233088,2026-04-08,3.8,"",Vilnius,Ārpus X Celestial Beerworks QDH Peacharine X Citra X Rakau X Strata TIPA,IPA - Triple New England / Hazy,10.0,Ārpus Brewing Co.,Latvia,Museum of Occupations and Freedom Fights (Okupacijų Ir Laisvės Kovų Muziejus)
