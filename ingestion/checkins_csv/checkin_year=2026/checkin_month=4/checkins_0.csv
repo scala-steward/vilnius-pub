@@ -868,4 +868,60 @@ checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_a
 1561170257,2026-04-07,4.0,"","",Non-alcoholic Hopped Naturel,Non-Alcoholic - Cider / Perry,0.4,Jaanihanso,Estonia,Local Pub
 1561170441,2026-04-07,0.0,"","",Nonalco Bezalko MATCHA IPA,Non-Alcoholic - IPA,0.5,Nepo Brewing,Poland,Local Pub
 1561232236,2026-04-08,3.5,"","",Guidobald Export Hell,Lager - Dortmunder / Export,5.3,Privatbrauerei M.C. Wieninger,Germany,Širšių Lounge
-1561233088,2026-04-08,3.8,"",Vilnius,Ārpus X Celestial Beerworks QDH Peacharine X Citra X Rakau X Strata TIPA,IPA - Triple New England / Hazy,10.0,Ārpus Brewing Co.,Latvia,Museum of Occupations and Freedom Fights (Okupacijų Ir Laisvės Kovų Muziejus)
+1561233088,2026-04-08,3.8,"",Vilnius,Ārpus X Celestial Beerworks QDH Peacharine X Citra X Rakau X Strata TIPA,IPA - Triple New England / Hazy,10.0,Ārpus Brewing Co.,Latvia,Okupacijų Ir Laisvės Kovų Muziejus
+1561239569,2026-04-08,0.0,Lunch in Vilnius,"",Baltas,Wheat Beer - Hefeweizen,5.2,Vilkmerges Alus,Lithuania,Flying Tomato Pizza
+1561239903,2026-04-08,4.5,Магутная рэч,"",Pusnakts Velns,Dark Ale,9.7,Labietis. Pagan Brews,Latvia,Alaus kolonėlė
+1561239988,2026-04-08,4.0,"","",Tinginio Pantis - Obuolių,Cider - Traditional / Apfelwein,4.5,Gubernija Brewery,Lithuania,Alaus kolonėlė
+1561242974,2026-04-08,3.8,"",Iowa City,Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Etno Dvaras
+1561243227,2026-04-08,3.3,"","",Penki Mazgai,IPA - New England / Hazy,5.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Lukiskiu Kalejimas
+1561243380,2026-04-08,3.5,Beer in jail 😆,"",Bocmano Ūsai (Bosun’s Moustache),IPA - American,6.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Lukiškių kalėjimas 2.0
+1561243453,2026-04-08,3.3,Not bad either.,"",Penki Mazgai,IPA - New England / Hazy,5.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Lukiškių kalėjimas 2.0
+1561245218,2026-04-08,4.0,"","",Californication / Kalifornikacija,Pale Ale - American,4.5,Genys Brewing Co.,Lithuania,Haze Pub
+1561250581,2026-04-08,3.5,Dorst lessen na het doorkruisen van de hoofdstad.,"",Green Monster IPA,IPA - American,6.0,Green Monster Brewery,Lithuania,Nisha Craft Capital
+1561252243,2026-04-08,3.5,Vrouwtje koos voor prima ciderke van de tap.,"",To Pačio,Cider - Dry,5.5,Sidručiai MB,Lithuania,Nisha Craft Capital
+1561254189,2026-04-08,3.5,"","",Anarkist New England IPA,IPA - New England / Hazy,5.4,Theodor Schiøtz Brewing Company,Denmark,Plus Plus Plus
+1561256322,2026-04-08,3.5,"","",Red Zeppelin,Red Ale - Irish,4.5,Anderson's Brewery,Estonia,Local Pub
+1561257808,2026-04-08,2.8,"","Vilnius, Lithuania",Tuborg Green,Lager - Pale,4.6,Švyturys,Lithuania,Pilaitės biblioteka
+1561264389,2026-04-08,3.0,"","",Rinktinis,Lager - Pale,5.2,Volfas Engelman,Lithuania,Radisson Blu Hotel Lietuva
+1561274744,2026-04-08,3.3,"","",Imperial Porteris,Porter - Baltic,6.0,Volfas Engelman,Lithuania,Talutti - Bakes'n'shakes
+1561274790,2026-04-08,2.5,Okej. Needs suga. Maybe its just not my cuppa a tea.,"",Milk Chai,Non-Alcoholic - Tea/Lemonade,0.0,Restoranas Mazoji Himalaja,Lithuania,Mažoji Himalaja
+1561276523,2026-04-08,4.5,"",Lithuania,Keeper,IPA - Imperial / Double New England / Hazy,8.0,SOMA Beer,Spain,Def Enjoy
+1561277161,2026-04-08,3.8,"","",True Crime Podcast,IPA - New England / Hazy,6.2,FUERST WIACEK Berlin,Germany,Def Enjoy
+1561277790,2026-04-08,5.0,"","",Guinness Original Extra Stout (Europe),Stout - Irish Dry,5.0,Guinness,Ireland,Тупичок Тупнячка
+1561277934,2026-04-08,0.0,"",Vilnius,Mataura,IPA - Quadruple,11.0,Nano Cinco,Canada,Youston Apartments
+1561278104,2026-04-08,3.3,"","",Etxekoi,IPA - New England / Hazy,6.0,GROSS,Spain,Def Enjoy
+1561282552,2026-04-08,3.8,"",Minsk,WILLY WONKA - Dark Lager,Lager - Dark,5.3,Pivovar Vik,Czech Republic,Def Enjoy
+1561282883,2026-04-08,4.0,"",Lithuania,True Crime Podcast,IPA - New England / Hazy,6.2,FUERST WIACEK Berlin,Germany,Def Enjoy
+1561285162,2026-04-08,4.3,"","",True Crime Podcast,IPA - New England / Hazy,6.2,FUERST WIACEK Berlin,Germany,Def Enjoy
+1561285873,2026-04-08,0.3,"Ne mano skonio, jei dahuja uzdirbciau tai taip ir palikciau","",ATR IPA,IPA - Farmhouse,5.7,Dundulis,Lithuania,Alaus kolonėlė
+1561287801,2026-04-08,3.8,"","",Misty Ascent,IPA - Session New England / Hazy,4.6,Pivovar Vik,Czech Republic,Def Enjoy
+1561289533,2026-04-08,3.5,"","",Stendec,IPA - New England / Hazy,6.5,GROSS,Spain,Def Enjoy
+1561289817,2026-04-08,4.3,"","",Beta,IPA - New England / Hazy,6.0,SOMA Beer,Spain,Def Enjoy
+1561289864,2026-04-08,4.0,"",Minsk,Misty Ascent,IPA - Session New England / Hazy,4.6,Pivovar Vik,Czech Republic,Def Enjoy
+1561290431,2026-04-08,4.0,"",Vilnius,True Crime Podcast,IPA - New England / Hazy,6.2,FUERST WIACEK Berlin,Germany,Def Enjoy
+1561291487,2026-04-08,3.5,"",Vilnius,Misty Ascent,IPA - Session New England / Hazy,4.6,Pivovar Vik,Czech Republic,Def Enjoy
+1561292130,2026-04-08,3.3,"","",Etxekoi,IPA - New England / Hazy,6.0,GROSS,Spain,Def Enjoy
+1561293410,2026-04-08,0.0,"",Vilnius,EXTRA GROOVY,IPA - New England / Hazy,6.7,La Superbe,France,Youston Apartments
+1561295631,2026-04-08,2.8,"",Paderborn,Bavaria,Pilsner - Other,5.0,Royal Swinkels,Netherlands,Šūdų Kultas
+1561295814,2026-04-08,3.8,"","",Kovarnių,Smoked Beer,6.2,Dundulis,Lithuania,Savičiaus Špunka
+1561296928,2026-04-08,3.8,"","",Discovery Europe: Netherlands,IPA - New England / Hazy,6.5,PINTA,Poland,Local Pub
+1561298723,2026-04-08,4.5,"","",Bernelių Užeigos Gyvas Alus,Pale Ale - American,5.0,Bernelių Užeiga,Lithuania,Bernelių Užeiga
+1561298941,2026-04-08,3.8,"Узяў чыста дзеля бэйджыка. Нічога не чакаў, але топавая безалкашка за свае грошы. Півам пахне)","",Brooklyn Special Effects Hoppy Lager,Non-Alcoholic - Lager,0.4,Brooklyn Brewery,United States,Efekto
+1561300546,2026-04-08,3.3,"",Paderborn,La 150° Ambrata,Lager - Amber / Red,5.0,G. Menabrea & Figli,Italy,Lietuvos rusų dramos teatras (Vilniaus senasis teatras)
+1561300742,2026-04-08,5.0,"","",Wonders - Carribbean - Banana Coconut Milk,Sour - Smoothie / Pastry,4.9,Magic Road,Poland,COCO salon de beautè
+1561300804,2026-04-08,4.0,"",Minsk,True Crime Podcast,IPA - New England / Hazy,6.2,FUERST WIACEK Berlin,Germany,Def Enjoy
+1561301328,2026-04-08,4.3,"",Minsk,Keeper,IPA - Imperial / Double New England / Hazy,8.0,SOMA Beer,Spain,Def Enjoy
+1561301784,2026-04-08,4.0,"","",Nightdream Stout,Stout - Milk / Sweet,5.0,Basker Brewing Co.,Lithuania,Naujasis Skansenas
+1561302478,2026-04-08,4.0,"",Vilnius,Spora,IPA - New England / Hazy,6.7,GROSS,Spain,Def Enjoy
+1561304566,2026-04-08,4.3,"",Vilnius,Keeper,IPA - Imperial / Double New England / Hazy,8.0,SOMA Beer,Spain,Def Enjoy
+1561305320,2026-04-08,4.5,Сильно лучше чем в локале,"",Discover,IPA - Imperial / Double New England / Hazy,8.0,SOMA Beer,Spain,Def Enjoy
+1561306057,2026-04-08,3.8,"",Vilnius,Po Godzinach Imperial Stout,Stout - Imperial / Double,10.0,Browar Amber,Poland,Imperial restaurant
+1561307919,2026-04-08,4.0,"",Minsk,Pacific Wonders,IPA - Imperial / Double,8.0,Sáez & Son,Spain,Def Enjoy
+1561309062,2026-04-08,3.5,"","",Birra Di Nadodrze,IPA - New England / Hazy,6.4,Nepo Brewing,Poland,Local Pub
+1561309928,2026-04-08,2.8,"",Vilnius,Forever Brewing CAB,IPA - New England / Hazy,5.5,Волинський бровар,Ukraine,Memorial apartment museum of V. Krėvės–Mickevičiaus (V. Krėvės–Mickevičiaus memorialinis butas–muziejus)
+1561310146,2026-04-08,4.0,"","",Wonders - Carribbean - Banana Coconut Milk,Sour - Smoothie / Pastry,4.9,Magic Road,Poland,Aliejus
+1561315878,2026-04-08,3.8,"",Minsk,NORTH MEETS WEST Northwest IPA Nectaron + Krush ,IPA - Other,6.2,NOZIB Special Brews,Czech Republic,Def Enjoy
+1561319292,2026-04-08,4.0,Norfa geriausiaaa. Ne viską pas Dievą gali. Pagaliau ir Dundulis ten. Praktiškai nieko daugiau ir nebereikia.  Niekada iš Norfos neišeisi be alaus. Ir dar kaina padori. Amen.,Vilnius. Lithuania.,Kita Pusė,IPA - White / Wheat,5.5,Dundulis,Lithuania,Satyrikon'o Būdelė
+1561323835,2026-04-08,3.8,"","",Gubernija Spring Bock / Maibock,Bock - Hell / Maibock / Lentebock,6.0,Gubernija Brewery,Lithuania,Lipskio Alinė
+1561330292,2026-04-08,2.8,"",Paderborn,Vyšnių Kriek,Fruit Beer,5.0,Vilkmerges Alus,Lithuania,Lietuvos rusų dramos teatras (Vilniaus senasis teatras)
+1561386456,2026-04-09,4.3,"","",Black Hole Sun,Stout - Irish Dry,4.7,Browar Rockmill,Poland,Nisha Craft Capital
