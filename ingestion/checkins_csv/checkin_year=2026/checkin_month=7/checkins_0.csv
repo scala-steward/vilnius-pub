@@ -1,0 +1,17 @@
+checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_abv,brewery_name,brewery_country,venue_name
+1582085348,2026-07-01,2.5,"",Oslo ,Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,The Portobello
+1582086216,2026-07-01,2.5,"",Oslo,Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,The Portobello
+1582090149,2026-07-01,3.8,"","",Anarkist New England IPA,IPA - New England / Hazy,5.4,Theodor Schiøtz Brewing Company,Denmark,Vilnius
+1582091050,2026-07-01,2.5,"","",Nefiltrovaný ležák 11 / Unfiltered Lager,Pilsner - Czech / Bohemian,4.7,Primátor,Czech Republic,Alaus kolonėlė
+1582091234,2026-07-01,3.3,Mir leider ein bisschen zu säuerlich,"",Anarkist New England IPA,IPA - New England / Hazy,5.4,Theodor Schiøtz Brewing Company,Denmark,Šv. Jonų bažnyčia
+1582091742,2026-07-01,2.8,"",Oslo ,Estrella Galicia Especial,Lager - Helles,5.5,Hijos de Rivera,Spain,The Portobello
+1582091834,2026-07-01,3.8,"",Vilnius,Penki Mazgai,IPA - New England / Hazy,5.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Youston Apartments
+1582094769,2026-07-01,3.3,"","",Premium,Lager - Pale,4.8,Birra Forst,Italy,Premium
+1582096449,2026-07-01,3.3,Brilliant color with a sweet bite to it. Very good cidre all around with solid balance.,Central Valley CA,Sidre Nouvelle Vague,Cider - Traditional / Apfelwein,6.5,Eric Bordelet,France,VingioZoo
+1582097650,2026-07-01,3.0,Very big bubbles and corb sweet. Fun find however and glad to have tried.,Central Valley CA,Keturi Vėjai (Four Winds),Kölsch,4.9,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Burger Street
+1582098816,2026-07-01,3.3,"Old school or maybe just old. Leathery, tobacco and over the top(s) for my preference. Solid cherry flavor though.",Central Valley CA,Kriek Mariage Parfait (2021),Lambic - Kriek,8.0,Brouwerij Boon,Belgium,Archie's Burger
+1582099812,2026-07-01,3.3,Very smooth and enjoyable. Sweet but not overly so and the grapes work very well. Goes down very easily.,Central Valley CA,Naminė Duonos Gira,Kvass,0.0,Etno Dvaras,Lithuania,Etno Dvaras
+1582100906,2026-07-01,3.3,Delicious and very approachable. Done well and less sweet than expected which is very nice too. Worth a try.,Central Valley CA,Imperial Kvass,Kvass,0.5,Volfas Engelman,Lithuania,Sushi Lounge
+1582102247,2026-07-01,3.0,Bright and crisp with large bubbles.,Central Valley CA,Rinktinis,Lager - Pale,5.2,Volfas Engelman,Lithuania,Drama Burger Truck
+1582102944,2026-07-01,3.3,"",Central Valley CA,Weizen,Wheat Beer - Hefeweizen,4.8,Primátor,Czech Republic,Alaus kolonėlė
+1582141002,2026-07-01,3.5,"",Oslo,Humulupu IPA,IPA - Session,5.0,Dundulis,Lithuania,The Portobello
