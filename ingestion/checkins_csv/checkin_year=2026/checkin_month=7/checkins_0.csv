@@ -15,3 +15,162 @@ checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_a
 1582102247,2026-07-01,3.0,Bright and crisp with large bubbles.,Central Valley CA,Rinktinis,Lager - Pale,5.2,Volfas Engelman,Lithuania,Drama Burger Truck
 1582102944,2026-07-01,3.3,"",Central Valley CA,Weizen,Wheat Beer - Hefeweizen,4.8,Primátor,Czech Republic,Alaus kolonėlė
 1582141002,2026-07-01,3.5,"",Oslo,Humulupu IPA,IPA - Session,5.0,Dundulis,Lithuania,The Portobello
+1582149663,2026-07-01,4.0,"","",Bohemijos Tamsusis,Lager - Tmavé (Czech Dark),4.2,Volfas Engelman,Lithuania,Toliai Bistro
+1582149860,2026-07-01,3.5,"","",Bohemijos Tamsusis,Lager - Tmavé (Czech Dark),4.2,Volfas Engelman,Lithuania,Televizijos bokštas | Vilnius TV tower (Televizijos bokštas)
+1582153991,2026-07-01,3.0,"Mir etwas zu säuerlich bzw trocken. Wenig fruchtig, aber dennoch erfrischend","",Gubernija Sauvin-On IPA,IPA - Session,4.5,Gubernija Brewery,Lithuania,Paupio turgus
+1582154008,2026-07-01,3.5,"","",Kopparberg Pear,Cider - Perry / Poiré,4.5,Kopparbergs Bryggeri,Sweden,Paupio turgus
+1582154211,2026-07-01,3.5,"","",Gubernija Sauvin-On IPA,IPA - Session,4.5,Gubernija Brewery,Lithuania,Paupio turgus
+1582156146,2026-07-01,2.3,"","",Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Manami
+1582156676,2026-07-01,3.5,"","Gothenburg, Sweden",Ekstra Draught,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Narbutas Business Lounge
+1582158615,2026-07-01,4.0,Reiste til Litauen. Drikker norsk.,Oslo,Emotional Wallpaper,IPA - Imperial / Double New England / Hazy,8.0,Marlobobo's Megabear,Norway,Nisha Craft Capital
+1582159176,2026-07-01,3.5,"",Oslo,Monster Toybox,IPA - Other,7.4,Strange Toys,Ukraine,Nisha Craft Capital
+1582160268,2026-07-01,3.5,"",Oslo ,The Name Is Bober,Pale Ale - American,5.0,Browar Rockmill,Poland,Nisha Craft Capital
+1582160420,2026-07-01,3.3,"",Oslo ,Nuo Sutemų Iki Aušros,IPA - American,6.5,Nisha Craft Artesan Brew,Lithuania,Nisha Craft Capital
+1582162185,2026-07-01,4.5,"",Oslo,X-Raying Jasper,IPA - Imperial / Double New England / Hazy,8.5,Fidens Brewing Co.,United States,Nisha Craft Capital
+1582163804,2026-07-01,4.5,"","",Gelato: Green,Sour - Smoothie / Pastry,5.5,Funky Fluid,Poland,Local Pub
+1582165153,2026-07-01,3.0,"",Oslo ,BIX Beveik Nirvana,Pilsner - Other,5.0,Genys Brewing Co.,Lithuania,Nisha Craft Capital
+1582165307,2026-07-01,4.3,"",Oslo ,Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale,Sour - Smoothie / Pastry,4.5,Ārpus Brewing Co.,Latvia,Nisha Craft Capital
+1582165597,2026-07-01,4.0,"","",Sidras Rose 2026,Cider - Rosé,6.7,Sodo sidrinė,Lithuania,Local Pub
+1582165652,2026-07-01,4.0,"",Vilnius,Jetlag,IPA - Imperial / Double New England / Hazy,8.0,Browar Artezan,Poland,Local Pub
+1582165709,2026-07-01,4.3,Sehr erfrischend und bierig,"",Hoppy Tree Friends,Lager - Pale,4.7,Bear & Boar,Lithuania,Beer House
+1582165981,2026-07-01,3.8,"","",Hoppy Tree Friends,Lager - Pale,4.7,Bear & Boar,Lithuania,Beer House
+1582166217,2026-07-01,3.8,"","",Organic Tattoo Lager,Lager - Pale,4.0,Genys Brewing Co.,Lithuania,Dogma Pub
+1582166272,2026-07-01,4.0,"","",Two Liberties / Dvi Laisvės,IPA - American,6.0,Genys Brewing Co.,Lithuania,Dogma Pub
+1582170072,2026-07-01,4.5,Mega gutes dunkles IPA. Es fehlt nur der letzte Punch zur 5,"",Juodas IPA,IPA - Black / Cascadian Dark Ale,5.6,Dundulis,Lithuania,Beer House
+1582170268,2026-07-01,3.5,"","",Juodas IPA,IPA - Black / Cascadian Dark Ale,5.6,Dundulis,Lithuania,Beer House
+1582171275,2026-07-01,3.3,"","",Ćebrolis,Non-Alcoholic - Soda - Craft,0.0,Dundulis,Lithuania,Šnekutis
+1582172121,2026-07-01,4.0,"","",SUPER 8 IPA,IPA - Belgian,6.0,Brouwerij Haacht Brasserie,Belgium,Beer House
+1582172140,2026-07-01,4.0,"","",Citra IPA,IPA - American,5.4,Bear & Boar,Lithuania,Beer House
+1582172760,2026-07-01,4.0,"","Manchester, United Kingdom",ABRAKADABRA [ Drumstasis IPA ],IPA - New England / Hazy,5.4,Dundulis,Lithuania,Savičiaus Špunka
+1582173038,2026-07-01,4.0,"",Vilnius,Templar's Choice Medium Cider,Cider - Traditional / Apfelwein,4.5,Bland's Les Noyers Farm Cidery,France,Obuolys Ir Bite
+1582173237,2026-07-01,3.8,"","",Paulaner Hefe-Weißbier / Hefe-Weizen / Weissbier,Wheat Beer - Hefeweizen,5.5,Paulaner Brauerei,Germany,Lipskio Alinė
+1582173512,2026-07-01,4.3,"",Vilnius,Serum: Mango / Lime / Habanero,Mead - Session / Short,6.9,Brewlihan,United States,Obuolys Ir Bite
+1582173783,2026-07-01,3.8,"","",Pink Guava Lemonade,Sour - Fruited,4.4,Vault City Brewing,Scotland,Nisha Craft Capital
+1582173839,2026-07-01,4.3,"","",Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale,Sour - Smoothie / Pastry,4.5,Ārpus Brewing Co.,Latvia,Nisha Craft Capital
+1582173903,2026-07-01,3.5,"","",The Name Is Bober,Pale Ale - American,5.0,Browar Rockmill,Poland,Nisha Craft Capital
+1582174281,2026-07-01,3.5,"","",Atlantic,IPA - New England / Hazy,6.0,Browar Artezan,Poland,Local Pub
+1582174446,2026-07-01,4.0,"","",Gelato: Royal Orange,Sour - Smoothie / Pastry,5.5,Funky Fluid,Poland,Local Pub
+1582175314,2026-07-01,3.8,"","",Dark Forest / Tamsus Miškas,Porter - Baltic,6.0,Genys Brewing Co.,Lithuania,Snekutis
+1582176098,2026-07-01,3.0,"",Oslo ,Semigallia Original Coast Lager,Lager - Pale,5.2,Rinkuškiai,Lithuania,Šnekutis
+1582176665,2026-07-01,3.8,"",Oslo,Origin IPA,IPA - New England / Hazy,5.8,Basker Brewing Co.,Lithuania,Šnekutis
+1582179050,2026-07-01,4.0,"","",Craft Nealkoholinis Sidras,Cider - Other Fruit,0.0,Vilkmerges Alus,Lithuania,Cozy
+1582179176,2026-07-01,4.3,"",Lithuania,In the Steep,IPA - New England / Hazy,6.7,Outer Range Brewing Co.,United States,Def Enjoy
+1582179366,2026-07-01,3.8,"","",Senojo Pasvalio Tamsusis,Dark Ale,5.6,Alsteka,Lithuania,Šnekutis
+1582179494,2026-07-01,4.0,"",Lithuania,First Bloom,IPA - New England / Hazy,6.4,Outer Range Brewing Co.,United States,Def Enjoy
+1582179912,2026-07-01,3.8,"","",Senojo Pasvalio Tamsusis,Dark Ale,5.6,Alsteka,Lithuania,Šnekutis
+1582181138,2026-07-01,3.3,"","",TDH Single Hop Series Strata DIPA,IPA - Imperial / Double New England / Hazy,8.0,Ārpus Brewing Co.,Latvia,Nisha Craft Capital
+1582181791,2026-07-01,3.8,"",LTU,Poiré de Normandie,Cider - Perry / Poiré,4.0,Le Père Jules,France,Obuolys Ir Bite
+1582182370,2026-07-01,3.8,"","",Monster Toybox,IPA - Other,7.4,Strange Toys,Ukraine,Nisha Craft Capital
+1582182573,2026-07-01,3.8,"","",Vilkmergės Premium Lager,Lager - Helles,5.0,Vilkmerges Alus,Lithuania,Meatbusters
+1582182635,2026-07-01,4.0,"",Vilnius,TDH Single Hop Series Strata DIPA,IPA - Imperial / Double New England / Hazy,8.0,Ārpus Brewing Co.,Latvia,Nisha Craft Capital
+1582182902,2026-07-01,3.8,"","",Future Perfect,IPA - American,6.0,Hop Hooligans,Romania,Def Enjoy
+1582182925,2026-07-01,4.0,"",Vilnius,Exaltation,IPA - Triple New England / Hazy,10.0,Noctem Artisans Brasseurs,Canada,Nisha Craft Capital
+1582184251,2026-07-01,3.5,"","",Tinginio Pantis - Obuolių,Cider - Traditional / Apfelwein,4.5,Gubernija Brewery,Lithuania,Etno Dvaras
+1582184253,2026-07-01,3.5,"","Vilnius, Lithuania",Plaukia Pusiau Sausas,Bière de Champagne / Bière Brut,5.5,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Alaus studija
+1582184605,2026-07-01,3.3,"","",Jovarų Šnekutis,Farmhouse Ale - Other,6.0,A. Udrienes I.Į. Jovarų Alus,Lithuania,Snekutis
+1582184812,2026-07-01,4.0,"","",Meme Dealer,IPA - Imperial / Double,7.0,GROSS Brewery & Taproom,Spain,Def Enjoy
+1582187570,2026-07-01,3.0,"","",Juodas,Lager - Dark,6.7,Būsi Trečias,Lithuania,Būsi Trečias
+1582188600,2026-07-01,4.0,"","",In the Steep,IPA - New England / Hazy,6.7,Outer Range Brewing Co.,United States,Def Enjoy
+1582188685,2026-07-01,4.0,"","",Meme Dealer,IPA - Imperial / Double,7.0,GROSS Brewery & Taproom,Spain,Def Enjoy
+1582188771,2026-07-01,4.0,"","",Meme Dealer,IPA - Imperial / Double,7.0,GROSS Brewery & Taproom,Spain,Def Enjoy
+1582188955,2026-07-01,4.0,"","",In the Steep,IPA - New England / Hazy,6.7,Outer Range Brewing Co.,United States,Def Enjoy
+1582189028,2026-07-01,4.0,"","",In the Steep,IPA - New England / Hazy,6.7,Outer Range Brewing Co.,United States,Def Enjoy
+1582189109,2026-07-01,2.3,"","",Šviesusis Alus,Lager - Pale,5.0,Utenos Alus,Lithuania,Park Inn by Radisson Vilnius Airport Hotel & Business Centre
+1582191353,2026-07-01,4.3,"","",Super Sendy,IPA - Imperial / Double New England / Hazy,8.0,Outer Range Brewing Co.,United States,Def Enjoy
+1582191596,2026-07-01,4.3,Угостили,"",Poiré de Normandie,Cider - Perry / Poiré,4.0,Le Père Jules,France,Obuolys Ir Bite
+1582192054,2026-07-01,4.5,"",Vilnius ,Gutstoutas,Stout - Oatmeal,5.0,Širvėnos bravoras DUNDULIS,Lithuania,Žalia Žąsis
+1582192090,2026-07-01,3.8,"","",Varinis,Bitter - Extra Special / Strong (ESB),5.2,Pilialaukis,Lithuania,Alaus Namai
+1582192133,2026-07-01,3.5,"","",De Farra,IPA - American,6.5,Sáez & Son,Spain,Def Enjoy
+1582192791,2026-07-01,2.8,"Ai defaultinis lageris, nieko ypatingo. Gal ciut ciut saldumeli","",Birra Italiana Premium,Lager - Pale,4.8,Birrificio Angelo Poretti,Italy,Darts Billiards
+1582192936,2026-07-01,3.3,"","",Blood Orange,Cider - Other Fruit,4.0,Thatchers,England,"Artistai, live music pub"
+1582193146,2026-07-01,4.8,"","",Fanal+ (2025),Mead - Melomel,12.5,Marlobobo,Norway,Obuolys Ir Bite
+1582193652,2026-07-01,4.3,"","",Emotional Wallpaper,IPA - Imperial / Double New England / Hazy,8.0,Marlobobo's Megabear,Norway,Nisha Craft Capital
+1582193795,2026-07-01,3.8,"","",34 ,Mead - Braggot,11.0,Dundulis,Lithuania,Snekutis
+1582193946,2026-07-01,3.5,"",Vilnius,Franziskaner Premium Weissbier Naturtrüb,Wheat Beer - Hefeweizen,5.0,Spaten-Franziskaner-Löwenbräu-Gruppe,Germany,Šimo Baras
+1582194959,2026-07-01,4.5,"","",Super Sendy,IPA - Imperial / Double New England / Hazy,8.0,Outer Range Brewing Co.,United States,Def Enjoy
+1582195953,2026-07-01,3.5,"",Vilnius,Cornelissen Luxury Lager,Lager - Pale,5.5,Brouwerij Cornelissen,Belgium,Šimo Baras
+1582196900,2026-07-01,3.0,"","",Vilkmergės Premium Lager,Lager - Helles,5.0,Vilkmerges Alus,Lithuania,Thai House
+1582197321,2026-07-01,3.3,"","",Bocmano Ūsai (Bosun’s Moustache),IPA - American,6.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Etno dvaras
+1582197356,2026-07-01,4.5,"","",Pearipheral Friends (2022),Mead - Melomel,12.5,Marlobobo,Norway,Obuolys Ir Bite
+1582198604,2026-07-01,1.5,"","",Vilkmergės Premium Lager,Lager - Helles,5.0,Vilkmerges Alus,Lithuania,Thai House
+1582199622,2026-07-01,4.0,"","",Super Sendy,IPA - Imperial / Double New England / Hazy,8.0,Outer Range Brewing Co.,United States,Def Enjoy
+1582199671,2026-07-01,3.8,"","Aberdeen, Scotland ",Humulupu IPA,IPA - Session,5.0,Dundulis,Lithuania,Begemoto Sapnas
+1582199769,2026-07-01,4.5,"","",NECTAR MONTREAL EST,IPA - Imperial / Double New England / Hazy,9.2,BreWskey,Canada,Def Enjoy
+1582199784,2026-07-01,4.5,"","",NECTAR MONTREAL EST,IPA - Imperial / Double New England / Hazy,9.2,BreWskey,Canada,Def Enjoy
+1582200243,2026-07-01,3.8,"",Vilnius,The Name Is Bober,Pale Ale - American,5.0,Browar Rockmill,Poland,Nisha Craft Capital
+1582200788,2026-07-01,3.8,"",Vilnius,Pink Guava Lemonade,Sour - Fruited,4.4,Vault City Brewing,Scotland,Nisha Craft Capital
+1582200998,2026-07-01,4.0,"",Lithuania,Moonline,IPA - Imperial / Double New England / Hazy,7.7,Outer Range Brewing Co.,United States,Def Enjoy
+1582201377,2026-07-01,4.3,"",Lithuania,Double Dose of Superdelic,IPA - Imperial / Double New England / Hazy,8.0,DankHouse Brewing Company,United States,Def Enjoy
+1582202695,2026-07-01,3.5,"",Vilnius,Ehapuna,Lager - Vienna,4.5,Hiiumaa Pruulikoda,Estonia,Alaus kolonėlė
+1582203545,2026-07-01,4.8,Делали без добавления воды,"",Bourbon BA Sakuranbobo (2023),Wine - Other,14.0,Marlobobo,Norway,Obuolys Ir Bite
+1582203765,2026-07-01,0.0,"",Vilnius,Cohérence,IPA - Imperial / Double,8.2,Brasserie du Bas-Canada,Canada,Youston Apartments
+1582207015,2026-07-01,3.8,"","Aberdeen, Scotland ",Avietė Melagė,Fruit Beer,4.2,Dundulis,Lithuania,Vilniaus Senamiestis | Vilnius Old Town (Vilniaus senamiestis)
+1582207904,2026-07-01,2.3,"","",Premium Nealkoholinis,Non-Alcoholic - Lager,0.0,Vilkmerges Alus,Lithuania,Békés Hill (Bekešo kalnas)
+1582208857,2026-07-01,2.5,"","San Antonio, Texas",Penki Mazgai,IPA - New England / Hazy,5.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,LOFTAS
+1582208938,2026-07-01,2.8,"","",Auksinis,Lager - Pale,5.0,Utenos Alus,Lithuania,13 Ausros Vartu Gatve
+1582209087,2026-07-01,3.8,"",Vilnius,Future Perfect,IPA - American,6.0,Hop Hooligans,Romania,Def Enjoy
+1582209570,2026-07-01,2.5,"Huinia. Neskanaus salyklo pilna. Prie vištos suėjo iš bėdos. Naujas untappd gaidžių Gaidys. Nieko nepažįstu. Paslėpė vardus, tik kažkokie nickname. Pisau ir skambinau.",Vilnius. Lithuania.,Småland,Pilsner - Czech / Bohemian,5.2,Åbro Bryggeri,Sweden,Satyrikon'o Būdelė
+1582210023,2026-07-01,3.3,"","",Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Who Hit John
+1582211373,2026-07-01,3.0,"","",Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Etno dvaras
+1582211807,2026-07-01,2.0,"",Zujunai,Grynas,Lager - Pale,5.0,Širvėnos bravoras DUNDULIS,Lithuania,Bromas
+1582211863,2026-07-01,4.5,"","",Bâton Pas Gentil,IPA - Triple New England / Hazy,10.0,Messorem ,Canada,Def Enjoy
+1582213034,2026-07-01,4.3,"","",Sunny,IPA - New England / Hazy,6.5,All My Friends Beer Co.,Canada,Nisha Craft Capital
+1582213045,2026-07-01,4.5,"","",NECTAR MONTREAL EST,IPA - Imperial / Double New England / Hazy,9.2,BreWskey,Canada,Def Enjoy
+1582214264,2026-07-01,3.8,"",Vilnius,O'Hara's Irish Pale Ale,Pale Ale - Other,5.2,O'Hara's Brewery ,Ireland,Fish & Ale
+1582214429,2026-07-01,3.8,"",Vilnius,Meme Dealer,IPA - Imperial / Double,7.0,GROSS Brewery & Taproom,Spain,Def Enjoy
+1582214807,2026-07-01,3.3,"","",Galactic Popstar,Gluten-Free,6.0,Mad Scientist,Hungary,Nisha Craft Capital
+1582214976,2026-07-01,3.3,Könnte bieriger sein. Ziemlich saftig.,"",Alone In Space,IPA - New England / Hazy,6.1,TankBusters.Co,Poland,Nisha Craft Capital
+1582215261,2026-07-01,4.0,"",Vilnius,Super Sendy,IPA - Imperial / Double New England / Hazy,8.0,Outer Range Brewing Co.,United States,Def Enjoy
+1582215929,2026-07-01,3.5,"","",Alone In Space,IPA - New England / Hazy,6.1,TankBusters.Co,Poland,Nisha Craft Capital
+1582216224,2026-07-01,4.0,"","San Antonio, Texas",Bocmano Ūsai (Bosun’s Moustache),IPA - American,6.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,LOFTAS
+1582216861,2026-07-01,4.0,"","",Vilkmergės Premium Lager,Lager - Helles,5.0,Vilkmerges Alus,Lithuania,13 Ausros Vartu Gatve
+1582217996,2026-07-01,0.0,"",Vilnius,Ratio,IPA - Imperial / Double New England / Hazy,8.0,SOMA Beer,Spain,Youston Apartments
+1582218414,2026-07-01,0.0,"","",FLUFF: Orange Creamsicle,Sour - Smoothie / Pastry,5.0,Tuletorn Brewing,Estonia,laiptine
+1582218438,2026-07-01,4.3,"","",33,Historical Beer - Keptinis,6.9,Dundulis,Lithuania,Snekutis
+1582218729,2026-07-01,3.8,"",Vilnius,Publijus Palemonas BA1,Porter - Baltic,7.2,Širvėnos bravoras DUNDULIS,Lithuania,LFF Stadionas
+1582219702,2026-07-01,4.0,"","",Rinktinis,Lager - Pale,5.2,Volfas Engelman,Lithuania,Park Inn by Radisson Vilnius Airport Hotel & Business Centre
+1582221961,2026-07-01,3.0,Too young - could benefit from 1 or 2 years in the basement,"",36,Barleywine - Other,8.9,Dundulis,Lithuania,Snekutis
+1582224829,2026-07-01,0.0,"","",Cuckoo Sunshine,Sour - Smoothie / Pastry,5.5,Tuletorn Brewing,Estonia,laiptine
+1582224848,2026-07-01,4.5,"",Vilnius,Natural Mystic,IPA - Imperial / Double New England / Hazy,8.6,Autodidact Beer,United States,Def Enjoy
+1582225178,2026-07-01,4.0,"","",Kalnapilis Original,Lager - Pale,5.0,Kalnapilis Brewery,Lithuania,Plus Plus Plus
+1582225538,2026-07-01,3.8,"","Aberdeen, Scotland ",Pineapple Breeze,IPA - Milkshake,5.5,Bear & Boar,Lithuania,Local Pub
+1582225879,2026-07-01,4.3,"",Vilnius,IMAGINARIUM,IPA - Imperial / Double New England / Hazy,8.0,EXP Artisan Brasseur,Canada,Def Enjoy
+1582226688,2026-07-01,4.0,"","San Antonio, Texas",Somersby Pear Cider,Cider - Perry / Poiré,4.5,Carlsberg Group,Denmark,LOFTAS
+1582230992,2026-07-01,3.8,"",Vilnius,Penki Mazgai,IPA - New England / Hazy,5.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Youston Apartments
+1582231472,2026-07-01,3.5,"","",First Drop,IPA - Session,4.3,Shepherd Neame,England,Sparta Bar
+1582235239,2026-07-01,4.0,"","",Kalnapilis Original,Lager - Pale,5.0,Kalnapilis Brewery,Lithuania,plius plius plius
+1582236113,2026-07-01,3.8,"","Aberdeen, Scotland ",Gelato: Green,Sour - Smoothie / Pastry,5.5,Funky Fluid,Poland,Local Pub
+1582238379,2026-07-01,3.5,"",Vilnius,Future Perfect,IPA - American,6.0,Hop Hooligans,Romania,Def Enjoy
+1582239097,2026-07-01,4.0,"","",Double Dose of Superdelic,IPA - Imperial / Double New England / Hazy,8.0,DankHouse Brewing Company,United States,Def Enjoy
+1582239298,2026-07-01,4.3,"","",Bâton Pas Gentil,IPA - Triple New England / Hazy,10.0,Messorem ,Canada,Def Enjoy
+1582239421,2026-07-01,4.0,"","",Double Dose of Superdelic,IPA - Imperial / Double New England / Hazy,8.0,DankHouse Brewing Company,United States,Def Enjoy
+1582240302,2026-07-01,4.5,"","",Double Dose of Superdelic,IPA - Imperial / Double New England / Hazy,8.0,DankHouse Brewing Company,United States,Def Enjoy
+1582240934,2026-07-01,3.8,"","Aberdeen, Scotland ",Sneak Peek,IPA - American,6.5,PINTA,Poland,Local Pub
+1582241461,2026-07-01,4.5,"","","TRIPLE POTION #4",IPA - Triple New England / Hazy,10.0,BreWskey,Canada,Def Enjoy
+1582241467,2026-07-01,4.5,Охуенчик,"","TRIPLE POTION #4",IPA - Triple New England / Hazy,10.0,BreWskey,Canada,Def Enjoy
+1582244310,2026-07-01,3.3,"",Oslo,Franken,Kellerbier / Zwickelbier,4.7,:Belike brewing,Lithuania,Local Pub
+1582244794,2026-07-01,2.8,"","",IPA,IPA - Other,6.0,Volfas Engelman,Lithuania,Vilniaus Senamiestis | Vilnius Old Town (Vilniaus senamiestis)
+1582246253,2026-07-01,2.5,Goes better,"",IPA,IPA - Other,6.0,Volfas Engelman,Lithuania,Šv. Jonų bažnyčia
+1582246742,2026-07-01,3.8,"",Oslo,Sneak Peek,IPA - American,6.5,PINTA,Poland,Local Pub
+1582247635,2026-07-01,4.0,"","","Sherry, Sour Ale With Sweet cherries, Guava, Blackberries And Hibiscus",Sour - Smoothie / Pastry,5.4,Clef Brewery,Slovenia,Def Enjoy
+1582247913,2026-07-01,4.0,"","",Publijus Palemonas BA2,Porter - Baltic,8.0,Širvėnos bravoras DUNDULIS,Lithuania,King & Mouse
+1582247961,2026-07-01,3.0,"",Oslo ,Bavarian Sun,Lager - Helles,5.0,PINTA,Poland,Local Pub
+1582248016,2026-07-01,3.8,"",Vilnius,Penki Mazgai,IPA - New England / Hazy,5.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Youston Apartments
+1582248982,2026-07-01,4.0,"","Aberdeen, Scotland ",Atlantic,IPA - New England / Hazy,6.0,Browar Artezan,Poland,Local Pub
+1582252549,2026-07-01,3.5,"","",ARGENTUM II Riesling B.A.,Brett Beer,5.8,Dundulis,Lithuania,Snekutis
+1582253347,2026-07-01,3.8,"",Oslo,Discovery Europe: Finland,IPA - New England / Hazy,6.5,PINTA,Poland,Local Pub
+1582254451,2026-07-01,4.3,"","","Sherry, Sour Ale With Sweet cherries, Guava, Blackberries And Hibiscus",Sour - Smoothie / Pastry,5.4,Clef Brewery,Slovenia,Def Enjoy
+1582254735,2026-07-01,4.5,"","","TRIPLE POTION #4",IPA - Triple New England / Hazy,10.0,BreWskey,Canada,Def Enjoy
+1582255769,2026-07-01,4.0,"",Vilnius,"Sherry, Sour Ale With Sweet cherries, Guava, Blackberries And Hibiscus",Sour - Smoothie / Pastry,5.4,Clef Brewery,Slovenia,Def Enjoy
+1582257245,2026-07-01,3.0,"Meh. Visiškas generikas. Tokių pilna Norfos lentynose po 1e. Neatskirčiau. O čia kaina kaip už ahujeną.  Belike lyg skanesnis buvo, kiek pamenu. Ką cia5 tas el dorado veikia? Pasiklydo? Visvien nesijaučia. Tik,  (turbūt Viking) crap salyklas dominuoja.",Vilnius. Lithuania.,Nida,Wheat Beer - Other,4.6,Bear & Boar,Lithuania,Satyrikon'o Būdelė
+1582260729,2026-07-01,2.3,"","",Bocmano Ūsai (Bosun’s Moustache),IPA - American,6.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Vilniaus Senamiestis | Vilnius Old Town (Vilniaus senamiestis)
+1582260803,2026-07-01,4.5,"",Vilnius,On the Beachfront,Sour - Smoothie / Pastry,6.5,Sáez & Son,Spain,Def Enjoy
+1582261470,2026-07-01,4.0,"",Oslo,Bullseye,Bitter - Session / Ordinary,3.5,PINTA,Poland,Local Pub
+1582261930,2026-07-01,3.0,"","",Bocmano Ūsai (Bosun’s Moustache),IPA - American,6.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Vilniaus Senamiestis | Vilnius Old Town (Vilniaus senamiestis)
+1582264050,2026-07-01,3.8,"",Vilnius,Penki Mazgai,IPA - New England / Hazy,5.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Youston Apartments
+1582270433,2026-07-02,3.5,По мне так это скорее APA,Vilnius,Meme Dealer,IPA - Imperial / Double,7.0,GROSS Brewery & Taproom,Spain,Def Enjoy
+1582270823,2026-07-02,3.3,"","",Galvė,Pale Ale - Other,5.0,Pilialaukis,Lithuania,Vilniaus Senamiestis | Vilnius Old Town (Vilniaus senamiestis)
+1582272385,2026-07-02,3.0,"",Oslo,Rinktinis,Lager - Pale,5.2,Volfas Engelman,Lithuania,Domus Maria
+1582273169,2026-07-02,3.5,"",Oslo ,Crisp.,Lager - Helles,4.5,Moon Lark Brewery,Poland,Local Pub
+1582273172,2026-07-02,2.8,"",Oslo,1410 Lager/Šviesusis,Lager - Pale,5.3,Volfas Engelman,Lithuania,Domus Maria
+1582273607,2026-07-02,3.5,"",Oslo,Crisp.,Lager - Helles,4.5,Moon Lark Brewery,Poland,Local Pub
