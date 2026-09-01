@@ -1,0 +1,6 @@
+checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_abv,brewery_name,brewery_country,venue_name
+1598347680,2026-09-01,3.5,"","",Dark Lager (Černý ležák),Lager - Tmavé (Czech Dark),5.0,Bernard Family Brewery,Czech Republic,ŠMC kavinė
+1598356905,2026-09-01,3.5,С черной этикеткой будто норм было,Yaroslavl,Tomato Motato,Sour - Tomato / Vegetable Gose,4.0,ТАРКОС (TARKOS),Russia,
+1598385427,2026-09-01,2.5,"",Vilnius,Tīralis,Red Ale - Other,5.6,Augšdaugavas Darītava,Latvia,Aquarius Brewery
+1598390378,2026-09-01,3.5,"",Vilnius ,Špikis,Non-Alcoholic - Other Beer,0.0,Širvėnos bravoras DUNDULIS,Lithuania,
+1598390471,2026-09-01,3.8,"","",Paix Dieu Triple,Belgian Tripel,10.0,Brasserie Caulier,Belgium,Brussels Mussels
