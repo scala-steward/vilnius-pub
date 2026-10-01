@@ -1,0 +1,4 @@
+checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_abv,brewery_name,brewery_country,venue_name
+1605146086,2026-10-01,4.5,"",Vilnius ,Erdinger Weißbier / Hefe-Weizen,Wheat Beer - Hefeweizen,5.3,Erdinger Weissbräu,Germany,Rūsio Aidai
+1605149593,2026-10-01,3.5,"",Vilnius,Reloaded,IPA - Session,5.8,Tanker Brewery,Estonia,Liv_in City
+1605154069,2026-10-01,4.5,"",Vilnius ,Murphy's Irish Stout,Stout - Irish Dry,4.0,Heineken Ireland,Ireland,Garden
