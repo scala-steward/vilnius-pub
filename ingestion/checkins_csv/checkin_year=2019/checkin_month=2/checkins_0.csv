@@ -1,4 +1,60 @@
 checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_abv,brewery_name,brewery_country,venue_name
+717705228,2019-02-28,4.0,"","",PIGA,Italian Grape Ale,6.5,Birra Amarcord,Italy,Local Pub
+717705891,2019-02-28,4.0,"","",Are You Shore?,IPA - Brut,6.0,Mikkeller,Denmark,Alaus Biblioteka
+717706429,2019-02-28,3.5,"","",Beer With Cannabis Seeds,Spiced / Herbed Beer,5.5,Alinė Leičiai,Lithuania,Aline Leičiai
+717706602,2019-02-28,4.0,"","",Are You Shore?,IPA - Brut,6.0,Mikkeller,Denmark,Alaus Biblioteka
+717707149,2019-02-28,3.8,"","",IPA,IPA - International,6.0,Volfas Engelman,Lithuania,Pramogų salė „Vakaris Vilnius“
+717709799,2019-02-28,3.8,"","",Bob Hund Dansa Efter Min LakritspIPA,IPA - International,6.8,WarPigs Brewpub,Denmark,Nisha craft Capital
+717710007,2019-02-28,4.0,"","",Bob Hund Dansa Efter Min LakritspIPA,IPA - International,6.8,WarPigs Brewpub,Denmark,Nisha craft Capital
+717710593,2019-02-28,3.8,"","",Nesezonas,Pale Ale - Belgian,6.5,Kuro Aparatūra,Lithuania,Perkūnkiemis
+717712404,2019-02-28,4.5,"","",Simkala APA,Pale Ale - American,5.3,Širvėnos bravoras,Lithuania,Špunka
+717713606,2019-02-28,3.3,"","",Keturi Vėjai (Four Winds),Kölsch,4.9,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,BIX Baras
+717713771,2019-02-28,3.5,"","",Keturi Vėjai (Four Winds),Kölsch,4.9,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,BIX Baras
+717713902,2019-02-28,0.0,"","",Żytorillo,IPA - Rye,5.3,Browar PINTA,Poland,Local Pub
+717714769,2019-02-28,3.5,"","",A Moment of Clarity,IPA - Session / India Session Ale,4.7,Beerbliotek,Sweden,PROHIBICIJA
+717715620,2019-02-28,0.0,"","",Żytorillo,IPA - Rye,5.3,Browar PINTA,Poland,Local Pub
+717716433,2019-02-28,3.3,"","",Energibajer,Non-Alcoholic Beer,0.0,Mikkeller,Denmark,Alaus Biblioteka
+717716662,2019-02-28,0.0,"","",Żytorillo,IPA - Rye,5.3,Browar PINTA,Poland,Local Pub
+717717671,2019-02-28,3.5,"","",Hop Ruiter (Eur),IPA - Triple,8.0,Scheldebrouwerij,Belgium,Selfish Bistro
+717717810,2019-02-28,2.8,"","",Biržiečių Standartas 5.0,Pilsner - Other,5.0,Rinkuškiai,Lithuania,Žirmūnai
+717719693,2019-02-28,4.0,"","",Energibajer,Non-Alcoholic Beer,0.0,Mikkeller,Denmark,Alaus Biblioteka
+717721399,2019-02-28,4.5,"","",Raitas Baitas,Gruit / Ancient Herbed Ale,5.5,Panevėžio Alus,Lithuania,Špunka
+717721975,2019-02-28,3.3,"","",Humulupu IPA,IPA - American,5.5,Panevėžio Alus,Lithuania,Špunka
+717725344,2019-02-28,4.3,"","",Faro,Lambic - Faro,4.5,Brouwerij Lindemans,Belgium,Alaus Biblioteka
+717727855,2019-02-28,4.5,"",Vilnius ,Beard Doesn't Make You A Brewer.,Stout - Imperial Milk / Sweet,6.0,MONYO Brewing Co.,Hungary,Alaus Biblioteka
+717730046,2019-02-28,0.0,"","",Picante,Spiced / Herbed Beer,5.5,Cerveja Maldita,Portugal,Local Pub
+717730580,2019-02-28,3.0,Not sure. It’s different anyway,"",Rosalinda,Saison / Farmhouse Ale,6.6,Käbliku Pruulikoda,Estonia,Etmonų Špunka
+717730582,2019-02-28,3.5,"Dove l'ho provato io dice 6 gradi. Equilibrato, il miele si sente, ma non rimane troppo dolce. Piacevole.","",Vilniaus Midus,Mead - Other,25.0,Alinė Leičiai,Lithuania,Šnekutis
+717730748,2019-02-28,3.5,"","",Humulupu IPA,IPA - American,5.5,Panevėžio Alus,Lithuania,Etmonų Špunka
+717731053,2019-02-28,1.5,Probabilmente con un cannone di miele aggiunto post fermentazione. Non convincente.,"",Jovarų alus su medumi,Spiced / Herbed Beer,5.6,A. Udrienes I.Į. Jovarų Alus,Lithuania,Šnekutis
+717732094,2019-02-28,3.5,"Rustica al punto giusto, anche abbastanza equilibrata. Vale abbastanza piacevolmente.","",Jovarų Šnekutis,Saison / Farmhouse Ale,6.0,A. Udrienes I.Į. Jovarų Alus,Lithuania,Šnekutis
+717732103,2019-02-28,3.8,"Simple, sour and refreshing.","",RABARBAR,Sour - Berliner Weisse,3.8,Käbliku Pruulikoda,Estonia,Marcinkeviciaus gatve/kiemas
+717732695,2019-02-28,3.3,"Lekker fris, maar ietwat oppervlakkig. Meer witbier dan weizen.","",Kvietinis,Witbier,5.0,Vilkmerges Alus,Lithuania,Downtown Food Hall
+717734302,2019-02-28,2.8,"Niet slecht, maar ook niet zoveel an. Dark ale met lichte smaak.","",Tamsusis,Dark Ale,5.8,Vilkmerges Alus,Lithuania,Downtown Food Hall
+717734830,2019-02-28,3.5,"Mild, something milky. Not much coconut","",Coconut Milk Stout,Stout - Milk / Sweet,4.7,Sakiškių Alus,Lithuania,Alaus Biblioteka
+717736863,2019-02-28,3.8,"","",ART19 Rye Brut IPA,IPA - Brut,6.9,Browar Stu Mostów,Poland,Nisha craft Capital
+717739235,2019-02-28,4.3,"",Vilnius,By Udder Means,Stout - Milk / Sweet,7.0,To Øl,Denmark,Naujamiestis
+717743201,2019-02-28,2.5,"Looks like Lemon juice, expected lemon, but there is no lemon. Disappointing. But still a nice sour ale.","",Kwas My,Sour - Ale,6.3,Browar PINTA,Poland,Local Pub
+717743790,2019-02-28,3.5,"Fruity elements hidden behind a wall of hard hops. Special... Hard to rate, depends on one's personal taste.","",A Ja Pale Ale,Pale Ale - American,5.0,Browar PINTA,Poland,Local Pub
+717746001,2019-02-28,4.0,Limoncello sour-sweetness perfectly implemented. Fruity and refreshing.,"",Kwas My,Sour - Ale,6.3,Browar PINTA,Poland,Local Pub
+717746415,2019-02-28,3.8,"",Vilnius,Platan 10%,Pilsner - Czech,4.0,Pivovar Protivín,Czech Republic,Justiniškės
+717749380,2019-02-28,4.5,"","",Nelson the Greeter,IPA - American,6.0,Port Brewing Company,United States,Nisha craft Capital
+717752087,2019-02-28,3.0,"Ok, maar beetje vlak.","",Schöfferhofer Hefeweizen,Hefeweizen,5.0,Radeberger Gruppe,Germany,KAS KAS
+717758232,2019-02-28,3.3,"","",Rinktinis,Lager - Euro,5.2,Volfas Engelman,Lithuania,Solt Dining
+717761995,2019-02-28,4.0,"","",Milkshake IPA (Double Mango),IPA - Milkshake,9.7,Tired Hands Brewing Company,United States,Šnekutis
+717762077,2019-02-28,3.8,Sour a bit bitter. Has some chicken complexity.,"",Hallucination,Lager - IPL (India Pale Lager),7.6,Tanker Brewery,Estonia,Marcinkeviciaus gatve/kiemas
+717763473,2019-02-28,3.8,"","",Sea Buckthorn Berliner Weisse,Sour - Berliner Weisse,3.5,Sakiškių Alus,Lithuania,Alaus Biblioteka
+717767464,2019-02-28,2.3,"","",Heineken,Lager - Euro,5.0,Heineken,Netherlands,Pramogų salė „Vakaris Vilnius“
+717771407,2019-02-28,4.0,"","",Magic Always Comes With A Price.,IPA - Brut,6.3,MONYO Brewing Co.,Hungary,Alaus Biblioteka
+717778389,2019-02-28,3.5,Bitter and a bit sour.,"",Garden of Haze,IPA - New England,6.4,To Øl,Denmark,Marcinkeviciaus gatve/kiemas
+717782302,2019-02-28,3.8,"","",sTAUtas,Stout - Milk / Sweet,4.3,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+717782756,2019-02-28,4.0,"","",Milk Stout,Stout - Milk / Sweet,4.7,Sakiškių Alus,Lithuania,Craft & Draft
+717782926,2019-02-28,4.0,"","",Pleroma,Sour - Fruited,6.0,Omnipollo,Sweden,Alaus Biblioteka
+717783841,2019-02-28,3.8,"","",Let Mælk,Stout - Milk / Sweet,4.1,To Øl,Denmark,PROHIBICIJA
+717784911,2019-02-28,1.3,"","",Grand Select,Lager - Pale,5.4,Kalnapilio-Tauro Grupe UAB ,Lithuania,Pramogų salė „Vakaris Vilnius“
+717787072,2019-02-28,3.0,Bukowski bar. Sod the beer,"",Keturi Vėjai (Four Winds),Kölsch,4.9,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Bar Bukowski
+717787219,2019-02-28,4.3,"Nice intense and deep espresso note, yet a light and soft milky character.","",Let Mælk,Stout - Milk / Sweet,4.1,To Øl,Denmark,PROHIBICIJA
+717794464,2019-02-28,4.5,"","",Vesterbro Spontanale,Lambic - Traditional,5.5,Mikkeller,Denmark,Alaus Biblioteka
 706898949,2019-02-01,3.3,"","",Grimbergen Dubbel (2018),Belgian Dubbel,6.5,Brouwerij Alken-Maes,Belgium,Uncle Sam's American Pub
 706901760,2019-02-01,3.0,"","",Barzda Vėtroje (Wind Knot),Stout - Irish Dry,3.8,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Downtown Forest
 706903160,2019-02-01,4.0,"Simple, but that to expect from Kölsch. A good one for this type of beer. Just the right level of bitterness, and super clean taste","",Keturi Vėjai (Four Winds),Kölsch,4.9,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Downtown Forest
@@ -2047,59 +2103,3 @@ checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_a
 717702890,2019-02-28,3.5,"","",Dożynki,Specialty Grain,11.5,Browar PINTA,Poland,Local Pub
 717703189,2019-02-28,4.0,"","",Kinderyoga,Stout - Imperial / Double,11.0,Oedipus Brewing,Netherlands,Nisha craft Capital
 717705015,2019-02-28,3.0,"","",Son of a Birch,Pale Wheat Ale - American,3.0,Browar PINTA,Poland,Local Pub
-717705228,2019-02-28,4.0,"","",PIGA,Italian Grape Ale,6.5,Birra Amarcord,Italy,Local Pub
-717705891,2019-02-28,4.0,"","",Are You Shore?,IPA - Brut,6.0,Mikkeller,Denmark,Alaus Biblioteka
-717706429,2019-02-28,3.5,"","",Beer With Cannabis Seeds,Spiced / Herbed Beer,5.5,Alinė Leičiai,Lithuania,Aline Leičiai
-717706602,2019-02-28,4.0,"","",Are You Shore?,IPA - Brut,6.0,Mikkeller,Denmark,Alaus Biblioteka
-717707149,2019-02-28,3.8,"","",IPA,IPA - International,6.0,Volfas Engelman,Lithuania,Pramogų salė „Vakaris Vilnius“
-717709799,2019-02-28,3.8,"","",Bob Hund Dansa Efter Min LakritspIPA,IPA - International,6.8,WarPigs Brewpub,Denmark,Nisha craft Capital
-717710007,2019-02-28,4.0,"","",Bob Hund Dansa Efter Min LakritspIPA,IPA - International,6.8,WarPigs Brewpub,Denmark,Nisha craft Capital
-717710593,2019-02-28,3.8,"","",Nesezonas,Pale Ale - Belgian,6.5,Kuro Aparatūra,Lithuania,Perkūnkiemis
-717712404,2019-02-28,4.5,"","",Simkala APA,Pale Ale - American,5.3,Širvėnos bravoras,Lithuania,Špunka
-717713606,2019-02-28,3.3,"","",Keturi Vėjai (Four Winds),Kölsch,4.9,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,BIX Baras
-717713771,2019-02-28,3.5,"","",Keturi Vėjai (Four Winds),Kölsch,4.9,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,BIX Baras
-717713902,2019-02-28,0.0,"","",Żytorillo,IPA - Rye,5.3,Browar PINTA,Poland,Local Pub
-717714769,2019-02-28,3.5,"","",A Moment of Clarity,IPA - Session / India Session Ale,4.7,Beerbliotek,Sweden,PROHIBICIJA
-717715620,2019-02-28,0.0,"","",Żytorillo,IPA - Rye,5.3,Browar PINTA,Poland,Local Pub
-717716433,2019-02-28,3.3,"","",Energibajer,Non-Alcoholic Beer,0.0,Mikkeller,Denmark,Alaus Biblioteka
-717716662,2019-02-28,0.0,"","",Żytorillo,IPA - Rye,5.3,Browar PINTA,Poland,Local Pub
-717717671,2019-02-28,3.5,"","",Hop Ruiter (Eur),IPA - Triple,8.0,Scheldebrouwerij,Belgium,Selfish Bistro
-717717810,2019-02-28,2.8,"","",Biržiečių Standartas 5.0,Pilsner - Other,5.0,Rinkuškiai,Lithuania,Žirmūnai
-717719693,2019-02-28,4.0,"","",Energibajer,Non-Alcoholic Beer,0.0,Mikkeller,Denmark,Alaus Biblioteka
-717721399,2019-02-28,4.5,"","",Raitas Baitas,Gruit / Ancient Herbed Ale,5.5,Panevėžio Alus,Lithuania,Špunka
-717721975,2019-02-28,3.3,"","",Humulupu IPA,IPA - American,5.5,Panevėžio Alus,Lithuania,Špunka
-717725344,2019-02-28,4.3,"","",Faro,Lambic - Faro,4.5,Brouwerij Lindemans,Belgium,Alaus Biblioteka
-717727855,2019-02-28,4.5,"",Vilnius ,Beard Doesn't Make You A Brewer.,Stout - Imperial Milk / Sweet,6.0,MONYO Brewing Co.,Hungary,Alaus Biblioteka
-717730046,2019-02-28,0.0,"","",Picante,Spiced / Herbed Beer,5.5,Cerveja Maldita,Portugal,Local Pub
-717730580,2019-02-28,3.0,Not sure. It’s different anyway,"",Rosalinda,Saison / Farmhouse Ale,6.6,Käbliku Pruulikoda,Estonia,Etmonų Špunka
-717730582,2019-02-28,3.5,"Dove l'ho provato io dice 6 gradi. Equilibrato, il miele si sente, ma non rimane troppo dolce. Piacevole.","",Vilniaus Midus,Mead - Other,25.0,Alinė Leičiai,Lithuania,Šnekutis
-717730748,2019-02-28,3.5,"","",Humulupu IPA,IPA - American,5.5,Panevėžio Alus,Lithuania,Etmonų Špunka
-717731053,2019-02-28,1.5,Probabilmente con un cannone di miele aggiunto post fermentazione. Non convincente.,"",Jovarų alus su medumi,Spiced / Herbed Beer,5.6,A. Udrienes I.Į. Jovarų Alus,Lithuania,Šnekutis
-717732094,2019-02-28,3.5,"Rustica al punto giusto, anche abbastanza equilibrata. Vale abbastanza piacevolmente.","",Jovarų Šnekutis,Saison / Farmhouse Ale,6.0,A. Udrienes I.Į. Jovarų Alus,Lithuania,Šnekutis
-717732103,2019-02-28,3.8,"Simple, sour and refreshing.","",RABARBAR,Sour - Berliner Weisse,3.8,Käbliku Pruulikoda,Estonia,Marcinkeviciaus gatve/kiemas
-717732695,2019-02-28,3.3,"Lekker fris, maar ietwat oppervlakkig. Meer witbier dan weizen.","",Kvietinis,Witbier,5.0,Vilkmerges Alus,Lithuania,Downtown Food Hall
-717734302,2019-02-28,2.8,"Niet slecht, maar ook niet zoveel an. Dark ale met lichte smaak.","",Tamsusis,Dark Ale,5.8,Vilkmerges Alus,Lithuania,Downtown Food Hall
-717734830,2019-02-28,3.5,"Mild, something milky. Not much coconut","",Coconut Milk Stout,Stout - Milk / Sweet,4.7,Sakiškių Alus,Lithuania,Alaus Biblioteka
-717736863,2019-02-28,3.8,"","",ART19 Rye Brut IPA,IPA - Brut,6.9,Browar Stu Mostów,Poland,Nisha craft Capital
-717739235,2019-02-28,4.3,"",Vilnius,By Udder Means,Stout - Milk / Sweet,7.0,To Øl,Denmark,Naujamiestis
-717743201,2019-02-28,2.5,"Looks like Lemon juice, expected lemon, but there is no lemon. Disappointing. But still a nice sour ale.","",Kwas My,Sour - Ale,6.3,Browar PINTA,Poland,Local Pub
-717743790,2019-02-28,3.5,"Fruity elements hidden behind a wall of hard hops. Special... Hard to rate, depends on one's personal taste.","",A Ja Pale Ale,Pale Ale - American,5.0,Browar PINTA,Poland,Local Pub
-717746001,2019-02-28,4.0,Limoncello sour-sweetness perfectly implemented. Fruity and refreshing.,"",Kwas My,Sour - Ale,6.3,Browar PINTA,Poland,Local Pub
-717746415,2019-02-28,3.8,"",Vilnius,Platan 10%,Pilsner - Czech,4.0,Pivovar Protivín,Czech Republic,Justiniškės
-717749380,2019-02-28,4.5,"","",Nelson the Greeter,IPA - American,6.0,Port Brewing Company,United States,Nisha craft Capital
-717752087,2019-02-28,3.0,"Ok, maar beetje vlak.","",Schöfferhofer Hefeweizen,Hefeweizen,5.0,Radeberger Gruppe,Germany,KAS KAS
-717758232,2019-02-28,3.3,"","",Rinktinis,Lager - Euro,5.2,Volfas Engelman,Lithuania,Solt Dining
-717761995,2019-02-28,4.0,"","",Milkshake IPA (Double Mango),IPA - Milkshake,9.7,Tired Hands Brewing Company,United States,Šnekutis
-717762077,2019-02-28,3.8,Sour a bit bitter. Has some chicken complexity.,"",Hallucination,Lager - IPL (India Pale Lager),7.6,Tanker Brewery,Estonia,Marcinkeviciaus gatve/kiemas
-717763473,2019-02-28,3.8,"","",Sea Buckthorn Berliner Weisse,Sour - Berliner Weisse,3.5,Sakiškių Alus,Lithuania,Alaus Biblioteka
-717767464,2019-02-28,2.3,"","",Heineken,Lager - Euro,5.0,Heineken,Netherlands,Pramogų salė „Vakaris Vilnius“
-717771407,2019-02-28,4.0,"","",Magic Always Comes With A Price.,IPA - Brut,6.3,MONYO Brewing Co.,Hungary,Alaus Biblioteka
-717778389,2019-02-28,3.5,Bitter and a bit sour.,"",Garden of Haze,IPA - New England,6.4,To Øl,Denmark,Marcinkeviciaus gatve/kiemas
-717782302,2019-02-28,3.8,"","",sTAUtas,Stout - Milk / Sweet,4.3,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
-717782756,2019-02-28,4.0,"","",Milk Stout,Stout - Milk / Sweet,4.7,Sakiškių Alus,Lithuania,Craft & Draft
-717782926,2019-02-28,4.0,"","",Pleroma,Sour - Fruited,6.0,Omnipollo,Sweden,Alaus Biblioteka
-717783841,2019-02-28,3.8,"","",Let Mælk,Stout - Milk / Sweet,4.1,To Øl,Denmark,PROHIBICIJA
-717784911,2019-02-28,1.3,"","",Grand Select,Lager - Pale,5.4,Kalnapilio-Tauro Grupe UAB ,Lithuania,Pramogų salė „Vakaris Vilnius“
-717787072,2019-02-28,3.0,Bukowski bar. Sod the beer,"",Keturi Vėjai (Four Winds),Kölsch,4.9,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Bar Bukowski
-717787219,2019-02-28,4.3,"Nice intense and deep espresso note, yet a light and soft milky character.","",Let Mælk,Stout - Milk / Sweet,4.1,To Øl,Denmark,PROHIBICIJA
-717794464,2019-02-28,4.5,"","",Vesterbro Spontanale,Lambic - Traditional,5.5,Mikkeller,Denmark,Alaus Biblioteka
