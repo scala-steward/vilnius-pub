@@ -1,19 +1,4 @@
 checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_abv,brewery_name,brewery_country,venue_name
-1559406631,2026-04-01,0.0,"","",Crisp.,Lager - Helles,4.5,Moon Lark Brewery,Poland,Local Pub
-1559406688,2026-04-01,0.0,"","",ECHO the 10th Edition,Porter - Imperial / Double Baltic,10.0,Nepo Brewing,Poland,Local Pub
-1559412443,2026-04-01,4.5,Neįvertintas. Perretas. Jaučiausi tas ūteninis kartėlis,"Konceptas, Lithuania",Walter Klasikinis,Lager - Pale,5.0,Utenos Alus,Lithuania,chinkali namai
-1559438612,2026-04-01,4.5,"",Frankfurt ,Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,VILNIUS BAR & BISTRO
-1559450171,2026-04-01,3.5,"",Vilnius,TDH Enigma X Nelson Sauvin X Citra IPA,IPA - New England / Hazy,6.5,Ārpus Brewing Co.,Latvia,Aquarius Brewery
-1559466366,2026-04-01,4.3,Improved over the last 8 years since I last had it,North London,Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Artis Centrum Hotel
-1559467569,2026-04-01,4.3,"","",Ārpus X 450 North Mango X Vanilla X Coconut X Apricot X Pineapple Smoothie Sour Ale,Sour - Smoothie / Pastry,4.5,Ārpus Brewing Co.,Latvia,Nisha Craft Capital
-1559467580,2026-04-01,4.8,"","",Rocky Road Stout (w/Chocolate Shoppe Ice Cream),Stout - Imperial / Double Milk,11.0,Untitled Art,United States,Nisha Craft Capital
-1559467615,2026-04-01,4.3,"","",Rocky Road Stout (w/Chocolate Shoppe Ice Cream),Stout - Imperial / Double Milk,11.0,Untitled Art,United States,Nisha Craft Capital
-1559467652,2026-04-01,4.5,"","",Rocky Road Stout (w/Chocolate Shoppe Ice Cream),Stout - Imperial / Double Milk,11.0,Untitled Art,United States,Nisha Craft Capital
-1559467691,2026-04-01,4.5,"","",Dark Seven,Stout - Imperial / Double,11.5,Bereta Brewing Co.,Romania,Nisha Craft Capital
-1559467744,2026-04-01,4.3,"","",Dark Seven,Stout - Imperial / Double,11.5,Bereta Brewing Co.,Romania,Nisha Craft Capital
-1559467840,2026-04-01,4.3,"","",PuTTTy (2026),IPA - Triple New England / Hazy,10.0,Verdant Brewing Co,England,Nisha Craft Capital
-1559467852,2026-04-01,3.8,"","",Ārpus X 450 North Mango X Vanilla X Coconut X Apricot X Pineapple Smoothie Sour Ale,Sour - Smoothie / Pastry,4.5,Ārpus Brewing Co.,Latvia,Nisha Craft Capital
-1559467862,2026-04-01,4.5,"","",PuTTTy (2026),IPA - Triple New England / Hazy,10.0,Verdant Brewing Co,England,Nisha Craft Capital
 1559467988,2026-04-01,4.5,"","",Cabal,IPA - New England / Hazy,7.0,All My Friends Beer Co.,Canada,Nisha Craft Capital
 1559468035,2026-04-01,4.3,"","",3 Fonteinen Oude Rabarberlambik (kegged 15/10/2025),Lambic - Fruit,6.6,Brouwerij 3 Fonteinen,Belgium,Nisha Craft Capital
 1559468079,2026-04-01,3.5,"","",3 Fonteinen Oude Rabarberlambik (kegged 15/10/2025),Lambic - Fruit,6.6,Brouwerij 3 Fonteinen,Belgium,Nisha Craft Capital
@@ -2065,6 +2050,21 @@ Metų metais erzino. Visi prieš mane pirkdavo šitą. Sakau reikia padėti taš
 1563272119,2026-04-17,0.0,"",Vilnius,eMCee,IPA - New England / Hazy,6.0,Equilibrium Brewery,United States,Youston Apartments
 1563276204,2026-04-17,3.3,"",Vilnius,Õhtu,Porter - American,5.5,Põhjala,Estonia,Alaus Biblioteka
 1563276487,2026-04-17,4.0,"","",Freshly Squeezed: Maple + Blueberry + Marshmallow,Sour - Smoothie / Pastry,7.0,Glass Pyramid Project,Finland,Def Enjoy
+1559406631,2026-04-01,0.0,"","",Crisp.,Lager - Helles,4.5,Moon Lark Brewery,Poland,Local Pub
+1559406688,2026-04-01,0.0,"","",ECHO the 10th Edition,Porter - Imperial / Double Baltic,10.0,Nepo Brewing,Poland,Local Pub
+1559412443,2026-04-01,4.5,Neįvertintas. Perretas. Jaučiausi tas ūteninis kartėlis,"Konceptas, Lithuania",Walter Klasikinis,Lager - Pale,5.0,Utenos Alus,Lithuania,chinkali namai
+1559438612,2026-04-01,4.5,"",Frankfurt ,Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,VILNIUS BAR & BISTRO
+1559450171,2026-04-01,3.5,"",Vilnius,TDH Enigma X Nelson Sauvin X Citra IPA,IPA - New England / Hazy,6.5,Ārpus Brewing Co.,Latvia,Aquarius Brewery
+1559466366,2026-04-01,4.3,Improved over the last 8 years since I last had it,North London,Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Artis Centrum Hotel
+1559467569,2026-04-01,4.3,"","",Ārpus X 450 North Mango X Vanilla X Coconut X Apricot X Pineapple Smoothie Sour Ale,Sour - Smoothie / Pastry,4.5,Ārpus Brewing Co.,Latvia,Nisha Craft Capital
+1559467580,2026-04-01,4.8,"","",Rocky Road Stout (w/Chocolate Shoppe Ice Cream),Stout - Imperial / Double Milk,11.0,Untitled Art,United States,Nisha Craft Capital
+1559467615,2026-04-01,4.3,"","",Rocky Road Stout (w/Chocolate Shoppe Ice Cream),Stout - Imperial / Double Milk,11.0,Untitled Art,United States,Nisha Craft Capital
+1559467652,2026-04-01,4.5,"","",Rocky Road Stout (w/Chocolate Shoppe Ice Cream),Stout - Imperial / Double Milk,11.0,Untitled Art,United States,Nisha Craft Capital
+1559467691,2026-04-01,4.5,"","",Dark Seven,Stout - Imperial / Double,11.5,Bereta Brewing Co.,Romania,Nisha Craft Capital
+1559467744,2026-04-01,4.3,"","",Dark Seven,Stout - Imperial / Double,11.5,Bereta Brewing Co.,Romania,Nisha Craft Capital
+1559467840,2026-04-01,4.3,"","",PuTTTy (2026),IPA - Triple New England / Hazy,10.0,Verdant Brewing Co,England,Nisha Craft Capital
+1559467852,2026-04-01,3.8,"","",Ārpus X 450 North Mango X Vanilla X Coconut X Apricot X Pineapple Smoothie Sour Ale,Sour - Smoothie / Pastry,4.5,Ārpus Brewing Co.,Latvia,Nisha Craft Capital
+1559467862,2026-04-01,4.5,"","",PuTTTy (2026),IPA - Triple New England / Hazy,10.0,Verdant Brewing Co,England,Nisha Craft Capital
 1563278572,2026-04-17,4.5,"","",Night Cap,IPA - Imperial / Double New England / Hazy,8.0,Factory Brewing,Finland,Def Enjoy
 1563280389,2026-04-17,3.3,"",Vilnius,Alyno čekiškas Lageras,Lager - Světlé (Czech Pale),4.6,Bear & Boar,Lithuania,Alynas (CUP)
 1563280685,2026-04-17,3.5,"","",Anarkist New England IPA,IPA - New England / Hazy,5.4,Theodor Schiøtz Brewing Company,Denmark,Muzikos klubas „Tamsta“
