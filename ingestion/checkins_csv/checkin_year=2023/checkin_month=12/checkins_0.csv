@@ -1,54 +1,4 @@
 checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_abv,brewery_name,brewery_country,venue_name
-1345345421,2023-12-31,3.0,"","",Brooklyn Lager,Lager - Vienna,5.2,Brooklyn Brewery,United States,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
-1345346447,2023-12-31,3.8,"","",SUPER 8 IPA,IPA - Belgian,6.0,Brouwerij Haacht Brasserie,Belgium,Beer House
-1345364739,2023-12-31,2.8,"","",Five Lamps Red Ale,Red Ale - Irish,3.8,The 5 Lamps Dublin Brewery,Ireland,Beer House
-1345366562,2023-12-31,4.0,"","Vilnius, Lithuania",Naked Lollipop “Bomb Pop”,Sour - Fruited,7.2,Froth Brewing Co.,United States,Nisha craft Capital
-1345368912,2023-12-31,4.3,"","Vilnius, Lithuania",Sour Rosé,Wild Ale - American,4.5,Crooked Stave Artisan Beer Project,United States,Nisha craft Capital
-1345370444,2023-12-31,3.5,"","",La Goudale Grand Cru,Farmhouse Ale - Bière de Garde,7.9,Brasserie Goudale - Les Brasseurs de Gayant,France,Justės ir Bruknės urvelis
-1345375999,2023-12-31,3.0,"","",Punk IPA,IPA - American,5.2,BrewDog,Scotland,Nisha craft Capital
-1345378200,2023-12-31,2.5,"","",Imperial Blueberry & Vanilla Stout,Stout - Imperial / Double,8.2,The Garden Brewery,Croatia,Nisha craft Capital
-1345387518,2023-12-31,3.5,Kaip visada - neįpareigojantis ir džiuginantis.,Vilnius,Bocmano Ūsai (Bosun’s Moustache),IPA - American,6.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Dirigentai
-1345387706,2023-12-31,2.8,"","",SUPER 8 Blanche,Wheat Beer - Witbier / Blanche,5.1,Brouwerij Haacht Brasserie,Belgium,Beer House
-1345397274,2023-12-31,1.3,"","","Estrella Galicia 0,0%",Non-Alcoholic Beer - Lager,0.0,Hijos de Rivera,Spain,"Eilinė Korno chata #3"
-1345403195,2023-12-31,3.8,"Второй чекин не отражает того факта, что во мне уже пол-литра пьяной вишни.","",O'Hara's Hazy IPA,IPA - New England / Hazy,6.8,O'Hara's Brewery ,Ireland,Vnl Home Taproom
-1345416588,2023-12-31,4.0,"","",Imperial Blueberry & Vanilla Stout,Stout - Imperial / Double,8.2,The Garden Brewery,Croatia,Nisha craft Capital
-1345417211,2023-12-31,4.5,"","",Breezy Shoreline,Sour - Fruited Gose,4.8,Bear and Boar,Lithuania,Nisha craft Capital
-1345417982,2023-12-31,3.8,"","",Sour Rosé,Wild Ale - American,4.5,Crooked Stave Artisan Beer Project,United States,Nisha craft Capital
-1345418459,2023-12-31,4.0,"","",Burbulosé,Bière de Champagne / Bière Brut,6.5,Kuro Aparatūra,Lithuania,Beer House
-1345418587,2023-12-31,4.8,"","",Shoreline Breeze,Hard Seltzer,4.9,Myrcene Ale Co.,United States,Nisha craft Capital
-1345418744,2023-12-31,5.0,"","",Sour Rosé,Wild Ale - American,4.5,Crooked Stave Artisan Beer Project,United States,Nisha craft Capital
-1345421472,2023-12-31,2.8,"Reikia ir tokius Untappint. Nelabai ką ir pasakysi šitoje vietoje - visiems pažįstamas, niekas nepuls pirkti, bet jeigu kas pasiūlys, žmogus neatsisakys.",Vilnius,Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Dirigentai
-1345423787,2023-12-31,4.5,"Gera rugstele. Lengvesnis pries vaiku migdyma, po to rimtesni laukia. Su artejanciais!",Vilnius,Solbær - FARMER’S RESERVE,Sour - Other,7.0,Lindheim Ølkompani,Norway,Naujamiestis
-1345427601,2023-12-31,4.0,"з новым годам, спадарства!","",Калядны цуд карыца-лiмон,Kvass,4.6,Пивоваренная компания «Аливария» (Alivaria Brewery),Belarus,Kraftaviks
-1345439068,2023-12-31,4.3,"","",Smoked Helles,Rauchbier,4.8,Sakiškės Brewery / Sakiškių Alus,Lithuania,Beer House
-1345439158,2023-12-31,4.0,"","",ZOMBIE BEAST,IPA - Imperial / Double New England / Hazy,8.0,Seven Island Brewery,Greece,Nisha craft Capital
-1345439594,2023-12-31,4.0,"","",ZOMBIE BEAST,IPA - Imperial / Double New England / Hazy,8.0,Seven Island Brewery,Greece,Nisha craft Capital
-1345440375,2023-12-31,3.8,"","",Super Happy,Pale Ale - New England / Hazy,5.3,Cloudwater Brew Co.,England,Nisha craft Capital
-1345441558,2023-12-31,4.0,"","",Super Happy,Pale Ale - New England / Hazy,5.3,Cloudwater Brew Co.,England,Nisha craft Capital
-1345441770,2023-12-31,4.0,"","",Fairy Dust,IPA - New England / Hazy,6.0,Nurme,Latvia,Nisha craft Capital
-1345443045,2023-12-31,3.8,"","",Fairy Dust,IPA - New England / Hazy,6.0,Nurme,Latvia,Nisha craft Capital
-1345443708,2023-12-31,4.0,"","",ZOMBIE BEAST,IPA - Imperial / Double New England / Hazy,8.0,Seven Island Brewery,Greece,Nisha craft Capital
-1345445834,2023-12-31,4.0,"","",Super Happy,Pale Ale - New England / Hazy,5.3,Cloudwater Brew Co.,England,Nisha craft Capital
-1345446958,2023-12-31,2.3,"","",Birra Moretti L'Autentica / Ricetta Originale,Lager - Pale,4.6,Birra Moretti,Italy,KAS KAS
-1345451957,2023-12-31,4.0,"","",Annika,Wild Ale - American,6.7,Mantra Artisan Ales,United States,Nisha craft Capital
-1345453430,2023-12-31,4.3,"","",Cherry x Red Currant x Apricot x Vanilla Sour Ale,Sour - Fruited,5.0,Ārpus Brewing Co.,Latvia,Nisha craft Capital
-1345455650,2023-12-31,2.8,"Rūgštus, jaučiasi acto natos. Siaip sunki rekomendacija.",Vilnius,Rodenbach Classic,Sour - Flanders Red Ale,5.2,Brouwerij Rodenbach,Belgium,Dirigentai
-1345465219,2023-12-31,4.5,"","",Original (TAP07),Wheat Beer - Hefeweizen,5.4,Schneider Weisse G. Schneider & Sohn,Germany,Kraftaviks
-1345465939,2023-12-31,4.0,"","",Quad Particle Wild Turkey BA,Belgian Quadrupel,9.7,Anderson's Brewery,Estonia,Nisha craft Capital
-1345466377,2023-12-31,4.5,"","",Cherry x Red Currant x Apricot x Vanilla Sour Ale,Sour - Fruited,5.0,Ārpus Brewing Co.,Latvia,Nisha craft Capital
-1345466774,2023-12-31,4.5,"","",Cherry x Red Currant x Apricot x Vanilla Sour Ale,Sour - Fruited,5.0,Ārpus Brewing Co.,Latvia,Nisha craft Capital
-1345474991,2023-12-31,4.0,"","",Under the Stars,IPA - Triple New England / Hazy,10.0,Spartacus Brewing,Brazil,Nisha craft Capital
-1345476611,2023-12-31,4.0,"","",Калядны цуд карыца-лiмон,Kvass,4.6,Пивоваренная компания «Аливария» (Alivaria Brewery),Belarus,Kraftaviks
-1345478135,2023-12-31,4.5,"","",Under the Stars,IPA - Triple New England / Hazy,10.0,Spartacus Brewing,Brazil,Nisha craft Capital
-1345499208,2023-12-31,4.3,"","",Mind on Fire,IPA - Triple New England / Hazy,9.5,Spartacus Brewing,Brazil,Nisha craft Capital
-1345500529,2023-12-31,4.3,"","",Cherry x Red Currant x Apricot x Vanilla Sour Ale,Sour - Fruited,5.0,Ārpus Brewing Co.,Latvia,Nisha craft Capital
-1345502335,2023-12-31,4.0,"","",Spacca Cranio,IPA - Imperial / Double,8.0,Boia Brewing Company,Italy,Nisha craft Capital
-1345503804,2023-12-31,3.0,Idomus. Jaučiasi tas viskio statiniu charakteris. Saldumas irgi pasireiškia. Rekomenduoju pabandyti.,Vilnius,Tennent's Whisky Oak Aged,Scottish Ale,6.0,Tennent's Caledonian Brewery,Scotland,Dirigentai
-1345507366,2023-12-31,3.3,"","",Big Bangin' IPA,IPA - American,7.1,Rye River Brewing Company,Ireland,Vilnius
-1345509657,2023-12-31,4.5,"","",Hoegaarden Wit / Blanche,Wheat Beer - Witbier / Blanche,4.9,Brouwerij Hoegaarden,Belgium,KAS KAS
-1345510297,2023-12-31,3.5,"","",Anarkist New England IPA,IPA - New England / Hazy,5.4,Theodor Schiøtz Brewing Company,Denmark,KAS KAS
-1345521313,2023-12-31,4.5,"Bemigdant vaikus buvo pasiekta labai slidi smigimo riba, bet atsilaikiau. Uz tai galima ir isgerti sio gardaus brazilisko apyniu nektaro.",Vilnius,Mind on Fire,IPA - Triple New England / Hazy,9.5,Spartacus Brewing,Brazil,Naujamiestis
-1345531882,2023-12-31,3.0,"Maloniai nustebino. Čia jau aristokratiškai, naujiems metams galima ir toki pamėginti. Stikline kaip ir i tema vidurnakčiui. valio!",Vilnius,Alexander,Sour - Flanders Red Ale,5.6,Brouwerij Rodenbach,Belgium,Dirigentai
 1335416150,2023-12-01,0.0,"","",Canis Lupus,Lager - Pale,4.6,Vilniaus Alus,Lithuania,Komagne Kebab
 1335419186,2023-12-01,3.3,"",Vilnius,Perlenzauber,Pale Ale - Other,5.4,Privatbrauerei H. Egerer,Germany,Sudervėlės Slėnis
 1335431541,2023-12-01,3.8,"","",Goudenband (2018),Sour - Flanders Oud Bruin,8.0,Brouwerij Liefmans,Belgium,Brussels Mussels Centrum
@@ -2414,3 +2364,53 @@ K: nice. Tastes like blackcurrants.",Lithuania (most of the time),Blackcurrant B
 1345341733,2023-12-31,4.0,"","",Super Happy,Pale Ale - New England / Hazy,5.3,Cloudwater Brew Co.,England,Nisha craft Capital
 1345342846,2023-12-31,3.8,"","",We Have Real Phantasm Here ,Pale Ale - New England / Hazy,5.5,Green Monster Brewery,Lithuania,Nisha craft Capital
 1345345009,2023-12-31,3.0,"",Canberra,Nuogas Ruonis (Naked Seal),Blonde Ale,5.8,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Algirdo gatvė
+1345345421,2023-12-31,3.0,"","",Brooklyn Lager,Lager - Vienna,5.2,Brooklyn Brewery,United States,Lietuvos parodų ir kongresų centras | Lithuanian Exibition and Congress Centre (LITEXPO) (Lietuvos parodų ir kongresų centras (LITEXPO))
+1345346447,2023-12-31,3.8,"","",SUPER 8 IPA,IPA - Belgian,6.0,Brouwerij Haacht Brasserie,Belgium,Beer House
+1345364739,2023-12-31,2.8,"","",Five Lamps Red Ale,Red Ale - Irish,3.8,The 5 Lamps Dublin Brewery,Ireland,Beer House
+1345366562,2023-12-31,4.0,"","Vilnius, Lithuania",Naked Lollipop “Bomb Pop”,Sour - Fruited,7.2,Froth Brewing Co.,United States,Nisha craft Capital
+1345368912,2023-12-31,4.3,"","Vilnius, Lithuania",Sour Rosé,Wild Ale - American,4.5,Crooked Stave Artisan Beer Project,United States,Nisha craft Capital
+1345370444,2023-12-31,3.5,"","",La Goudale Grand Cru,Farmhouse Ale - Bière de Garde,7.9,Brasserie Goudale - Les Brasseurs de Gayant,France,Justės ir Bruknės urvelis
+1345375999,2023-12-31,3.0,"","",Punk IPA,IPA - American,5.2,BrewDog,Scotland,Nisha craft Capital
+1345378200,2023-12-31,2.5,"","",Imperial Blueberry & Vanilla Stout,Stout - Imperial / Double,8.2,The Garden Brewery,Croatia,Nisha craft Capital
+1345387518,2023-12-31,3.5,Kaip visada - neįpareigojantis ir džiuginantis.,Vilnius,Bocmano Ūsai (Bosun’s Moustache),IPA - American,6.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Dirigentai
+1345387706,2023-12-31,2.8,"","",SUPER 8 Blanche,Wheat Beer - Witbier / Blanche,5.1,Brouwerij Haacht Brasserie,Belgium,Beer House
+1345397274,2023-12-31,1.3,"","","Estrella Galicia 0,0%",Non-Alcoholic Beer - Lager,0.0,Hijos de Rivera,Spain,"Eilinė Korno chata #3"
+1345403195,2023-12-31,3.8,"Второй чекин не отражает того факта, что во мне уже пол-литра пьяной вишни.","",O'Hara's Hazy IPA,IPA - New England / Hazy,6.8,O'Hara's Brewery ,Ireland,Vnl Home Taproom
+1345416588,2023-12-31,4.0,"","",Imperial Blueberry & Vanilla Stout,Stout - Imperial / Double,8.2,The Garden Brewery,Croatia,Nisha craft Capital
+1345417211,2023-12-31,4.5,"","",Breezy Shoreline,Sour - Fruited Gose,4.8,Bear and Boar,Lithuania,Nisha craft Capital
+1345417982,2023-12-31,3.8,"","",Sour Rosé,Wild Ale - American,4.5,Crooked Stave Artisan Beer Project,United States,Nisha craft Capital
+1345418459,2023-12-31,4.0,"","",Burbulosé,Bière de Champagne / Bière Brut,6.5,Kuro Aparatūra,Lithuania,Beer House
+1345418587,2023-12-31,4.8,"","",Shoreline Breeze,Hard Seltzer,4.9,Myrcene Ale Co.,United States,Nisha craft Capital
+1345418744,2023-12-31,5.0,"","",Sour Rosé,Wild Ale - American,4.5,Crooked Stave Artisan Beer Project,United States,Nisha craft Capital
+1345421472,2023-12-31,2.8,"Reikia ir tokius Untappint. Nelabai ką ir pasakysi šitoje vietoje - visiems pažįstamas, niekas nepuls pirkti, bet jeigu kas pasiūlys, žmogus neatsisakys.",Vilnius,Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Dirigentai
+1345423787,2023-12-31,4.5,"Gera rugstele. Lengvesnis pries vaiku migdyma, po to rimtesni laukia. Su artejanciais!",Vilnius,Solbær - FARMER’S RESERVE,Sour - Other,7.0,Lindheim Ølkompani,Norway,Naujamiestis
+1345427601,2023-12-31,4.0,"з новым годам, спадарства!","",Калядны цуд карыца-лiмон,Kvass,4.6,Пивоваренная компания «Аливария» (Alivaria Brewery),Belarus,Kraftaviks
+1345439068,2023-12-31,4.3,"","",Smoked Helles,Rauchbier,4.8,Sakiškės Brewery / Sakiškių Alus,Lithuania,Beer House
+1345439158,2023-12-31,4.0,"","",ZOMBIE BEAST,IPA - Imperial / Double New England / Hazy,8.0,Seven Island Brewery,Greece,Nisha craft Capital
+1345439594,2023-12-31,4.0,"","",ZOMBIE BEAST,IPA - Imperial / Double New England / Hazy,8.0,Seven Island Brewery,Greece,Nisha craft Capital
+1345440375,2023-12-31,3.8,"","",Super Happy,Pale Ale - New England / Hazy,5.3,Cloudwater Brew Co.,England,Nisha craft Capital
+1345441558,2023-12-31,4.0,"","",Super Happy,Pale Ale - New England / Hazy,5.3,Cloudwater Brew Co.,England,Nisha craft Capital
+1345441770,2023-12-31,4.0,"","",Fairy Dust,IPA - New England / Hazy,6.0,Nurme,Latvia,Nisha craft Capital
+1345443045,2023-12-31,3.8,"","",Fairy Dust,IPA - New England / Hazy,6.0,Nurme,Latvia,Nisha craft Capital
+1345443708,2023-12-31,4.0,"","",ZOMBIE BEAST,IPA - Imperial / Double New England / Hazy,8.0,Seven Island Brewery,Greece,Nisha craft Capital
+1345445834,2023-12-31,4.0,"","",Super Happy,Pale Ale - New England / Hazy,5.3,Cloudwater Brew Co.,England,Nisha craft Capital
+1345446958,2023-12-31,2.3,"","",Birra Moretti L'Autentica / Ricetta Originale,Lager - Pale,4.6,Birra Moretti,Italy,KAS KAS
+1345451957,2023-12-31,4.0,"","",Annika,Wild Ale - American,6.7,Mantra Artisan Ales,United States,Nisha craft Capital
+1345453430,2023-12-31,4.3,"","",Cherry x Red Currant x Apricot x Vanilla Sour Ale,Sour - Fruited,5.0,Ārpus Brewing Co.,Latvia,Nisha craft Capital
+1345455650,2023-12-31,2.8,"Rūgštus, jaučiasi acto natos. Siaip sunki rekomendacija.",Vilnius,Rodenbach Classic,Sour - Flanders Red Ale,5.2,Brouwerij Rodenbach,Belgium,Dirigentai
+1345465219,2023-12-31,4.5,"","",Original (TAP07),Wheat Beer - Hefeweizen,5.4,Schneider Weisse G. Schneider & Sohn,Germany,Kraftaviks
+1345465939,2023-12-31,4.0,"","",Quad Particle Wild Turkey BA,Belgian Quadrupel,9.7,Anderson's Brewery,Estonia,Nisha craft Capital
+1345466377,2023-12-31,4.5,"","",Cherry x Red Currant x Apricot x Vanilla Sour Ale,Sour - Fruited,5.0,Ārpus Brewing Co.,Latvia,Nisha craft Capital
+1345466774,2023-12-31,4.5,"","",Cherry x Red Currant x Apricot x Vanilla Sour Ale,Sour - Fruited,5.0,Ārpus Brewing Co.,Latvia,Nisha craft Capital
+1345474991,2023-12-31,4.0,"","",Under the Stars,IPA - Triple New England / Hazy,10.0,Spartacus Brewing,Brazil,Nisha craft Capital
+1345476611,2023-12-31,4.0,"","",Калядны цуд карыца-лiмон,Kvass,4.6,Пивоваренная компания «Аливария» (Alivaria Brewery),Belarus,Kraftaviks
+1345478135,2023-12-31,4.5,"","",Under the Stars,IPA - Triple New England / Hazy,10.0,Spartacus Brewing,Brazil,Nisha craft Capital
+1345499208,2023-12-31,4.3,"","",Mind on Fire,IPA - Triple New England / Hazy,9.5,Spartacus Brewing,Brazil,Nisha craft Capital
+1345500529,2023-12-31,4.3,"","",Cherry x Red Currant x Apricot x Vanilla Sour Ale,Sour - Fruited,5.0,Ārpus Brewing Co.,Latvia,Nisha craft Capital
+1345502335,2023-12-31,4.0,"","",Spacca Cranio,IPA - Imperial / Double,8.0,Boia Brewing Company,Italy,Nisha craft Capital
+1345503804,2023-12-31,3.0,Idomus. Jaučiasi tas viskio statiniu charakteris. Saldumas irgi pasireiškia. Rekomenduoju pabandyti.,Vilnius,Tennent's Whisky Oak Aged,Scottish Ale,6.0,Tennent's Caledonian Brewery,Scotland,Dirigentai
+1345507366,2023-12-31,3.3,"","",Big Bangin' IPA,IPA - American,7.1,Rye River Brewing Company,Ireland,Vilnius
+1345509657,2023-12-31,4.5,"","",Hoegaarden Wit / Blanche,Wheat Beer - Witbier / Blanche,4.9,Brouwerij Hoegaarden,Belgium,KAS KAS
+1345510297,2023-12-31,3.5,"","",Anarkist New England IPA,IPA - New England / Hazy,5.4,Theodor Schiøtz Brewing Company,Denmark,KAS KAS
+1345521313,2023-12-31,4.5,"Bemigdant vaikus buvo pasiekta labai slidi smigimo riba, bet atsilaikiau. Uz tai galima ir isgerti sio gardaus brazilisko apyniu nektaro.",Vilnius,Mind on Fire,IPA - Triple New England / Hazy,9.5,Spartacus Brewing,Brazil,Naujamiestis
+1345531882,2023-12-31,3.0,"Maloniai nustebino. Čia jau aristokratiškai, naujiems metams galima ir toki pamėginti. Stikline kaip ir i tema vidurnakčiui. valio!",Vilnius,Alexander,Sour - Flanders Red Ale,5.6,Brouwerij Rodenbach,Belgium,Dirigentai

@@ -1,45 +1,4 @@
 checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_abv,brewery_name,brewery_country,venue_name
-1133704700,2022-02-27,0.0,"",Lithuania,Hall of Hops,IPA - Session,5.5,Browar Nepomucen,Poland,Local Pub
-1133982306,2022-02-28,0.0,Sprit! Här var det sprit!Sprit någon? Värmande minst sagt.,"13637,Sverige",Suktinis,Mead - Other,50.0,Lietuviškas Midus,Lithuania,Vilnius City Hotel
-1133711801,2022-02-27,4.0,"",Minsk,Simkala APA,Pale Ale - American,5.3,Širvėnos bravoras,Lithuania,nArauti
-1133712615,2022-02-27,3.0,"","",Laukinių Aviečių,Spiced / Herbed Beer,5.0,Piniavos Alutis,Lithuania,Vilniaus Senamiestis | Vilnius Old Town (Vilniaus senamiestis)
-1133719689,2022-02-27,3.8,"","",Piratas,IPA - New Zealand,6.2,Pilialaukis,Lithuania,Alaus kolonele
-1133722793,2022-02-27,0.0,"","13637,Sverige",Tamsi Praeitis (Dark Past),Lager - Dark,4.9,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
-1133743511,2022-02-27,0.0,"","13637,Sverige",Draft Mead Girta Bitė,Mead - Other,6.0,Girta Bitė,Lithuania,Girta Bitė
-1133744416,2022-02-27,4.3,"","",DDH Vic Secret x Galaxy DIPA,IPA - Imperial / Double New England / Hazy,8.0,Ārpus Brewing Co.,Latvia,Nisha craft Capital
-1133744789,2022-02-27,3.8,"","",John Vic,IPA - New England / Hazy,6.9,Anderson's Craft Beer,Estonia,Nisha craft Capital
-1133745042,2022-02-27,3.8,"","",Monkey Style,IPA - New England / Hazy,6.0,Browar Rockmill,Poland,Nisha craft Capital
-1133749625,2022-02-27,4.3,"",Minsk,PINTA HBC-586 Superstar,IPA - New England / Hazy,6.5,Browar PINTA,Poland,Local Pub
-1133937927,2022-02-28,3.8,"","",Two Liberties / Dvi Laisvės,IPA - American,6.0,Genys Brewing Co.,Lithuania,Šnekutis
-1133796242,2022-02-28,3.5,"",Minsk,Hazelnut Brown Ale 2022,Brown Ale - Other,6.9,Sakiškės Brewery// Sakiškių Alus,Lithuania,Local Pub
-1133843577,2022-02-28,3.5,"","Annville, PA",Humulupu IPA,IPA - American,5.0,Panevėžio Alus,Lithuania,Rotušės aikštė  | Town Hall Square (Rotušės aikštė)
-1133906152,2022-02-28,4.8,"",Moscow,Trappistes Rochefort 10,Belgian Quadrupel,11.3,Abbaye Notre-Dame de Saint-Rémy,Belgium,Alaus Biblioteka
-1133906166,2022-02-28,4.8,Топчик,Moscow,Château Noir (Cellar Series),Porter - Imperial / Double Baltic,12.0,Põhjala,Estonia,Alaus Biblioteka
-1133906331,2022-02-28,0.0,"","13637,Sverige",Alyno Blanche,Wheat Beer - Witbier / Blanche,4.5,UAB Alynas,Lithuania,Alynas
-1133908659,2022-02-28,0.0,"","13637,Sverige",Pekla,Stout - Irish Dry,4.2,Pilialaukis,Lithuania,Alaus Namai
-1133909611,2022-02-28,0.0,"","13637,Sverige",Perkus,English Bitter,3.8,Pilialaukis,Lithuania,Alaus Namai
-1133910560,2022-02-28,0.0,"","13637,Sverige",Brizas,Pale Ale - American,4.8,Pilialaukis,Lithuania,Alaus Namai
-1133911721,2022-02-28,0.0,"","13637,Sverige",Galvė,Pale Ale - International,5.0,Pilialaukis,Lithuania,Alaus Namai
-1133913081,2022-02-28,0.0,"","13637,Sverige",Spyglys,IPA - Session,5.3,Pilialaukis,Lithuania,UNDRESS
-1133920320,2022-02-28,3.8,"","","Meet Our Places #04: Piwna Stopa | Naked Foot",IPA - American,6.9,Browar Nepomucen,Poland,Local Pub
-1133922025,2022-02-28,3.8,"","",PINTA HBC-586 Superstar,IPA - New England / Hazy,6.5,Browar PINTA,Poland,Local Pub
-1133924399,2022-02-28,4.0,"","",Hall of Hops,IPA - Session,5.5,Browar Nepomucen,Poland,Local Pub
-1133926340,2022-02-28,3.3,"","",Visa Piiga,Wheat Beer - Hefeweizen,5.8,Õllenaut,Estonia,Nisha craft Capital
-1133930798,2022-02-28,4.0,"","",Maple Dream,Gluten-Free,10.0,Wander Beyond Brewing,England,Nisha craft Capital
-1133931063,2022-02-28,3.3,"","",Boogie,Pale Ale - American,5.0,Green Monster Brewery,Lithuania,Nisha craft Capital
-1133932387,2022-02-28,3.0,"","",Maple Dream,Gluten-Free,10.0,Wander Beyond Brewing,England,Nisha craft Capital
-1133937341,2022-02-28,4.5,"","",John Vic,IPA - New England / Hazy,6.9,Anderson's Craft Beer,Estonia,Nisha craft Capital
-1133937685,2022-02-28,2.8,"","",Obuoliokas,Wild Ale - Other,6.0,Panevėžio Alus,Lithuania,Etmonų Špunka
-1133767366,2022-02-27,0.0,Dagens i särklass värsta öl 🤢.,"13637,Sverige",Rinktinis,Lager - Pale,5.2,Volfas Engelman,Lithuania,Girta Bitė
-1133938039,2022-02-28,3.8,"","",Inkognito Quadrupel (American Oak Aged),Belgian Quadrupel,10.6,Õllenaut,Estonia,Nisha craft Capital
-1133938361,2022-02-28,3.0,"","",Obuoliokas,Wild Ale - Other,6.0,Panevėžio Alus,Lithuania,Etmonų Špunka
-1133940359,2022-02-28,3.8,"","",Hazy / Niaukas,IPA - New England / Hazy,4.5,Genys Brewing Co.,Lithuania,Šnekutis
-1133947978,2022-02-28,2.8,"",ur mum,Tinginio Pantis - Kriaušių,Cider - Perry,4.5,MV Group Production AB,Lithuania,Etno Dvaras
-1133949922,2022-02-28,0.0,"@brewery#542","13637,Sverige",Pilsner,Pilsner - Other,5.2,Leičių Bravoras,Lithuania,Queensberry
-1133950009,2022-02-28,2.8,"","",Altas,Altbier,5.6,Panevėžio Alus,Lithuania,Etmonų Špunka
-1133956465,2022-02-28,3.8,"","",1664 Blanc,Wheat Beer - Witbier / Blanche,5.0,Kronenbourg Brewery,France,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
-1133957176,2022-02-28,0.0,"","13637,Sverige",Bohemian Pilsner,Pilsner - Czech,4.6,Gubernija,Lithuania,Queensberry
-1133706250,2022-02-27,0.0,"4,9%.","13637,Sverige",Šviesi Ateitis (Bright Future),Lager - Pale,4.8,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
 1125443645,2022-02-01,0.0,"","",Maria,Sour - Fruited Berliner Weisse,5.4,Browar Nepomucen,Poland,Local Pub
 1125488551,2022-02-01,2.5,"",Kaunas,Norrlands Guld Ljus,Lager - Pale,4.7,Spendrups Bryggeri,Sweden,IKEA Restoranas
 1125488587,2022-02-01,2.5,"","",Norrlands Guld Ljus,Lager - Pale,4.7,Spendrups Bryggeri,Sweden,IKEA Restoranas
@@ -2929,3 +2888,44 @@ P.P.S Bybio paklausiau, sakė kad nežino.",Vilnius. Lithuania.,Valge,Wheat Beer
 1133700477,2022-02-27,2.3,"","",Nanny State,Non-Alcoholic Beer,0.5,BrewDog,Scotland,eskedar coffee
 1133700953,2022-02-27,3.8,"","",Hallo Ich Bin Berliner Weisse Blueberry,Sour - Fruited Berliner Weisse,3.7,Mikkeller,Denmark,Nisha craft Capital
 1133701311,2022-02-27,3.8,"","",Imperial Raspberry & Coconut Stout,Stout - Imperial / Double Pastry,8.5,The Garden Brewery,Croatia,Nisha craft Capital
+1133704700,2022-02-27,0.0,"",Lithuania,Hall of Hops,IPA - Session,5.5,Browar Nepomucen,Poland,Local Pub
+1133706250,2022-02-27,0.0,"4,9%.","13637,Sverige",Šviesi Ateitis (Bright Future),Lager - Pale,4.8,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1133711801,2022-02-27,4.0,"",Minsk,Simkala APA,Pale Ale - American,5.3,Širvėnos bravoras,Lithuania,nArauti
+1133712615,2022-02-27,3.0,"","",Laukinių Aviečių,Spiced / Herbed Beer,5.0,Piniavos Alutis,Lithuania,Vilniaus Senamiestis | Vilnius Old Town (Vilniaus senamiestis)
+1133719689,2022-02-27,3.8,"","",Piratas,IPA - New Zealand,6.2,Pilialaukis,Lithuania,Alaus kolonele
+1133722793,2022-02-27,0.0,"","13637,Sverige",Tamsi Praeitis (Dark Past),Lager - Dark,4.9,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1133743511,2022-02-27,0.0,"","13637,Sverige",Draft Mead Girta Bitė,Mead - Other,6.0,Girta Bitė,Lithuania,Girta Bitė
+1133744416,2022-02-27,4.3,"","",DDH Vic Secret x Galaxy DIPA,IPA - Imperial / Double New England / Hazy,8.0,Ārpus Brewing Co.,Latvia,Nisha craft Capital
+1133744789,2022-02-27,3.8,"","",John Vic,IPA - New England / Hazy,6.9,Anderson's Craft Beer,Estonia,Nisha craft Capital
+1133745042,2022-02-27,3.8,"","",Monkey Style,IPA - New England / Hazy,6.0,Browar Rockmill,Poland,Nisha craft Capital
+1133749625,2022-02-27,4.3,"",Minsk,PINTA HBC-586 Superstar,IPA - New England / Hazy,6.5,Browar PINTA,Poland,Local Pub
+1133767366,2022-02-27,0.0,Dagens i särklass värsta öl 🤢.,"13637,Sverige",Rinktinis,Lager - Pale,5.2,Volfas Engelman,Lithuania,Girta Bitė
+1133796242,2022-02-28,3.5,"",Minsk,Hazelnut Brown Ale 2022,Brown Ale - Other,6.9,Sakiškės Brewery// Sakiškių Alus,Lithuania,Local Pub
+1133843577,2022-02-28,3.5,"","Annville, PA",Humulupu IPA,IPA - American,5.0,Panevėžio Alus,Lithuania,Rotušės aikštė  | Town Hall Square (Rotušės aikštė)
+1133906152,2022-02-28,4.8,"",Moscow,Trappistes Rochefort 10,Belgian Quadrupel,11.3,Abbaye Notre-Dame de Saint-Rémy,Belgium,Alaus Biblioteka
+1133906166,2022-02-28,4.8,Топчик,Moscow,Château Noir (Cellar Series),Porter - Imperial / Double Baltic,12.0,Põhjala,Estonia,Alaus Biblioteka
+1133906331,2022-02-28,0.0,"","13637,Sverige",Alyno Blanche,Wheat Beer - Witbier / Blanche,4.5,UAB Alynas,Lithuania,Alynas
+1133908659,2022-02-28,0.0,"","13637,Sverige",Pekla,Stout - Irish Dry,4.2,Pilialaukis,Lithuania,Alaus Namai
+1133909611,2022-02-28,0.0,"","13637,Sverige",Perkus,English Bitter,3.8,Pilialaukis,Lithuania,Alaus Namai
+1133910560,2022-02-28,0.0,"","13637,Sverige",Brizas,Pale Ale - American,4.8,Pilialaukis,Lithuania,Alaus Namai
+1133911721,2022-02-28,0.0,"","13637,Sverige",Galvė,Pale Ale - International,5.0,Pilialaukis,Lithuania,Alaus Namai
+1133913081,2022-02-28,0.0,"","13637,Sverige",Spyglys,IPA - Session,5.3,Pilialaukis,Lithuania,UNDRESS
+1133920320,2022-02-28,3.8,"","","Meet Our Places #04: Piwna Stopa | Naked Foot",IPA - American,6.9,Browar Nepomucen,Poland,Local Pub
+1133922025,2022-02-28,3.8,"","",PINTA HBC-586 Superstar,IPA - New England / Hazy,6.5,Browar PINTA,Poland,Local Pub
+1133924399,2022-02-28,4.0,"","",Hall of Hops,IPA - Session,5.5,Browar Nepomucen,Poland,Local Pub
+1133926340,2022-02-28,3.3,"","",Visa Piiga,Wheat Beer - Hefeweizen,5.8,Õllenaut,Estonia,Nisha craft Capital
+1133930798,2022-02-28,4.0,"","",Maple Dream,Gluten-Free,10.0,Wander Beyond Brewing,England,Nisha craft Capital
+1133931063,2022-02-28,3.3,"","",Boogie,Pale Ale - American,5.0,Green Monster Brewery,Lithuania,Nisha craft Capital
+1133932387,2022-02-28,3.0,"","",Maple Dream,Gluten-Free,10.0,Wander Beyond Brewing,England,Nisha craft Capital
+1133937341,2022-02-28,4.5,"","",John Vic,IPA - New England / Hazy,6.9,Anderson's Craft Beer,Estonia,Nisha craft Capital
+1133937685,2022-02-28,2.8,"","",Obuoliokas,Wild Ale - Other,6.0,Panevėžio Alus,Lithuania,Etmonų Špunka
+1133937927,2022-02-28,3.8,"","",Two Liberties / Dvi Laisvės,IPA - American,6.0,Genys Brewing Co.,Lithuania,Šnekutis
+1133938039,2022-02-28,3.8,"","",Inkognito Quadrupel (American Oak Aged),Belgian Quadrupel,10.6,Õllenaut,Estonia,Nisha craft Capital
+1133938361,2022-02-28,3.0,"","",Obuoliokas,Wild Ale - Other,6.0,Panevėžio Alus,Lithuania,Etmonų Špunka
+1133940359,2022-02-28,3.8,"","",Hazy / Niaukas,IPA - New England / Hazy,4.5,Genys Brewing Co.,Lithuania,Šnekutis
+1133947978,2022-02-28,2.8,"",ur mum,Tinginio Pantis - Kriaušių,Cider - Perry,4.5,MV Group Production AB,Lithuania,Etno Dvaras
+1133949922,2022-02-28,0.0,"@brewery#542","13637,Sverige",Pilsner,Pilsner - Other,5.2,Leičių Bravoras,Lithuania,Queensberry
+1133950009,2022-02-28,2.8,"","",Altas,Altbier,5.6,Panevėžio Alus,Lithuania,Etmonų Špunka
+1133956465,2022-02-28,3.8,"","",1664 Blanc,Wheat Beer - Witbier / Blanche,5.0,Kronenbourg Brewery,France,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1133957176,2022-02-28,0.0,"","13637,Sverige",Bohemian Pilsner,Pilsner - Czech,4.6,Gubernija,Lithuania,Queensberry
+1133982306,2022-02-28,0.0,Sprit! Här var det sprit!Sprit någon? Värmande minst sagt.,"13637,Sverige",Suktinis,Mead - Other,50.0,Lietuviškas Midus,Lithuania,Vilnius City Hotel

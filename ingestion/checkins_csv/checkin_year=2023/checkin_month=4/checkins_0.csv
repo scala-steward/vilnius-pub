@@ -455,6 +455,43 @@ checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_a
 1262302743,2023-04-06,3.0,"","Arlington, VA",Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Mikalo House
 1262303849,2023-04-06,4.5,"","",Stay Here,IPA - Session,5.2,Moon Lark Brewery,Poland,Local Pub
 1262305345,2023-04-06,4.0,"",Vilnius,A Hundred Percent of Galaxy,IPA - Imperial / Double New England / Hazy,7.0,Browar Gwarek,Poland,Pilaitės dvaras
+1269993465,2023-04-30,3.8,"","",Ár GCairde,Sour - Fruited Gose,4.0,Hopfully Brewing,Ireland,Local Pub
+1269995286,2023-04-30,3.8,"","",Parcel.,Pale Ale - American,5.2,Moon Lark Brewery,Poland,Local Pub
+1269995535,2023-04-30,5.0,"","",TDH Nelson x Nectaron DIPA,IPA - Imperial / Double,8.0,Ārpus Brewing Co.,Latvia,Nisha craft Capital
+1270000032,2023-04-30,4.0,"","",Brisk (Funky Fluid x Local Pub),IPA - Cold,6.0,Funky Fluid,Poland,Local Pub
+1270000983,2023-04-30,0.0,"","",IPUTĖ (Little IPA),IPA - American,5.1,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1270001355,2023-04-30,3.3,"","",IPUTĖ (Little IPA),IPA - American,5.1,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1270001389,2023-04-30,4.0,"",Oslo,Ology Fixed Income,Stout - Imperial / Double Milk,11.0,Ology Brewing Co,United States,Nisha craft Capital
+1270006972,2023-04-30,5.0,"","",QDH Nelson x Citra Cryo x Nectaron x Mosaic Lupomax QIPA,IPA - Quadruple,12.0,Ārpus Brewing Co.,Latvia,Nisha craft Capital
+1270007354,2023-04-30,0.0,Meh,"",Santanos Lemon & Ginger,Lager - Other,4.5,A. Le Coq,Estonia,Santaros Restaurant
+1270008284,2023-04-30,4.3,When a lager is a treat 🍫 ☕️,"",I'm So Horny!,Lager - Dark,7.0,PINTA,Poland,Local Pub
+1270009225,2023-04-30,4.3,"",Oslo,Stacy’s Mom,IPA - Imperial / Double,8.6,Wood Brothers Brewing Co.,Canada,Nisha craft Capital
+1270010211,2023-04-30,4.3,Reading is fundamental! 📖,"",Fundamental - Funky Fluid x Fuerst Wiacek,IPA - New England / Hazy,6.7,Funky Fluid,Poland,Local Pub
+1270010738,2023-04-30,3.8,"","",Graciosa,IPA - American,5.3,Hopfully Brewing,Ireland,Local Pub
+1270011243,2023-04-30,3.8,"","",Graciosa,IPA - American,5.3,Hopfully Brewing,Ireland,Local Pub
+1270011281,2023-04-30,3.3,"",Sweden,Grimbergen Double Ambrée,Belgian Dubbel,6.5,Kronenbourg Brewery,France,Pilies KATPĖDĖLĖ
+1270011459,2023-04-30,3.8,"","",Grimbergen Dubbel (2023),Belgian Dubbel,6.5,Brouwerij Alken-Maes,Belgium,The Old Green House
+1270016563,2023-04-30,5.0,One of most loved from Ārpus,"",QDH Simcoe Cryo x Galaxy x Vic Secret QIPA,IPA - Quadruple,12.0,Ārpus Brewing Co.,Latvia,Nisha craft Capital
+1270021714,2023-04-30,4.3,"","",Fundamental - Funky Fluid x Fuerst Wiacek,IPA - New England / Hazy,6.7,Funky Fluid,Poland,Local Pub
+1270031491,2023-04-30,3.0,"",Vilnius,Stout,Stout - Milk / Sweet,5.0,Leičių Bravoras,Lithuania,Aline Leičiai
+1270032467,2023-04-30,3.5,"","",Baltas (White),Wheat Beer - Hefeweizen,5.0,Švyturys,Lithuania,Etno Dvaras
+1270042198,2023-04-30,4.5,"",Oslo,QDH Nelson x Citra Cryo x Nectaron x Mosaic Lupomax QIPA,IPA - Quadruple,12.0,Ārpus Brewing Co.,Latvia,Nisha craft Capital
+1270043924,2023-04-30,4.0,"","",UKRAINIAN TOMATO GOSE,Sour - Other Gose,4.3,Underwood Brewery,Ukraine,Alaus Biblioteka
+1270044419,2023-04-30,0.0,"","",JUODASAI,Stout - Foreign / Export,7.5,Panevėžio Alus,Lithuania,Alaus Biblioteka
+1270044661,2023-04-30,0.0,"","",UKRAINIAN TOMATO GOSE,Sour - Other Gose,4.3,Underwood Brewery,Ukraine,Alaus Biblioteka
+1270048775,2023-04-30,3.0,"",Vilnius,Pilsner,Pilsner - Other,5.2,Leičių Bravoras,Lithuania,Aline Leičiai
+1270050988,2023-04-30,3.5,"","",Barman,IPA - Session,5.0,Browar Hopito,Poland,Nisha craft Capital
+1270053424,2023-04-30,0.0,"","",JUODASAI,Stout - Foreign / Export,7.5,Panevėžio Alus,Lithuania,Alaus Biblioteka
+1270060883,2023-04-30,4.3,"","",Grand Funk Inquisitor,Brett Beer,6.0,Benchtop Brewing Company,United States,Nisha craft Capital
+1270062986,2023-04-30,4.0,"","",Mini Maxi IPA,Non-Alcoholic Beer - IPA,0.5,PINTA,Poland,Local Pub
+1270063295,2023-04-30,4.8,"","",Brisk (Funky Fluid x Local Pub),IPA - Cold,6.0,Funky Fluid,Poland,Local Pub
+1270064328,2023-04-30,3.8,"","",Farm To Pint: Hop Revolution,IPA - Imperial / Double New England / Hazy,7.5,Browar Rockmill,Poland,Nisha craft Capital
+1270065862,2023-04-30,4.0,"",Oslo,Mango x Apricot x Almond Smoothie Sour Ale,Sour - Smoothie / Pastry,5.0,Ārpus Brewing Co.,Latvia,Nisha craft Capital
+1270072990,2023-04-30,3.8,"","",Death Race,IPA - New England / Hazy,6.5,Browar Stu Mostów,Poland,Nisha craft Capital
+1270073722,2023-04-30,3.5,"",Courbevoie,Anarkist New England IPA,IPA - New England / Hazy,5.4,Theodor Schiøtz Brewing Company,Denmark,Baltojo Tilto Skateparkas
+1270094103,2023-04-30,2.8,"","",Koln Tourist,Kölsch,5.0,Volfas Engelman,Lithuania,Piromonto Kolonija
+1270146888,2023-04-30,3.5,"",Vilnius,Wharf.,Porter - English,5.2,Moon Lark Brewery,Poland,Boriso Nemcovo Skveras
+1270147994,2023-04-30,2.0,"",Vilnius,Tuborg Zero,Non-Alcoholic Beer - Lager,0.0,Carlsberg Group,Denmark,Pirtis
 1262305879,2023-04-06,3.5,"","54.037409, -9.322655",700,Historical Beer - Other,5.5,Panevėžio Alus,Lithuania,Alaus Biblioteka
 1262306513,2023-04-06,4.0,"",Vilnius,DDH Nelson x Riwaka x Mosaic Pale Ale,Pale Ale - New England / Hazy,5.5,Ārpus Brewing Co.,Latvia,Nisha craft Capital
 1262309525,2023-04-06,3.8,"","Vilnius, Lithuania",Highway,IPA - New England / Hazy,5.9,Browar Nepomucen,Poland,Local Pub
@@ -2504,40 +2541,3 @@ UpD. Пиздато жжет, повышу.","",UKRAINIAN TOMATO GOSE,Sour - Oth
 1269980809,2023-04-30,3.8,"","",Spaten München / Münchner Hell / Premium Lager,Lager - Helles,5.2,Spaten-Franziskaner-Löwenbräu-Gruppe,Germany,Sinners Burgers
 1269992513,2023-04-30,3.0,"",Oslo,"Onlytaps#2: Mosaic/Ekuanot NEIPA",IPA - New England / Hazy,6.5,Browar Rockmill,Poland,Nisha craft Capital
 1269992562,2023-04-30,3.8,"","",Ár GCairde,Sour - Fruited Gose,4.0,Hopfully Brewing,Ireland,Local Pub
-1269993465,2023-04-30,3.8,"","",Ár GCairde,Sour - Fruited Gose,4.0,Hopfully Brewing,Ireland,Local Pub
-1269995286,2023-04-30,3.8,"","",Parcel.,Pale Ale - American,5.2,Moon Lark Brewery,Poland,Local Pub
-1269995535,2023-04-30,5.0,"","",TDH Nelson x Nectaron DIPA,IPA - Imperial / Double,8.0,Ārpus Brewing Co.,Latvia,Nisha craft Capital
-1270000032,2023-04-30,4.0,"","",Brisk (Funky Fluid x Local Pub),IPA - Cold,6.0,Funky Fluid,Poland,Local Pub
-1270000983,2023-04-30,0.0,"","",IPUTĖ (Little IPA),IPA - American,5.1,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
-1270001355,2023-04-30,3.3,"","",IPUTĖ (Little IPA),IPA - American,5.1,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
-1270001389,2023-04-30,4.0,"",Oslo,Ology Fixed Income,Stout - Imperial / Double Milk,11.0,Ology Brewing Co,United States,Nisha craft Capital
-1270006972,2023-04-30,5.0,"","",QDH Nelson x Citra Cryo x Nectaron x Mosaic Lupomax QIPA,IPA - Quadruple,12.0,Ārpus Brewing Co.,Latvia,Nisha craft Capital
-1270007354,2023-04-30,0.0,Meh,"",Santanos Lemon & Ginger,Lager - Other,4.5,A. Le Coq,Estonia,Santaros Restaurant
-1270008284,2023-04-30,4.3,When a lager is a treat 🍫 ☕️,"",I'm So Horny!,Lager - Dark,7.0,PINTA,Poland,Local Pub
-1270009225,2023-04-30,4.3,"",Oslo,Stacy’s Mom,IPA - Imperial / Double,8.6,Wood Brothers Brewing Co.,Canada,Nisha craft Capital
-1270010211,2023-04-30,4.3,Reading is fundamental! 📖,"",Fundamental - Funky Fluid x Fuerst Wiacek,IPA - New England / Hazy,6.7,Funky Fluid,Poland,Local Pub
-1270010738,2023-04-30,3.8,"","",Graciosa,IPA - American,5.3,Hopfully Brewing,Ireland,Local Pub
-1270011243,2023-04-30,3.8,"","",Graciosa,IPA - American,5.3,Hopfully Brewing,Ireland,Local Pub
-1270011281,2023-04-30,3.3,"",Sweden,Grimbergen Double Ambrée,Belgian Dubbel,6.5,Kronenbourg Brewery,France,Pilies KATPĖDĖLĖ
-1270011459,2023-04-30,3.8,"","",Grimbergen Dubbel (2023),Belgian Dubbel,6.5,Brouwerij Alken-Maes,Belgium,The Old Green House
-1270016563,2023-04-30,5.0,One of most loved from Ārpus,"",QDH Simcoe Cryo x Galaxy x Vic Secret QIPA,IPA - Quadruple,12.0,Ārpus Brewing Co.,Latvia,Nisha craft Capital
-1270021714,2023-04-30,4.3,"","",Fundamental - Funky Fluid x Fuerst Wiacek,IPA - New England / Hazy,6.7,Funky Fluid,Poland,Local Pub
-1270031491,2023-04-30,3.0,"",Vilnius,Stout,Stout - Milk / Sweet,5.0,Leičių Bravoras,Lithuania,Aline Leičiai
-1270032467,2023-04-30,3.5,"","",Baltas (White),Wheat Beer - Hefeweizen,5.0,Švyturys,Lithuania,Etno Dvaras
-1270042198,2023-04-30,4.5,"",Oslo,QDH Nelson x Citra Cryo x Nectaron x Mosaic Lupomax QIPA,IPA - Quadruple,12.0,Ārpus Brewing Co.,Latvia,Nisha craft Capital
-1270043924,2023-04-30,4.0,"","",UKRAINIAN TOMATO GOSE,Sour - Other Gose,4.3,Underwood Brewery,Ukraine,Alaus Biblioteka
-1270044419,2023-04-30,0.0,"","",JUODASAI,Stout - Foreign / Export,7.5,Panevėžio Alus,Lithuania,Alaus Biblioteka
-1270044661,2023-04-30,0.0,"","",UKRAINIAN TOMATO GOSE,Sour - Other Gose,4.3,Underwood Brewery,Ukraine,Alaus Biblioteka
-1270048775,2023-04-30,3.0,"",Vilnius,Pilsner,Pilsner - Other,5.2,Leičių Bravoras,Lithuania,Aline Leičiai
-1270050988,2023-04-30,3.5,"","",Barman,IPA - Session,5.0,Browar Hopito,Poland,Nisha craft Capital
-1270053424,2023-04-30,0.0,"","",JUODASAI,Stout - Foreign / Export,7.5,Panevėžio Alus,Lithuania,Alaus Biblioteka
-1270060883,2023-04-30,4.3,"","",Grand Funk Inquisitor,Brett Beer,6.0,Benchtop Brewing Company,United States,Nisha craft Capital
-1270062986,2023-04-30,4.0,"","",Mini Maxi IPA,Non-Alcoholic Beer - IPA,0.5,PINTA,Poland,Local Pub
-1270063295,2023-04-30,4.8,"","",Brisk (Funky Fluid x Local Pub),IPA - Cold,6.0,Funky Fluid,Poland,Local Pub
-1270064328,2023-04-30,3.8,"","",Farm To Pint: Hop Revolution,IPA - Imperial / Double New England / Hazy,7.5,Browar Rockmill,Poland,Nisha craft Capital
-1270065862,2023-04-30,4.0,"",Oslo,Mango x Apricot x Almond Smoothie Sour Ale,Sour - Smoothie / Pastry,5.0,Ārpus Brewing Co.,Latvia,Nisha craft Capital
-1270072990,2023-04-30,3.8,"","",Death Race,IPA - New England / Hazy,6.5,Browar Stu Mostów,Poland,Nisha craft Capital
-1270073722,2023-04-30,3.5,"",Courbevoie,Anarkist New England IPA,IPA - New England / Hazy,5.4,Theodor Schiøtz Brewing Company,Denmark,Baltojo Tilto Skateparkas
-1270094103,2023-04-30,2.8,"","",Koln Tourist,Kölsch,5.0,Volfas Engelman,Lithuania,Piromonto Kolonija
-1270146888,2023-04-30,3.5,"",Vilnius,Wharf.,Porter - English,5.2,Moon Lark Brewery,Poland,Boriso Nemcovo Skveras
-1270147994,2023-04-30,2.0,"",Vilnius,Tuborg Zero,Non-Alcoholic Beer - Lager,0.0,Carlsberg Group,Denmark,Pirtis

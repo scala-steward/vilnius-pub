@@ -1,172 +1,4 @@
 checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_abv,brewery_name,brewery_country,venue_name
-1164360198,2022-06-01,1.5,"","",Plakta Vasarele,Sour - Fruited,7.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Bar Bukowski
-1164415234,2022-06-01,1.8,"",Vilnius,Eichbaum HefeWeizen Alkoholfrei,Non-Alcoholic Beer,0.9,Privatbrauerei Eichbaum,Germany,Geras Garas
-1164418196,2022-06-01,3.8,А не бяды. Вельмі лёгкі лагерок з далікатным дымам.,"",Smoked Schwarzbier,Lager - Dark,4.7,Sakiškės Brewery// Sakiškių Alus,Lithuania,Kelio ABC Vairavimo mokykla/ Driving school
-1164423033,2022-06-01,3.0,"","",American IPA,IPA - American,6.0,Vilniaus Alus,Lithuania,MEATing ROOM
-1164423692,2022-06-01,3.3,"","",Baltas (White),Wheat Beer - Hefeweizen,5.0,Švyturys,Lithuania,Etno Dvaras
-1164424247,2022-06-01,2.8,"","",Varniukų Tamsus,Dark Ale,5.6,Davra Alaus Darykla,Lithuania,Etno Dvaras
-1164425007,2022-06-01,3.0,"","",Bistrampolio Dvaro Šviesusis/ Bistrampolio Dvaro Light,Lager - Pale,5.0,Aukštaitijos Bravorai,Lithuania,Etno Dvaras
-1164425445,2022-06-01,3.0,"","",Kvietinis,Wheat Beer - Hefeweizen,5.0,Vilniaus Alus,Lithuania,MEATing ROOM
-1164426355,2022-06-01,4.3,"",LTU,ART43 Imperial Pastry Stout Dark Chocolate Carmelized Almonds Nitro,Stout - Imperial / Double Pastry,10.5,Browar Stu Mostów,Poland,Nisha craft Capital
-1164431073,2022-06-01,4.0,"","",Stakliškės,Mead - Metheglin,12.0,Lietuviškas Midus,Lithuania,Aline Leičiai
-1164431404,2022-06-01,3.8,"","",Ta Moins Forte,IPA - Session,3.8,Lagabière,Canada,Nisha craft Capital
-1164432953,2022-06-01,3.8,"","",Trakai,Mead - Other,15.0,Lietuviškas Midus,Lithuania,Aline Leičiai
-1164433228,2022-06-01,4.3,"","",Doomsday Device,IPA - Imperial / Double New England / Hazy,8.3,Drekker Brewing Company,United States,Nisha craft Capital
-1164433833,2022-06-01,4.0,"","",Ghost of Kyiv Double Power,IPA - New England / Hazy,7.2,Sakiškės Brewery// Sakiškių Alus,Lithuania,Nisha craft Capital
-1164435654,2022-06-01,4.3,"","",Dusty,Pale Ale - New England / Hazy,6.0,More Brewing Company,United States,Nisha craft Capital
-1164437021,2022-06-01,3.0,"","",Galvė,Pale Ale - International,5.0,Pilialaukis,Lithuania,City Chef
-1164437029,2022-06-01,3.3,"","",Moralité,IPA - American,6.9,Brasserie Dieu du Ciel!,Canada,Nisha craft Capital
-1164437405,2022-06-01,4.3,"","",Ghost of Kyiv Double Power,IPA - New England / Hazy,7.2,Sakiškės Brewery// Sakiškių Alus,Lithuania,Nisha craft Capital
-1164437908,2022-06-01,4.0,"","",Stargazer,IPA - Imperial / Double,8.3,Varvar Brew,Ukraine,Nisha craft Capital
-1164439249,2022-06-01,3.5,"","",IPA,IPA - English,8.0,Alinė Leičiai,Lithuania,Aline Leičiai
-1164440074,2022-06-01,4.0,"","",Moralité,IPA - American,6.9,Brasserie Dieu du Ciel!,Canada,Nisha craft Capital
-1164442627,2022-06-01,3.8,"","",Niaukas 2,IPA - Imperial / Double,7.0,Genys Brewing Co.,Lithuania,Nisha craft Capital
-1164443058,2022-06-01,3.8,"","",Applehoff Imperial,Sour - Other,8.9,Anderson's Craft Beer,Estonia,Nisha craft Capital
-1164443874,2022-06-01,3.0,"",Minsk,Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Etno Dvaras
-1164445705,2022-06-01,3.8,"","",Stargazer,IPA - Imperial / Double,8.3,Varvar Brew,Ukraine,Nisha craft Capital
-1164446185,2022-06-01,3.8,"","",Kurkas,Dark Ale,4.9,Panevėžio Alus,Lithuania,Lokys
-1164446276,2022-06-01,3.8,"","",Applehoff Imperial,Sour - Other,8.9,Anderson's Craft Beer,Estonia,Nisha craft Capital
-1164448123,2022-06-01,4.0,"","",Californication / Kalifornikacija,Pale Ale - American,4.5,Genys Brewing Co.,Lithuania,Dock
-1164449934,2022-06-01,3.5,"","",Varniukų Tamsus,Dark Ale,5.6,Davra Alaus Darykla,Lithuania,"Artistai, live music pub"
-1164449979,2022-06-01,0.0,"","",Pierwsza Pomoc,Pilsner - Other,4.1,PINTA,Poland,Local Pub
-1164450071,2022-06-01,4.8,"Skaniai! Not thick,
-but still tastyy","",Gelato: Neapolitan Cake,Sour - Smoothie / Pastry,5.5,Funky Fluid,Poland,Local Pub
-1164450515,2022-06-01,4.5,Extremely sour:),"",Kwas Tau,Sour - Fruited,4.8,PINTA,Poland,Local Pub
-1164450736,2022-06-01,3.3,"","",Simkala APA,Pale Ale - American,5.3,Širvėnos bravoras,Lithuania,Savičiaus Špunka
-1164451193,2022-06-01,3.0,"",Molde,Duvel,Belgian Strong Golden Ale,8.5,Duvel Moortgat,Belgium,Brussels Mussels Centrum
-1164451276,2022-06-01,3.5,"",Molde,Westmalle Trappist Tripel,Belgian Tripel,9.5,Brouwerij der Trappisten van Westmalle,Belgium,Brussels Mussels Centrum
-1164451445,2022-06-01,3.8,"","",Peroni Original,Lager - Pale,4.7,Birra Peroni,Italy,Osteria da Luca
-1164452242,2022-06-01,4.3,"","",Burnt by the Sun,Sour - Fruited Gose,6.5,Funky Fluid,Poland,Nisha craft Capital
-1164452666,2022-06-01,4.0,"","",Midus Tradicinis,Mead - Other,13.0,Šušvės Midus,Lithuania,Lokys
-1164452854,2022-06-01,2.8,"",Minsk,Bistrampolio Dvaro Šviesusis/ Bistrampolio Dvaro Light,Lager - Pale,5.0,Aukštaitijos Bravorai,Lithuania,Etno Dvaras
-1164456914,2022-06-01,4.5,Очень мягкое и ароматное,"",Vilniaus IPA,IPA - English,6.3,Vilniaus Alus,Lithuania,Kamikadzė
-1164457554,2022-06-01,3.8,"Grynai avietė, bet apynių mažoka","",Gose With Raspberries,Sour - Fruited Gose,3.5,Sakiškės Brewery// Sakiškių Alus,Lithuania,Dūmų Fabrikas
-1164458388,2022-06-01,0.0,"","",Irish Red Nitro,Red Ale - Irish,4.3,O'Hara's Brewery ,Ireland,Local Pub
-1164458578,2022-06-01,2.8,"","",Marakešas,Wheat Beer - Hefeweizen,4.2,Kuro Aparatūra,Lithuania,Tava Merga
-1164458881,2022-06-01,4.0,Rauginti kopūstai,"",PASSION FRUIT SOUR ALE // RŪGŠTUSIS PASIFLORŲ ELIS,Sour - Fruited Berliner Weisse,3.5,Sakiškės Brewery// Sakiškių Alus,Lithuania,Dūmų Fabrikas
-1164460025,2022-06-01,3.0,"","",Balta Pinta,Wheat Beer - Hefeweizen,5.0,Volfas Engelman,Lithuania,Hilton Garden Inn
-1164460437,2022-06-01,4.0,"","",Salus,Spiced / Herbed Beer,3.6,Panevėžio Alus,Lithuania,Alaus Biblioteka
-1164460762,2022-06-01,3.5,Lemonade 🍑🍒,"",Burnt by the Sun,Sour - Fruited Gose,6.5,Funky Fluid,Poland,Nisha craft Capital
-1164461023,2022-06-01,4.0,"","",Helles Schlenkerla Lagerbier,Lager - Helles,4.3,"Schlenkerla (""Heller-Bräu"" Trum)",Germany,Alaus Biblioteka
-1164461296,2022-06-01,4.0,"Bokas sildantis alus, vietoj maisto skirtas pasnikui.","",Apricot Bock,Bock - Single / Traditional,6.7,Sakiškės Brewery// Sakiškių Alus,Lithuania,Dūmų Fabrikas
-1164461378,2022-06-01,3.5,"","",Proginis,Lager - Pale,5.2,Rinkuškiai,Lithuania,Šnekutis
-1164461856,2022-06-01,3.8,"","",Gose With Raspberries,Sour - Fruited Gose,3.5,Sakiškės Brewery// Sakiškių Alus,Lithuania,Alaus Biblioteka
-1164462077,2022-06-01,4.8,"","",Pina Colada,Sour - Other,6.2,Sakiškės Brewery// Sakiškių Alus,Lithuania,Dūmų Fabrikas
-1164462403,2022-06-01,4.0,"","",Tripel Karmeliet,Belgian Tripel,8.4,Brouwerij Bosteels,Belgium,Brussels Mussels Centrum
-1164462927,2022-06-01,3.8,"","",1 OF 2: Gin Inspired Sour Ale,Sour - Other,7.2,Funky Fluid,Poland,Local Pub
-1164463690,2022-06-01,3.5,"","",Fruits Strike,Sour - Fruited,7.9,Browar Nepomucen,Poland,Local Pub
-1164463754,2022-06-01,2.3,too many tastes,"",Fruits Strike,Sour - Fruited,7.9,Browar Nepomucen,Poland,Local Pub
-1164465128,2022-06-01,3.0,"","",Blackcurrant Brut Ale,Bière de Champagne / Bière Brut,7.0,Sakiškės Brewery// Sakiškių Alus,Lithuania,Dūmų Fabrikas
-1164466130,2022-06-01,3.3,"","",Cherry Stout,Stout - Pastry,7.2,Sakiškės Brewery// Sakiškių Alus,Lithuania,Dūmų Fabrikas
-1164467731,2022-06-01,3.8,"","",Brooklyn Lager,Lager - Vienna,5.2,Brooklyn Brewery,United States,Piano Man Bar
-1164467809,2022-06-01,4.0,"",Minsk,Bocmano Ūsai (Bosun’s Moustache),IPA - American,6.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Bar Bukowski
-1164468679,2022-06-01,2.8,"",Minsk,Bukowskio Ašara,Lager - Pale,5.0,Švyturys,Lithuania,Bar Bukowski
-1164469406,2022-06-01,3.5,"","",White Lie / Baltas Melas,Wheat Beer - Witbier / Blanche,4.2,Genys Brewing Co.,Lithuania,Šnekutis
-1164471465,2022-06-01,4.5,"","",Gone Camping (Cellar Series),Stout - Imperial / Double,11.5,Põhjala,Estonia,Alaus Biblioteka
-1164473318,2022-06-01,2.5,"","",Ayinger Altbairisch Dunkel,Lager - Munich Dunkel,5.0,Ayinger Privatbrauerei,Germany,Alaus Biblioteka
-1164474790,2022-06-01,4.5,Special!,"",Moralité,IPA - American,6.9,Brasserie Dieu du Ciel!,Canada,Nisha craft Capital
-1164477097,2022-06-01,3.0,"","",Horn Disel Pilsner,Pilsner - Other,4.6,Volfas Engelman,Lithuania,Spartuko zajabys kebabai
-1164481688,2022-06-01,3.0,"","",Kriek,Lambic - Kriek,5.1,Belle-Vue,Belgium,Alaus Biblioteka
-1164481848,2022-06-01,4.5,"",Vilnius,Independence!,IPA - Session,5.0,Browar Nepomucen,Poland,Local Pub
-1164482553,2022-06-01,4.3,"",Vilnius,Hazy Discovery Berlin,IPA - Imperial / Double,8.5,PINTA,Poland,Local Pub
-1164483831,2022-06-01,3.3,"","",Stella Artois,Pilsner - Other,5.0,Stella Artois,Belgium,Piano Man Bar
-1164484082,2022-06-01,2.8,"","","Hoegaarden Wit / Blanche 0,0 %",Non-Alcoholic Beer,0.0,Brouwerij Hoegaarden,Belgium,Brussels Mussels Centrum
-1164485948,2022-06-01,4.0,"","",Dūda 2021,IPA - International,5.6,Širvėnos bravoras,Lithuania,Šnekutis
-1164486230,2022-06-01,4.0,"",Minsk,Two Liberties / Dvi Laisvės,IPA - American,6.0,Genys Brewing Co.,Lithuania,Šnekutis
-1164486240,2022-06-01,4.0,"","","Hazy IPA Hop Showcase #08 Strata",IPA - New England / Hazy,6.1,The Garden Brewery,Croatia,Nisha craft Capital
-1164487397,2022-06-01,4.0,"","",Raitas Baitas,Gruit / Ancient Herbed Ale,5.5,Panevėžio Alus,Lithuania,Šnekutis
-1164487715,2022-06-01,4.0,"",Minsk,Dūda 2021,IPA - International,5.6,Širvėnos bravoras,Lithuania,Šnekutis
-1164489126,2022-06-01,4.8,"",Minsk,Raitas Baitas,Gruit / Ancient Herbed Ale,5.5,Panevėžio Alus,Lithuania,Šnekutis
-1164489157,2022-06-01,3.8,"","",Two Liberties / Dvi Laisvės,IPA - American,6.0,Genys Brewing Co.,Lithuania,Šnekutis
-1164489243,2022-06-01,3.5,"","",Ta Moins Forte,IPA - Session,3.8,Lagabière,Canada,Nisha craft Capital
-1164490002,2022-06-01,5.0,Огонь,"",Dūda 2021,IPA - International,5.6,Širvėnos bravoras,Lithuania,Etmonų Špunka
-1164503099,2022-06-01,3.3,"","",Peroni Original,Lager - Pale,4.7,Birra Peroni,Italy,Laiko Ratas
-1164503311,2022-06-01,3.5,"","",Pilsner Urquell,Pilsner - Czech,4.4,Plzeňský Prazdroj,Czech Republic,Laiko Ratas
-1164504882,2022-06-01,0.0,"","",100% Cryo,IPA - New England / Hazy,6.6,Browar Nepomucen,Poland,manoalus.lt
-1164505063,2022-06-01,4.0,"","",Earth,Sour - Smoothie / Pastry,7.7,Browar Nepomucen,Poland,manoalus.lt
-1164508137,2022-06-01,3.5,"",Minsk,Salus,Spiced / Herbed Beer,3.6,Panevėžio Alus,Lithuania,Bar Pahonia
-1164510434,2022-06-01,3.3,"","",Senolių Senovinis,Farmhouse Ale - Other,6.0,Su Puta,Lithuania,Alaus Biblioteka
-1164512469,2022-06-01,4.3,"",Minsk,Ji,Farmhouse Ale - Saison,6.0,Panevėžio Alus,Lithuania,Bar Pahonia
-1164519321,2022-06-01,3.5,"","",Hoegaarden Wit / Blanche,Wheat Beer - Witbier / Blanche,4.9,Brouwerij Hoegaarden,Belgium,Gringo Pub
-1164519656,2022-06-01,4.0,Ką aš žinau. Geras. Skanus. Balansuotas gerai. Yra apynio pakankamai. Ko gi bereikia. Badge sutvarkytas. Smagu. Supportinam.,Vilnius. Lithuania.,Soriukas,Pilsner - Other,4.6,Panevėžio Alus,Lithuania,Ukrainos Skveras
-1164520102,2022-06-01,4.5,"","",Grove,IPA - Sour,6.0,Browar Nepomucen,Poland,manoalus.lt
-1164531291,2022-06-01,3.0,"","",Tamsusis Elis,Dark Ale,5.9,Gubernija,Lithuania,Alaus Biblioteka
-1164532399,2022-06-01,3.5,"",Minsk,Hop House 13 Lager,Lager - Pale,4.1,Guinness,Ireland,Peronas
-1164533459,2022-06-01,3.3,"","",Salus 2022,Kölsch,4.2,Panevėžio Alus,Lithuania,Alaus Biblioteka
-1164548233,2022-06-02,4.5,"Wow. Netikėtai geras. Ir kaina juokinga. Minkštas, švelnus, pievos, medus, bananas. Afigienai.",Vilnius. Lithuania.,Ayinger Bräuweisse,Wheat Beer - Hefeweizen,5.1,Ayinger Privatbrauerei,Germany,Black Banana
-1164641086,2022-06-02,4.0,"",Vilnius,Cuvée Clarisse,Belgian Strong Dark Ale,9.2,Brouwerij Wilderen,Belgium,Bernardinų kapinės
-1164641420,2022-06-02,3.3,"",Molde,Baltas (White),Wheat Beer - Hefeweizen,5.0,Švyturys,Lithuania,Who Hit John
-1164642277,2022-06-02,3.5,"","",Mango Milkshake,Pale Ale - American,5.2,Alaus Darykla Apynys,Lithuania,Šnekutis
-1164645267,2022-06-02,3.5,"","",Raitas Baitas,Gruit / Ancient Herbed Ale,5.5,Panevėžio Alus,Lithuania,Šnekutis
-1164648333,2022-06-02,3.0,"","",Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
-1164652086,2022-06-02,3.3,"","",Organic Tattoo Lager,Lager - Pale,4.0,Genys Brewing Co.,Lithuania,Šnekutis
-1164659082,2022-06-02,2.5,"","",Kalnapilis Original,Lager - Pale,5.0,Kalnapilis Brewery,Lithuania,rimi express
-1164659257,2022-06-02,4.0,"","",Koyte Poyte,Pale Ale - Belgian,5.4,Širvėnos bravoras,Lithuania,Beer House
-1164663326,2022-06-02,3.5,"",Vilnius,O'Hara's Leann Folláin,Stout - Foreign / Export,6.0,O'Hara's Brewery ,Ireland,Local Pub
-1164665767,2022-06-02,4.5,"",Vilnius,Wet Hop IPA,IPA - American,6.8,PINTA,Poland,Local Pub
-1164668940,2022-06-02,3.5,"","",Baltijos,Märzen,5.8,Švyturys,Lithuania,Vingio Parko Estrada
-1164669705,2022-06-02,4.0,"","",Grimbergen Dubbel,Belgian Dubbel,6.5,Brouwerij Alken-Maes,Belgium,Čili Pica
-1164670669,2022-06-02,3.8,"","",Juodas IPA,IPA - Black / Cascadian Dark Ale,5.6,Panevėžio Alus,Lithuania,Beer House
-1164670812,2022-06-02,4.3,"",Vilnius,Ghost of Kyiv Double Power,IPA - New England / Hazy,7.2,Sakiškės Brewery// Sakiškių Alus,Lithuania,Nisha craft Capital
-1164671209,2022-06-02,3.8,"","",Sixth Month / Šeštas Mėnuo,Pale Ale - Milkshake,3.5,Genys Brewing Co.,Lithuania,Piano Man Bar
-1164675952,2022-06-02,4.8,"",Vilnius,Amelia,Mead - Melomel,14.0,Schramm's Mead,United States,Nisha craft Capital
-1164678085,2022-06-02,3.5,"","Vilnius, Lithuania",Wet Hop IPA,IPA - American,6.8,PINTA,Poland,Local Pub
-1164678171,2022-06-02,4.0,"",LTU,Burnt by the Sun,Sour - Fruited Gose,6.5,Funky Fluid,Poland,Nisha craft Capital
-1164679974,2022-06-02,3.5,"",Vilnius,Meesterstuk (2018),Belgian Quadrupel,11.1,Jopen,Netherlands,Nisha craft Capital
-1164683126,2022-06-02,3.0,"","",Modelo Negra,Lager - Munich Dunkel,5.4,Grupo Modelo,Mexico,El Gato Negro
-1164687650,2022-06-02,3.8,"","",Applehoff Imperial,Sour - Other,8.9,Anderson's Craft Beer,Estonia,Nisha craft Capital
-1164688199,2022-06-02,3.0,"","",Finisterae,Wheat Beer - Witbier / Blanche,5.0,Finisterrae,Italy,Nisha craft Capital
-1164688386,2022-06-02,4.3,"","",Californication / Kalifornikacija,Pale Ale - American,4.5,Genys Brewing Co.,Lithuania,Brodvėjus pub'as
-1164688577,2022-06-02,4.3,"","",Hop House 13 Lager,Lager - Pale,4.1,Guinness,Ireland,Peronas
-1164688679,2022-06-02,4.3,"Great pilsner! Check for new #beercap #NFT soon at
-https://opensea.io/collection/beercaps",Vilnius,Soriukas,Pilsner - Other,4.6,Panevėžio Alus,Lithuania,Šnekutis
-1164688977,2022-06-02,3.5,"","",Organic Tattoo Lager,Lager - Pale,4.0,Genys Brewing Co.,Lithuania,Nisha craft Capital
-1164690784,2022-06-02,3.5,"","",Pale Ale,Pale Ale - American,5.6,Sierra Nevada Brewing Co.,United States,Baltojo Tilto Skateparkas
-1164690959,2022-06-02,4.8,"",Vilnius,O'Hara's Irish Red,Red Ale - Irish,4.3,O'Hara's Brewery ,Ireland,Local Pub
-1164691898,2022-06-02,4.0,"Beautiful smell, ancient taste","",Blidegarian,Stout - Imperial / Double,9.0,Brasserie de Blaugies,Belgium,Nisha craft Capital
-1164692958,2022-06-02,4.0,"","",Meesterstuk (2018),Belgian Quadrupel,11.1,Jopen,Netherlands,Nisha craft Capital
-1164693465,2022-06-02,4.0,"","",Burst,IPA - American,5.9,Mikkeller,Denmark,Nisha craft Capital
-1164694598,2022-06-02,3.5,"","",Bėganti Kopa (Running Dune),Wheat Beer - Witbier / Blanche,4.5,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Užupio Picerija
-1164696432,2022-06-02,3.3,Lacks balance,Vilnius,Plakta Vasarele,Sour - Fruited,7.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Perono Parkas
-1164697968,2022-06-02,4.3,"","Vilnius, Lithuania",Hazy Discovery Berlin,IPA - Imperial / Double,8.5,PINTA,Poland,Local Pub
-1164699331,2022-06-02,4.0,Хлеб,"",Straight From the Farm,IPA - Imperial / Double New England / Hazy,8.2,Maltgarden,Poland,Nisha craft Capital
-1164699543,2022-06-02,2.5,"","",Alte - Berliner Jahrgangs Weisse,Märzen,6.0,Schneeeule,Germany,Nisha craft Capital
-1164702834,2022-06-02,3.8,"","",Tinginio Pantis - Obuolių,Cider - Traditional / Apfelwein,4.5,MV Group Production AB,Lithuania,Užupio Picerija
-1164703471,2022-06-02,2.5,"","",Sauna Session®️,Spiced / Herbed Beer,4.7,Tanker Brewery,Estonia,Local Pub
-1164704255,2022-06-02,3.8,Ссабойка з аэрапорта ў Осла,"",Moipa,IPA - American,4.6,Hunsfos Bryggeri,Norway,Burger Street Perkūnkiemis
-1164705930,2022-06-02,4.0,"","",The Silence of the Lambs,IPA - English,6.1,Bear and Boar,Lithuania,Šnekutis
-1164706078,2022-06-02,4.0,IPA in Vilnius,"",Californication / Kalifornikacija,Pale Ale - American,4.5,Genys Brewing Co.,Lithuania,Bon Chop
-1164706274,2022-06-02,3.0,"","",Visionary IPA / Vizionieriaus IPA,IPA - American,5.2,Genys Brewing Co.,Lithuania,Bon Chop
-1164706765,2022-06-02,3.8,"","",Plakta Vasarele,Sour - Fruited,7.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Peronas
-1164706848,2022-06-02,4.5,"","",Ghost of Kyiv Double Power,IPA - New England / Hazy,7.2,Sakiškės Brewery// Sakiškių Alus,Lithuania,Nisha craft Capital
-1164707138,2022-06-02,4.0,"","",Direktørens Porter,Porter - English,6.5,Hunsfos Bryggeri,Norway,Burger street
-1164707682,2022-06-02,1.8,"","",Burst,IPA - American,5.9,Mikkeller,Denmark,Nisha craft Capital
-1164709556,2022-06-02,4.3,"","",Mur: Piersik,Sour - Fruited Berliner Weisse,3.0,Malanka,Belarus,Viva Sushi
-1164709836,2022-06-02,3.5,"","Vilnius, Lithuania",Independence!,IPA - Session,5.0,Browar Nepomucen,Poland,Local Pub
-1164711739,2022-06-02,3.3,"","",Tradiciškas,Lager - Pale,6.0,Volfas Engelman,Lithuania,Lazdynu rajonas
-1164713319,2022-06-02,3.8,"","",Anarkist New England IPA,IPA - New England / Hazy,5.4,Theodor Schiøtz Brewing Company,Denmark,Kitas Krantas
-1164717268,2022-06-02,4.0,"","",Independence!,IPA - Session,5.0,Browar Nepomucen,Poland,Local Pub
-1164717983,2022-06-02,4.0,"","",Kvietinis,Wheat Beer - Hefeweizen,5.0,Vilniaus Alus,Lithuania,Šnekutis
-1164718114,2022-06-02,3.3,"","",Californication / Kalifornikacija,Pale Ale - American,4.5,Genys Brewing Co.,Lithuania,Bon Chop
-1164720051,2022-06-02,4.3,"","",Stargazer,IPA - Imperial / Double,8.3,Varvar Brew,Ukraine,Nisha craft Capital
-1164720887,2022-06-02,3.3,"","Vilnius, Lithuania",The Alchemist,IPA - American,6.4,Brokreacja,Poland,Local Pub
-1164723706,2022-06-02,2.8,"","",Organic Tattoo Lager,Lager - Pale,4.0,Genys Brewing Co.,Lithuania,Nisha craft Capital
-1164724302,2022-06-02,4.5,"","",Murphy's Irish Stout,Stout - Irish Dry,4.0,Heineken Ireland,Ireland,Bromas
-1164725628,2022-06-02,3.5,"",Minsk,Kwas Tau,Sour - Fruited,4.8,PINTA,Poland,Local Pub
-1164727821,2022-06-02,3.5,"","",IPA,IPA - American,6.2,Lagunitas Brewing Company,United States,Hilton Garden Inn
-1164730454,2022-06-02,3.5,"","",Lengvas Vasaros,Lager - Pale,4.8,Vilniaus Alus,Lithuania,PANK’olis Quadrum
-1164730746,2022-06-02,2.5,"","",Marakešas,Wheat Beer - Hefeweizen,4.2,Kuro Aparatūra,Lithuania,Tava Merga
-1164731034,2022-06-02,4.5,"","",Pramień: Cuvée 2020,Farmhouse Ale - Saison,6.9,Malanka,Belarus,Viva Pizza
-1164731558,2022-06-02,4.3,"","",Vir: Kalina,Wild Ale - Other,6.9,Malanka,Belarus,Sushi Sushi
-1164732668,2022-06-02,4.0,"",Riga,Averbode,Belgian Strong Golden Ale,7.5,Huisbrouwerij Averbode,Belgium,René
-1164733830,2022-06-02,4.0,"",Vilnius,Green Monster IPA,IPA - American,6.3,Green Monster Brewery,Lithuania,Šnekutis
-1164734600,2022-06-02,5.0,"","",Barrel Aged Blonde - Port Charlotte (2017),Belgian Strong Golden Ale,12.0,Brouwerij Hof ten Dormaal,Belgium,Nisha craft Capital
-1164735740,2022-06-02,3.3,"","",Kalnapilis 7•30,Lager - Strong,7.3,Kalnapilis Brewery,Lithuania,Hilton Garden Inn
-1164736650,2022-06-02,3.8,"","",Grand Select,Lager - Pale,5.4,Kalnapilis Brewery,Lithuania,Grill London
-1164738430,2022-06-02,3.8,Yesterday. Delicious.,Lithuania (most of the time),Porter Baltique,Porter - Imperial / Double Baltic,10.0,LTM - Les Trois Mousquetaires,Canada,Nisha craft Capital
-1164738862,2022-06-02,4.0,Super tasty. Great example. Great name.,Lithuania (most of the time),Ghost of Kyiv Double Power,IPA - New England / Hazy,7.2,Sakiškės Brewery// Sakiškių Alus,Lithuania,Nisha craft Capital
-1164739089,2022-06-02,3.5,Good cider.,Lithuania (most of the time),Bruts 2021,Cider - Dry,5.8,Abuls Sidra Darītava,Latvia,Nisha craft Capital
-1164739373,2022-06-02,4.0,Perfect.,Lithuania (most of the time),Burnt by the Sun,Sour - Fruited Gose,6.5,Funky Fluid,Poland,Nisha craft Capital
 1164740275,2022-06-02,3.5,Delicious.,Lithuania (most of the time),Tripel,Belgian Tripel,8.0,Brouwerij St.Bernardus,Belgium,Local Pub
 1164741456,2022-06-02,3.5,"","",Kanapių Semi-Pale Beer,Spiced / Herbed Beer,5.0,Aukštaitijos Bravorai,Lithuania,seat&eat
 1164744220,2022-06-02,3.3,"","",Californication / Kalifornikacija,Pale Ale - American,4.5,Genys Brewing Co.,Lithuania,Tava Merga
@@ -2827,3 +2659,171 @@ No beer flava","",Plakta Vasarėlė,Pale Ale - Milkshake,5.3,Brick by Brick (Rau
 1174596676,2022-06-30,4.0,"",Minsk,Elvis Juice,IPA - American,6.5,BrewDog,Scotland,Dyvai Baras
 1174596987,2022-06-30,3.8,"","",Finisterrae,Wheat Beer - Hefeweizen,5.0,Birrificio Italiano,Italy,Nisha craft Capital
 1174608205,2022-06-30,4.0,"Хуй пойми, ещё дешечка и стаут","",Nigredo,Schwarzbier,6.5,Birrificio Italiano,Italy,Nisha craft Capital
+1164360198,2022-06-01,1.5,"","",Plakta Vasarele,Sour - Fruited,7.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Bar Bukowski
+1164415234,2022-06-01,1.8,"",Vilnius,Eichbaum HefeWeizen Alkoholfrei,Non-Alcoholic Beer,0.9,Privatbrauerei Eichbaum,Germany,Geras Garas
+1164418196,2022-06-01,3.8,А не бяды. Вельмі лёгкі лагерок з далікатным дымам.,"",Smoked Schwarzbier,Lager - Dark,4.7,Sakiškės Brewery// Sakiškių Alus,Lithuania,Kelio ABC Vairavimo mokykla/ Driving school
+1164423033,2022-06-01,3.0,"","",American IPA,IPA - American,6.0,Vilniaus Alus,Lithuania,MEATing ROOM
+1164423692,2022-06-01,3.3,"","",Baltas (White),Wheat Beer - Hefeweizen,5.0,Švyturys,Lithuania,Etno Dvaras
+1164424247,2022-06-01,2.8,"","",Varniukų Tamsus,Dark Ale,5.6,Davra Alaus Darykla,Lithuania,Etno Dvaras
+1164425007,2022-06-01,3.0,"","",Bistrampolio Dvaro Šviesusis/ Bistrampolio Dvaro Light,Lager - Pale,5.0,Aukštaitijos Bravorai,Lithuania,Etno Dvaras
+1164425445,2022-06-01,3.0,"","",Kvietinis,Wheat Beer - Hefeweizen,5.0,Vilniaus Alus,Lithuania,MEATing ROOM
+1164426355,2022-06-01,4.3,"",LTU,ART43 Imperial Pastry Stout Dark Chocolate Carmelized Almonds Nitro,Stout - Imperial / Double Pastry,10.5,Browar Stu Mostów,Poland,Nisha craft Capital
+1164431073,2022-06-01,4.0,"","",Stakliškės,Mead - Metheglin,12.0,Lietuviškas Midus,Lithuania,Aline Leičiai
+1164431404,2022-06-01,3.8,"","",Ta Moins Forte,IPA - Session,3.8,Lagabière,Canada,Nisha craft Capital
+1164432953,2022-06-01,3.8,"","",Trakai,Mead - Other,15.0,Lietuviškas Midus,Lithuania,Aline Leičiai
+1164433228,2022-06-01,4.3,"","",Doomsday Device,IPA - Imperial / Double New England / Hazy,8.3,Drekker Brewing Company,United States,Nisha craft Capital
+1164433833,2022-06-01,4.0,"","",Ghost of Kyiv Double Power,IPA - New England / Hazy,7.2,Sakiškės Brewery// Sakiškių Alus,Lithuania,Nisha craft Capital
+1164435654,2022-06-01,4.3,"","",Dusty,Pale Ale - New England / Hazy,6.0,More Brewing Company,United States,Nisha craft Capital
+1164437021,2022-06-01,3.0,"","",Galvė,Pale Ale - International,5.0,Pilialaukis,Lithuania,City Chef
+1164437029,2022-06-01,3.3,"","",Moralité,IPA - American,6.9,Brasserie Dieu du Ciel!,Canada,Nisha craft Capital
+1164437405,2022-06-01,4.3,"","",Ghost of Kyiv Double Power,IPA - New England / Hazy,7.2,Sakiškės Brewery// Sakiškių Alus,Lithuania,Nisha craft Capital
+1164437908,2022-06-01,4.0,"","",Stargazer,IPA - Imperial / Double,8.3,Varvar Brew,Ukraine,Nisha craft Capital
+1164439249,2022-06-01,3.5,"","",IPA,IPA - English,8.0,Alinė Leičiai,Lithuania,Aline Leičiai
+1164440074,2022-06-01,4.0,"","",Moralité,IPA - American,6.9,Brasserie Dieu du Ciel!,Canada,Nisha craft Capital
+1164442627,2022-06-01,3.8,"","",Niaukas 2,IPA - Imperial / Double,7.0,Genys Brewing Co.,Lithuania,Nisha craft Capital
+1164443058,2022-06-01,3.8,"","",Applehoff Imperial,Sour - Other,8.9,Anderson's Craft Beer,Estonia,Nisha craft Capital
+1164443874,2022-06-01,3.0,"",Minsk,Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Etno Dvaras
+1164445705,2022-06-01,3.8,"","",Stargazer,IPA - Imperial / Double,8.3,Varvar Brew,Ukraine,Nisha craft Capital
+1164446185,2022-06-01,3.8,"","",Kurkas,Dark Ale,4.9,Panevėžio Alus,Lithuania,Lokys
+1164446276,2022-06-01,3.8,"","",Applehoff Imperial,Sour - Other,8.9,Anderson's Craft Beer,Estonia,Nisha craft Capital
+1164448123,2022-06-01,4.0,"","",Californication / Kalifornikacija,Pale Ale - American,4.5,Genys Brewing Co.,Lithuania,Dock
+1164449934,2022-06-01,3.5,"","",Varniukų Tamsus,Dark Ale,5.6,Davra Alaus Darykla,Lithuania,"Artistai, live music pub"
+1164449979,2022-06-01,0.0,"","",Pierwsza Pomoc,Pilsner - Other,4.1,PINTA,Poland,Local Pub
+1164450071,2022-06-01,4.8,"Skaniai! Not thick,
+but still tastyy","",Gelato: Neapolitan Cake,Sour - Smoothie / Pastry,5.5,Funky Fluid,Poland,Local Pub
+1164450515,2022-06-01,4.5,Extremely sour:),"",Kwas Tau,Sour - Fruited,4.8,PINTA,Poland,Local Pub
+1164450736,2022-06-01,3.3,"","",Simkala APA,Pale Ale - American,5.3,Širvėnos bravoras,Lithuania,Savičiaus Špunka
+1164451193,2022-06-01,3.0,"",Molde,Duvel,Belgian Strong Golden Ale,8.5,Duvel Moortgat,Belgium,Brussels Mussels Centrum
+1164451276,2022-06-01,3.5,"",Molde,Westmalle Trappist Tripel,Belgian Tripel,9.5,Brouwerij der Trappisten van Westmalle,Belgium,Brussels Mussels Centrum
+1164451445,2022-06-01,3.8,"","",Peroni Original,Lager - Pale,4.7,Birra Peroni,Italy,Osteria da Luca
+1164452242,2022-06-01,4.3,"","",Burnt by the Sun,Sour - Fruited Gose,6.5,Funky Fluid,Poland,Nisha craft Capital
+1164452666,2022-06-01,4.0,"","",Midus Tradicinis,Mead - Other,13.0,Šušvės Midus,Lithuania,Lokys
+1164452854,2022-06-01,2.8,"",Minsk,Bistrampolio Dvaro Šviesusis/ Bistrampolio Dvaro Light,Lager - Pale,5.0,Aukštaitijos Bravorai,Lithuania,Etno Dvaras
+1164456914,2022-06-01,4.5,Очень мягкое и ароматное,"",Vilniaus IPA,IPA - English,6.3,Vilniaus Alus,Lithuania,Kamikadzė
+1164457554,2022-06-01,3.8,"Grynai avietė, bet apynių mažoka","",Gose With Raspberries,Sour - Fruited Gose,3.5,Sakiškės Brewery// Sakiškių Alus,Lithuania,Dūmų Fabrikas
+1164458388,2022-06-01,0.0,"","",Irish Red Nitro,Red Ale - Irish,4.3,O'Hara's Brewery ,Ireland,Local Pub
+1164458578,2022-06-01,2.8,"","",Marakešas,Wheat Beer - Hefeweizen,4.2,Kuro Aparatūra,Lithuania,Tava Merga
+1164458881,2022-06-01,4.0,Rauginti kopūstai,"",PASSION FRUIT SOUR ALE // RŪGŠTUSIS PASIFLORŲ ELIS,Sour - Fruited Berliner Weisse,3.5,Sakiškės Brewery// Sakiškių Alus,Lithuania,Dūmų Fabrikas
+1164460025,2022-06-01,3.0,"","",Balta Pinta,Wheat Beer - Hefeweizen,5.0,Volfas Engelman,Lithuania,Hilton Garden Inn
+1164460437,2022-06-01,4.0,"","",Salus,Spiced / Herbed Beer,3.6,Panevėžio Alus,Lithuania,Alaus Biblioteka
+1164460762,2022-06-01,3.5,Lemonade 🍑🍒,"",Burnt by the Sun,Sour - Fruited Gose,6.5,Funky Fluid,Poland,Nisha craft Capital
+1164461023,2022-06-01,4.0,"","",Helles Schlenkerla Lagerbier,Lager - Helles,4.3,"Schlenkerla (""Heller-Bräu"" Trum)",Germany,Alaus Biblioteka
+1164461296,2022-06-01,4.0,"Bokas sildantis alus, vietoj maisto skirtas pasnikui.","",Apricot Bock,Bock - Single / Traditional,6.7,Sakiškės Brewery// Sakiškių Alus,Lithuania,Dūmų Fabrikas
+1164461378,2022-06-01,3.5,"","",Proginis,Lager - Pale,5.2,Rinkuškiai,Lithuania,Šnekutis
+1164461856,2022-06-01,3.8,"","",Gose With Raspberries,Sour - Fruited Gose,3.5,Sakiškės Brewery// Sakiškių Alus,Lithuania,Alaus Biblioteka
+1164462077,2022-06-01,4.8,"","",Pina Colada,Sour - Other,6.2,Sakiškės Brewery// Sakiškių Alus,Lithuania,Dūmų Fabrikas
+1164462403,2022-06-01,4.0,"","",Tripel Karmeliet,Belgian Tripel,8.4,Brouwerij Bosteels,Belgium,Brussels Mussels Centrum
+1164462927,2022-06-01,3.8,"","",1 OF 2: Gin Inspired Sour Ale,Sour - Other,7.2,Funky Fluid,Poland,Local Pub
+1164463690,2022-06-01,3.5,"","",Fruits Strike,Sour - Fruited,7.9,Browar Nepomucen,Poland,Local Pub
+1164463754,2022-06-01,2.3,too many tastes,"",Fruits Strike,Sour - Fruited,7.9,Browar Nepomucen,Poland,Local Pub
+1164465128,2022-06-01,3.0,"","",Blackcurrant Brut Ale,Bière de Champagne / Bière Brut,7.0,Sakiškės Brewery// Sakiškių Alus,Lithuania,Dūmų Fabrikas
+1164466130,2022-06-01,3.3,"","",Cherry Stout,Stout - Pastry,7.2,Sakiškės Brewery// Sakiškių Alus,Lithuania,Dūmų Fabrikas
+1164467731,2022-06-01,3.8,"","",Brooklyn Lager,Lager - Vienna,5.2,Brooklyn Brewery,United States,Piano Man Bar
+1164467809,2022-06-01,4.0,"",Minsk,Bocmano Ūsai (Bosun’s Moustache),IPA - American,6.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Bar Bukowski
+1164468679,2022-06-01,2.8,"",Minsk,Bukowskio Ašara,Lager - Pale,5.0,Švyturys,Lithuania,Bar Bukowski
+1164469406,2022-06-01,3.5,"","",White Lie / Baltas Melas,Wheat Beer - Witbier / Blanche,4.2,Genys Brewing Co.,Lithuania,Šnekutis
+1164471465,2022-06-01,4.5,"","",Gone Camping (Cellar Series),Stout - Imperial / Double,11.5,Põhjala,Estonia,Alaus Biblioteka
+1164473318,2022-06-01,2.5,"","",Ayinger Altbairisch Dunkel,Lager - Munich Dunkel,5.0,Ayinger Privatbrauerei,Germany,Alaus Biblioteka
+1164474790,2022-06-01,4.5,Special!,"",Moralité,IPA - American,6.9,Brasserie Dieu du Ciel!,Canada,Nisha craft Capital
+1164477097,2022-06-01,3.0,"","",Horn Disel Pilsner,Pilsner - Other,4.6,Volfas Engelman,Lithuania,Spartuko zajabys kebabai
+1164481688,2022-06-01,3.0,"","",Kriek,Lambic - Kriek,5.1,Belle-Vue,Belgium,Alaus Biblioteka
+1164481848,2022-06-01,4.5,"",Vilnius,Independence!,IPA - Session,5.0,Browar Nepomucen,Poland,Local Pub
+1164482553,2022-06-01,4.3,"",Vilnius,Hazy Discovery Berlin,IPA - Imperial / Double,8.5,PINTA,Poland,Local Pub
+1164483831,2022-06-01,3.3,"","",Stella Artois,Pilsner - Other,5.0,Stella Artois,Belgium,Piano Man Bar
+1164484082,2022-06-01,2.8,"","","Hoegaarden Wit / Blanche 0,0 %",Non-Alcoholic Beer,0.0,Brouwerij Hoegaarden,Belgium,Brussels Mussels Centrum
+1164485948,2022-06-01,4.0,"","",Dūda 2021,IPA - International,5.6,Širvėnos bravoras,Lithuania,Šnekutis
+1164486230,2022-06-01,4.0,"",Minsk,Two Liberties / Dvi Laisvės,IPA - American,6.0,Genys Brewing Co.,Lithuania,Šnekutis
+1164486240,2022-06-01,4.0,"","","Hazy IPA Hop Showcase #08 Strata",IPA - New England / Hazy,6.1,The Garden Brewery,Croatia,Nisha craft Capital
+1164487397,2022-06-01,4.0,"","",Raitas Baitas,Gruit / Ancient Herbed Ale,5.5,Panevėžio Alus,Lithuania,Šnekutis
+1164487715,2022-06-01,4.0,"",Minsk,Dūda 2021,IPA - International,5.6,Širvėnos bravoras,Lithuania,Šnekutis
+1164489126,2022-06-01,4.8,"",Minsk,Raitas Baitas,Gruit / Ancient Herbed Ale,5.5,Panevėžio Alus,Lithuania,Šnekutis
+1164489157,2022-06-01,3.8,"","",Two Liberties / Dvi Laisvės,IPA - American,6.0,Genys Brewing Co.,Lithuania,Šnekutis
+1164489243,2022-06-01,3.5,"","",Ta Moins Forte,IPA - Session,3.8,Lagabière,Canada,Nisha craft Capital
+1164490002,2022-06-01,5.0,Огонь,"",Dūda 2021,IPA - International,5.6,Širvėnos bravoras,Lithuania,Etmonų Špunka
+1164503099,2022-06-01,3.3,"","",Peroni Original,Lager - Pale,4.7,Birra Peroni,Italy,Laiko Ratas
+1164503311,2022-06-01,3.5,"","",Pilsner Urquell,Pilsner - Czech,4.4,Plzeňský Prazdroj,Czech Republic,Laiko Ratas
+1164504882,2022-06-01,0.0,"","",100% Cryo,IPA - New England / Hazy,6.6,Browar Nepomucen,Poland,manoalus.lt
+1164505063,2022-06-01,4.0,"","",Earth,Sour - Smoothie / Pastry,7.7,Browar Nepomucen,Poland,manoalus.lt
+1164508137,2022-06-01,3.5,"",Minsk,Salus,Spiced / Herbed Beer,3.6,Panevėžio Alus,Lithuania,Bar Pahonia
+1164510434,2022-06-01,3.3,"","",Senolių Senovinis,Farmhouse Ale - Other,6.0,Su Puta,Lithuania,Alaus Biblioteka
+1164512469,2022-06-01,4.3,"",Minsk,Ji,Farmhouse Ale - Saison,6.0,Panevėžio Alus,Lithuania,Bar Pahonia
+1164519321,2022-06-01,3.5,"","",Hoegaarden Wit / Blanche,Wheat Beer - Witbier / Blanche,4.9,Brouwerij Hoegaarden,Belgium,Gringo Pub
+1164519656,2022-06-01,4.0,Ką aš žinau. Geras. Skanus. Balansuotas gerai. Yra apynio pakankamai. Ko gi bereikia. Badge sutvarkytas. Smagu. Supportinam.,Vilnius. Lithuania.,Soriukas,Pilsner - Other,4.6,Panevėžio Alus,Lithuania,Ukrainos Skveras
+1164520102,2022-06-01,4.5,"","",Grove,IPA - Sour,6.0,Browar Nepomucen,Poland,manoalus.lt
+1164531291,2022-06-01,3.0,"","",Tamsusis Elis,Dark Ale,5.9,Gubernija,Lithuania,Alaus Biblioteka
+1164532399,2022-06-01,3.5,"",Minsk,Hop House 13 Lager,Lager - Pale,4.1,Guinness,Ireland,Peronas
+1164533459,2022-06-01,3.3,"","",Salus 2022,Kölsch,4.2,Panevėžio Alus,Lithuania,Alaus Biblioteka
+1164548233,2022-06-02,4.5,"Wow. Netikėtai geras. Ir kaina juokinga. Minkštas, švelnus, pievos, medus, bananas. Afigienai.",Vilnius. Lithuania.,Ayinger Bräuweisse,Wheat Beer - Hefeweizen,5.1,Ayinger Privatbrauerei,Germany,Black Banana
+1164641086,2022-06-02,4.0,"",Vilnius,Cuvée Clarisse,Belgian Strong Dark Ale,9.2,Brouwerij Wilderen,Belgium,Bernardinų kapinės
+1164641420,2022-06-02,3.3,"",Molde,Baltas (White),Wheat Beer - Hefeweizen,5.0,Švyturys,Lithuania,Who Hit John
+1164642277,2022-06-02,3.5,"","",Mango Milkshake,Pale Ale - American,5.2,Alaus Darykla Apynys,Lithuania,Šnekutis
+1164645267,2022-06-02,3.5,"","",Raitas Baitas,Gruit / Ancient Herbed Ale,5.5,Panevėžio Alus,Lithuania,Šnekutis
+1164648333,2022-06-02,3.0,"","",Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1164652086,2022-06-02,3.3,"","",Organic Tattoo Lager,Lager - Pale,4.0,Genys Brewing Co.,Lithuania,Šnekutis
+1164659082,2022-06-02,2.5,"","",Kalnapilis Original,Lager - Pale,5.0,Kalnapilis Brewery,Lithuania,rimi express
+1164659257,2022-06-02,4.0,"","",Koyte Poyte,Pale Ale - Belgian,5.4,Širvėnos bravoras,Lithuania,Beer House
+1164663326,2022-06-02,3.5,"",Vilnius,O'Hara's Leann Folláin,Stout - Foreign / Export,6.0,O'Hara's Brewery ,Ireland,Local Pub
+1164665767,2022-06-02,4.5,"",Vilnius,Wet Hop IPA,IPA - American,6.8,PINTA,Poland,Local Pub
+1164668940,2022-06-02,3.5,"","",Baltijos,Märzen,5.8,Švyturys,Lithuania,Vingio Parko Estrada
+1164669705,2022-06-02,4.0,"","",Grimbergen Dubbel,Belgian Dubbel,6.5,Brouwerij Alken-Maes,Belgium,Čili Pica
+1164670669,2022-06-02,3.8,"","",Juodas IPA,IPA - Black / Cascadian Dark Ale,5.6,Panevėžio Alus,Lithuania,Beer House
+1164670812,2022-06-02,4.3,"",Vilnius,Ghost of Kyiv Double Power,IPA - New England / Hazy,7.2,Sakiškės Brewery// Sakiškių Alus,Lithuania,Nisha craft Capital
+1164671209,2022-06-02,3.8,"","",Sixth Month / Šeštas Mėnuo,Pale Ale - Milkshake,3.5,Genys Brewing Co.,Lithuania,Piano Man Bar
+1164675952,2022-06-02,4.8,"",Vilnius,Amelia,Mead - Melomel,14.0,Schramm's Mead,United States,Nisha craft Capital
+1164678085,2022-06-02,3.5,"","Vilnius, Lithuania",Wet Hop IPA,IPA - American,6.8,PINTA,Poland,Local Pub
+1164678171,2022-06-02,4.0,"",LTU,Burnt by the Sun,Sour - Fruited Gose,6.5,Funky Fluid,Poland,Nisha craft Capital
+1164679974,2022-06-02,3.5,"",Vilnius,Meesterstuk (2018),Belgian Quadrupel,11.1,Jopen,Netherlands,Nisha craft Capital
+1164683126,2022-06-02,3.0,"","",Modelo Negra,Lager - Munich Dunkel,5.4,Grupo Modelo,Mexico,El Gato Negro
+1164687650,2022-06-02,3.8,"","",Applehoff Imperial,Sour - Other,8.9,Anderson's Craft Beer,Estonia,Nisha craft Capital
+1164688199,2022-06-02,3.0,"","",Finisterae,Wheat Beer - Witbier / Blanche,5.0,Finisterrae,Italy,Nisha craft Capital
+1164688386,2022-06-02,4.3,"","",Californication / Kalifornikacija,Pale Ale - American,4.5,Genys Brewing Co.,Lithuania,Brodvėjus pub'as
+1164688577,2022-06-02,4.3,"","",Hop House 13 Lager,Lager - Pale,4.1,Guinness,Ireland,Peronas
+1164688679,2022-06-02,4.3,"Great pilsner! Check for new #beercap #NFT soon at
+https://opensea.io/collection/beercaps",Vilnius,Soriukas,Pilsner - Other,4.6,Panevėžio Alus,Lithuania,Šnekutis
+1164688977,2022-06-02,3.5,"","",Organic Tattoo Lager,Lager - Pale,4.0,Genys Brewing Co.,Lithuania,Nisha craft Capital
+1164690784,2022-06-02,3.5,"","",Pale Ale,Pale Ale - American,5.6,Sierra Nevada Brewing Co.,United States,Baltojo Tilto Skateparkas
+1164690959,2022-06-02,4.8,"",Vilnius,O'Hara's Irish Red,Red Ale - Irish,4.3,O'Hara's Brewery ,Ireland,Local Pub
+1164691898,2022-06-02,4.0,"Beautiful smell, ancient taste","",Blidegarian,Stout - Imperial / Double,9.0,Brasserie de Blaugies,Belgium,Nisha craft Capital
+1164692958,2022-06-02,4.0,"","",Meesterstuk (2018),Belgian Quadrupel,11.1,Jopen,Netherlands,Nisha craft Capital
+1164693465,2022-06-02,4.0,"","",Burst,IPA - American,5.9,Mikkeller,Denmark,Nisha craft Capital
+1164694598,2022-06-02,3.5,"","",Bėganti Kopa (Running Dune),Wheat Beer - Witbier / Blanche,4.5,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Užupio Picerija
+1164696432,2022-06-02,3.3,Lacks balance,Vilnius,Plakta Vasarele,Sour - Fruited,7.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Perono Parkas
+1164697968,2022-06-02,4.3,"","Vilnius, Lithuania",Hazy Discovery Berlin,IPA - Imperial / Double,8.5,PINTA,Poland,Local Pub
+1164699331,2022-06-02,4.0,Хлеб,"",Straight From the Farm,IPA - Imperial / Double New England / Hazy,8.2,Maltgarden,Poland,Nisha craft Capital
+1164699543,2022-06-02,2.5,"","",Alte - Berliner Jahrgangs Weisse,Märzen,6.0,Schneeeule,Germany,Nisha craft Capital
+1164702834,2022-06-02,3.8,"","",Tinginio Pantis - Obuolių,Cider - Traditional / Apfelwein,4.5,MV Group Production AB,Lithuania,Užupio Picerija
+1164703471,2022-06-02,2.5,"","",Sauna Session®️,Spiced / Herbed Beer,4.7,Tanker Brewery,Estonia,Local Pub
+1164704255,2022-06-02,3.8,Ссабойка з аэрапорта ў Осла,"",Moipa,IPA - American,4.6,Hunsfos Bryggeri,Norway,Burger Street Perkūnkiemis
+1164705930,2022-06-02,4.0,"","",The Silence of the Lambs,IPA - English,6.1,Bear and Boar,Lithuania,Šnekutis
+1164706078,2022-06-02,4.0,IPA in Vilnius,"",Californication / Kalifornikacija,Pale Ale - American,4.5,Genys Brewing Co.,Lithuania,Bon Chop
+1164706274,2022-06-02,3.0,"","",Visionary IPA / Vizionieriaus IPA,IPA - American,5.2,Genys Brewing Co.,Lithuania,Bon Chop
+1164706765,2022-06-02,3.8,"","",Plakta Vasarele,Sour - Fruited,7.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Peronas
+1164706848,2022-06-02,4.5,"","",Ghost of Kyiv Double Power,IPA - New England / Hazy,7.2,Sakiškės Brewery// Sakiškių Alus,Lithuania,Nisha craft Capital
+1164707138,2022-06-02,4.0,"","",Direktørens Porter,Porter - English,6.5,Hunsfos Bryggeri,Norway,Burger street
+1164707682,2022-06-02,1.8,"","",Burst,IPA - American,5.9,Mikkeller,Denmark,Nisha craft Capital
+1164709556,2022-06-02,4.3,"","",Mur: Piersik,Sour - Fruited Berliner Weisse,3.0,Malanka,Belarus,Viva Sushi
+1164709836,2022-06-02,3.5,"","Vilnius, Lithuania",Independence!,IPA - Session,5.0,Browar Nepomucen,Poland,Local Pub
+1164711739,2022-06-02,3.3,"","",Tradiciškas,Lager - Pale,6.0,Volfas Engelman,Lithuania,Lazdynu rajonas
+1164713319,2022-06-02,3.8,"","",Anarkist New England IPA,IPA - New England / Hazy,5.4,Theodor Schiøtz Brewing Company,Denmark,Kitas Krantas
+1164717268,2022-06-02,4.0,"","",Independence!,IPA - Session,5.0,Browar Nepomucen,Poland,Local Pub
+1164717983,2022-06-02,4.0,"","",Kvietinis,Wheat Beer - Hefeweizen,5.0,Vilniaus Alus,Lithuania,Šnekutis
+1164718114,2022-06-02,3.3,"","",Californication / Kalifornikacija,Pale Ale - American,4.5,Genys Brewing Co.,Lithuania,Bon Chop
+1164720051,2022-06-02,4.3,"","",Stargazer,IPA - Imperial / Double,8.3,Varvar Brew,Ukraine,Nisha craft Capital
+1164720887,2022-06-02,3.3,"","Vilnius, Lithuania",The Alchemist,IPA - American,6.4,Brokreacja,Poland,Local Pub
+1164723706,2022-06-02,2.8,"","",Organic Tattoo Lager,Lager - Pale,4.0,Genys Brewing Co.,Lithuania,Nisha craft Capital
+1164724302,2022-06-02,4.5,"","",Murphy's Irish Stout,Stout - Irish Dry,4.0,Heineken Ireland,Ireland,Bromas
+1164725628,2022-06-02,3.5,"",Minsk,Kwas Tau,Sour - Fruited,4.8,PINTA,Poland,Local Pub
+1164727821,2022-06-02,3.5,"","",IPA,IPA - American,6.2,Lagunitas Brewing Company,United States,Hilton Garden Inn
+1164730454,2022-06-02,3.5,"","",Lengvas Vasaros,Lager - Pale,4.8,Vilniaus Alus,Lithuania,PANK’olis Quadrum
+1164730746,2022-06-02,2.5,"","",Marakešas,Wheat Beer - Hefeweizen,4.2,Kuro Aparatūra,Lithuania,Tava Merga
+1164731034,2022-06-02,4.5,"","",Pramień: Cuvée 2020,Farmhouse Ale - Saison,6.9,Malanka,Belarus,Viva Pizza
+1164731558,2022-06-02,4.3,"","",Vir: Kalina,Wild Ale - Other,6.9,Malanka,Belarus,Sushi Sushi
+1164732668,2022-06-02,4.0,"",Riga,Averbode,Belgian Strong Golden Ale,7.5,Huisbrouwerij Averbode,Belgium,René
+1164733830,2022-06-02,4.0,"",Vilnius,Green Monster IPA,IPA - American,6.3,Green Monster Brewery,Lithuania,Šnekutis
+1164734600,2022-06-02,5.0,"","",Barrel Aged Blonde - Port Charlotte (2017),Belgian Strong Golden Ale,12.0,Brouwerij Hof ten Dormaal,Belgium,Nisha craft Capital
+1164735740,2022-06-02,3.3,"","",Kalnapilis 7•30,Lager - Strong,7.3,Kalnapilis Brewery,Lithuania,Hilton Garden Inn
+1164736650,2022-06-02,3.8,"","",Grand Select,Lager - Pale,5.4,Kalnapilis Brewery,Lithuania,Grill London
+1164738430,2022-06-02,3.8,Yesterday. Delicious.,Lithuania (most of the time),Porter Baltique,Porter - Imperial / Double Baltic,10.0,LTM - Les Trois Mousquetaires,Canada,Nisha craft Capital
+1164738862,2022-06-02,4.0,Super tasty. Great example. Great name.,Lithuania (most of the time),Ghost of Kyiv Double Power,IPA - New England / Hazy,7.2,Sakiškės Brewery// Sakiškių Alus,Lithuania,Nisha craft Capital
+1164739089,2022-06-02,3.5,Good cider.,Lithuania (most of the time),Bruts 2021,Cider - Dry,5.8,Abuls Sidra Darītava,Latvia,Nisha craft Capital
+1164739373,2022-06-02,4.0,Perfect.,Lithuania (most of the time),Burnt by the Sun,Sour - Fruited Gose,6.5,Funky Fluid,Poland,Nisha craft Capital
